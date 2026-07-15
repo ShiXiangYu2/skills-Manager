@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be1fd11b-bb5c-4d9c-b4fb-198db539d0e2",
+  "path": "sumeru-write",
+  "path_key": "sumeru-write",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

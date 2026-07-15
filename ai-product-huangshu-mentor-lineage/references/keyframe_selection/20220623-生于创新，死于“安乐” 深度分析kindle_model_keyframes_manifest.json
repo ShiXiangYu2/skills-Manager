@@ -1,0 +1,19 @@
+{
+  "media": "20220623-生于创新，死于“安乐” 深度分析kindle",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220623-生于创新，死于“安乐” 深度分析kindle.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\20220623-生于创新，死于“安乐” 深度分析kindle",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220623-生于创新，死于“安乐” 深度分析kindle",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (showing speaker without key teaching artifacts) or contain low-information visual content. No clear slides, boards, diagrams, or significant visual state changes are present to meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20220623-生于创新，死于“安乐” 深度分析kindle\\20220623-生于创新，死于“安乐” 深度分析kindle_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "media": "20260614-50分钟完整版：我vibe coding的思路和",
+  "video_path": "D:\\视频下载\\张咋啦\\20260614-50分钟完整版：我vibe coding的思路和.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 25,
+  "candidate_dir": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和",
+  "selected_count": 9,
+  "selected_dir": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Opening slide with personal narrative and core theme, sets course context and establishes speaker's background.",
+      "keywords": [
+        "personal narrative",
+        "course intro",
+        "motivation"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Clear slide listing three core reasons for using HTML, with distinct visual sections and concise text — key teaching artifact.",
+      "keywords": [
+        "HTML",
+        "teaching artifact",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Demonstrates design concept with visual metaphor ('Build the Thing First') and code snippet, useful for explaining design-then-code workflow.",
+      "keywords": [
+        "design workflow",
+        "visual metaphor",
+        "code snippet"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Slide with actionable list for preventing design slop, includes bullet points and UI components — practical teaching content.",
+      "keywords": [
+        "design principles",
+        "checklist",
+        "UI components"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0005.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0005.jpg"
+    },
+    {
+      "frame": "frame_0011.jpg",
+      "timestamp": "20:00",
+      "reason": "Screenshot of a real web tool (X.Bookmark Resurfacer) with interface elements, demonstrates practical application mentioned in lecture.",
+      "keywords": [
+        "tool demo",
+        "interface",
+        "browser extension"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0011.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0011.jpg"
+    },
+    {
+      "frame": "frame_0018.jpg",
+      "timestamp": "34:00",
+      "reason": "Slide with interactive prompt and arrow navigating text — highlights key decision-making in design process, useful for UX explanation.",
+      "keywords": [
+        "interactive design",
+        "decision flow",
+        "visual state"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0018.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0018.jpg"
+    },
+    {
+      "frame": "frame_0019.jpg",
+      "timestamp": "36:00",
+      "reason": "Slide with three pillars of 'BUILD SOMETHING SMALL' — clear, structured teaching artifact for project methodology.",
+      "keywords": [
+        "project methodology",
+        "teaching slide",
+        "design principles"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0019.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0019.jpg"
+    },
+    {
+      "frame": "frame_0024.jpg",
+      "timestamp": "46:00",
+      "reason": "Important conclusion slide summarizing the evolution of coding as a skill with quote — strong takeaway for course distillation.",
+      "keywords": [
+        "course conclusion",
+        "coding evolution",
+        "quote"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0024.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0024.jpg"
+    },
+    {
+      "frame": "frame_0025.jpg",
+      "timestamp": "48:00",
+      "reason": "This frame captures a complete slide with a key conceptual definition: 'VIBE CODING IS A FORM OF SELF-EXPRESSION', accompanied by supporting text and a visual design that emphasizes the message. The slide is visually clear and contains core teaching content that stands out from adjacent frames. It serves as strong evidence for distillation, explanation, or review of the topic.",
+      "keywords": [
+        "vibe coding",
+        "self-expression",
+        "slide",
+        "concept",
+        "definition"
+      ],
+      "candidate_source": "keyframe_candidates\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0025.jpg",
+      "selected_path": "keyframes_model_selected\\20260614-50分钟完整版：我vibe coding的思路和\\frame_0025.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Opening slide with personal narrative and core theme, sets course context and establishes speaker's background.",
+          "keywords": [
+            "personal narrative",
+            "course intro",
+            "motivation"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "04:00",
+          "reason": "Clear slide listing three core reasons for using HTML, with distinct visual sections and concise text — key teaching artifact.",
+          "keywords": [
+            "HTML",
+            "teaching artifact",
+            "slide"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "06:00",
+          "reason": "Demonstrates design concept with visual metaphor ('Build the Thing First') and code snippet, useful for explaining design-then-code workflow.",
+          "keywords": [
+            "design workflow",
+            "visual metaphor",
+            "code snippet"
+          ]
+        },
+        {
+          "frame": "frame_0005.jpg",
+          "timestamp": "08:00",
+          "reason": "Slide with actionable list for preventing design slop, includes bullet points and UI components — practical teaching content.",
+          "keywords": [
+            "design principles",
+            "checklist",
+            "UI components"
+          ]
+        },
+        {
+          "frame": "frame_0011.jpg",
+          "timestamp": "20:00",
+          "reason": "Screenshot of a real web tool (X.Bookmark Resurfacer) with interface elements, demonstrates practical application mentioned in lecture.",
+          "keywords": [
+            "tool demo",
+            "interface",
+            "browser extension"
+          ]
+        },
+        {
+          "frame": "frame_0018.jpg",
+          "timestamp": "34:00",
+          "reason": "Slide with interactive prompt and arrow navigating text — highlights key decision-making in design process, useful for UX explanation.",
+          "keywords": [
+            "interactive design",
+            "decision flow",
+            "visual state"
+          ]
+        },
+        {
+          "frame": "frame_0019.jpg",
+          "timestamp": "36:00",
+          "reason": "Slide with three pillars of 'BUILD SOMETHING SMALL' — clear, structured teaching artifact for project methodology.",
+          "keywords": [
+            "project methodology",
+            "teaching slide",
+            "design principles"
+          ]
+        },
+        {
+          "frame": "frame_0024.jpg",
+          "timestamp": "46:00",
+          "reason": "Important conclusion slide summarizing the evolution of coding as a skill with quote — strong takeaway for course distillation.",
+          "keywords": [
+            "course conclusion",
+            "coding evolution",
+            "quote"
+          ]
+        }
+      ],
+      "dropped_summary": "Dropped frames included lecturer-only shots, blank or low-information frames, slides with minimal text, duplicated content, or UI states without key teaching elements. Many frames showed intermediate states, browser navigation, or introductory material without novel content.",
+      "sheet": "keyframe_selection\\sheets\\20260614-50分钟完整版：我vibe coding的思路和\\20260614-50分钟完整版：我vibe coding的思路和_sheet_01.jpg",
+      "success": true,
+      "error": null
+    },
+    {
+      "selected": [
+        {
+          "frame": "frame_0025.jpg",
+          "timestamp": "48:00",
+          "reason": "This frame captures a complete slide with a key conceptual definition: 'VIBE CODING IS A FORM OF SELF-EXPRESSION', accompanied by supporting text and a visual design that emphasizes the message. The slide is visually clear and contains core teaching content that stands out from adjacent frames. It serves as strong evidence for distillation, explanation, or review of the topic.",
+          "keywords": [
+            "vibe coding",
+            "self-expression",
+            "slide",
+            "concept",
+            "definition"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames likely contain lecturer-only views, blank or blurred visuals, or low-information content without visible artifacts such as slides, diagrams, or code. Since only one frame is provided, it is preserved if it meets criteria; no other frames are available for assessment or comparison.",
+      "sheet": "keyframe_selection\\sheets\\20260614-50分钟完整版：我vibe coding的思路和\\20260614-50分钟完整版：我vibe coding的思路和_sheet_02.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

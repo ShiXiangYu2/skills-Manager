@@ -1,0 +1,93 @@
+{
+  "media": "20250526-一个提示词Claude 4出3000行，iOS界",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250526-一个提示词Claude 4出3000行，iOS界.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear UI design mockup of the '高考听霸APP' with distinct user interface elements and layout, useful for reviewing product design.",
+      "keywords": [
+        "UI",
+        "design",
+        "product",
+        "mockup"
+      ],
+      "candidate_source": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a detailed product specification document with clear headings and bullet points, including product positioning and core features, key for understanding the product's architecture.",
+      "keywords": [
+        "document",
+        "specification",
+        "product",
+        "features"
+      ],
+      "candidate_source": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Shows a high-quality UI design specification document with clear sections and text, useful for source-backed verification of design details.",
+      "keywords": [
+        "UI",
+        "document",
+        "design",
+        "specification"
+      ],
+      "candidate_source": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a clear UI design mockup of the '高考听霸APP' with distinct user interface elements and layout, useful for reviewing product design.",
+          "keywords": [
+            "UI",
+            "design",
+            "product",
+            "mockup"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Displays a detailed product specification document with clear headings and bullet points, including product positioning and core features, key for understanding the product's architecture.",
+          "keywords": [
+            "document",
+            "specification",
+            "product",
+            "features"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Shows a high-quality UI design specification document with clear sections and text, useful for source-backed verification of design details.",
+          "keywords": [
+            "UI",
+            "document",
+            "design",
+            "specification"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames are either duplicate, blurred, or show only the lecturer without clear teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20250526-一个提示词Claude 4出3000行，iOS界\\20250526-一个提示词Claude 4出3000行，iOS界_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

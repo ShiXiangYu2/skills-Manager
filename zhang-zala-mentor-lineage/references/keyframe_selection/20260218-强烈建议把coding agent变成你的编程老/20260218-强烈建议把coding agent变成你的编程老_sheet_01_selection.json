@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the initial teaching artifact: a chat interface demonstrating service dialogues with key text '服务之间怎么「对话」' and relevant examples, which sets the context for the lesson. It captures a complete and clear view of the learning material.",
+      "keywords": [
+        "service communication",
+        "chat interface",
+        "dialogue example"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a clear teaching artifact: a structured explanation of monthly fees with a defined range ($21–$31) and related text, which is a material change from the previous frame and provides concrete data for understanding the topic.",
+      "keywords": [
+        "monthly fee",
+        "cost breakdown",
+        "pricing"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are not present in the provided contact sheet; only two frames were shown. Both were selected as they represent distinct and informative teaching artifacts. No duplicates, blanks, or low-information frames were observed.",
+  "sheet": "keyframe_selection\\sheets\\20260218-强烈建议把coding agent变成你的编程老\\20260218-强烈建议把coding agent变成你的编程老_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,43 @@
+{
+  "media": "20260118-输入成瘾是因为不敢输出，学习是一种懒惰",
+  "video_path": "D:\\视频下载\\张咋啦\\20260118-输入成瘾是因为不敢输出，学习是一种懒惰.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260118-输入成瘾是因为不敢输出，学习是一种懒惰",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260118-输入成瘾是因为不敢输出，学习是一种懒惰",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear teaching artifact with three distinct action choices ('Build', 'Use', 'Watch') and accompanying subtitle text providing context, making it useful for explaining the concept being taught.",
+      "keywords": [
+        "teaching artifact",
+        "action choices",
+        "subtitle"
+      ],
+      "candidate_source": "keyframe_candidates\\20260118-输入成瘾是因为不敢输出，学习是一种懒惰\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260118-输入成瘾是因为不敢输出，学习是一种懒惰\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear teaching artifact with three distinct action choices ('Build', 'Use', 'Watch') and accompanying subtitle text providing context, making it useful for explaining the concept being taught.",
+          "keywords": [
+            "teaching artifact",
+            "action choices",
+            "subtitle"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for evaluation; this frame is the only candidate and meets the criteria as a clear, complete visual teaching element with associated context.",
+      "sheet": "keyframe_selection\\sheets\\20260118-输入成瘾是因为不敢输出，学习是一种懒惰\\20260118-输入成瘾是因为不敢输出，学习是一种懒惰_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

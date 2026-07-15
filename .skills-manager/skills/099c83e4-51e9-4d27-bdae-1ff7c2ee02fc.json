@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "099c83e4-51e9-4d27-bdae-1ff7c2ee02fc",
+  "path": "novel-studio",
+  "path_key": "novel-studio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

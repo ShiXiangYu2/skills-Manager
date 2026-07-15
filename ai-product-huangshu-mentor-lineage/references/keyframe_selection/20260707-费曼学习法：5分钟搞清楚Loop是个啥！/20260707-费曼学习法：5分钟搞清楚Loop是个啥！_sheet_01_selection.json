@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a complete slide titled 'Goal 模式带来的转变' with clear visual elements and key points, useful for explaining the concept of goal-oriented transformation.",
+      "keywords": [
+        "slide",
+        "concept",
+        "visual"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Captures a clear, complete slide titled '一个好的 Goal 在管理五件事' with a checklist, essential for teaching what a good goal should include.",
+      "keywords": [
+        "slide",
+        "checklist",
+        "teaching"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Displays a clear slide titled '四种 Loop, 直接套用' with diagrams and annotations, useful for explaining loop structures in goal management.",
+      "keywords": [
+        "slide",
+        "diagram",
+        "loop"
+      ]
+    }
+  ],
+  "dropped_summary": "No frames were dropped as all three frames are valuable teaching artifacts, each capturing a complete and clear slide or visual state.",
+  "sheet": "keyframe_selection\\sheets\\20260707-费曼学习法：5分钟搞清楚Loop是个啥！\\20260707-费曼学习法：5分钟搞清楚Loop是个啥！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

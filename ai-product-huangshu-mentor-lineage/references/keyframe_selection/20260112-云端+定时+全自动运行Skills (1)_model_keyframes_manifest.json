@@ -1,0 +1,19 @@
+{
+  "media": "20260112-云端+定时+全自动运行Skills (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260112-云端+定时+全自动运行Skills (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260112-云端+定时+全自动运行Skills (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260112-云端+定时+全自动运行Skills (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is blank or low-information with no teaching artifact visible, and no visual state change or key content to preserve.",
+      "sheet": "keyframe_selection\\sheets\\20260112-云端+定时+全自动运行Skills (1)\\20260112-云端+定时+全自动运行Skills (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

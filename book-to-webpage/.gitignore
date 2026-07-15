@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.kb/
+book_skill_work/
+.DS_Store

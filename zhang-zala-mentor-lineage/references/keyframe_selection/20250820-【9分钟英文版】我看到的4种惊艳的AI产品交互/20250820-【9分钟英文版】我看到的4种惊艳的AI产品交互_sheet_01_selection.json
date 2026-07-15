@@ -1,0 +1,49 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the core topic of the video with a clear title and visible example of an AI product interface, providing context for the entire segment.",
+      "keywords": [
+        "AI product interaction",
+        "non-chat",
+        "introduction"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a distinct UI example for content consumption, with a clear view of the interface layout and specific features, which is a key teaching artifact.",
+      "keywords": [
+        "content consumption",
+        "UI",
+        "interface"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Demonstrates the 'Create Snip' feature with a clear visual of the mobile app interface and the specific function being highlighted, which is a unique and important interactive element.",
+      "keywords": [
+        "Create Snip",
+        "mobile UI",
+        "feature demonstration"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Presents a different type of AI interaction via social media/newsletter platforms, offering a distinct category of examples for comparison and analysis.",
+      "keywords": [
+        "social media",
+        "newsletters",
+        "X",
+        "AI interaction"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames are duplicates, show similar or less informative views of the same content, or lack distinct visual artifacts. The frames do not contain material changes or complete teaching elements beyond what is captured in the selected frames.",
+  "sheet": "keyframe_selection\\sheets\\20250820-【9分钟英文版】我看到的4种惊艳的AI产品交互\\20250820-【9分钟英文版】我看到的4种惊艳的AI产品交互_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

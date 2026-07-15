@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the initial state of the ChatGPT interface, showing the search bar and key options, which is a clear starting point for the demonstration.",
+      "keywords": [
+        "UI",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows a clear, focused view of the system's settings panel with toggles, crucial for explaining configuration options.",
+      "keywords": [
+        "UI",
+        "settings",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Displays a detailed document about OpenAI's Atlas with clear text and a visual diagram of the team structure, which is a key teaching artifact.",
+      "keywords": [
+        "document",
+        "diagram",
+        "formula",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either show blurred content, lecturer-only views, or low-information states that don't materially contribute to the teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20251022-Atlas浏览器：不为人知的设计奥秘\\20251022-Atlas浏览器：不为人知的设计奥秘_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

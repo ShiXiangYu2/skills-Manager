@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame shows a clear, complete slide with a title and three key points, serving as a teaching artifact. It introduces the core concepts of the lesson and is the first instance of the content, making it foundational for distillation.",
+      "keywords": [
+        "slide",
+        "title",
+        "teaching artifact",
+        "course intro"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "This frame captures the same slide content as frame_0001 but with a new subtitle overlay ('因为它很有可能转发你'), indicating a shift in the lecturer's explanation. It provides context for how the slide content is being taught, adding instructional depth.",
+      "keywords": [
+        "slide",
+        "subtitle",
+        "teaching context",
+        "clarification"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames are blank, blurred, or duplicates of the initial frames. The visual content does not change significantly beyond the two selected frames, and no new diagrams, UIs, or material teaching artifacts appear. The lecturer-only segments and low-information visuals are dropped as per criteria.",
+  "sheet": "keyframe_selection\\sheets\\20251128-如何把twitter变成AI资讯和学习平台\\20251128-如何把twitter变成AI资讯和学习平台_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

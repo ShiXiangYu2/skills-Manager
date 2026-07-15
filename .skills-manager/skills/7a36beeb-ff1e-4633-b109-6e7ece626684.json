@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a36beeb-ff1e-4633-b109-6e7ece626684",
+  "path": "spark-video-episode",
+  "path_key": "spark-video-episode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20231026-AI+佛经，只要14000元？你会买么？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20231026-AI+佛经，只要14000元？你会买么？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20231026-AI+佛经，只要14000元？你会买么？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20231026-AI+佛经，只要14000元？你会买么？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame appears to be an introductory or promotional graphic with minimal instructional content, lacking a clear teaching artifact or visual state change. It is not a slide, diagram, or formula, and does not meet selection criteria for preserving as evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20231026-AI+佛经，只要14000元？你会买么？\\20231026-AI+佛经，只要14000元？你会买么？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

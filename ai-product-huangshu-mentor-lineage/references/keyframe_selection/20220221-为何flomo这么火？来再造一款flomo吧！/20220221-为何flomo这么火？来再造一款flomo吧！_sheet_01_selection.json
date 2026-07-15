@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the initial state of the whiteboard with key product design points and the lecturer's gesture, providing context for the discussion.",
+      "keywords": [
+        "whiteboard",
+        "product_design",
+        "intro"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows a clearer, more complete view of the whiteboard content, including the product design workflow with specific steps, which is crucial for understanding the teaching artifact.",
+      "keywords": [
+        "whiteboard",
+        "product_design",
+        "workflow"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Captures a distinct visual state change with the addition of a new section on '融资' (funding), making it a key teaching artifact for the topic transition.",
+      "keywords": [
+        "whiteboard",
+        "funding",
+        "state_change"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either duplicated content from nearby frames, showed only the lecturer without clear teaching artifacts, or were too low-information to be useful.",
+  "sheet": "keyframe_selection\\sheets\\20220221-为何flomo这么火？来再造一款flomo吧！\\20220221-为何flomo这么火？来再造一款flomo吧！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

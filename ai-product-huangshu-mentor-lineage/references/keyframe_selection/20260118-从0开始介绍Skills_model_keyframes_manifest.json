@@ -1,0 +1,131 @@
+{
+  "media": "20260118-从0开始介绍Skills",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260118-从0开始介绍Skills.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\20260118-从0开始介绍Skills",
+  "selected_count": 5,
+  "selected_dir": "keyframes_model_selected\\20260118-从0开始介绍Skills",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the initial slide introducing the topic and key concepts (why use Saiis, Dify), providing context for the lecture.",
+      "keywords": [
+        "slide",
+        "introduction",
+        "topic"
+      ],
+      "candidate_source": "keyframe_candidates\\20260118-从0开始介绍Skills\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260118-从0开始介绍Skills\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows the second slide with structured content headings, indicating section breaks and organizational structure of the lesson.",
+      "keywords": [
+        "slide",
+        "structure",
+        "outline"
+      ],
+      "candidate_source": "keyframe_candidates\\20260118-从0开始介绍Skills\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260118-从0开始介绍Skills\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a detailed code structure with highlighted project files and folder organization, essential for understanding the implementation.",
+      "keywords": [
+        "code",
+        "structure",
+        "project"
+      ],
+      "candidate_source": "keyframe_candidates\\20260118-从0开始介绍Skills\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260118-从0开始介绍Skills\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Features a table with comparison metrics (e.g., runtime, memory) which is a clear visual aid for evaluating different approaches.",
+      "keywords": [
+        "table",
+        "comparison",
+        "metrics"
+      ],
+      "candidate_source": "keyframe_candidates\\20260118-从0开始介绍Skills\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20260118-从0开始介绍Skills\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Shows a complete diagram of the 'Agent + Skills + Computer' architecture, which is central to the lesson's technical content.",
+      "keywords": [
+        "diagram",
+        "architecture",
+        "UI"
+      ],
+      "candidate_source": "keyframe_candidates\\20260118-从0开始介绍Skills\\frame_0005.jpg",
+      "selected_path": "keyframes_model_selected\\20260118-从0开始介绍Skills\\frame_0005.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays the initial slide introducing the topic and key concepts (why use Saiis, Dify), providing context for the lecture.",
+          "keywords": [
+            "slide",
+            "introduction",
+            "topic"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows the second slide with structured content headings, indicating section breaks and organizational structure of the lesson.",
+          "keywords": [
+            "slide",
+            "structure",
+            "outline"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04",
+          "reason": "Displays a detailed code structure with highlighted project files and folder organization, essential for understanding the implementation.",
+          "keywords": [
+            "code",
+            "structure",
+            "project"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "00:06",
+          "reason": "Features a table with comparison metrics (e.g., runtime, memory) which is a clear visual aid for evaluating different approaches.",
+          "keywords": [
+            "table",
+            "comparison",
+            "metrics"
+          ]
+        },
+        {
+          "frame": "frame_0005.jpg",
+          "timestamp": "00:08",
+          "reason": "Shows a complete diagram of the 'Agent + Skills + Computer' architecture, which is central to the lesson's technical content.",
+          "keywords": [
+            "diagram",
+            "architecture",
+            "UI"
+          ]
+        }
+      ],
+      "dropped_summary": "Dropped frames with lecturer-only content, duplicate frames, and low-information visual states that do not materially contribute to understanding the teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20260118-从0开始介绍Skills\\20260118-从0开始介绍Skills_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

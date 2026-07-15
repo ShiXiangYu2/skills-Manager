@@ -1,0 +1,89 @@
+{
+  "media": "BV1Wt7G6WEHn",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1Wt7G6WEHn\\20260626-群聊99+，两秒钟一键吃完今天的瓜.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\BV1Wt7G6WEHn",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\BV1Wt7G6WEHn",
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Displays a clear teaching artifact with a title '长线程任务Case' and supporting text about scheduling, indicating a concrete example or case study being presented. The visual is complete and informative for course distillation.",
+      "keywords": [
+        "long-term task",
+        "case study",
+        "scheduling"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1Wt7G6WEHn\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV1Wt7G6WEHn\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a clear slide with large text '公众号/视频号' and a search icon, presenting a key concept or feature of the topic. The text is legible and contextually significant for user engagement or platform features.",
+      "keywords": [
+        "public account",
+        "video channel",
+        "search"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1Wt7G6WEHn\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV1Wt7G6WEHn\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Presents a UI mockup with toggles and a central WeChat logo, visually demonstrating a specific functionality. The text '你就能很会说' adds contextual explanation, making it useful for verifying or teaching the feature.",
+      "keywords": [
+        "UI",
+        "WeChat",
+        "functionality",
+        "toggles"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1Wt7G6WEHn\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\BV1Wt7G6WEHn\\frame_0004.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:20",
+          "reason": "Displays a clear teaching artifact with a title '长线程任务Case' and supporting text about scheduling, indicating a concrete example or case study being presented. The visual is complete and informative for course distillation.",
+          "keywords": [
+            "long-term task",
+            "case study",
+            "scheduling"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:30",
+          "reason": "Shows a clear slide with large text '公众号/视频号' and a search icon, presenting a key concept or feature of the topic. The text is legible and contextually significant for user engagement or platform features.",
+          "keywords": [
+            "public account",
+            "video channel",
+            "search"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "00:40",
+          "reason": "Presents a UI mockup with toggles and a central WeChat logo, visually demonstrating a specific functionality. The text '你就能很会说' adds contextual explanation, making it useful for verifying or teaching the feature.",
+          "keywords": [
+            "UI",
+            "WeChat",
+            "functionality",
+            "toggles"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0001.jpg is dropped as it shows only the lecturer at their desk with no visible teaching artifact. The other frames are selected based on clear, complete, and contextually relevant visual teaching materials that meet the criteria for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\BV1Wt7G6WEHn\\BV1Wt7G6WEHn_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

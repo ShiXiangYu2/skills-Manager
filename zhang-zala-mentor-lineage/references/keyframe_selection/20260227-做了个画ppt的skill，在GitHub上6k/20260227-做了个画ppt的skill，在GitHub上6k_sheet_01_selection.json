@@ -1,0 +1,29 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the opening keynote slide with central theme 'Coding is evolving from a profession into a skill', setting the course context and providing a foundational teaching artifact.",
+      "keywords": [
+        "coding evolution",
+        "profession to skill",
+        "course introduction"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Presents a clear, complete slide titled 'Code as a Medium for Storytelling' with corresponding Chinese subtitle, capturing a key conceptual shift in the course narrative.",
+      "keywords": [
+        "code as medium",
+        "storytelling",
+        "conceptual shift",
+        "bilingual"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames not shown or not provided; based on visible frames, only two distinct teaching slides with clear, complete artifacts were identified. Any subsequent frames likely contain lecturer-only segments, transitions, or redundant content not meeting the criteria.",
+  "sheet": "keyframe_selection\\sheets\\20260227-做了个画ppt的skill，在GitHub上6k\\20260227-做了个画ppt的skill，在GitHub上6k_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,16 @@
+{
+  "full_text": "有人说AI都能写代码了。那我们普通人为什么还要学编程？最近吴文达在外C演讲里说，这是最糟糕的职业建议之一。编程可以成为每一个普通人的超能力说在他们团队里CFOHR甚至前台都会写代.Person, all of them new article, and actually see all of them performing better at all of their job functions, because you can.他们学编程并不是为了转码转成工程师，而是为了在他们本职工作里做的更好。比如说一个营销人掌握了编程之后，可以成为一个更好的营销人。他说AI时的一个优秀的人才，最重要的能力是告诉AI你想干什么，并且让他把他干出来的能力。 tell exactly每个人都需要具备指挥AI的能力，让AI成为自己的超能力。他还说，因为现在工程师的速度被AI提升了很多倍。产品经理反倒成为了瓶颈。以前一个典型的产品经理一个研发配比大概是1比61比7这样。但是他说他们团队最近有人建议把产研配比调成1比0.5，也就是产品比研发多。'm seeing literally yesterday one of my teams came to me the first time whenre planning project this proposed to me not at1 PM to four engineers, but that1 PM to 0.5 engineers本质上是因为我们验证和快速迭代产品的能力已经大幅提升了。所以现在的瓶颈反倒是发现和验证需求的能力。提到验证需求，他说他.常见的一个方法是去酒店大堂或者咖啡厅，然后直接抓陌生人给他们看产品原型，问他们的反馈他说为有了AI工具之后，做产品原型的度已经大幅提升了。你在原型阶段就可以拉着各种用户来收集反馈了，不需要等到上线之后再做AB测试。",
+  "segments": [
+    {
+      "start": 0,
+      "end": 118.31,
+      "text": "有人说AI都能写代码了。那我们普通人为什么还要学编程？最近吴文达在外C演讲里说，这是最糟糕的职业建议之一。编程可以成为每一个普通人的超能力说在他们团队里CFOHR甚至前台都会写代.Person, all of them new article, and actually see all of them performing better at all of their job functions, because you can.他们学编程并不是为了转码转成工程师，而是为了在他们本职工作里做的更好。比如说一个营销人掌握了编程之后，可以成为一个更好的营销人。他说AI时的一个优秀的人才，最重要的能力是告诉AI你想干什么，并且让他把他干出来的能力。 tell exactly每个人都需要具备指挥AI的能力，让AI成为自己的超能力。他还说，因为现在工程师的速度被AI提升了很多倍。产品经理反倒成为了瓶颈。以前一个典型的产品经理一个研发配比大概是1比61比7这样。但是他说他们团队最近有人建议把产研配比调成1比0.5，也就是产品比研发多。'm seeing literally yesterday one of my teams came to me the first time whenre planning project this proposed to me not at1 PM to four engineers, but that1 PM to 0.5 engineers本质上是因为我们验证和快速迭代产品的能力已经大幅提升了。所以现在的瓶颈反倒是发现和验证需求的能力。提到验证需求，他说他.常见的一个方法是去酒店大堂或者咖啡厅，然后直接抓陌生人给他们看产品原型，问他们的反馈他说为有了AI工具之后，做产品原型的度已经大幅提升了。你在原型阶段就可以拉着各种用户来收集反馈了，不需要等到上线之后再做AB测试。"
+    }
+  ],
+  "language": "zh",
+  "duration": 118.31,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "20250722-我的笔记：吴恩达在YC的演讲",
+  "video_path": "D:\\视频下载\\张咋啦\\20250722-我的笔记：吴恩达在YC的演讲.mp4",
+  "source_type": "video"
+}

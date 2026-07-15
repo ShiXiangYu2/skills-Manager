@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame contains a clear visual teaching artifact: a Venn diagram illustrating the intersection of roles (Product, Engineering, Design, Marketing, Sales) with an AI-enhanced version shown on the right, demonstrating how AI expands the product role's boundary. The diagram is complete and central to the lesson's concept, making it ideal for source-backed explanation and review.",
+      "keywords": [
+        "Venn diagram",
+        "AI expansion",
+        "roles",
+        "product development",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible or provided in this contact sheet. Only one frame is available, and it meets all selection criteria as it presents a complete, clear, and substantive visual teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20250803-职能之间的交叉点，才是AI带来最大的机会\\20250803-职能之间的交叉点，才是AI带来最大的机会_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

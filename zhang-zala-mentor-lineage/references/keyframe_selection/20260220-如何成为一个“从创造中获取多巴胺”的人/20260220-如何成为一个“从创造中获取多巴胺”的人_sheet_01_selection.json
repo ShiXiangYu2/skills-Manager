@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame presents a complete teaching artifact: a slide with structured text summarizing core concepts about dopamine acquisition through consumption vs. creation, including a key insight about time management and creating addictive habits. The content is clear, text-based, and foundational for course distillation.",
+      "keywords": [
+        "dopamine",
+        "creation",
+        "consumption",
+        "time management",
+        "slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are present in the contact sheet for evaluation. The single frame is highly informative and meets all selection criteria as a complete, clear, and source-backed teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20260220-如何成为一个“从创造中获取多巴胺”的人\\20260220-如何成为一个“从创造中获取多巴胺”的人_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

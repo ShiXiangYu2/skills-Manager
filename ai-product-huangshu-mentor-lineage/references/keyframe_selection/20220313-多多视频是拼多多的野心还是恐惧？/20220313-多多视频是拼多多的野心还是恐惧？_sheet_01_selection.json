@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the initial state of the whiteboard with key concepts like '拼多多的野心' and '产品设计', establishing the core topic.",
+      "keywords": [
+        "whiteboard",
+        "introduction",
+        "product design"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a clear visual state change as the lecturer begins to explain a point, with the subtitle '先给你一点甜头' indicating a transition in the teaching flow.",
+      "keywords": [
+        "visual change",
+        "subtitle",
+        "transition"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Captures the lecturer gesturing towards the whiteboard, reinforcing the visual content and indicating an active explanation phase.",
+      "keywords": [
+        "lecturer gesture",
+        "teaching moment",
+        "interaction"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were selected as they either lacked unique visual content, were introductory, or did not capture key teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20220313-多多视频是拼多多的野心还是恐惧？\\20220313-多多视频是拼多多的野心还是恐惧？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

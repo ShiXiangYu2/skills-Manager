@@ -1,0 +1,977 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <style>
+    :root {
+      --ink: #171411;
+      --muted: #6d6258;
+      --paper: #f8f2e7;
+      --paper-deep: #ece1cf;
+      --line: #d8c8af;
+      --red: #b9422f;
+      --blue: #245f73;
+      --green: #4d6f48;
+      --gold: #c2872d;
+      --white: #fffaf0;
+      --shadow: 0 18px 50px rgba(55, 38, 19, .14);
+
+      /* —— 主题化 token（默认 = 暖纸典藏；主题文件覆盖这些即可换肤，不碰布局）—— */
+      --font-body: "Songti SC", "Noto Serif CJK SC", Georgia, serif;
+      --font-display: "PingFang SC", "Microsoft YaHei", sans-serif;
+      --bg: radial-gradient(circle at 22% 12%, rgba(194, 135, 45, .18), transparent 28rem),
+            linear-gradient(135deg, #fbf6ec 0%, #efe1ca 100%);
+      --surface: rgba(255, 250, 240, .62);
+      --surface-strong: rgba(255, 250, 240, .72);
+      --bar-bg: rgba(248, 242, 231, .95);
+      --ink-soft: #3d332b;
+      --ink-soft-2: #44392f;
+      --tint-accent: rgba(194, 135, 45, .12);
+      --tint-accent-strong: rgba(194, 135, 45, .15);
+    }
+
+    /* —— 选中主题的变量覆盖 + 组件微调（Agent 注入对应 templates/themes/*.css）—— */
+    {{theme_style}}
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--bg);
+      font-family: var(--font-body);
+    }
+
+    button { font: inherit; color: inherit; }
+
+    .page {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 44px;
+      isolation: isolate;
+    }
+
+    /* ——— Hero ——— */
+    .hero {
+      min-height: 52vh;
+      display: grid;
+      grid-template-columns: 1.15fr .85fr;
+      gap: 32px;
+      align-items: end;
+      padding: 48px 0 30px;
+    }
+
+    .eyebrow {
+      margin: 0 0 16px;
+      color: var(--red);
+      font: 700 14px/1.3 var(--font-display);
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 760px;
+      font-size: clamp(44px, 7vw, 86px);
+      line-height: .98;
+      font-weight: 900;
+    }
+
+    .hero .lede {
+      margin: 22px 0 0;
+      max-width: 720px;
+      color: var(--ink-soft);
+      font-size: 21px;
+      line-height: 1.7;
+    }
+
+    .thesis {
+      border-left: 7px solid var(--red);
+      background: var(--surface-strong);
+      padding: 22px 24px;
+      box-shadow: var(--shadow);
+    }
+
+    .thesis strong {
+      display: block;
+      margin-bottom: 12px;
+      font: 800 18px/1.2 var(--font-display);
+    }
+
+    .thesis span {
+      display: block;
+      color: var(--ink-soft-2);
+      font-size: 18px;
+      line-height: 1.75;
+    }
+
+    /* ——— Tabs ——— */
+    .tabs {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      display: grid;
+      gap: 8px;
+      padding: 10px;
+      margin: 12px 0 28px;
+      border: 1px solid var(--line);
+      background: var(--bar-bg);
+    }
+
+    .tab {
+      min-height: 52px;
+      border: 0;
+      border-radius: 4px;
+      background: transparent;
+      cursor: pointer;
+      font: 800 16px/1.2 var(--font-display);
+      pointer-events: auto;
+      position: relative;
+      z-index: 1;
+    }
+
+    .tab[aria-selected="true"] {
+      color: var(--white);
+      background: var(--ink);
+    }
+
+    /* ——— Panels ——— */
+    .panel {
+      display: none;
+      animation: rise .36s ease both;
+    }
+
+    .panel.active { display: block; }
+
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .section-title {
+      margin: 0 0 18px;
+      font: 900 30px/1.15 var(--font-display);
+    }
+
+    .section-lead {
+      margin: 0 0 24px;
+      color: var(--ink-soft);
+      font-size: 18px;
+      line-height: 1.75;
+    }
+
+    /* ——— Grid & Note cards ——— */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    .note {
+      min-height: 220px;
+      padding: 22px;
+      border: 1px solid var(--line);
+      background: var(--surface);
+    }
+
+    .note h3 {
+      margin: 0 0 12px;
+      font: 900 21px/1.2 var(--font-display);
+    }
+
+    .note p {
+      margin: 0;
+      color: var(--ink-soft-2);
+      font-size: 17px;
+      line-height: 1.7;
+    }
+
+    .note .when {
+      margin-top: 10px;
+      color: var(--muted);
+      font: 14px/1.5 var(--font-display);
+    }
+
+    /* ——— Chain ——— */
+    .chain {
+      display: grid;
+      gap: 8px;
+      margin: 24px 0 8px;
+    }
+
+    .chain button {
+      min-height: 88px;
+      padding: 12px;
+      border: 1px solid var(--line);
+      background: var(--white);
+      cursor: pointer;
+      text-align: left;
+      font: 800 15px/1.35 var(--font-display);
+    }
+
+    .chain button.active {
+      color: var(--white);
+      background: var(--blue);
+      border-color: var(--blue);
+    }
+
+    .explain {
+      min-height: 118px;
+      margin-top: 10px;
+      padding: 22px;
+      color: var(--ink-soft-2);
+      border: 1px solid var(--line);
+      background: var(--surface-strong);
+      font-size: 18px;
+      line-height: 1.75;
+    }
+
+    /* ——— Split / Selector ——— */
+    .split {
+      display: grid;
+      grid-template-columns: .9fr 1.1fr;
+      gap: 18px;
+      align-items: start;
+    }
+
+    .city-buttons {
+      display: grid;
+      gap: 10px;
+    }
+
+    .city-buttons button {
+      min-height: 58px;
+      padding: 0 18px;
+      border: 1px solid var(--line);
+      background: var(--white);
+      cursor: pointer;
+      text-align: left;
+      font: 800 17px/1.2 var(--font-display);
+    }
+
+    .city-buttons button.active {
+      color: var(--white);
+      background: var(--green);
+      border-color: var(--green);
+    }
+
+    .result {
+      padding: 28px;
+      min-height: 300px;
+      border: 1px solid var(--line);
+      background: var(--surface-strong);
+      box-shadow: var(--shadow);
+    }
+
+    .result .label {
+      color: var(--red);
+      font: 800 14px/1.2 var(--font-display);
+    }
+
+    .result h3 {
+      margin: 10px 0 12px;
+      font: 900 28px/1.2 var(--font-display);
+    }
+
+    .result p {
+      margin: 0 0 12px;
+      color: var(--ink-soft);
+      font-size: 18px;
+      line-height: 1.75;
+    }
+
+    /* ——— Questions ——— */
+    .questions {
+      display: grid;
+      gap: 12px;
+      counter-reset: q;
+    }
+
+    .question {
+      display: grid;
+      grid-template-columns: 54px 1fr;
+      gap: 14px;
+      align-items: center;
+      padding: 18px;
+      border: 1px solid var(--line);
+      background: var(--surface);
+    }
+
+    .question::before {
+      counter-increment: q;
+      content: counter(q);
+      display: grid;
+      place-items: center;
+      width: 46px;
+      height: 46px;
+      color: var(--white);
+      background: var(--gold);
+      font: 900 22px/1 var(--font-display);
+    }
+
+    .question h3 {
+      margin: 0 0 4px;
+      font: 900 18px/1.25 var(--font-display);
+    }
+
+    .question p {
+      margin: 0;
+      color: var(--muted);
+      font: 15px/1.55 var(--font-display);
+    }
+
+    /* ——— Matrix ——— */
+    table.matrix {
+      width: 100%;
+      border-collapse: collapse;
+      font: 16px/1.5 var(--font-body);
+    }
+
+    .matrix th, .matrix td {
+      padding: 12px 10px;
+      border: 1px solid var(--line);
+      text-align: left;
+    }
+
+    .matrix th {
+      background: var(--surface-strong);
+      font: 800 14px/1.3 var(--font-display);
+    }
+
+    .matrix td:first-child { font-weight: 700; }
+
+    /* row hover highlight（由 components.md JS 切换 class，颜色随主题） */
+    .matrix tbody tr.row-hi { background: var(--tint-accent); }
+
+    /* ——— Timeline ——— */
+    .timeline {
+      position: relative;
+      padding-left: 24px;
+      border-left: 2px solid var(--gold);
+    }
+
+    .timeline-item {
+      margin-bottom: 22px;
+      position: relative;
+    }
+
+    .timeline-item::before {
+      content: "";
+      position: absolute;
+      left: -30px;
+      top: 6px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--gold);
+    }
+
+    .timeline-item .time {
+      color: var(--muted);
+      font: 700 13px/1.3 var(--font-display);
+    }
+
+    .timeline-item h3 {
+      margin: 4px 0 6px;
+      font: 900 18px/1.25 var(--font-display);
+    }
+
+    .timeline-item p {
+      margin: 0;
+      color: var(--ink-soft-2);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    /* ——— Decision Tree ——— */
+    .decision details {
+      margin-bottom: 8px;
+      border: 1px solid var(--line);
+      background: var(--surface);
+    }
+
+    .decision summary {
+      padding: 14px 18px;
+      cursor: pointer;
+      font: 800 16px/1.3 var(--font-display);
+    }
+
+    .decision .branch {
+      padding: 0 18px 14px;
+      color: var(--ink-soft-2);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    /* ——— Concept Map ——— */
+    .concept-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 8px;
+    }
+
+    .concept-btn {
+      min-height: 52px;
+      padding: 10px 14px;
+      border: 1px solid var(--line);
+      background: var(--white);
+      cursor: pointer;
+      font: 700 14px/1.3 var(--font-display);
+    }
+
+    .concept-btn.active {
+      color: var(--white);
+      background: var(--gold);
+      border-color: var(--gold);
+    }
+
+    /* 关联章节高亮（由 components.md JS 切换 class，颜色随主题） */
+    .chapter-row.concept-hi { background: var(--tint-accent-strong); }
+
+    /* ——— Chapter Map ——— */
+    .chapter-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .chapter-row {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 12px;
+      align-items: baseline;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .chapter-row .ch-label {
+      color: var(--red);
+      font: 700 14px/1.3 var(--font-display);
+    }
+
+    .chapter-row h3 {
+      margin: 0 0 2px;
+      font: 900 17px/1.25 var(--font-display);
+    }
+
+    .chapter-row .ch-role {
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    /* ——— Decision Rules ——— */
+    .rules {
+      list-style: none;
+      padding: 0;
+      display: grid;
+      gap: 10px;
+    }
+
+    .rules li {
+      padding: 14px 18px;
+      border: 1px solid var(--line);
+      background: var(--surface);
+      font-size: 17px;
+      line-height: 1.7;
+    }
+
+    .rules li strong { color: var(--blue); }
+
+    .rules li em {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 14px;
+      font-style: normal;
+    }
+
+    /* ——— Transition ——— */
+    .transition {
+      margin: 28px 0 12px;
+      color: var(--ink-soft);
+      font-size: 17px;
+      line-height: 1.7;
+      text-align: center;
+    }
+
+    /* ——— Story Card ——— */
+    .story {
+      border: 1px solid var(--line);
+      background: var(--surface-strong);
+      padding: 24px 28px;
+      margin: 18px 0;
+      box-shadow: var(--shadow);
+    }
+
+    .story .story-label {
+      color: var(--red);
+      font: 700 13px/1.3 var(--font-display);
+      margin-bottom: 10px;
+    }
+
+    .story h3 {
+      margin: 0 0 14px;
+      font: 900 22px/1.2 var(--font-display);
+    }
+
+    .story p {
+      margin: 0 0 10px;
+      color: var(--ink-soft);
+      font-size: 18px;
+      line-height: 1.8;
+    }
+
+    .story .story-insight {
+      margin-top: 14px;
+      padding-top: 12px;
+      border-top: 1px dashed var(--line);
+      color: var(--blue);
+      font: 700 17px/1.6 var(--font-display);
+    }
+
+    /* ——— Before/After ——— */
+    .before-after {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2px;
+      margin: 18px 0;
+    }
+
+    .ba-col {
+      padding: 22px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+    }
+
+    .ba-col.before { border-left: 4px solid var(--muted); }
+    .ba-col.after  { border-left: 4px solid var(--green); }
+
+    .ba-col .ba-label {
+      font: 700 13px/1.3 var(--font-display);
+      margin-bottom: 12px;
+    }
+
+    .ba-col.before .ba-label { color: var(--muted); }
+    .ba-col.after  .ba-label { color: var(--green); }
+
+    .ba-col h3 {
+      margin: 0 0 10px;
+      font: 900 18px/1.2 var(--font-display);
+    }
+
+    .ba-col p {
+      margin: 0;
+      color: var(--ink-soft-2);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    /* ——— Accordion ——— */
+    .accordion details {
+      margin-bottom: 6px;
+      border: 1px solid var(--line);
+      background: var(--surface);
+    }
+
+    .accordion summary {
+      padding: 16px 20px;
+      cursor: pointer;
+      font: 800 17px/1.3 var(--font-display);
+      list-style: none;
+    }
+
+    .accordion summary::-webkit-details-marker { display: none; }
+
+    .accordion summary::before {
+      content: "+";
+      display: inline-block;
+      width: 20px;
+      margin-right: 8px;
+      color: var(--gold);
+      font-weight: 900;
+      font-size: 18px;
+    }
+
+    .accordion details[open] summary::before { content: "−"; }
+
+    .accordion .acc-body {
+      padding: 0 20px 16px 44px;
+      color: var(--ink-soft-2);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    /* ——— Quote Card ——— */
+    .quote {
+      position: relative;
+      padding: 28px 32px 22px;
+      margin: 18px 0;
+      border-left: 4px solid var(--gold);
+      background: var(--surface-strong);
+      box-shadow: var(--shadow);
+    }
+
+    .quote::before {
+      content: "\201C";
+      position: absolute;
+      top: -8px;
+      left: 8px;
+      color: var(--gold);
+      font: 900 64px/1 var(--font-body);
+      opacity: .35;
+    }
+
+    .quote blockquote {
+      margin: 0;
+      color: var(--ink-soft);
+      font-size: 19px;
+      line-height: 1.8;
+      font-style: normal;
+    }
+
+    .quote .q-source {
+      display: block;
+      margin-top: 10px;
+      color: var(--muted);
+      font: 13px/1.4 var(--font-display);
+    }
+
+    /* ——— Source Markers (A+B: margin + toggle) ——— */
+    .src-toggle {
+      position: fixed;
+      top: 14px;
+      right: 14px;
+      z-index: 100;
+      padding: 7px 14px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      background: var(--bar-bg);
+      backdrop-filter: blur(8px);
+      cursor: pointer;
+      font: 12px/1.2 var(--font-display);
+      color: var(--muted);
+      transition: all .2s;
+    }
+
+    .src-toggle:hover { border-color: var(--gold); color: var(--ink); }
+
+    /* ——— A: Margin marker (always visible, subtle) ——— */
+    .note[data-source],
+    .story[data-source],
+    .question[data-source],
+    .timeline-item[data-source],
+    .ba-col[data-source],
+    .accordion details[data-source],
+    .quote[data-source],
+    .explain[data-source] {
+      position: relative;
+      padding-left: 26px;
+      border-left: 3px solid var(--line);
+      transition: border-color .2s;
+    }
+
+    .note[data-source]:hover,
+    .story[data-source]:hover,
+    .question[data-source]:hover,
+    .timeline-item[data-source]:hover,
+    .ba-col[data-source]:hover,
+    .accordion details[data-source]:hover,
+    .quote[data-source]:hover,
+    .explain[data-source]:hover {
+      border-left-color: var(--blue);
+    }
+
+    /* Tooltip on hover */
+    [data-source]::after {
+      content: attr(data-source);
+      position: absolute;
+      left: -4px;
+      bottom: calc(100% + 4px);
+      padding: 3px 8px;
+      background: var(--ink);
+      color: var(--white);
+      font: 11px/1.3 var(--font-display);
+      border-radius: 3px;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .2s;
+      z-index: 3;
+    }
+
+    [data-source]:hover::after {
+      opacity: 1;
+    }
+
+    /* ——— B: Global toggle ON → show full source lines ——— */
+    body.show-sources .note::before,
+    body.show-sources .story::before,
+    body.show-sources .question::before,
+    body.show-sources .timeline-item::before,
+    body.show-sources .ba-col::before,
+    body.show-sources .accordion details::before,
+    body.show-sources .quote::before,
+    body.show-sources .explain::before {
+      content: attr(data-source);
+      display: block;
+      margin-bottom: 8px;
+      color: var(--muted);
+      font: 11px/1.3 var(--font-display);
+    }
+
+    /* ——— Deep Dive (追问入口) ——— */
+    .deep-dive-btn {
+      position: absolute;
+      bottom: 8px;
+      right: 8px;
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      border: 1px solid var(--line);
+      background: var(--white);
+      color: var(--muted);
+      cursor: pointer;
+      font: 700 14px/1 var(--font-display);
+      opacity: 0;
+      transition: opacity .2s;
+      z-index: 2;
+    }
+
+    .note:hover .deep-dive-btn,
+    .story:hover .deep-dive-btn,
+    .question:hover .deep-dive-btn,
+    .timeline-item:hover .deep-dive-btn,
+    .ba-col:hover .deep-dive-btn,
+    .accordion details:hover .deep-dive-btn,
+    .quote:hover .deep-dive-btn,
+    .explain:hover .deep-dive-btn {
+      opacity: .65;
+    }
+
+    .deep-dive-btn:hover { opacity: 1 !important; background: var(--blue); color: var(--white); border-color: var(--blue); }
+
+    /* ——— Deep Dive Popover ——— */
+    .dd-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 200;
+      background: rgba(23, 20, 17, .35);
+      backdrop-filter: blur(2px);
+      align-items: center;
+      justify-content: center;
+    }
+
+    .dd-overlay.active { display: flex; }
+
+    .dd-popover {
+      width: min(520px, calc(100% - 32px));
+      padding: 28px;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      border-radius: 8px;
+    }
+
+    .dd-popover .dd-title {
+      margin: 0 0 6px;
+      font: 900 22px/1.2 var(--font-display);
+    }
+
+    .dd-popover .dd-ctx {
+      margin: 0 0 16px;
+      color: var(--muted);
+      font: 13px/1.5 var(--font-display);
+    }
+
+    .dd-popover textarea {
+      width: 100%;
+      min-height: 72px;
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      font: 16px/1.6 var(--font-display);
+      color: var(--ink);
+      background: var(--white);
+      resize: vertical;
+      margin-bottom: 12px;
+    }
+
+    .dd-popover .dd-actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .dd-popover .dd-submit {
+      padding: 10px 22px;
+      border: 0;
+      border-radius: 4px;
+      background: var(--blue);
+      color: var(--white);
+      cursor: pointer;
+      font: 700 15px/1.3 var(--font-display);
+    }
+
+    .dd-popover .dd-cancel {
+      padding: 10px 18px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      background: transparent;
+      cursor: pointer;
+      font: 700 15px/1.3 var(--font-display);
+      color: var(--muted);
+    }
+
+    /* ——— Toast ——— */
+    .dd-toast {
+      position: fixed;
+      bottom: 32px;
+      left: 50%;
+      transform: translateX(-50%);
+      padding: 14px 28px;
+      background: var(--ink);
+      color: var(--white);
+      border-radius: 6px;
+      font: 14px/1.4 var(--font-display);
+      opacity: 0;
+      transition: opacity .3s;
+      pointer-events: none;
+      z-index: 300;
+    }
+
+    .dd-toast.show { opacity: 1; }
+
+    /* ——— Footer ——— */
+    .footer {
+      margin-top: 34px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font: 14px/1.7 var(--font-display);
+    }
+
+    /* ——— Responsive ——— */
+    @media (max-width: 880px) {
+      .hero,
+      .split,
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        min-height: auto;
+        padding-top: 28px;
+      }
+
+      .tabs {
+        position: static;
+        grid-template-columns: 1fr;
+      }
+
+      .chain {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .concept-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 520px) {
+      .page {
+        width: min(100% - 22px, 1180px);
+        padding-top: 18px;
+      }
+
+      h1 { font-size: 42px; }
+      .hero .lede { font-size: 18px; }
+      .chain { grid-template-columns: 1fr; }
+      .question { grid-template-columns: 1fr; }
+      .chapter-row { grid-template-columns: 1fr; }
+    }
+
+    /* ——— Component-specific styles injected by Agent ——— */
+    {{component_styles}}
+  </style>
+</head>
+<body data-theme="{{theme_name}}">
+  <button id="srcToggle" class="src-toggle" title="显示/隐藏出处">显示出处</button>
+  <main class="page">
+    {{hero}}
+    <nav class="tabs" aria-label="学习模块">{{tabs}}</nav>
+    {{panels}}
+    <footer class="footer">{{footer_note}}</footer>
+  </main>
+
+  <div class="dd-overlay" id="ddOverlay">
+    <div class="dd-popover">
+      <p class="dd-title" id="ddTitle"></p>
+      <p class="dd-ctx" id="ddCtx"></p>
+      <textarea id="ddInput" placeholder="输入你想追问的细节..."></textarea>
+      <div class="dd-actions">
+        <button class="dd-submit" id="ddSubmit">复制追问到剪贴板</button>
+        <button class="dd-cancel" id="ddCancel">取消</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="dd-toast" id="ddToast"></div>
+  <script>
+    var toggle = document.getElementById("srcToggle");
+    if (toggle) {
+      toggle.onclick = function() {
+        document.body.classList.toggle("show-sources");
+        this.classList.toggle("active");
+        this.textContent = document.body.classList.contains("show-sources") ? "隐藏出处" : "显示出处";
+      };
+    }
+    // Deep dive popover
+    (function() {
+      var overlay = document.getElementById("ddOverlay");
+      var titleEl = document.getElementById("ddTitle");
+      var ctxEl = document.getElementById("ddCtx");
+      var input = document.getElementById("ddInput");
+      var toast = document.getElementById("ddToast");
+      var currentRef = "";
+
+      function showToast(msg) {
+        toast.textContent = msg;
+        toast.classList.add("show");
+        setTimeout(function() { toast.classList.remove("show"); }, 2000);
+      }
+
+      window.openDeepDive = function(conceptName, source, el) {
+        currentRef = source;
+        titleEl.textContent = "追问「" + conceptName + "」";
+        ctxEl.textContent = "来源：" + source + "  |  将生成一个结构化的追问 prompt 复制到剪贴板，贴回对话即可深入。";
+        input.value = "";
+        overlay.classList.add("active");
+        setTimeout(function() { input.focus(); }, 200);
+      };
+
+      document.getElementById("ddCancel").onclick = function() {
+        overlay.classList.remove("active");
+      };
+
+      overlay.onclick = function(e) {
+        if (e.target === overlay) overlay.classList.remove("active");
+      };
+
+      document.getElementById("ddSubmit").onclick = function() {
+        var q = input.value.trim();
+        if (!q) { showToast("请输入你的问题"); return; }
+        var bookName = document.title.split("《")[1].split("》")[0];
+        var concept = titleEl.textContent.replace("追问「","").replace("」","");
+        var prompt = "对《" + bookName + "》中「" + concept + "」，深入追问：" + q + "。\n\n请用 book-to-webpage skill 生成一个交互 HTML 页面来回答这个问题。知识库路径：" + document.title + "，出处：" + currentRef;
+        navigator.clipboard.writeText(prompt).then(function() {
+          overlay.classList.remove("active");
+          showToast("追问 prompt 已复制，贴回 Claude 对话即可");
+        }).catch(function() {
+          showToast("复制失败，请手动复制：" + prompt.substring(0, 60) + "...");
+        });
+      };
+    })();
+    {{component_scripts}}
+  </script>
+</body>
+</html>

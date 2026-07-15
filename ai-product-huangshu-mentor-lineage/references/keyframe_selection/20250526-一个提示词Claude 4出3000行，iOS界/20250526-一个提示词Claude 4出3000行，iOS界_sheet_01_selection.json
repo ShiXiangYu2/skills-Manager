@@ -1,0 +1,41 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear UI design mockup of the '高考听霸APP' with distinct user interface elements and layout, useful for reviewing product design.",
+      "keywords": [
+        "UI",
+        "design",
+        "product",
+        "mockup"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Displays a detailed product specification document with clear headings and bullet points, including product positioning and core features, key for understanding the product's architecture.",
+      "keywords": [
+        "document",
+        "specification",
+        "product",
+        "features"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Shows a high-quality UI design specification document with clear sections and text, useful for source-backed verification of design details.",
+      "keywords": [
+        "UI",
+        "document",
+        "design",
+        "specification"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are either duplicate, blurred, or show only the lecturer without clear teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20250526-一个提示词Claude 4出3000行，iOS界\\20250526-一个提示词Claude 4出3000行，iOS界_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

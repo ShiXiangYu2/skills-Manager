@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the GitHub repository README with clear Chinese instructions, including setup steps and key features, serving as a complete teaching artifact.",
+      "keywords": [
+        "README",
+        "setup_guide",
+        "UI",
+        "instruction"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were evaluated as valuable; this single frame contains the most informative visual content for course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20260610-Codex自动化视频剪辑（上）\\20260610-Codex自动化视频剪辑（上）_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

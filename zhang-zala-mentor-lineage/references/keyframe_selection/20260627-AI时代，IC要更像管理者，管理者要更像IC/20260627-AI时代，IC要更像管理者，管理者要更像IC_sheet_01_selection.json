@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Initial slide outlining the course structure with clear section headings (01, 02, 03) and key topics related to AI-era personal growth, providing a complete teaching artifact for course context.",
+      "keywords": [
+        "course outline",
+        "AI era",
+        "personal growth",
+        "slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation; only one frame is available. It meets criteria as a clear, complete teaching artifact with structured content. No duplicates or low-information frames to drop.",
+  "sheet": "keyframe_selection\\sheets\\20260627-AI时代，IC要更像管理者，管理者要更像IC\\20260627-AI时代，IC要更像管理者，管理者要更像IC_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

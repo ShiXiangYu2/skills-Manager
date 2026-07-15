@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the main topic 'APP体验' and the handwritten slide layout, setting the context for the lesson.",
+      "keywords": [
+        "slide",
+        "introduction",
+        "topic"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows detailed handwritten notes on the slide, including key points like '模型性能' and 'APP体验', which are central to the teaching content.",
+      "keywords": [
+        "slide",
+        "notes",
+        "content"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Displays a clear UI of a task management app, contrasting with the handwritten notes and illustrating the '操作真实软件' concept.",
+      "keywords": [
+        "UI",
+        "demo",
+        "visual comparison"
+      ]
+    }
+  ],
+  "dropped_summary": "The remaining frames either show partial content, lack clear teaching artifacts, or are redundant with the selected frames.",
+  "sheet": "keyframe_selection\\sheets\\20260603-费曼学习法：5分钟了解Codex\\20260603-费曼学习法：5分钟了解Codex_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear slide with structured questions and key text about product logic, serving as a teaching artifact for the course.",
+      "keywords": [
+        "slide",
+        "teaching artifact",
+        "product logic"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a clear UI with a list of product requirements and a summary of '3 versions' of product logic, useful for verification and explanation.",
+      "keywords": [
+        "UI",
+        "product requirements",
+        "verification"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20251217-用AI访谈你，自动出文章！ (1)\\20251217-用AI访谈你，自动出文章！ (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

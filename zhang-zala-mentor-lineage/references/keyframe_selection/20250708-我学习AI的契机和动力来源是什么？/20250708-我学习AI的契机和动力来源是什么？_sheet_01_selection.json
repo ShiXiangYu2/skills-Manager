@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures the initial teaching context including a visible slide titled 'MOORE'S LAW' and Chinese text that provides context about technology revolution. It includes both visual teaching material and textual commentary, making it valuable for source-backed explanation and course review.",
+      "keywords": [
+        "Moore's Law",
+        "technology revolution",
+        "slide",
+        "context"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames are not included as this contact sheet only contains one frame. No duplicates, blank, or low-information frames to drop beyond the single provided frame, which is selected for its teaching artifact value.",
+  "sheet": "keyframe_selection\\sheets\\20250708-我学习AI的契机和动力来源是什么？\\20250708-我学习AI的契机和动力来源是什么？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

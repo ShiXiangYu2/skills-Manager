@@ -1,0 +1,51 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the first major section '一、安装' with clear text and context for the video's beginning, serving as a practical anchor for course structure.",
+      "keywords": [
+        "安装",
+        "section",
+        "introduction"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a clear UI screenshot from Xcode with labeled settings switches, providing concrete visual evidence for '基础设置' section content that is material and teachable.",
+      "keywords": [
+        "Xcode",
+        "设置",
+        "UI",
+        "截图"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Shows a detailed step in '实例开发' with a highlighted alert dialog and instruction, valuable for demonstrating workflow and avoiding common errors.",
+      "keywords": [
+        "实例开发",
+        "alert",
+        "执行",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "05:00",
+      "reason": "Contains a comprehensive numbered list of setup steps for Xcode and iPhone pairing, ideal for verification and source-backed review of technical procedures.",
+      "keywords": [
+        "Xcode",
+        "步骤",
+        "配对",
+        "检查清单"
+      ]
+    }
+  ],
+  "dropped_summary": "Frames 0002 (animated scene), 0005 (lecturer-only with no visual content), and 0007 (lecturer-only with overlapping speech) were dropped due to lack of visual teaching artifacts. Other frames lacked unique or complete visual information compared to selected ones.",
+  "sheet": "keyframe_selection\\sheets\\BV1TCVa63EoA\\BV1TCVa63EoA_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

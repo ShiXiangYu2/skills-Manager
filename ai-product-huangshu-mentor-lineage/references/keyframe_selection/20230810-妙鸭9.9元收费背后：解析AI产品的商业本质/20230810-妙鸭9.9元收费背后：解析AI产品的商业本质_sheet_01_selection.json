@@ -1,0 +1,58 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the course topic and key question about AI's impact on the industry, setting context for the lecture.",
+      "keywords": [
+        "intro",
+        "topic",
+        "AI impact"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Displays the slide titled 'AI时代改变的是什么' (What has changed in the AI era), which is a central theme of the lecture.",
+      "keywords": [
+        "slide",
+        "theme",
+        "AI era"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Shows a clear slide with a table titled 'AI时代变革的五个关键点' (Five key changes in the AI era), providing structured information.",
+      "keywords": [
+        "table",
+        "key points",
+        "AI era"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06:00",
+      "reason": "Features a clear slide with the heading 'AI时代变革的五个关键点' and a table, presenting a key teaching artifact.",
+      "keywords": [
+        "slide",
+        "table",
+        "key points"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "00:08:00",
+      "reason": "Displays a slide with the heading '结论' (Conclusion) and a key takeaway: '这是我们今天达意文章的一个观点' (This is one of the key points from today's article), summarizing important content.",
+      "keywords": [
+        "conclusion",
+        "summary",
+        "key point"
+      ]
+    }
+  ],
+  "dropped_summary": "Frames were dropped if they were introductory/outro content, lacked clear teaching artifacts, or were redundant with other selected frames. Lecturer-only shots and low-information frames were excluded.",
+  "sheet": "keyframe_selection\\sheets\\20230810-妙鸭9.9元收费背后：解析AI产品的商业本质\\20230810-妙鸭9.9元收费背后：解析AI产品的商业本质_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

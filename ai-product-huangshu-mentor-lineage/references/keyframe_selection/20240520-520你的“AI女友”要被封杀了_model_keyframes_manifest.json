@@ -1,0 +1,19 @@
+{
+  "media": "20240520-520你的“AI女友”要被封杀了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20240520-520你的“AI女友”要被封杀了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20240520-520你的“AI女友”要被封杀了",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20240520-520你的“AI女友”要被封杀了",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts (slides, boards, diagrams, formulas, UI, etc.) as required by selection criteria. The only frame is lecturer-only with no visual content worth preserving.",
+      "sheet": "keyframe_selection\\sheets\\20240520-520你的“AI女友”要被封杀了\\20240520-520你的“AI女友”要被封杀了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

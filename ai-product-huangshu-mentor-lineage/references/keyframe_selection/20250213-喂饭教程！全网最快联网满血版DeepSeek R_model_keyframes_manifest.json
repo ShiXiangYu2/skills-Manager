@@ -1,0 +1,87 @@
+{
+  "media": "20250213-喂饭教程！全网最快联网满血版DeepSeek R",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250213-喂饭教程！全网最快联网满血版DeepSeek R.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear UI diagram of a workflow with annotations, demonstrating a key concept in the course.",
+      "keywords": [
+        "UI",
+        "diagram",
+        "workflow"
+      ],
+      "candidate_source": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Clear screenshot of a user interface with annotations, showing a specific interaction or feature.",
+      "keywords": [
+        "UI",
+        "screenshot",
+        "annotation"
+      ],
+      "candidate_source": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Highlights a key UI element with a red box and text annotation, useful for explanation and verification.",
+      "keywords": [
+        "UI",
+        "highlight",
+        "annotation"
+      ],
+      "candidate_source": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear UI diagram of a workflow with annotations, demonstrating a key concept in the course.",
+          "keywords": [
+            "UI",
+            "diagram",
+            "workflow"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Clear screenshot of a user interface with annotations, showing a specific interaction or feature.",
+          "keywords": [
+            "UI",
+            "screenshot",
+            "annotation"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Highlights a key UI element with a red box and text annotation, useful for explanation and verification.",
+          "keywords": [
+            "UI",
+            "highlight",
+            "annotation"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped as they appear to be introductory, blurred, or contain low-information content not useful for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20250213-喂饭教程！全网最快联网满血版DeepSeek R\\20250213-喂饭教程！全网最快联网满血版DeepSeek R_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

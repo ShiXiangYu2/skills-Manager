@@ -1,0 +1,19 @@
+{
+  "media": "20230626-王慧文如何做产品经理？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230626-王慧文如何做产品经理？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20230626-王慧文如何做产品经理？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230626-王慧文如何做产品经理？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible teaching artifacts, diagrams, slides, or visual state changes. They contain only spoken content without supporting visual material for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20230626-王慧文如何做产品经理？\\20230626-王慧文如何做产品经理？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

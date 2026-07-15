@@ -1,0 +1,58 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Initial framing of the presenter and whiteboard, establishing context for the lecture.",
+      "keywords": [
+        "intro",
+        "whiteboard",
+        "presentation"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Clear display of the whiteboard with the formula and key terms related to ChatGPT's training data.",
+      "keywords": [
+        "formula",
+        "whiteboard",
+        "diagram"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Key visual state change; the whiteboard content has been updated with new bullet points and formulas relevant to the discussion.",
+      "keywords": [
+        "visual_change",
+        "whiteboard",
+        "diagram"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06",
+      "reason": "Different visual state showing additional annotations and updates on the whiteboard, emphasizing a new point in the explanation.",
+      "keywords": [
+        "visual_change",
+        "whiteboard",
+        "diagram"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "00:08",
+      "reason": "Final state of the whiteboard with all key points clearly displayed, useful for review and verification.",
+      "keywords": [
+        "summary",
+        "whiteboard",
+        "diagram"
+      ]
+    }
+  ],
+  "dropped_summary": "Frames with only lecturer close-ups, no visual artifacts, or no instructional content were dropped. Frames showing only the lecturer without any significant whiteboard content or visual changes were excluded.",
+  "sheet": "keyframe_selection\\sheets\\20221228-chatGPT能取代搜索引擎？\\20221228-chatGPT能取代搜索引擎？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

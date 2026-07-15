@@ -1,0 +1,19 @@
+{
+  "media": "20260622-Codex+无限画布，改图太爽了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260622-Codex+无限画布，改图太爽了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260622-Codex+无限画布，改图太爽了",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260622-Codex+无限画布，改图太爽了",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No key teaching artifacts, visual state changes, or useful content for distillation; frame is introductory or low-information.",
+      "sheet": "keyframe_selection\\sheets\\20260622-Codex+无限画布，改图太爽了\\20260622-Codex+无限画布，改图太爽了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

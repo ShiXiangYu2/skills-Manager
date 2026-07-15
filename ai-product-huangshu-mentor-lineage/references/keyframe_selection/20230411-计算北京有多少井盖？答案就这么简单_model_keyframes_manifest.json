@@ -1,0 +1,19 @@
+{
+  "media": "20230411-计算北京有多少井盖？答案就这么简单",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230411-计算北京有多少井盖？答案就这么简单.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230411-计算北京有多少井盖？答案就这么简单",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230411-计算北京有多少井盖？答案就这么简单",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame only shows the lecturer speaking with no visible teaching artifact, slide, or visual content. It is a lecturer-only frame and does not meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230411-计算北京有多少井盖？答案就这么简单\\20230411-计算北京有多少井盖？答案就这么简单_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

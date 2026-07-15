@@ -1,0 +1,20 @@
+{
+  "media": "20250612-苹果的系统更新和 AI，聊聊 WWDC 2025",
+  "video_path": "D:\\视频下载\\十页AI\\20250612-苹果的系统更新和 AI，聊聊 WWDC 2025.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 33,
+  "candidate_dir": "keyframe_candidates\\20250612-苹果的系统更新和 AI，聊聊 WWDC 2025",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250612-苹果的系统更新和 AI，聊聊 WWDC 2025",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "model returned non-json content",
+      "raw": "",
+      "sheet": "keyframe_selection\\sheets\\20250612-苹果的系统更新和 AI，聊聊 WWDC 2025\\20250612-苹果的系统更新和 AI，聊聊 WWDC 2025_sheet_01.jpg",
+      "success": false,
+      "error": "('Connection aborted.', TimeoutError('The write operation timed out'))"
+    }
+  ]
+}

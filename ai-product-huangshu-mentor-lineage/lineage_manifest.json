@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.1",
+  "course_name": "AI产品黄叔",
+  "skill_name": "ai-product-huangshu-mentor-lineage",
+  "roles": [
+    "mentor"
+  ],
+  "modes": [
+    "mentor"
+  ],
+  "scope": "single-course",
+  "evidence_strategy": "standard",
+  "progress_strategy": "tracked",
+  "source_dir": "D:\\视频下载\\AI产品黄叔\\蒸餾交付物\\courses\\AI产品黄叔",
+  "generated_at": "2026-07-10T05:07:32",
+  "generated_by": {
+    "id": "lineage-skill",
+    "repository": "https://github.com/JuneYaooo/lineage-skill",
+    "script": "scripts/build_course_skill.py"
+  },
+  "provenance": {
+    "watermark": "lineage-skill:course-skill-builder:v0.1",
+    "watermark_visibility": "manifest-only",
+    "source_package": "D:\\视频下载\\AI产品黄叔\\蒸餾交付物\\courses\\AI产品黄叔\\course_package.json",
+    "note": "This packaged course Skill was generated from course materials by lineage-skill."
+  },
+  "reference_status": {
+    "course_package.json": "copied",
+    "course_digest.md": "copied",
+    "full_transcript.md": "copied",
+    "concept_glossary.md": "derived",
+    "quote_index.md": "stubbed",
+    "study_paths.md": "derived",
+    "lesson_index.json": "generated",
+    "evidence_map.json": "generated",
+    "distillation_audit.json": "copied",
+    "distillation_audit.md": "copied",
+    "transcripts/": "copied",
+    "keyframe_selection/": "copied",
+    "keyframes_model_selected/": "copied",
+    "mentor_playbook.md": "stubbed",
+    "mentor_sessions.md": "stubbed",
+    "learner_progress.json": "stubbed",
+    "okf/": "generated 37 concepts, 0 evidence chunks",
+    "scripts/search_course_notes.py": "generated",
+    "scripts/fetch_course_evidence.py": "copied"
+  }
+}

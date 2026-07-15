@@ -1,0 +1,19 @@
+{
+  "media": "20250706-哈佛念书 vs 在家输出：AI时代应该如何学习",
+  "video_path": "D:\\视频下载\\张咋啦\\20250706-哈佛念书 vs 在家输出：AI时代应该如何学习.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250706-哈佛念书 vs 在家输出：AI时代应该如何学习",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250706-哈佛念书 vs 在家输出：AI时代应该如何学习",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible slides, UI, diagrams, or teaching artifacts. The content is conversational and lacks material visual elements suitable for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20250706-哈佛念书 vs 在家输出：AI时代应该如何学习\\20250706-哈佛念书 vs 在家输出：AI时代应该如何学习_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

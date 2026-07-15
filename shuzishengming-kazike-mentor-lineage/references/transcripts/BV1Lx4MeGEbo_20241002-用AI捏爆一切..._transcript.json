@@ -1,0 +1,16 @@
+{
+  "full_text": "🎼B. 🎼B a.爱好宝片。",
+  "segments": [
+    {
+      "start": 0,
+      "end": 21.01,
+      "text": "🎼B. 🎼B a.爱好宝片。"
+    }
+  ],
+  "language": "zh",
+  "duration": 21.01,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "BV1Lx4MeGEbo_20241002-用AI捏爆一切...",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1Lx4MeGEbo\\20241002-用AI捏爆一切....mp4",
+  "source_type": "video"
+}

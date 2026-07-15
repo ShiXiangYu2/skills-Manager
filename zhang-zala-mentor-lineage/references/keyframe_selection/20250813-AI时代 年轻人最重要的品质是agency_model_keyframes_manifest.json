@@ -1,0 +1,19 @@
+{
+  "media": "20250813-AI时代 年轻人最重要的品质是agency",
+  "video_path": "D:\\视频下载\\张咋啦\\20250813-AI时代 年轻人最重要的品质是agency.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250813-AI时代 年轻人最重要的品质是agency",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250813-AI时代 年轻人最重要的品质是agency",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible teaching artifacts such as slides, diagrams, or UI elements. There are no visual materials that convey course content independently of the speaker, nor any material state changes or documents to preserve for source-backed explanation or review.",
+      "sheet": "keyframe_selection\\sheets\\20250813-AI时代 年轻人最重要的品质是agency\\20250813-AI时代 年轻人最重要的品质是agency_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

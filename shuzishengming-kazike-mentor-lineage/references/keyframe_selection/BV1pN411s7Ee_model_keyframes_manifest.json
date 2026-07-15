@@ -1,0 +1,19 @@
+{
+  "media": "BV1pN411s7Ee",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1pN411s7Ee\\20231031-万圣节原创AI短片 - 《南瓜的低语》.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\BV1pN411s7Ee",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1pN411s7Ee",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is an introductory visual scene with no teaching artifact, text, or instructional content. It does not meet the criteria for preservation as it lacks slides, diagrams, formulas, UI elements, or demonstrative content necessary for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\BV1pN411s7Ee\\BV1pN411s7Ee_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

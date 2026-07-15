@@ -1,0 +1,19 @@
+{
+  "media": "20250312-我在计算机历史博物馆的讲解：最早的程序媛",
+  "video_path": "D:\\视频下载\\张咋啦\\20250312-我在计算机历史博物馆的讲解：最早的程序媛.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250312-我在计算机历史博物馆的讲解：最早的程序媛",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250312-我在计算机历史博物馆的讲解：最早的程序媛",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible teaching artifacts such as slides, diagrams, or documents. The frame shows the speaker without any visual content that supports source-backed explanation, review, or verification. Therefore, no frames meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20250312-我在计算机历史博物馆的讲解：最早的程序媛\\20250312-我在计算机历史博物馆的讲解：最早的程序媛_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

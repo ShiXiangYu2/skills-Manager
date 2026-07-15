@@ -1,0 +1,19 @@
+{
+  "media": "20250722-我的笔记：吴恩达在YC的演讲",
+  "video_path": "D:\\视频下载\\张咋啦\\20250722-我的笔记：吴恩达在YC的演讲.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250722-我的笔记：吴恩达在YC的演讲",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250722-我的笔记：吴恩达在YC的演讲",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame shows a YouTube video player interface with subtitles and speaker overlay, but no clear teaching artifact such as slides, diagrams, or visual content worth preserving. The visual is dominated by UI elements and lacks substantive material for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20250722-我的笔记：吴恩达在YC的演讲\\20250722-我的笔记：吴恩达在YC的演讲_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

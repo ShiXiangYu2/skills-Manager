@@ -1,0 +1,19 @@
+{
+  "media": "BV1MN4y1x7u6",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1MN4y1x7u6\\20231228-AI《打上花火》 - 再见，2023.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\BV1MN4y1x7u6",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1MN4y1x7u6",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames depict animated scenes without any teaching artifacts such as slides, diagrams, formulas, or UI elements. They appear to be introductory or narrative visuals, possibly from an anime or video, with no material content relevant to course distillation. No frame contains information useful for source-backed explanation, review, or verification.",
+      "sheet": "keyframe_selection\\sheets\\BV1MN4y1x7u6\\BV1MN4y1x7u6_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

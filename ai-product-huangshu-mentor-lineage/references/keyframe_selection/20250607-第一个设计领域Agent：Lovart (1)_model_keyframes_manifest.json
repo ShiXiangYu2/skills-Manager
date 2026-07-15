@@ -1,0 +1,87 @@
+{
+  "media": "20250607-第一个设计领域Agent：Lovart (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250607-第一个设计领域Agent：Lovart (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250607-第一个设计领域Agent：Lovart (1)",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20250607-第一个设计领域Agent：Lovart (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a completed emotion/sticker generation demo with clear UI and output, illustrating a key functionality.",
+      "keywords": [
+        "demo",
+        "UI",
+        "output"
+      ],
+      "candidate_source": "keyframe_candidates\\20250607-第一个设计领域Agent：Lovart (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250607-第一个设计领域Agent：Lovart (1)\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays the core concept of 'Intelligent Scheduling: Multi-model Collaboration' with a clear visual explanation and UI layout.",
+      "keywords": [
+        "diagram",
+        "UI",
+        "concept"
+      ],
+      "candidate_source": "keyframe_candidates\\20250607-第一个设计领域Agent：Lovart (1)\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250607-第一个设计领域Agent：Lovart (1)\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Captures a clear slide explaining 'Third Product Concept' with bullet points on 'Desk', 'Agent', and 'Toolbox', essential for understanding the architecture.",
+      "keywords": [
+        "slide",
+        "concept",
+        "text"
+      ],
+      "candidate_source": "keyframe_candidates\\20250607-第一个设计领域Agent：Lovart (1)\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250607-第一个设计领域Agent：Lovart (1)\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a completed emotion/sticker generation demo with clear UI and output, illustrating a key functionality.",
+          "keywords": [
+            "demo",
+            "UI",
+            "output"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Displays the core concept of 'Intelligent Scheduling: Multi-model Collaboration' with a clear visual explanation and UI layout.",
+          "keywords": [
+            "diagram",
+            "UI",
+            "concept"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Captures a clear slide explaining 'Third Product Concept' with bullet points on 'Desk', 'Agent', and 'Toolbox', essential for understanding the architecture.",
+          "keywords": [
+            "slide",
+            "concept",
+            "text"
+          ]
+        }
+      ],
+      "dropped_summary": "Dropped frames were either lecturer-only, lacked visual artifacts, or did not show key teaching content or state changes.",
+      "sheet": "keyframe_selection\\sheets\\20250607-第一个设计领域Agent：Lovart (1)\\20250607-第一个设计领域Agent：Lovart (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

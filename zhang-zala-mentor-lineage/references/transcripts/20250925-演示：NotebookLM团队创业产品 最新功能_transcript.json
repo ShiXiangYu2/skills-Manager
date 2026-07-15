@@ -1,0 +1,16 @@
+{
+  "full_text": "去年noble LM3个主力成员集体离职去创业了。然后他们出来之后做的这个产品叫hos，他会每天给我生成一个个性化的daily briefing，也是一个播客的形式，还是一男一女，然后2个AI在聊，但是他们聊的内容都是跟我息息相关的。我一进入这个app，他就会让我连接我的gmail和我的google calendar，他就会基于我的邮箱和日历上的内容来每天给我定制一个播客。比如说他会给我总结一下，根据我的邮箱。我今天有哪些要处理的事情啊，就实有点像你有一个个人助理，然后每天在上班的路上给你做个 briefing。另外他们也就是呃今天上线了一个新的功能，因为我是他们的那个早期内测用户，所以他提前给我开的权限。这个功能叫create live station，它是一个私人广播电台的概念，你可以自定义这个广播电台的主题，然后你可以给他加一些source，比如说一些博客呀，一些呃readdit上的。社区啊或者是一些人的twitter，它就变成了一个你的私人的24乘7的广播电台。就是你任何时候都可以进入这个广播电台，然后这俩人就开始聊你预先设定的这个话题。然后我昨天实际试了一下。比如说我最近在研究语言学习这个领域。然后我就把radit上的这个language learningarning这个社区的链接输入到了我这个广播电台的source里。然后我就听了一下，我就效果还是很不错的。Good evening, Zara, This is language learning Reddit. Last time we chatted about how some folks feel a personality shift when speaking a new language. Let's see what's new in the world of language learning today Heang T while we check for the freshest updates Okay, looks like we have a lot to unpack for you today on the language learning subredit, the communitys been grappling with the why behind their learning debating the value of gamified apps and as always sharing a ton of new tools觉还挺.日常可能没有时间总进入那个subread去看他最新的帖子，因为帖子特别特别多。但如果有这两个AI博主，就是他俩每天去给我check这个readdit社区里最新大家又讨论了什么，然后以一种很轻松两个人聊天的方式来给我 brief一下，我觉得还挺好的。所以我觉得这个真的就是把这个countent for one又进一步升华了。以前是一次性生成一个比如十0分钟的播客。现在你可以生成一个24小时。永远在转的一个广播电台，你随时进去，他都会实时的给你去check这些sourcece最新的东西。比如说你可以把我刚才分享的这些AI大佬的twitter就就放进去。然后他这俩人就会每天给你 checkck这些大佬最新又说了什么，然后用你喜欢的方式给你讲出来。",
+  "segments": [
+    {
+      "start": 0,
+      "end": 167.63,
+      "text": "去年noble LM3个主力成员集体离职去创业了。然后他们出来之后做的这个产品叫hos，他会每天给我生成一个个性化的daily briefing，也是一个播客的形式，还是一男一女，然后2个AI在聊，但是他们聊的内容都是跟我息息相关的。我一进入这个app，他就会让我连接我的gmail和我的google calendar，他就会基于我的邮箱和日历上的内容来每天给我定制一个播客。比如说他会给我总结一下，根据我的邮箱。我今天有哪些要处理的事情啊，就实有点像你有一个个人助理，然后每天在上班的路上给你做个 briefing。另外他们也就是呃今天上线了一个新的功能，因为我是他们的那个早期内测用户，所以他提前给我开的权限。这个功能叫create live station，它是一个私人广播电台的概念，你可以自定义这个广播电台的主题，然后你可以给他加一些source，比如说一些博客呀，一些呃readdit上的。社区啊或者是一些人的twitter，它就变成了一个你的私人的24乘7的广播电台。就是你任何时候都可以进入这个广播电台，然后这俩人就开始聊你预先设定的这个话题。然后我昨天实际试了一下。比如说我最近在研究语言学习这个领域。然后我就把radit上的这个language learningarning这个社区的链接输入到了我这个广播电台的source里。然后我就听了一下，我就效果还是很不错的。Good evening, Zara, This is language learning Reddit. Last time we chatted about how some folks feel a personality shift when speaking a new language. Let's see what's new in the world of language learning today Heang T while we check for the freshest updates Okay, looks like we have a lot to unpack for you today on the language learning subredit, the communitys been grappling with the why behind their learning debating the value of gamified apps and as always sharing a ton of new tools觉还挺.日常可能没有时间总进入那个subread去看他最新的帖子，因为帖子特别特别多。但如果有这两个AI博主，就是他俩每天去给我check这个readdit社区里最新大家又讨论了什么，然后以一种很轻松两个人聊天的方式来给我 brief一下，我觉得还挺好的。所以我觉得这个真的就是把这个countent for one又进一步升华了。以前是一次性生成一个比如十0分钟的播客。现在你可以生成一个24小时。永远在转的一个广播电台，你随时进去，他都会实时的给你去check这些sourcece最新的东西。比如说你可以把我刚才分享的这些AI大佬的twitter就就放进去。然后他这俩人就会每天给你 checkck这些大佬最新又说了什么，然后用你喜欢的方式给你讲出来。"
+    }
+  ],
+  "language": "zh",
+  "duration": 167.63,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "20250925-演示：NotebookLM团队创业产品 最新功能",
+  "video_path": "D:\\视频下载\\张咋啦\\20250925-演示：NotebookLM团队创业产品 最新功能.mp4",
+  "source_type": "video"
+}

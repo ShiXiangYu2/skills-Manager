@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a clear screenshot of an ebook interface with download and format options, illustrating a key teaching point about loading content into ebook readers. The visual artifact is complete and paired with informative subtitles, making it ideal for source-backed explanation and verification.",
+      "keywords": [
+        "ebook",
+        "download",
+        "interface",
+        "tutorial",
+        "screenshot"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. This single frame was selected for its clear, informative visual content relevant to the course topic.",
+  "sheet": "keyframe_selection\\sheets\\20260122-我做了一个自动把播客改写成ebook的工作流\\20260122-我做了一个自动把播客改写成ebook的工作流_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

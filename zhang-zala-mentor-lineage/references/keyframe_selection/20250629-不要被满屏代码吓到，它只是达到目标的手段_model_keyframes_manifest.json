@@ -1,0 +1,19 @@
+{
+  "media": "20250629-不要被满屏代码吓到，它只是达到目标的手段",
+  "video_path": "D:\\视频下载\\张咋啦\\20250629-不要被满屏代码吓到，它只是达到目标的手段.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250629-不要被满屏代码吓到，它只是达到目标的手段",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250629-不要被满屏代码吓到，它只是达到目标的手段",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only or contain no visible teaching artifacts such as slides, diagrams, or demonstrations. They are either low-information or redundant with no material visual changes to preserve for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20250629-不要被满屏代码吓到，它只是达到目标的手段\\20250629-不要被满屏代码吓到，它只是达到目标的手段_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

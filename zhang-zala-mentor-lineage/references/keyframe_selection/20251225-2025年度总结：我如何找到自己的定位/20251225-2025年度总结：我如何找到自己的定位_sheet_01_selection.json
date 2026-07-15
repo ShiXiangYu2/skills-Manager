@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a clear slide with structured summary data including metrics (Xiaohongshu and Twitter growth), actionable outcomes (side project, influencing others), and a key personal insight ('找到自己的定位'), making it a valuable teaching artifact for reflection and course distillation.",
+      "keywords": [
+        "summary",
+        "metrics",
+        "personal growth",
+        "side project"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a crucial quote from Naval Ravikant with contextual Chinese translation and mindset principles ('定位不是想出来的，是折腾出来的'), which serves as a foundational concept for the course. The frame includes an illustrative tweet and relevant subheading ('如何松弛地成长'), providing rich source-backed material for explanation and review.",
+      "keywords": [
+        "quote",
+        "Naval Ravikant",
+        "mindset",
+        "leverage",
+        "growth"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either contain only the lecturer with no visible teaching artifact, show blurred or low-information visuals, or are redundant/duplicate content. The frames focused solely on the speaker's face without accompanying slides, text, or UI elements lacked material value for course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20251225-2025年度总结：我如何找到自己的定位\\20251225-2025年度总结：我如何找到自己的定位_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

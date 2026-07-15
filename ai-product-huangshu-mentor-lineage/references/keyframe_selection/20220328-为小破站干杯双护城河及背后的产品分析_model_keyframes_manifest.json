@@ -1,0 +1,19 @@
+{
+  "media": "20220328-为小破站干杯双护城河及背后的产品分析",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220328-为小破站干杯双护城河及背后的产品分析.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\20220328-为小破站干杯双护城河及背后的产品分析",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220328-为小破站干杯双护城河及背后的产品分析",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show the lecturer speaking with minimal visual state changes, no clear teaching artifacts, and are largely redundant in content. They lack unique visual teaching materials or critical state changes to warrant preservation for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20220328-为小破站干杯双护城河及背后的产品分析\\20220328-为小破站干杯双护城河及背后的产品分析_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

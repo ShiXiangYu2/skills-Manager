@@ -1,0 +1,87 @@
+{
+  "media": "20220308-亲宝宝用产品思维驱动商业思维，深度分析",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220308-亲宝宝用产品思维驱动商业思维，深度分析.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220308-亲宝宝用产品思维驱动商业思维，深度分析",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20220308-亲宝宝用产品思维驱动商业思维，深度分析",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the core topic of the video: '产品本质' (Product Essence), setting context for the entire lesson.",
+      "keywords": [
+        "intro",
+        "topic",
+        "overview"
+      ],
+      "candidate_source": "keyframe_candidates\\20220308-亲宝宝用产品思维驱动商业思维，深度分析\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220308-亲宝宝用产品思维驱动商业思维，深度分析\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Clearly shows a key teaching point: '亲宝宝最后的策略是去挖掘用户需求' (Qin Bao's final strategy is to dig into user needs). This is a crucial business insight.",
+      "keywords": [
+        "key insight",
+        "strategy",
+        "user needs"
+      ],
+      "candidate_source": "keyframe_candidates\\20220308-亲宝宝用产品思维驱动商业思维，深度分析\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20220308-亲宝宝用产品思维驱动商业思维，深度分析\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "The lecturer concludes the video by summarizing the core content, serving as a strong closing statement and review point.",
+      "keywords": [
+        "conclusion",
+        "summary",
+        "wrap-up"
+      ],
+      "candidate_source": "keyframe_candidates\\20220308-亲宝宝用产品思维驱动商业思维，深度分析\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20220308-亲宝宝用产品思维驱动商业思维，深度分析\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Introduces the core topic of the video: '产品本质' (Product Essence), setting context for the entire lesson.",
+          "keywords": [
+            "intro",
+            "topic",
+            "overview"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Clearly shows a key teaching point: '亲宝宝最后的策略是去挖掘用户需求' (Qin Bao's final strategy is to dig into user needs). This is a crucial business insight.",
+          "keywords": [
+            "key insight",
+            "strategy",
+            "user needs"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04",
+          "reason": "The lecturer concludes the video by summarizing the core content, serving as a strong closing statement and review point.",
+          "keywords": [
+            "conclusion",
+            "summary",
+            "wrap-up"
+          ]
+        }
+      ],
+      "dropped_summary": "All frames are relevant to the core content and visual teaching artifacts. No frames were dropped as they all meet the selection criteria for being key teaching moments, summaries, or introductory context.",
+      "sheet": "keyframe_selection\\sheets\\20220308-亲宝宝用产品思维驱动商业思维，深度分析\\20220308-亲宝宝用产品思维驱动商业思维，深度分析_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e67a4afd-0c11-4ab6-9da0-04de51b3f41d",
+  "path": "life-designer",
+  "path_key": "life-designer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

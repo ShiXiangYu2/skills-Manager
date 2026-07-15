@@ -1,0 +1,58 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear slide with a map and text explaining how to use AI+高德地图MCP, a key teaching artifact.",
+      "keywords": [
+        "slide",
+        "map",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a webpage interface for finding MCP servers, which is a complete and clear visual for the topic.",
+      "keywords": [
+        "UI",
+        "webpage",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Shows a code editor with highlighted parameters, demonstrating a key coding step with visual clarity.",
+      "keywords": [
+        "code",
+        "diagram",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06",
+      "reason": "Clear view of a codebase structure, essential for understanding the project setup.",
+      "keywords": [
+        "code",
+        "structure",
+        "visual state"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "00:08",
+      "reason": "Displays a terminal and code editor side-by-side, showing a key transformation in the demo.",
+      "keywords": [
+        "demo",
+        "visual state",
+        "code"
+      ]
+    }
+  ],
+  "dropped_summary": "No frames were dropped as all frames contain valuable teaching artifacts. However, only 5 frames were selected as the limit is 8, and these 5 are the most informative and complete visual states for course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20250331-10分钟搞定高德MCP！用AI解决约会地点难题\\20250331-10分钟搞定高德MCP！用AI解决约会地点难题_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

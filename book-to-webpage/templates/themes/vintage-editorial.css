@@ -1,0 +1,55 @@
+/* ============================================================
+   复古编辑（vintage-editorial · 奶油纸 + 砖红强调）
+   净奶油底 + 宋体标题 + 苹方正文（无衬线正文，独此一家）；
+   砖红单点强调 + 宽留白 + 暖铜点缀，英式 editorial 气质。
+   与 warm-paper 的区别：去渐变改净底、正文换无衬线、
+   强调色从金→砖红，更现代杂志感。
+   ============================================================ */
+:root {
+  --ink: #1f1a15;          /* 暖黑——略偏棕，非纯黑 */
+  --muted: #8c8176;        /* 暖灰 */
+  --paper: #f5f3ee;        /* 奶油纸 */
+  --paper-deep: #ebe6dc;   /* 深奶油 */
+  --line: #d9d1c4;         /* 暖灰线 */
+  --red: #c05a4a;          /* 砖红 = 唯一彩色强调 */
+  --blue: #4a5568;         /* 收敛到灰蓝（次要强调） */
+  --green: #6b7064;        /* 收敛到暖灰绿（before/after 的 after） */
+  --gold: #b8893e;         /* 暖铜金（CTA / quote / accordion 标记） */
+  --white: #faf8f2;        /* 米白 */
+  --shadow: 0 14px 44px rgba(50, 38, 28, .08);
+
+  --font-body: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+  --font-display: "Songti SC", "STSong", "Noto Serif CJK SC", Georgia, serif;
+  --bg: #f5f3ee;           /* 净奶油色、去渐变 */
+  --surface: rgba(250, 248, 242, .55);
+  --surface-strong: rgba(250, 248, 242, .72);
+  --bar-bg: rgba(245, 243, 238, .95);
+  --ink-soft: #3d3530;
+  --ink-soft-2: #4a403b;
+  --tint-accent: rgba(192, 90, 74, .08);
+  --tint-accent-strong: rgba(192, 90, 74, .12);
+}
+
+/* —— thesis 总论边条：砖红 —— */
+[data-theme="vintage-editorial"] .thesis { border-left-color: var(--red); }
+
+/* —— 卡片/组件微调：稍厚边框，杂志感 —— */
+[data-theme="vintage-editorial"] .note,
+[data-theme="vintage-editorial"] .story,
+[data-theme="vintage-editorial"] .quote { border: 1px solid var(--line); }
+
+/* —— accordion 标记：+/- → ▸/▾（三角箭头，编辑风） —— */
+[data-theme="vintage-editorial"] .accordion summary::before {
+  content: "▸";
+  width: auto;
+  min-width: 1.5em;
+  color: var(--red);
+}
+[data-theme="vintage-editorial"] .accordion details[open] summary::before { content: "▾"; }
+
+/* —— 引号装饰：直引号 → ❝（装饰性开引号） —— */
+[data-theme="vintage-editorial"] .quote::before {
+  content: "❝";
+  color: var(--red);
+  font-family: Georgia, "Songti SC", serif;
+}

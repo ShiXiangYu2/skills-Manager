@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the Flomo app interface with clear text on user needs and cost control strategy, a key teaching artifact.",
+      "keywords": [
+        "Flomo",
+        "user needs",
+        "cost control"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Highlights a core teaching point about user pursuit of 'getting better' rather than new features, with clear visual emphasis.",
+      "keywords": [
+        "user pursuit",
+        "better",
+        "new features"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Captures the final teaching point on technical service personnel's thinking and growth, which is a key conclusion.",
+      "keywords": [
+        "technical service",
+        "thinking",
+        "growth"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames contain significant teaching artifacts or visual state changes; all others are either redundant or lack instructional value.",
+  "sheet": "keyframe_selection\\sheets\\20250604-flomo的AI哲学：拒绝替你思考\\20250604-flomo的AI哲学：拒绝替你思考_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete UI settings panel with interactive controls (corner radius, camera toggle, size slider, canvas padding, cursor color) and a clear teaching artifact — potentially a software demo or configuration tutorial. The presence of Chinese text suggests instructional context. This frame captures a distinct visual state change as the core interface is shown clearly.",
+      "keywords": [
+        "UI",
+        "settings",
+        "demo",
+        "software",
+        "configuration"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. This frame is selected as it contains a meaningful, non-blank visual artifact that serves as a source-backed demonstration of a software interface, meeting criteria 1, 2, and 3.",
+  "sheet": "keyframe_selection\\sheets\\20260206-我做了个白板视频录制工具！来录制我的同款\\20260206-我做了个白板视频录制工具！来录制我的同款_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

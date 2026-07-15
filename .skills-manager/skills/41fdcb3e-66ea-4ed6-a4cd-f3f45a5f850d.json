@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "41fdcb3e-66ea-4ed6-a4cd-f3f45a5f850d",
+  "path": "vercel-react-view-transitions",
+  "path_key": "vercel-react-view-transitions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

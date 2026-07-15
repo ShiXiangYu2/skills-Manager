@@ -1,0 +1,51 @@
+/* ============================================================
+   东方水墨（ink-wash · 中式宣纸）
+   收敛到「墨黑 + 朱砂单红」：宣纸白底、水墨黑字、朱砂印章红
+   作唯一彩色点缀；标题去黑体改宋/楷统一；accordion 标记用「」
+   书名号替代 +/−，引号用『』，留白加大。
+   ============================================================ */
+:root {
+  --ink: #1a1a1a;          /* 墨黑 */
+  --muted: #7a7468;        /* 墨灰 */
+  --paper: #f4f0e6;        /* 宣纸白 */
+  --paper-deep: #eae3d2;
+  --line: #cfc6b0;         /* 淡墨线 */
+  --red: #9c2b1f;          /* 朱砂印章红 = 唯一彩色 */
+  --blue: #3a352d;         /* 深墨（active/insight）*/
+  --green: #6b6354;        /* 墨灰（before/after 的 after）*/
+  --gold: #9c2b1f;         /* 收敛到朱砂 */
+  --white: #fbf8ef;        /* 米白 */
+  --shadow: 0 14px 44px rgba(60, 50, 35, .10);
+
+  --font-body: "Songti SC", "STKaiti", "KaiTi", "Noto Serif CJK SC", Georgia, serif;
+  --font-display: "Songti SC", "STSong", "Noto Serif CJK SC", serif;  /* 标题去黑体，统一衬线 */
+  --bg: #f4f0e6;           /* 宣纸白、去渐变 */
+  --surface: rgba(255, 253, 247, .5);
+  --surface-strong: rgba(255, 253, 247, .7);
+  --bar-bg: rgba(244, 240, 230, .95);
+  --ink-soft: #3a352d;
+  --ink-soft-2: #2e2a23;
+  --tint-accent: rgba(156, 43, 31, .08);
+  --tint-accent-strong: rgba(156, 43, 31, .12);
+}
+
+/* —— 留白加大：水墨讲究呼吸感 —— */
+[data-theme="ink-wash"] .note,
+[data-theme="ink-wash"] .story,
+[data-theme="ink-wash"] .quote { padding: 28px 32px; }
+
+/* —— accordion 标记：+/− → 书名号 「」 —— */
+[data-theme="ink-wash"] .accordion summary::before {
+  content: "「";
+  width: auto;
+  min-width: 1.5em;
+  color: var(--red);
+}
+[data-theme="ink-wash"] .accordion details[open] summary::before { content: "」"; }
+
+/* —— 引号装饰：直引号 → 『 —— */
+[data-theme="ink-wash"] .quote::before {
+  content: "『";
+  color: var(--red);
+  font-family: var(--font-body);
+}

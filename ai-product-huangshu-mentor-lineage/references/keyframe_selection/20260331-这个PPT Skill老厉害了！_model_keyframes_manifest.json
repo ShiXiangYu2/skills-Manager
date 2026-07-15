@@ -1,0 +1,19 @@
+{
+  "media": "20260331-这个PPT Skill老厉害了！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260331-这个PPT Skill老厉害了！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260331-这个PPT Skill老厉害了！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260331-这个PPT Skill老厉害了！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is a title slide with minimal visual content and no teaching artifact or visual state change. It is also the only frame provided, so no other frames can be evaluated for selection.",
+      "sheet": "keyframe_selection\\sheets\\20260331-这个PPT Skill老厉害了！\\20260331-这个PPT Skill老厉害了！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Captures a Twitter/X post with detailed user comments, reactions, and engagement metrics, including viewer count and top comments. This provides clear evidence of platform interaction and audience reception, which is useful for analysis and verification.",
+      "keywords": [
+        "social media",
+        "engagement",
+        "comments",
+        "analytics"
+      ]
+    }
+  ],
+  "dropped_summary": "Frame 0001 shows the same post but lacks visible user engagement details and is overly focused on the embedded video thumbnail. No material visual or informational change occurs between the two frames; frame 0002 offers a clearer, more complete view of the teaching artifact (the social post with data). All other frames (if any) are not present or would be duplicates or low-information.",
+  "sheet": "keyframe_selection\\sheets\\20250419-被这个女生找工作的方式震撼到了\\20250419-被这个女生找工作的方式震撼到了_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

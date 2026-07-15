@@ -1,0 +1,67 @@
+{
+  "media": "20260619-如何用HTML做视频：幕后全制作流程demo",
+  "video_path": "D:\\视频下载\\张咋啦\\20260619-如何用HTML做视频：幕后全制作流程demo.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260619-如何用HTML做视频：幕后全制作流程demo",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260619-如何用HTML做视频：幕后全制作流程demo",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a slide with structured text content and a speaker annotation, providing a clear teaching artifact for course distillation.",
+      "keywords": [
+        "slide",
+        "text",
+        "annotation"
+      ],
+      "candidate_source": "keyframe_candidates\\20260619-如何用HTML做视频：幕后全制作流程demo\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260619-如何用HTML做视频：幕后全制作流程demo\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a UI interface with interactive elements and a highlighted annotation, indicating a visual state change relevant to the lesson.",
+      "keywords": [
+        "UI",
+        "interface",
+        "annotation",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260619-如何用HTML做视频：幕后全制作流程demo\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260619-如何用HTML做视频：幕后全制作流程demo\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a slide with structured text content and a speaker annotation, providing a clear teaching artifact for course distillation.",
+          "keywords": [
+            "slide",
+            "text",
+            "annotation"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a UI interface with interactive elements and a highlighted annotation, indicating a visual state change relevant to the lesson.",
+          "keywords": [
+            "UI",
+            "interface",
+            "annotation",
+            "demo"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames not shown or outside the provided contact sheet are assumed to be either lecturer-only, blank, or low-information based on typical video content patterns. The provided frames are the only visible candidates and both meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260619-如何用HTML做视频：幕后全制作流程demo\\20260619-如何用HTML做视频：幕后全制作流程demo_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

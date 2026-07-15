@@ -1,0 +1,29 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a slide with structured text content and a speaker annotation, providing a clear teaching artifact for course distillation.",
+      "keywords": [
+        "slide",
+        "text",
+        "annotation"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a UI interface with interactive elements and a highlighted annotation, indicating a visual state change relevant to the lesson.",
+      "keywords": [
+        "UI",
+        "interface",
+        "annotation",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames not shown or outside the provided contact sheet are assumed to be either lecturer-only, blank, or low-information based on typical video content patterns. The provided frames are the only visible candidates and both meet selection criteria.",
+  "sheet": "keyframe_selection\\sheets\\20260619-如何用HTML做视频：幕后全制作流程demo\\20260619-如何用HTML做视频：幕后全制作流程demo_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

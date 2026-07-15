@@ -1,0 +1,19 @@
+{
+  "media": "20230321-我做了12年产品，想和你分享5条走心建议",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230321-我做了12年产品，想和你分享5条走心建议.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230321-我做了12年产品，想和你分享5条走心建议",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230321-我做了12年产品，想和你分享5条走心建议",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts (slides, boards, UI, diagrams, etc.) that meet the selection criteria. Both frames show the lecturer with on-screen text, but the text is not a teaching artifact or visual state change material to the course content; it is promotional or supplementary.",
+      "sheet": "keyframe_selection\\sheets\\20230321-我做了12年产品，想和你分享5条走心建议\\20230321-我做了12年产品，想和你分享5条走心建议_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

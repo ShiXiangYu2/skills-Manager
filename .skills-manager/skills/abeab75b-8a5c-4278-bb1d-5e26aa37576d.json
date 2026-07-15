@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "abeab75b-8a5c-4278-bb1d-5e26aa37576d",
+  "path": "slack-gif-creator",
+  "path_key": "slack-gif-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the course title and initial UI layout, including the main video and suggested questions panel, providing foundational context for the session.",
+      "keywords": [
+        "course title",
+        "UI layout",
+        "suggested questions"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a demo of personalized question generation with clear UI elements and a highlighted video, representing a key interactive teaching moment.",
+      "keywords": [
+        "demo",
+        "personalized questions",
+        "interactive UI"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Highlights the specific entry point 'TLDW' with a clear visual annotation, crucial for source-backed explanation of how to access the feature.",
+      "keywords": [
+        "TLDW",
+        "entry point",
+        "annotation"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either show only the lecturer, contain minimal UI changes, or lack distinct teaching artifacts; no frames displayed slides, diagrams, or material visual state changes beyond the selected ones.",
+  "sheet": "keyframe_selection\\sheets\\20251030-我发布了自己的第一个AI产品！（演示）\\20251030-我发布了自己的第一个AI产品！（演示）_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

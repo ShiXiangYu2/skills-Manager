@@ -1,0 +1,29 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear welcome message and course access instructions, serving as an introductory teaching artifact.",
+      "keywords": [
+        "intro",
+        "course_access",
+        "welcome_message"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a key visual argument: a whiteboard with handwritten text criticizing '终身VIP' as a '死路' (dead end), which is a central teaching point.",
+      "keywords": [
+        "whiteboard",
+        "teaching_point",
+        "criticism",
+        "visual_state_change"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are either introductory/outro, blurred, or contain only lecturer visuals without significant teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20220323-万门大学跑路背后的核心问题估计你没注意！\\20220323-万门大学跑路背后的核心问题估计你没注意！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

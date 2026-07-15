@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f787902-7eb3-4e0b-a1a1-a3d74151a4d2",
+  "path": "hello-agent-mentor",
+  "path_key": "hello-agent-mentor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20230917-好的AI产品应该怎么做？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230917-好的AI产品应该怎么做？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230917-好的AI产品应该怎么做？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230917-好的AI产品应该怎么做？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (frame_0001.jpg) or blank/black (frame_0002.jpg), which do not meet the selection criteria for teaching artifacts or visual states.",
+      "sheet": "keyframe_selection\\sheets\\20230917-好的AI产品应该怎么做？\\20230917-好的AI产品应该怎么做？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

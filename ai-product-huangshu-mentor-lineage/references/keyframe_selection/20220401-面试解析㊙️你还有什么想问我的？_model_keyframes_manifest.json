@@ -1,0 +1,19 @@
+{
+  "media": "20220401-面试解析㊙️你还有什么想问我的？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220401-面试解析㊙️你还有什么想问我的？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220401-面试解析㊙️你还有什么想问我的？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220401-面试解析㊙️你还有什么想问我的？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain materially significant teaching artifacts such as slides, diagrams, formulas, or clear visual state changes. All frames show the lecturer speaking without distinct educational content or visual aids that meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20220401-面试解析㊙️你还有什么想问我的？\\20220401-面试解析㊙️你还有什么想问我的？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

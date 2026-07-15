@@ -1,0 +1,19 @@
+{
+  "media": "20230505-蔚来ES7维权车主：2023最惨的人",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230505-蔚来ES7维权车主：2023最惨的人.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\20230505-蔚来ES7维权车主：2023最惨的人",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230505-蔚来ES7维权车主：2023最惨的人",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show only the lecturer speaking with subtitle overlays; no slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes are visible. All frames are lecturer-only and lack teaching artifacts, so they are dropped per selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230505-蔚来ES7维权车主：2023最惨的人\\20230505-蔚来ES7维权车主：2023最惨的人_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

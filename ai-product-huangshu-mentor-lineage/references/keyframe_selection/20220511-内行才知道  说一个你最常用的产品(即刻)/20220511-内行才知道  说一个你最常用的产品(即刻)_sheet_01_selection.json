@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial whiteboard content with clear text about user questions and product details, serving as the starting point for the teaching artifact.",
+      "keywords": [
+        "whiteboard",
+        "intro",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames were either duplicates or did not materially change the visual state or teaching artifact, and were therefore dropped to maintain focus on key instructional moments.",
+  "sheet": "keyframe_selection\\sheets\\20220511-内行才知道  说一个你最常用的产品(即刻)\\20220511-内行才知道  说一个你最常用的产品(即刻)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the phone screen with the Douyin app interface, a key visual teaching artifact demonstrating the app's functionality.",
+      "keywords": [
+        "UI",
+        "demo",
+        "app"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Captures a clear visual state change with the lecturer gesturing while explaining a technical step, enhancing comprehension.",
+      "keywords": [
+        "demo",
+        "visual state change",
+        "explanation"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06",
+      "reason": "Displays the lecturer holding a stylus, indicating a transition to a new demonstration or interaction, which is a key instructional moment.",
+      "keywords": [
+        "demo",
+        "visual state change",
+        "instruction"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0002.jpg was dropped as it primarily shows the lecturer speaking without any visual teaching artifact or state change, and it does not add unique value to the course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20241027-字节AI耳机深度评测，说一些真实体验 (1)\\20241027-字节AI耳机深度评测，说一些真实体验 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

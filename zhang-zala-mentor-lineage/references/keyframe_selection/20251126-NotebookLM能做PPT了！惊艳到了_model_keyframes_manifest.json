@@ -1,0 +1,69 @@
+{
+  "media": "20251126-NotebookLM能做PPT了！惊艳到了",
+  "video_path": "D:\\视频下载\\张咋啦\\20251126-NotebookLM能做PPT了！惊艳到了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251126-NotebookLM能做PPT了！惊艳到了",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20251126-NotebookLM能做PPT了！惊艳到了",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete slide with a Venn diagram illustrating 'Your Authentic Positioning' and key text about defining one's position, which serves as a foundational teaching artifact for the course concept.",
+      "keywords": [
+        "Venn diagram",
+        "positioning",
+        "authenticity",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\20251126-NotebookLM能做PPT了！惊艳到了\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251126-NotebookLM能做PPT了！惊艳到了\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a subsequent slide with a different message ('The Real Goal: Grow, But Be Yourself') and a similar diagram, indicating a material visual change and progression in the teaching narrative, useful for illustrating thematic evolution.",
+      "keywords": [
+        "slide evolution",
+        "growth",
+        "authenticity",
+        "diagram"
+      ],
+      "candidate_source": "keyframe_candidates\\20251126-NotebookLM能做PPT了！惊艳到了\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20251126-NotebookLM能做PPT了！惊艳到了\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear, complete slide with a Venn diagram illustrating 'Your Authentic Positioning' and key text about defining one's position, which serves as a foundational teaching artifact for the course concept.",
+          "keywords": [
+            "Venn diagram",
+            "positioning",
+            "authenticity",
+            "slide"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a subsequent slide with a different message ('The Real Goal: Grow, But Be Yourself') and a similar diagram, indicating a material visual change and progression in the teaching narrative, useful for illustrating thematic evolution.",
+          "keywords": [
+            "slide evolution",
+            "growth",
+            "authenticity",
+            "diagram"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames not shown are assumed to be duplicates, lecturer-only, or low-information variants of these two key slides. No additional distinct teaching artifacts, demos, or visual changes were observed in the provided frames.",
+      "sheet": "keyframe_selection\\sheets\\20251126-NotebookLM能做PPT了！惊艳到了\\20251126-NotebookLM能做PPT了！惊艳到了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

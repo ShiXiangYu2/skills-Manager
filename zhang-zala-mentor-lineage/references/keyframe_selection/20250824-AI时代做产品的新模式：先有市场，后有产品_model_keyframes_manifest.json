@@ -1,0 +1,69 @@
+{
+  "media": "20250824-AI时代做产品的新模式：先有市场，后有产品",
+  "video_path": "D:\\视频下载\\张咋啦\\20250824-AI时代做产品的新模式：先有市场，后有产品.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250824-AI时代做产品的新模式：先有市场，后有产品",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20250824-AI时代做产品的新模式：先有市场，后有产品",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a core conceptual diagram comparing 'Product → Market' and 'Market → Product' models, accompanied by clear explanatory subtitles in Chinese, making it a key teaching artifact.",
+      "keywords": [
+        "Product-Market Fit",
+        "Business Model",
+        "Diagram",
+        "Conceptual"
+      ],
+      "candidate_source": "keyframe_candidates\\20250824-AI时代做产品的新模式：先有市场，后有产品\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250824-AI时代做产品的新模式：先有市场，后有产品\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a social media post highlighting a new business model validated by a $100k MRR milestone, with clear text explaining its significance and impact, providing source-backed context for the teaching point.",
+      "keywords": [
+        "Business Model",
+        "MRR Milestone",
+        "AGI",
+        "Source Example"
+      ],
+      "candidate_source": "keyframe_candidates\\20250824-AI时代做产品的新模式：先有市场，后有产品\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250824-AI时代做产品的新模式：先有市场，后有产品\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a core conceptual diagram comparing 'Product → Market' and 'Market → Product' models, accompanied by clear explanatory subtitles in Chinese, making it a key teaching artifact.",
+          "keywords": [
+            "Product-Market Fit",
+            "Business Model",
+            "Diagram",
+            "Conceptual"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a social media post highlighting a new business model validated by a $100k MRR milestone, with clear text explaining its significance and impact, providing source-backed context for the teaching point.",
+          "keywords": [
+            "Business Model",
+            "MRR Milestone",
+            "AGI",
+            "Source Example"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames are visible or provided, so no further selection or dropping is applicable.",
+      "sheet": "keyframe_selection\\sheets\\20250824-AI时代做产品的新模式：先有市场，后有产品\\20250824-AI时代做产品的新模式：先有市场，后有产品_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "The frame contains a clear textual overlay with a key teaching point about AI trends being part of PM work, along with a subtitle indicating core course content. It serves as an informative introduction to the topic and is valuable for source-backed explanation.",
+      "keywords": [
+        "AI",
+        "PM",
+        "course intro",
+        "text overlay",
+        "subtitle"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were not available for evaluation; however, based on the provided single frame, only frames with clear teaching artifacts (slides, diagrams, text, demos) are selected. This frame is chosen for its clear, context-rich textual content relevant to course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20251118-关注AI技术动态 才能避免重新造轮子\\20251118-关注AI技术动态 才能避免重新造轮子_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

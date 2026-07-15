@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "The frame shows the initial state of the whiteboard diagram, which is a critical teaching artifact for understanding the concept being introduced.",
+      "keywords": [
+        "whiteboard",
+        "diagram",
+        "introduction"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "This frame captures an important visual state change on the whiteboard as the presenter adds annotations, providing clearer context for the audience.",
+      "keywords": [
+        "whiteboard",
+        "visual change",
+        "annotation"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "The frame displays the final state of the diagram with completed annotations, making it useful for review and verification of the teaching content.",
+      "keywords": [
+        "whiteboard",
+        "final state",
+        "review"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were selected as they either duplicated the content already captured in the selected frames or were not critical to the teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20220417-这个理念产品经理很缺，有了它会很强\\20220417-这个理念产品经理很缺，有了它会很强_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

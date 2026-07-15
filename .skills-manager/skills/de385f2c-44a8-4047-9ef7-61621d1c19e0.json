@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de385f2c-44a8-4047-9ef7-61621d1c19e0",
+  "path": "sumeru-finalize",
+  "path_key": "sumeru-finalize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

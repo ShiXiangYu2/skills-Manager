@@ -1,0 +1,43 @@
+{
+  "media": "20230911-AI产品经理很有前途，还别不信！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230911-AI产品经理很有前途，还别不信！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230911-AI产品经理很有前途，还别不信！",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20230911-AI产品经理很有前途，还别不信！",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the lecturer speaking with an on-screen subtitle stating '这个趋势是已经定了的' (This trend is already set), indicating a key assertion. The frame is clear and presents the first instance of a specific message, serving as a useful reference for later explanation or verification.",
+      "keywords": [
+        "lecturer",
+        "subtitle",
+        "key assertion"
+      ],
+      "candidate_source": "keyframe_candidates\\20230911-AI产品经理很有前途，还别不信！\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20230911-AI产品经理很有前途，还别不信！\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures the lecturer speaking with an on-screen subtitle stating '这个趋势是已经定了的' (This trend is already set), indicating a key assertion. The frame is clear and presents the first instance of a specific message, serving as a useful reference for later explanation or verification.",
+          "keywords": [
+            "lecturer",
+            "subtitle",
+            "key assertion"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames from the contact sheet were not provided in the input, so no further analysis is possible. Based on the single frame provided, only one is selected as it contains a clear, meaningful teaching artifact.",
+      "sheet": "keyframe_selection\\sheets\\20230911-AI产品经理很有前途，还别不信！\\20230911-AI产品经理很有前途，还别不信！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

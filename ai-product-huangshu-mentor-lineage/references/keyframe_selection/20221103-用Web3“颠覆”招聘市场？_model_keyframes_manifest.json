@@ -1,0 +1,19 @@
+{
+  "media": "20221103-用Web3“颠覆”招聘市场？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20221103-用Web3“颠覆”招聘市场？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 6,
+  "candidate_dir": "keyframe_candidates\\20221103-用Web3“颠覆”招聘市场？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20221103-用Web3“颠覆”招聘市场？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show only the lecturers speaking with no visible teaching artifacts, visual state changes, or key instructional content. They are lecturer-only frames and do not meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20221103-用Web3“颠覆”招聘市场？\\20221103-用Web3“颠覆”招聘市场？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

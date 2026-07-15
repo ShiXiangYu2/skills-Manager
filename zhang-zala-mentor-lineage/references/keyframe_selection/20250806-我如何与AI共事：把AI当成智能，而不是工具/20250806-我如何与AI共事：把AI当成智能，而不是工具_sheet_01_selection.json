@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Clear slide with key teaching concept 'Context, not control' and bilingual explanation; serves as foundational artifact for discussing AI collaboration philosophy.",
+      "keywords": [
+        "AI",
+        "context",
+        "collaboration",
+        "slide",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation; assuming this is the only frame in the contact sheet. Dropped frames would be lecturer-only, blank, or low-information if present.",
+  "sheet": "keyframe_selection\\sheets\\20250806-我如何与AI共事：把AI当成智能，而不是工具\\20250806-我如何与AI共事：把AI当成智能，而不是工具_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

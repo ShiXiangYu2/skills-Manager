@@ -1,0 +1,19 @@
+{
+  "media": "20220106-剪映月活过亿你不会不知道吧！深度产品分析",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220106-剪映月活过亿你不会不知道吧！深度产品分析.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220106-剪映月活过亿你不会不知道吧！深度产品分析",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220106-剪映月活过亿你不会不知道吧！深度产品分析",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain a slide, board, document, UI, diagram, table, formula, demo, or visual state change that materially advances the teaching content. The only frame visible shows a UI screenshot and speaker, but neither is a clear teaching artifact or visual state change worth preserving for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20220106-剪映月活过亿你不会不知道吧！深度产品分析\\20220106-剪映月活过亿你不会不知道吧！深度产品分析_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a UI screen with chat messages and code snippet, representing a technical demo state with relevant text content for later verification.",
+      "keywords": [
+        "UI",
+        "demo",
+        "chat",
+        "code"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a clear diagram with labeled use cases (在床上, 在地铁, 在路边) and a mobile app interface, illustrating a 7x24-hour service concept with visual connections; serves as a key teaching artifact.",
+      "keywords": [
+        "diagram",
+        "UI",
+        "demo",
+        "use case"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0002.jpg was dropped as it contains only the lecturer speaking without any visible teaching artifact (slide, diagram, UI, etc.). The other frames are either lecturer-only or low-information, failing the selection criteria.",
+  "sheet": "keyframe_selection\\sheets\\BV1UR6wBREv2\\BV1UR6wBREv2_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

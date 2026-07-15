@@ -1,0 +1,19 @@
+{
+  "media": "20251022-Atlas浏览器：不为人知的设计奥秘 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251022-Atlas浏览器：不为人知的设计奥秘 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20251022-Atlas浏览器：不为人知的设计奥秘 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251022-Atlas浏览器：不为人知的设计奥秘 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (frame_0001), contain minimal teaching artifacts (frame_0002), or are low-information UI screenshots without clear educational value (frame_0003). No frame meets the criteria for preserving as key evidence.",
+      "sheet": "keyframe_selection\\sheets\\20251022-Atlas浏览器：不为人知的设计奥秘 (1)\\20251022-Atlas浏览器：不为人知的设计奥秘 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

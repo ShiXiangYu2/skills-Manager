@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6807622f-62dc-46eb-bcc6-469cc8d16d0d",
+  "path": "lineage-skill-2",
+  "path_key": "lineage-skill-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

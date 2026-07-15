@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a detailed document slide with bullet points and structured questions/answers, likely outlining key concepts or a course roadmap. The content is clear, text-heavy, and appears to be a core teaching artifact.",
+      "keywords": [
+        "document",
+        "slide",
+        "course outline",
+        "structured content"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a live demo of a video conferencing or collaborative platform interface with multiple participants, chat text, and UI elements. Captures a real-time visual state change that demonstrates interaction, essential for verifying and explaining the system's features.",
+      "keywords": [
+        "demo",
+        "UI",
+        "video call",
+        "collaboration platform",
+        "real-time interaction"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames not shown were likely dropped as they may be duplicates, low-information, or focused solely on the lecturer without meaningful visual artifacts. The two selected frames provide high-value, source-backed evidence: one as a structured document/slide and the other as a clear UI/demo state.",
+  "sheet": "keyframe_selection\\sheets\\20260403-用AI实现视频长剪短！自动提取高光片段\\20260403-用AI实现视频长剪短！自动提取高光片段_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

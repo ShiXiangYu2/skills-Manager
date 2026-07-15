@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures the initial slide with clear title and bullet points describing NotebookLM's new features, providing essential context for the course segment. It is a complete teaching artifact with minimal visual clutter and is useful for source-backed explanation and review.",
+      "keywords": [
+        "slide",
+        "NotebookLM",
+        "AI product",
+        "content remix"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided in the contact sheet for evaluation. The only frame shown is a clear slide with educational content, so no frames were dropped.",
+  "sheet": "keyframe_selection\\sheets\\20250928-AI生成内容的灵魂 来自于个性化\\20250928-AI生成内容的灵魂 来自于个性化_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

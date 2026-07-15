@@ -1,0 +1,19 @@
+{
+  "media": "20230424-你知道为何蔚来ES7车主愤怒么？因为被背刺了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230424-你知道为何蔚来ES7车主愤怒么？因为被背刺了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230424-你知道为何蔚来ES7车主愤怒么？因为被背刺了",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230424-你知道为何蔚来ES7车主愤怒么？因为被背刺了",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (showing speaker and child) or lack any teaching artifact like slide, diagram, or UI, and thus do not meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230424-你知道为何蔚来ES7车主愤怒么？因为被背刺了\\20230424-你知道为何蔚来ES7车主愤怒么？因为被背刺了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

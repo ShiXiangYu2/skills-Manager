@@ -1,0 +1,159 @@
+{
+  "media": "20260625-如何做出好看的HTML slides：0基础教程",
+  "video_path": "D:\\视频下载\\张咋啦\\20260625-如何做出好看的HTML slides：0基础教程.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 6,
+  "candidate_dir": "keyframe_candidates\\20260625-如何做出好看的HTML slides：0基础教程",
+  "selected_count": 6,
+  "selected_dir": "keyframes_model_selected\\20260625-如何做出好看的HTML slides：0基础教程",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a structured slide with key points on preventing AI slip in design, including bullet points and a visual example of a document with AI-generated content; clear teaching artifact for review.",
+      "keywords": [
+        "AI slip",
+        "design",
+        "Claude Code",
+        "guidelines"
+      ],
+      "candidate_source": "keyframe_candidates\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Presents a clear slide with four actionable steps for talking to AI models; visually organized and directly relevant to course content.",
+      "keywords": [
+        "AI models",
+        "best model",
+        "tokens",
+        "cofounder"
+      ],
+      "candidate_source": "keyframe_candidates\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a slide explaining the concept of treating slides as HTML for smoother presentation; includes both visual UI and explanatory text, useful for understanding presentation best practices.",
+      "keywords": [
+        "HTML slides",
+        "presentation",
+        "content"
+      ],
+      "candidate_source": "keyframe_candidates\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Features a bold, high-contrast slide with the core message 'DON'T BUILD APPS, BUILD SKILLS,' ideal for emphasizing a key course philosophy and memorable takeaway.",
+      "keywords": [
+        "build skills",
+        "not apps",
+        "philosophy"
+      ],
+      "candidate_source": "keyframe_candidates\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Shows a numbered slide '5 MAKE YOUR OWN SKILL' with a clear, actionable focus on personal expertise; supports learning objectives with direct, impactful text.",
+      "keywords": [
+        "own skill",
+        "expertise",
+        "practice"
+      ],
+      "candidate_source": "keyframe_candidates\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0005.jpg",
+      "selected_path": "keyframes_model_selected\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0005.jpg"
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Highlights the 'VIBE CODE YOUR SLIDES' principle with a clear heading and supporting subtext; key for teaching aesthetic and emotional impact in design.",
+      "keywords": [
+        "vibe code",
+        "slides",
+        "design",
+        "aesthetic"
+      ],
+      "candidate_source": "keyframe_candidates\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0006.jpg",
+      "selected_path": "keyframes_model_selected\\20260625-如何做出好看的HTML slides：0基础教程\\frame_0006.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a structured slide with key points on preventing AI slip in design, including bullet points and a visual example of a document with AI-generated content; clear teaching artifact for review.",
+          "keywords": [
+            "AI slip",
+            "design",
+            "Claude Code",
+            "guidelines"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Presents a clear slide with four actionable steps for talking to AI models; visually organized and directly relevant to course content.",
+          "keywords": [
+            "AI models",
+            "best model",
+            "tokens",
+            "cofounder"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a slide explaining the concept of treating slides as HTML for smoother presentation; includes both visual UI and explanatory text, useful for understanding presentation best practices.",
+          "keywords": [
+            "HTML slides",
+            "presentation",
+            "content"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "00:00",
+          "reason": "Features a bold, high-contrast slide with the core message 'DON'T BUILD APPS, BUILD SKILLS,' ideal for emphasizing a key course philosophy and memorable takeaway.",
+          "keywords": [
+            "build skills",
+            "not apps",
+            "philosophy"
+          ]
+        },
+        {
+          "frame": "frame_0005.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a numbered slide '5 MAKE YOUR OWN SKILL' with a clear, actionable focus on personal expertise; supports learning objectives with direct, impactful text.",
+          "keywords": [
+            "own skill",
+            "expertise",
+            "practice"
+          ]
+        },
+        {
+          "frame": "frame_0006.jpg",
+          "timestamp": "00:00",
+          "reason": "Highlights the 'VIBE CODE YOUR SLIDES' principle with a clear heading and supporting subtext; key for teaching aesthetic and emotional impact in design.",
+          "keywords": [
+            "vibe code",
+            "slides",
+            "design",
+            "aesthetic"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped due to being duplicates, low-information lecturer-only shots, or not displaying unique visual artifacts; no significant visual state changes or teaching content beyond the selected frames.",
+      "sheet": "keyframe_selection\\sheets\\20260625-如何做出好看的HTML slides：0基础教程\\20260625-如何做出好看的HTML slides：0基础教程_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

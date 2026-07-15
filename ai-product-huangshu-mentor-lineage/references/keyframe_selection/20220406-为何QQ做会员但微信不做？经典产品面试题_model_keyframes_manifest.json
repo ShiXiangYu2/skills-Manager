@@ -1,0 +1,19 @@
+{
+  "media": "20220406-为何QQ做会员但微信不做？经典产品面试题",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220406-为何QQ做会员但微信不做？经典产品面试题.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220406-为何QQ做会员但微信不做？经典产品面试题",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220406-为何QQ做会员但微信不做？经典产品面试题",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clear teaching artifacts, visual states, or significant information. The only content is the lecturer speaking, which does not meet the criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20220406-为何QQ做会员但微信不做？经典产品面试题\\20220406-为何QQ做会员但微信不做？经典产品面试题_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

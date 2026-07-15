@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a clear, complete slide with a key teaching artifact: a list of influential builders and their roles, supporting the talk's theme. It is visually distinct, informative, and constitutes a core reference point for course distillation.",
+      "keywords": [
+        "slide",
+        "builders",
+        "influencers",
+        "list",
+        "product leadership"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation; this frame is retained as it contains a complete and informative teaching slide with source-backed content.",
+  "sheet": "keyframe_selection\\sheets\\20250515-给大家介绍我的几位“AI精神导师”\\20250515-给大家介绍我的几位“AI精神导师”_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

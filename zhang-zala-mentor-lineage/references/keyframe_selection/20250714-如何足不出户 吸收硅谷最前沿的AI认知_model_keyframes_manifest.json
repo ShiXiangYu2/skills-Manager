@@ -1,0 +1,51 @@
+{
+  "media": "20250714-如何足不出户 吸收硅谷最前沿的AI认知",
+  "video_path": "D:\\视频下载\\张咋啦\\20250714-如何足不出户 吸收硅谷最前沿的AI认知.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250714-如何足不出户 吸收硅谷最前沿的AI认知",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250714-如何足不出户 吸收硅谷最前沿的AI认知",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a complete slide with a core teaching message ('Follow builders, not influencers') and a list of key figures with their roles, providing rich, specific context for source-backed explanation. It also includes a relevant visual demo/example of a YouTube search interface, which serves as a teaching artifact.",
+      "keywords": [
+        "builders",
+        "influencers",
+        "Kevin Weil",
+        "OpenAI",
+        "YouTube",
+        "search",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\20250714-如何足不出户 吸收硅谷最前沿的AI认知\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250714-如何足不出户 吸收硅谷最前沿的AI认知\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame displays a complete slide with a core teaching message ('Follow builders, not influencers') and a list of key figures with their roles, providing rich, specific context for source-backed explanation. It also includes a relevant visual demo/example of a YouTube search interface, which serves as a teaching artifact.",
+          "keywords": [
+            "builders",
+            "influencers",
+            "Kevin Weil",
+            "OpenAI",
+            "YouTube",
+            "search",
+            "slide"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were available in the contact sheet for evaluation. Only one frame was provided, which met all selection criteria as it contains a complete, high-information teaching slide with text, a list of experts, and a demo interface.",
+      "sheet": "keyframe_selection\\sheets\\20250714-如何足不出户 吸收硅谷最前沿的AI认知\\20250714-如何足不出户 吸收硅谷最前沿的AI认知_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

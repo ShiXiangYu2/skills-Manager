@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a complete UI demonstration of integrating a simple shortcut, which is a key teaching artifact for explaining the setup process. The screen contains multiple relevant visual elements including file structure, icons, and interface states.",
+      "keywords": [
+        "UI demo",
+        "shortcut setup",
+        "integration",
+        "file structure"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Captures a clear slide with optimization metrics (success rate improvement, token cost reduction) and a distinct UI modal, making it valuable for summarizing performance impact. The slide text and visual components are complete and not blurred.",
+      "keywords": [
+        "optimization",
+        "success rate",
+        "token cost",
+        "slide",
+        "performance"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. The two given frames were selected as they represent distinct, complete teaching artifacts relevant to the course content.",
+  "sheet": "keyframe_selection\\sheets\\BV1cTwAzAETx\\BV1cTwAzAETx_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

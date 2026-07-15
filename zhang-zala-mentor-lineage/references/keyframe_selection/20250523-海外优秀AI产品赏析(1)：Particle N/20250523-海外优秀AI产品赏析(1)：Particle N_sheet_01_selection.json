@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Frame displays a mobile UI with 77 articles and 50 quotes related to a topic, visually supporting the lecturer's claim about online coverage. The overlay text confirms context, making it a source-backed teaching artifact.",
+      "keywords": [
+        "mobile UI",
+        "article list",
+        "online coverage",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation. This frame is selected as it captures a clear, informative UI state directly relevant to the lecture content.",
+  "sheet": "keyframe_selection\\sheets\\20250523-海外优秀AI产品赏析(1)：Particle N\\20250523-海外优秀AI产品赏析(1)：Particle N_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

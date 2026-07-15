@@ -1,0 +1,7 @@
+interface:
+  display_name: "shiye-ai Course Skill"
+  short_description: "Source-grounded course Q&A, review, and workflows."
+  default_prompt: "Use $shiye-ai-mentor-lineage to answer questions about shiye-ai and cite the course sources."
+
+policy:
+  allow_implicit_invocation: true

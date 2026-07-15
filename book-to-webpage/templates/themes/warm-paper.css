@@ -1,0 +1,30 @@
+/* ============================================================
+   暖纸典藏（warm-paper · 默认主题）
+   与 base.html :root 默认值完全一致——此文件是其显式拷贝，
+   保证菜单 4 项对称、可读、可独立覆盖。
+   ============================================================ */
+:root {
+  --ink: #171411;
+  --muted: #6d6258;
+  --paper: #f8f2e7;
+  --paper-deep: #ece1cf;
+  --line: #d8c8af;
+  --red: #b9422f;
+  --blue: #245f73;
+  --green: #4d6f48;
+  --gold: #c2872d;
+  --white: #fffaf0;
+  --shadow: 0 18px 50px rgba(55, 38, 19, .14);
+
+  --font-body: "Songti SC", "Noto Serif CJK SC", Georgia, serif;
+  --font-display: "PingFang SC", "Microsoft YaHei", sans-serif;
+  --bg: radial-gradient(circle at 22% 12%, rgba(194, 135, 45, .18), transparent 28rem),
+        linear-gradient(135deg, #fbf6ec 0%, #efe1ca 100%);
+  --surface: rgba(255, 250, 240, .62);
+  --surface-strong: rgba(255, 250, 240, .72);
+  --bar-bg: rgba(248, 242, 231, .95);
+  --ink-soft: #3d332b;
+  --ink-soft-2: #44392f;
+  --tint-accent: rgba(194, 135, 45, .12);
+  --tint-accent-strong: rgba(194, 135, 45, .15);
+}

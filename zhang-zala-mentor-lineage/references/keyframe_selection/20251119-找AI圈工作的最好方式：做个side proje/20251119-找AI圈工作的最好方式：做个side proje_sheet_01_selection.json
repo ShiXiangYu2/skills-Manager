@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures the opening title slide with a clear teaching artifact: the topic '找工作技巧: Show, don't tell' (Job Search Tips: Show, don't tell) and a supporting statement '然后收到100多个job offer' (Then received over 100 job offers), which sets up a key principle and outcome for the course. It is a complete, high-information visual that is not duplicated, blurred, or blocked.",
+      "keywords": [
+        "job search",
+        "show don't tell",
+        "career tips",
+        "introduction"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames are not shown in the contact sheet; based on the single provided frame, no additional frames were available for evaluation. The lone frame is included because it presents a clear, informative teaching artifact with both a visual title and contextual subtitle, meeting the criteria for source-backed explanation and verification. If only this frame were available, it is the only one worth preserving.",
+  "sheet": "keyframe_selection\\sheets\\20251119-找AI圈工作的最好方式：做个side proje\\20251119-找AI圈工作的最好方式：做个side proje_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

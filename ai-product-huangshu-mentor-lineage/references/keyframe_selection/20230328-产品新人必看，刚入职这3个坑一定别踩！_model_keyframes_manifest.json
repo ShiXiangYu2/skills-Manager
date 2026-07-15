@@ -1,0 +1,19 @@
+{
+  "media": "20230328-产品新人必看，刚入职这3个坑一定别踩！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230328-产品新人必看，刚入职这3个坑一定别踩！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230328-产品新人必看，刚入职这3个坑一定别踩！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230328-产品新人必看，刚入职这3个坑一定别踩！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only introductory branding and speaker info with no teaching artifact, visual state change, or key instructional content. It is an intro frame and does not meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230328-产品新人必看，刚入职这3个坑一定别踩！\\20230328-产品新人必看，刚入职这3个坑一定别踩！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

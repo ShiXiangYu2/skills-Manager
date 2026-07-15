@@ -1,0 +1,47 @@
+{
+  "media": "20251226-用Skill全自动替你干活2！群聊自动总结原理",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251226-用Skill全自动替你干活2！群聊自动总结原理.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251226-用Skill全自动替你干活2！群聊自动总结原理",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251226-用Skill全自动替你干活2！群聊自动总结原理",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear diagram of Claude Code Skills architecture, showing the relationship between Claude Code, Chatlog, and WeChat database. This is a key teaching artifact that visually explains the system's components.",
+      "keywords": [
+        "diagram",
+        "architecture",
+        "Claude Code",
+        "Chatlog",
+        "WeChat database"
+      ],
+      "candidate_source": "keyframe_candidates\\20251226-用Skill全自动替你干活2！群聊自动总结原理\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251226-用Skill全自动替你干活2！群聊自动总结原理\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear diagram of Claude Code Skills architecture, showing the relationship between Claude Code, Chatlog, and WeChat database. This is a key teaching artifact that visually explains the system's components.",
+          "keywords": [
+            "diagram",
+            "architecture",
+            "Claude Code",
+            "Chatlog",
+            "WeChat database"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for evaluation.",
+      "sheet": "keyframe_selection\\sheets\\20251226-用Skill全自动替你干活2！群聊自动总结原理\\20251226-用Skill全自动替你干活2！群聊自动总结原理_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

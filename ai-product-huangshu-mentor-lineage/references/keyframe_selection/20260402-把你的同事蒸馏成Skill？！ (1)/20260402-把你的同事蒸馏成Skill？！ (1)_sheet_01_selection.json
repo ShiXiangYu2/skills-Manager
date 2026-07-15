@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear teaching artifact with Chinese text explaining a core concept about workplace value and document backup, suitable for source-backed explanation.",
+      "keywords": [
+        "slide",
+        "concept",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a key question slide asking 'Who exactly is that AI referring to?' which is a critical visual state change for discussion and verification.",
+      "keywords": [
+        "question",
+        "diagram",
+        "visual state change"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible in the provided contact sheet, so no additional frames were dropped.",
+  "sheet": "keyframe_selection\\sheets\\20260402-把你的同事蒸馏成Skill？！ (1)\\20260402-把你的同事蒸馏成Skill？！ (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,281 @@
+{
+  "media": "20260427-全程回放（1）Demo Day：我如何与agen",
+  "video_path": "D:\\视频下载\\张咋啦\\20260427-全程回放（1）Demo Day：我如何与agen.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 27,
+  "candidate_dir": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen",
+  "selected_count": 11,
+  "selected_dir": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "First slide introducing the course topic 'Claude Code 桌面端大改版' with key features listed, essential for course context and distillation.",
+      "keywords": [
+        "introduction",
+        "Claude Code",
+        "features"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Clear slide with title 'Coding Agent in Feishu 用飞书取代 Terminal' and detailed bullet points explaining the concept and benefits, provides key teaching content.",
+      "keywords": [
+        "Coding Agent",
+        "Feishu",
+        "terminal"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Demonstration of a dark-themed IDE with a visible code structure diagram, shows a material visual state change relevant to the coding agent demo.",
+      "keywords": [
+        "IDE",
+        "code diagram",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0005.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0005.jpg"
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Captures a diagram with a flowchart and a cloud icon, likely illustrating a process or system architecture, useful for explanation and review.",
+      "keywords": [
+        "diagram",
+        "flowchart",
+        "architecture"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0006.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0006.jpg"
+    },
+    {
+      "frame": "frame_0010.jpg",
+      "timestamp": "18:00",
+      "reason": "Screenshots of a document with structured text, likely explaining a concept in detail; valuable as a source-backed teaching artifact.",
+      "keywords": [
+        "document",
+        "text",
+        "explanation"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0010.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0010.jpg"
+    },
+    {
+      "frame": "frame_0015.jpg",
+      "timestamp": "28:00",
+      "reason": "Grid of images showing various photo editing or content generation outputs, represents a key demo or results display for a given topic.",
+      "keywords": [
+        "demo",
+        "images",
+        "output"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0015.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0015.jpg"
+    },
+    {
+      "frame": "frame_0017.jpg",
+      "timestamp": "32:00",
+      "reason": "IDE interface showing a codebase structure and a mobile preview, indicating a practical demonstration of development workflows.",
+      "keywords": [
+        "IDE",
+        "code",
+        "mobile preview",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0017.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0017.jpg"
+    },
+    {
+      "frame": "frame_0020.jpg",
+      "timestamp": "38:00",
+      "reason": "Dark-themed interface with multiple user аватары and a central image, likely showing a collaborative or generative AI demo; high information content.",
+      "keywords": [
+        "demo",
+        "collaboration",
+        "AI",
+        "interface"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0020.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0020.jpg"
+    },
+    {
+      "frame": "frame_0025.jpg",
+      "timestamp": "48:00",
+      "reason": "Shows a clear view of a project management or task-tracking UI with structured data, which is a key teaching artifact for demonstrating workflow or application functionality. It provides complete context for review and verification.",
+      "keywords": [
+        "UI",
+        "task tracking",
+        "project management",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0025.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0025.jpg"
+    },
+    {
+      "frame": "frame_0026.jpg",
+      "timestamp": "50:00",
+      "reason": "Displays a clear narrative explanation interface with icons and text, likely representing an instructional or storytelling feature in the software. It captures a distinct visual state change and provides material for source-backed explanation.",
+      "keywords": [
+        "narrative",
+        "demo",
+        "interface",
+        "instructional content"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0026.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0026.jpg"
+    },
+    {
+      "frame": "frame_0027.jpg",
+      "timestamp": "52:00",
+      "reason": "Highlights a clean, organized dashboard with AI teammates and corresponding icons, representing a key UI component or feature set being taught. It visually conveys structure and functionality for later distillation.",
+      "keywords": [
+        "AI teammates",
+        "dashboard",
+        "UI",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0027.jpg",
+      "selected_path": "keyframes_model_selected\\20260427-全程回放（1）Demo Day：我如何与agen\\frame_0027.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "First slide introducing the course topic 'Claude Code 桌面端大改版' with key features listed, essential for course context and distillation.",
+          "keywords": [
+            "introduction",
+            "Claude Code",
+            "features"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "06:00",
+          "reason": "Clear slide with title 'Coding Agent in Feishu 用飞书取代 Terminal' and detailed bullet points explaining the concept and benefits, provides key teaching content.",
+          "keywords": [
+            "Coding Agent",
+            "Feishu",
+            "terminal"
+          ]
+        },
+        {
+          "frame": "frame_0005.jpg",
+          "timestamp": "08:00",
+          "reason": "Demonstration of a dark-themed IDE with a visible code structure diagram, shows a material visual state change relevant to the coding agent demo.",
+          "keywords": [
+            "IDE",
+            "code diagram",
+            "demo"
+          ]
+        },
+        {
+          "frame": "frame_0006.jpg",
+          "timestamp": "10:00",
+          "reason": "Captures a diagram with a flowchart and a cloud icon, likely illustrating a process or system architecture, useful for explanation and review.",
+          "keywords": [
+            "diagram",
+            "flowchart",
+            "architecture"
+          ]
+        },
+        {
+          "frame": "frame_0010.jpg",
+          "timestamp": "18:00",
+          "reason": "Screenshots of a document with structured text, likely explaining a concept in detail; valuable as a source-backed teaching artifact.",
+          "keywords": [
+            "document",
+            "text",
+            "explanation"
+          ]
+        },
+        {
+          "frame": "frame_0015.jpg",
+          "timestamp": "28:00",
+          "reason": "Grid of images showing various photo editing or content generation outputs, represents a key demo or results display for a given topic.",
+          "keywords": [
+            "demo",
+            "images",
+            "output"
+          ]
+        },
+        {
+          "frame": "frame_0017.jpg",
+          "timestamp": "32:00",
+          "reason": "IDE interface showing a codebase structure and a mobile preview, indicating a practical demonstration of development workflows.",
+          "keywords": [
+            "IDE",
+            "code",
+            "mobile preview",
+            "demo"
+          ]
+        },
+        {
+          "frame": "frame_0020.jpg",
+          "timestamp": "38:00",
+          "reason": "Dark-themed interface with multiple user аватары and a central image, likely showing a collaborative or generative AI demo; high information content.",
+          "keywords": [
+            "demo",
+            "collaboration",
+            "AI",
+            "interface"
+          ]
+        }
+      ],
+      "dropped_summary": "Most frames were dropped due to showing lecturer-only, low-information UI states, or blurred/blocking elements. Duplicate screenshots and frames with no clear visual teaching artifacts (e.g., plain text without context, zoomed-in chat logs without structure) were excluded. Intro/outro scenes (e.g., frame_0012, frame_0013) and blank/background frames were also omitted.",
+      "sheet": "keyframe_selection\\sheets\\20260427-全程回放（1）Demo Day：我如何与agen\\20260427-全程回放（1）Demo Day：我如何与agen_sheet_01.jpg",
+      "success": true,
+      "error": null
+    },
+    {
+      "selected": [
+        {
+          "frame": "frame_0025.jpg",
+          "timestamp": "48:00",
+          "reason": "Shows a clear view of a project management or task-tracking UI with structured data, which is a key teaching artifact for demonstrating workflow or application functionality. It provides complete context for review and verification.",
+          "keywords": [
+            "UI",
+            "task tracking",
+            "project management",
+            "demo"
+          ]
+        },
+        {
+          "frame": "frame_0026.jpg",
+          "timestamp": "50:00",
+          "reason": "Displays a clear narrative explanation interface with icons and text, likely representing an instructional or storytelling feature in the software. It captures a distinct visual state change and provides material for source-backed explanation.",
+          "keywords": [
+            "narrative",
+            "demo",
+            "interface",
+            "instructional content"
+          ]
+        },
+        {
+          "frame": "frame_0027.jpg",
+          "timestamp": "52:00",
+          "reason": "Highlights a clean, organized dashboard with AI teammates and corresponding icons, representing a key UI component or feature set being taught. It visually conveys structure and functionality for later distillation.",
+          "keywords": [
+            "AI teammates",
+            "dashboard",
+            "UI",
+            "demo"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were predominantly lecturer-only, duplicated in content, or showed UI states without significant changes or teaching artifacts. No clearly distinct slides, diagrams, formulas, or demonstrative changes were visible beyond the selected frames.",
+      "sheet": "keyframe_selection\\sheets\\20260427-全程回放（1）Demo Day：我如何与agen\\20260427-全程回放（1）Demo Day：我如何与agen_sheet_02.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20230106-很多人都在问的产品经理实战训练营",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230106-很多人都在问的产品经理实战训练营.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20230106-很多人都在问的产品经理实战训练营",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230106-很多人都在问的产品经理实战训练营",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames appear to be introductory or transitional slides with minimal teaching content, showing only course structure and speaker headshots without clear diagrams, formulas, or visual states that meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230106-很多人都在问的产品经理实战训练营\\20230106-很多人都在问的产品经理实战训练营_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

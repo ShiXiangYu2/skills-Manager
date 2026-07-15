@@ -1,0 +1,7 @@
+interface:
+  display_name: "秋芝2046 Course Skill"
+  short_description: "Source-grounded course Q&A, review, and workflows."
+  default_prompt: "Use $秋芝2046-mentor-lineage to answer questions about 秋芝2046 and cite the course sources."
+
+policy:
+  allow_implicit_invocation: true

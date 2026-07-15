@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete slide with 3 practical case studies, including metrics and outcomes, serving as a key teaching artifact.",
+      "keywords": [
+        "slide",
+        "case study",
+        "diagram",
+        "formula"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for selection.",
+  "sheet": "keyframe_selection\\sheets\\20251215-Claude Code不止编程工具，Skill是\\20251215-Claude Code不止编程工具，Skill是_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

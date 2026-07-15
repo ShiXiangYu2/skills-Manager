@@ -1,0 +1,97 @@
+{
+  "media": "20211228-Super心中年度最佳产品flomo浮墨笔记",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20211228-Super心中年度最佳产品flomo浮墨笔记.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20211228-Super心中年度最佳产品flomo浮墨笔记",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20211228-Super心中年度最佳产品flomo浮墨笔记",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear UI screenshot of the Flomo app with visible content, serving as evidence for discussing the app's features or awards mentioned in the talk.",
+      "keywords": [
+        "UI",
+        "Flomo",
+        "app",
+        "screenshot"
+      ],
+      "candidate_source": "keyframe_candidates\\20211228-Super心中年度最佳产品flomo浮墨笔记\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20211228-Super心中年度最佳产品flomo浮墨笔记\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Captures a whiteboard with handwritten notes outlining key points about Flomo’s features, which is a valuable teaching artifact for summarizing core concepts.",
+      "keywords": [
+        "whiteboard",
+        "handwritten",
+        "notes",
+        "Flomo",
+        "features"
+      ],
+      "candidate_source": "keyframe_candidates\\20211228-Super心中年度最佳产品flomo浮墨笔记\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20211228-Super心中年度最佳产品flomo浮墨笔记\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a clear, complete API documentation page for Flomo with code and icons, which is crucial for explaining how the API works and its integration potential.",
+      "keywords": [
+        "API",
+        "documentation",
+        "code",
+        "Flomo",
+        "integration"
+      ],
+      "candidate_source": "keyframe_candidates\\20211228-Super心中年度最佳产品flomo浮墨笔记\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20211228-Super心中年度最佳产品flomo浮墨笔记\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a clear UI screenshot of the Flomo app with visible content, serving as evidence for discussing the app's features or awards mentioned in the talk.",
+          "keywords": [
+            "UI",
+            "Flomo",
+            "app",
+            "screenshot"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Captures a whiteboard with handwritten notes outlining key points about Flomo’s features, which is a valuable teaching artifact for summarizing core concepts.",
+          "keywords": [
+            "whiteboard",
+            "handwritten",
+            "notes",
+            "Flomo",
+            "features"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04",
+          "reason": "Displays a clear, complete API documentation page for Flomo with code and icons, which is crucial for explaining how the API works and its integration potential.",
+          "keywords": [
+            "API",
+            "documentation",
+            "code",
+            "Flomo",
+            "integration"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped as they either show the lecturer speaking without any clear visual teaching artifact, or are too blurred or blocked to be useful for source-backed explanation.",
+      "sheet": "keyframe_selection\\sheets\\20211228-Super心中年度最佳产品flomo浮墨笔记\\20211228-Super心中年度最佳产品flomo浮墨笔记_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

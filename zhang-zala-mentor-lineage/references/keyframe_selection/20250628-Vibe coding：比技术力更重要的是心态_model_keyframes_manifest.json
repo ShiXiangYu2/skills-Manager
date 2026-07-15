@@ -1,0 +1,19 @@
+{
+  "media": "20250628-Vibe coding：比技术力更重要的是心态",
+  "video_path": "D:\\视频下载\\张咋啦\\20250628-Vibe coding：比技术力更重要的是心态.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250628-Vibe coding：比技术力更重要的是心态",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250628-Vibe coding：比技术力更重要的是心态",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible teaching artifacts, slides, diagrams, or visual content that supports source-backed explanation or verification. The frame contains only individuals speaking, with no material content change or visual information beyond the speaker's face and subtitles, which do not qualify as key teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20250628-Vibe coding：比技术力更重要的是心态\\20250628-Vibe coding：比技术力更重要的是心态_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

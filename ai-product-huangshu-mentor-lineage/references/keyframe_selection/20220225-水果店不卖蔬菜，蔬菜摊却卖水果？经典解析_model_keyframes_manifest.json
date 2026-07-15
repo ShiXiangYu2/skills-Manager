@@ -1,0 +1,45 @@
+{
+  "media": "20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the initial teaching artifact: a whiteboard with handwritten questions and analysis about fruit/vegetable stores, including key terms like '品种' (variety), '销量' (sales volume), and '利润' (profit). This frame establishes the core topic and provides a complete visual reference for the lesson.",
+      "keywords": [
+        "whiteboard",
+        "diagram",
+        "teaching",
+        "analysis"
+      ],
+      "candidate_source": "keyframe_candidates\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures the initial teaching artifact: a whiteboard with handwritten questions and analysis about fruit/vegetable stores, including key terms like '品种' (variety), '销量' (sales volume), and '利润' (profit). This frame establishes the core topic and provides a complete visual reference for the lesson.",
+          "keywords": [
+            "whiteboard",
+            "diagram",
+            "teaching",
+            "analysis"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for evaluation.",
+      "sheet": "keyframe_selection\\sheets\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

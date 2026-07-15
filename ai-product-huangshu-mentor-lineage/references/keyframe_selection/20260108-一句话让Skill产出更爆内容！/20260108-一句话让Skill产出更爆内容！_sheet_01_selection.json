@@ -1,0 +1,29 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a clear view of a code editor with an expanded menu, showing relevant file structure and code context for teaching.",
+      "keywords": [
+        "code_editor",
+        "file_structure",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a detailed, well-organized table comparing article metrics (read count, verification results) and a formula for '爆款公式', which is a key teaching artifact.",
+      "keywords": [
+        "table",
+        "formula",
+        "diagram",
+        "teaching_artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are either too blurry, non-informative, or redundant with the selected frames. No additional frames meet the selection criteria for preserving key teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20260108-一句话让Skill产出更爆内容！\\20260108-一句话让Skill产出更爆内容！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

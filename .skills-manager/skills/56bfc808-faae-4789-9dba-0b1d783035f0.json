@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "56bfc808-faae-4789-9dba-0b1d783035f0",
+  "path": "sumeru-fix",
+  "path_key": "sumeru-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

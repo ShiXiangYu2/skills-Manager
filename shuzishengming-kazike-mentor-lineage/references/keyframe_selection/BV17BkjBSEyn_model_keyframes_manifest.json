@@ -1,0 +1,93 @@
+{
+  "media": "BV17BkjBSEyn",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV17BkjBSEyn\\20260120-飞书合作的第一款AI硬件来了！.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\BV17BkjBSEyn",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\BV17BkjBSEyn",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a smartphone screen with a recording interface, indicating the start of a recording demo; provides a clear visual of the app's state and user interaction point.",
+      "keywords": [
+        "smartphone",
+        "recording",
+        "demo",
+        "UI"
+      ],
+      "candidate_source": "keyframe_candidates\\BV17BkjBSEyn\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV17BkjBSEyn\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Displays a close-up of a physical control knob with labeled indicators; captures a detailed teaching artifact explaining hardware functionality.",
+      "keywords": [
+        "hardware",
+        "control",
+        "diagram",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\BV17BkjBSEyn\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV17BkjBSEyn\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a laptop setup with a portable microphone and visible hardware details; provides context for audio recording setup, relevant for technical demonstration.",
+      "keywords": [
+        "laptop",
+        "microphone",
+        "setup",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\BV17BkjBSEyn\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV17BkjBSEyn\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a smartphone screen with a recording interface, indicating the start of a recording demo; provides a clear visual of the app's state and user interaction point.",
+          "keywords": [
+            "smartphone",
+            "recording",
+            "demo",
+            "UI"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a close-up of a physical control knob with labeled indicators; captures a detailed teaching artifact explaining hardware functionality.",
+          "keywords": [
+            "hardware",
+            "control",
+            "diagram",
+            "demo"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:20",
+          "reason": "Shows a laptop setup with a portable microphone and visible hardware details; provides context for audio recording setup, relevant for technical demonstration.",
+          "keywords": [
+            "laptop",
+            "microphone",
+            "setup",
+            "demo"
+          ]
+        }
+      ],
+      "dropped_summary": "Frame 00:00 (frame_0004.jpg) was dropped as it shows the lecturer speaking without any visual teaching artifact; it is lecturer-only and does not provide a material visual state change or artifact for distillation.",
+      "sheet": "keyframe_selection\\sheets\\BV17BkjBSEyn\\BV17BkjBSEyn_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

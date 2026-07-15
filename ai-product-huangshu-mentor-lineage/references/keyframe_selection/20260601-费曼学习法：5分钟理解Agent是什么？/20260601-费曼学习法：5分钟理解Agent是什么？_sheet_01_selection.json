@@ -1,0 +1,37 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows initial setup of the topic 'Agent到底是什么?' and 'Prompt 如何进化成 Skill?', establishing context for the lecture.",
+      "keywords": [
+        "topic_introduction",
+        "writing"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:0400",
+      "reason": "Clear visual comparison between 'workflow vs Agent' and the evolution into 'Skill', with key terms highlighted. Captures a critical conceptual diagram.",
+      "keywords": [
+        "diagram",
+        "concept_comparison",
+        "visual_state_change"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:0600",
+      "reason": "Shows the completed diagram with detailed breakdown of 'Skill' and 'Agent' components, including 'LCM' and 'Tools'. Essential for understanding the final model.",
+      "keywords": [
+        "diagram",
+        "final_visual",
+        "key_concepts"
+      ]
+    }
+  ],
+  "dropped_summary": "Frame 0002.jpg is dropped as it contains a 'NO' emoji overlay which is not part of the core teaching content and obscures the diagram; it is redundant with frame 0003 which shows the clearer visual evolution.",
+  "sheet": "keyframe_selection\\sheets\\20260601-费曼学习法：5分钟理解Agent是什么？\\20260601-费曼学习法：5分钟理解Agent是什么？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

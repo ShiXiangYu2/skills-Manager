@@ -1,0 +1,87 @@
+{
+  "media": "20260603-费曼学习法：5分钟了解Codex (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260603-费曼学习法：5分钟了解Codex (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20260603-费曼学习法：5分钟了解Codex (1)",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20260603-费曼学习法：5分钟了解Codex (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial state of the hand-drawn slide with key categories and the main title, setting up the context for the lecture.",
+      "keywords": [
+        "slide",
+        "intro",
+        "structure"
+      ],
+      "candidate_source": "keyframe_candidates\\20260603-费曼学习法：5分钟了解Codex (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260603-费曼学习法：5分钟了解Codex (1)\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Captures a significant visual state change: additional handwritten notes are filled in, revealing key details like 'GPT 5.5', '模型能力', and '插件生态'. This frame is clearer and more complete than the previous one.",
+      "keywords": [
+        "slide",
+        "incomplete",
+        "teaching_artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20260603-费曼学习法：5分钟了解Codex (1)\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260603-费曼学习法：5分钟了解Codex (1)\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays the transition to a live software interface (a task management app) with clear UI elements and text. This visually demonstrates the 'operating real software' point, adding tangible evidence to the lecture.",
+      "keywords": [
+        "UI",
+        "demo",
+        "visual_change"
+      ],
+      "candidate_source": "keyframe_candidates\\20260603-费曼学习法：5分钟了解Codex (1)\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260603-费曼学习法：5分钟了解Codex (1)\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows the initial state of the hand-drawn slide with key categories and the main title, setting up the context for the lecture.",
+          "keywords": [
+            "slide",
+            "intro",
+            "structure"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Captures a significant visual state change: additional handwritten notes are filled in, revealing key details like 'GPT 5.5', '模型能力', and '插件生态'. This frame is clearer and more complete than the previous one.",
+          "keywords": [
+            "slide",
+            "incomplete",
+            "teaching_artifact"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Displays the transition to a live software interface (a task management app) with clear UI elements and text. This visually demonstrates the 'operating real software' point, adding tangible evidence to the lecture.",
+          "keywords": [
+            "UI",
+            "demo",
+            "visual_change"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped because they either lacked useful teaching content (e.g., blurred, blank, or only showing the lecturer), or were redundant with the selected frames.",
+      "sheet": "keyframe_selection\\sheets\\20260603-费曼学习法：5分钟了解Codex (1)\\20260603-费曼学习法：5分钟了解Codex (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

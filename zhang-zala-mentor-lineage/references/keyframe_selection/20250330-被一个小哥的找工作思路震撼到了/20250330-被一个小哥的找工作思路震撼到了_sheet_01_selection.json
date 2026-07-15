@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a social media post with key advice on job hunting, including actionable tips like 'show the demo in people's faces' and explaining skills simply. The highlighted text and subtitles provide source-backed content useful for course distillation on securing job opportunities.",
+      "keywords": [
+        "job hunting",
+        "demo",
+        "advice",
+        "social media",
+        "recruitment"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames were not provided, so no additional frames were evaluated for selection or dropping.",
+  "sheet": "keyframe_selection\\sheets\\20250330-被一个小哥的找工作思路震撼到了\\20250330-被一个小哥的找工作思路震撼到了_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20240528-国内首个大厂情感陪伴AI产品下架！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20240528-国内首个大厂情感陪伴AI产品下架！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20240528-国内首个大厂情感陪伴AI产品下架！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20240528-国内首个大厂情感陪伴AI产品下架！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts such as slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes. All frames are lecturer-only and lack material content for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20240528-国内首个大厂情感陪伴AI产品下架！\\20240528-国内首个大厂情感陪伴AI产品下架！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

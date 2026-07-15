@@ -1,0 +1,19 @@
+{
+  "media": "20250815-微信肯定会”抄“的Agent：马卡龙",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250815-微信肯定会”抄“的Agent：马卡龙.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250815-微信肯定会”抄“的Agent：马卡龙",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250815-微信肯定会”抄“的Agent：马卡龙",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames lack clear teaching artifacts or visual states that materially advance the lesson; they are either blurred, contain only lecturer views, or show low-information UI elements without explanatory content.",
+      "sheet": "keyframe_selection\\sheets\\20250815-微信肯定会”抄“的Agent：马卡龙\\20250815-微信肯定会”抄“的Agent：马卡龙_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

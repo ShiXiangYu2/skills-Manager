@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear UI of a tool with annotated steps, serving as a complete teaching artifact for user interaction.",
+      "keywords": [
+        "UI",
+        "demo",
+        "instruction"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows a complete code diagram with annotated key points, illustrating a technical concept clearly.",
+      "keywords": [
+        "diagram",
+        "formula",
+        "coding"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Displays a detailed UI with annotations explaining features, useful for source-backed explanation.",
+      "keywords": [
+        "UI",
+        "annotation",
+        "tutorial"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames either show lecturer-only content, are blurred, or contain low-information visuals not useful for distillation.",
+  "sheet": "keyframe_selection\\sheets\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

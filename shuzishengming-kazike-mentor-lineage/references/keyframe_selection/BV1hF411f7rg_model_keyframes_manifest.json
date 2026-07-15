@@ -1,0 +1,19 @@
+{
+  "media": "BV1hF411f7rg",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1hF411f7rg\\20230803-我用AI做了一部《流浪地球3》的预告片....mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\BV1hF411f7rg",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1hF411f7rg",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is a low-information, non-educational visual (a character in a futuristic helmet) that does not contain any teaching artifacts such as slides, diagrams, formulas, or UI elements. It appears to be an intro or placeholder image and lacks content relevant to course distillation.",
+      "sheet": "keyframe_selection\\sheets\\BV1hF411f7rg\\BV1hF411f7rg_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

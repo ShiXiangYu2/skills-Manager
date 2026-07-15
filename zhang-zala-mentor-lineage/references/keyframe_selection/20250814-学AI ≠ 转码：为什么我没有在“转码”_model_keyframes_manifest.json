@@ -1,0 +1,45 @@
+{
+  "media": "20250814-学AI ≠ 转码：为什么我没有在“转码”",
+  "video_path": "D:\\视频下载\\张咋啦\\20250814-学AI ≠ 转码：为什么我没有在“转码”.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250814-学AI ≠ 转码：为什么我没有在“转码”",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250814-学AI ≠ 转码：为什么我没有在“转码”",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures the opening title slide, which introduces the core topic of the course: the evolving definition of 'technical' in the AI era. It serves as a complete teaching artifact and establishes the context for the entire session, making it essential for source-backed explanation and verification.",
+      "keywords": [
+        "title slide",
+        "AI era",
+        "technical definition",
+        "course introduction"
+      ],
+      "candidate_source": "keyframe_candidates\\20250814-学AI ≠ 转码：为什么我没有在“转码”\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250814-学AI ≠ 转码：为什么我没有在“转码”\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame captures the opening title slide, which introduces the core topic of the course: the evolving definition of 'technical' in the AI era. It serves as a complete teaching artifact and establishes the context for the entire session, making it essential for source-backed explanation and verification.",
+          "keywords": [
+            "title slide",
+            "AI era",
+            "technical definition",
+            "course introduction"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames were not provided for evaluation; however, based on the single frame shown, any subsequent frames would likely be dropped if they show only the lecturers without visual artifacts, or if they duplicate this title slide or contain low-information content like blank screens or blurred visuals.",
+      "sheet": "keyframe_selection\\sheets\\20250814-学AI ≠ 转码：为什么我没有在“转码”\\20250814-学AI ≠ 转码：为什么我没有在“转码”_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

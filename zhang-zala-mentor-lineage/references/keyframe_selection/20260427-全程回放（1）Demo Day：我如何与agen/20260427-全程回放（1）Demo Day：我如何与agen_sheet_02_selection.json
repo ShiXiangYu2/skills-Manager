@@ -1,0 +1,41 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0025.jpg",
+      "timestamp": "48:00",
+      "reason": "Shows a clear view of a project management or task-tracking UI with structured data, which is a key teaching artifact for demonstrating workflow or application functionality. It provides complete context for review and verification.",
+      "keywords": [
+        "UI",
+        "task tracking",
+        "project management",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0026.jpg",
+      "timestamp": "50:00",
+      "reason": "Displays a clear narrative explanation interface with icons and text, likely representing an instructional or storytelling feature in the software. It captures a distinct visual state change and provides material for source-backed explanation.",
+      "keywords": [
+        "narrative",
+        "demo",
+        "interface",
+        "instructional content"
+      ]
+    },
+    {
+      "frame": "frame_0027.jpg",
+      "timestamp": "52:00",
+      "reason": "Highlights a clean, organized dashboard with AI teammates and corresponding icons, representing a key UI component or feature set being taught. It visually conveys structure and functionality for later distillation.",
+      "keywords": [
+        "AI teammates",
+        "dashboard",
+        "UI",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were predominantly lecturer-only, duplicated in content, or showed UI states without significant changes or teaching artifacts. No clearly distinct slides, diagrams, formulas, or demonstrative changes were visible beyond the selected frames.",
+  "sheet": "keyframe_selection\\sheets\\20260427-全程回放（1）Demo Day：我如何与agen\\20260427-全程回放（1）Demo Day：我如何与agen_sheet_02.jpg",
+  "success": true,
+  "error": null
+}

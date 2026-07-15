@@ -1,0 +1,19 @@
+{
+  "media": "20250812-刚毕业 应该去大厂还是创业公司？",
+  "video_path": "D:\\视频下载\\张咋啦\\20250812-刚毕业 应该去大厂还是创业公司？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250812-刚毕业 应该去大厂还是创业公司？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250812-刚毕业 应该去大厂还是创业公司？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either introductory title screens or contain only the lecturers without any visible teaching artifacts such as slides, diagrams, or documents. The content is not suitable for source-backed explanation, review, or verification as it lacks visual teaching material.",
+      "sheet": "keyframe_selection\\sheets\\20250812-刚毕业 应该去大厂还是创业公司？\\20250812-刚毕业 应该去大厂还是创业公司？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

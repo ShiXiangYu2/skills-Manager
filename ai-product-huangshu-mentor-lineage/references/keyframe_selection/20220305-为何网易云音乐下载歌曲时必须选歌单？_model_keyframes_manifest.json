@@ -1,0 +1,47 @@
+{
+  "media": "20220305-为何网易云音乐下载歌曲时必须选歌单？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220305-为何网易云音乐下载歌曲时必须选歌单？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20220305-为何网易云音乐下载歌曲时必须选歌单？",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20220305-为何网易云音乐下载歌曲时必须选歌单？",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear diagram comparing two synchronization models (cloud-based vs. server-based) with Chinese annotations, which materially explains the core concept being taught.",
+      "keywords": [
+        "diagram",
+        "synchronization",
+        "cloud",
+        "server",
+        "comparison"
+      ],
+      "candidate_source": "keyframe_candidates\\20220305-为何网易云音乐下载歌曲时必须选歌单？\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220305-为何网易云音乐下载歌曲时必须选歌单？\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear diagram comparing two synchronization models (cloud-based vs. server-based) with Chinese annotations, which materially explains the core concept being taught.",
+          "keywords": [
+            "diagram",
+            "synchronization",
+            "cloud",
+            "server",
+            "comparison"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames provided for evaluation.",
+      "sheet": "keyframe_selection\\sheets\\20220305-为何网易云音乐下载歌曲时必须选歌单？\\20220305-为何网易云音乐下载歌曲时必须选歌单？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a complete teaching slide with key concepts for becoming a better 'builder' and 'influencer', including bilingual text and supporting bullet points. It serves as a foundational summary for course distillation.",
+      "keywords": [
+        "builder",
+        "influencer",
+        "slide",
+        "teaching artifact",
+        "summary"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation. This single frame is retained as it contains clear, structured, and informative content suitable for course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20251002-Builder和Influencer的交集 才是\\20251002-Builder和Influencer的交集 才是_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

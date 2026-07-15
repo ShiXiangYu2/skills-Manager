@@ -1,0 +1,69 @@
+{
+  "media": "BV1UR6wBREv2",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1UR6wBREv2\\20260129-一个视频手把手教你体验全网爆火的Clawdbot.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\BV1UR6wBREv2",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\BV1UR6wBREv2",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a UI screen with chat messages and code snippet, representing a technical demo state with relevant text content for later verification.",
+      "keywords": [
+        "UI",
+        "demo",
+        "chat",
+        "code"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1UR6wBREv2\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV1UR6wBREv2\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a clear diagram with labeled use cases (在床上, 在地铁, 在路边) and a mobile app interface, illustrating a 7x24-hour service concept with visual connections; serves as a key teaching artifact.",
+      "keywords": [
+        "diagram",
+        "UI",
+        "demo",
+        "use case"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1UR6wBREv2\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV1UR6wBREv2\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a UI screen with chat messages and code snippet, representing a technical demo state with relevant text content for later verification.",
+          "keywords": [
+            "UI",
+            "demo",
+            "chat",
+            "code"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "02:00",
+          "reason": "Shows a clear diagram with labeled use cases (在床上, 在地铁, 在路边) and a mobile app interface, illustrating a 7x24-hour service concept with visual connections; serves as a key teaching artifact.",
+          "keywords": [
+            "diagram",
+            "UI",
+            "demo",
+            "use case"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0002.jpg was dropped as it contains only the lecturer speaking without any visible teaching artifact (slide, diagram, UI, etc.). The other frames are either lecturer-only or low-information, failing the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\BV1UR6wBREv2\\BV1UR6wBREv2_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

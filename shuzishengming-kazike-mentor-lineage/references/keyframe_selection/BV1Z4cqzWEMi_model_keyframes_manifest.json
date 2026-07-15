@@ -1,0 +1,19 @@
+{
+  "media": "BV1Z4cqzWEMi",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1Z4cqzWEMi\\20260212-中国也有了世界第一的模型——Seedance 2.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\BV1Z4cqzWEMi",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1Z4cqzWEMi",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show cinematic clips or lecturer-only shots without visible teaching artifacts (slides, diagrams, documents, UI, etc.). No frames contain material that supports source-backed explanation, review, or verification as required by the criteria.",
+      "sheet": "keyframe_selection\\sheets\\BV1Z4cqzWEMi\\BV1Z4cqzWEMi_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

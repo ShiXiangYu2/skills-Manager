@@ -1,0 +1,19 @@
+{
+  "media": "20251227-用Skill全自动替你干活3！微博热搜生成创意",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251227-用Skill全自动替你干活3！微博热搜生成创意.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251227-用Skill全自动替你干活3！微博热搜生成创意",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251227-用Skill全自动替你干活3！微博热搜生成创意",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames meet the selection criteria: no clear teaching artifact (slide, diagram, UI, formula, demo, or visual state change) is visible; the frames appear to show lecturer commentary without substantial visual content for teaching.",
+      "sheet": "keyframe_selection\\sheets\\20251227-用Skill全自动替你干活3！微博热搜生成创意\\20251227-用Skill全自动替你干活3！微博热搜生成创意_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

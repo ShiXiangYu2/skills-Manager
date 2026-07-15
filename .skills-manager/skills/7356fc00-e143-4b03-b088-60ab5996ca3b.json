@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7356fc00-e143-4b03-b088-60ab5996ca3b",
+  "path": "sumeru-outline",
+  "path_key": "sumeru-outline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

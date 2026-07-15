@@ -1,0 +1,19 @@
+{
+  "media": "BV1JP411s7AW",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1JP411s7AW\\20230816-我用AI做了一部短片，重现了梵高的一生....mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\BV1JP411s7AW",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1JP411s7AW",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "Both frames display static paintings (likely art examples) with no visible teaching artifacts such as slides, diagrams, UI, or instructional content. They appear to be decorative or illustrative without material changes or direct educational utility as evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\BV1JP411s7AW\\BV1JP411s7AW_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

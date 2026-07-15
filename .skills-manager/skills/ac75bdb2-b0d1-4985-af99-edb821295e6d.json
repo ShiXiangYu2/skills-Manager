@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac75bdb2-b0d1-4985-af99-edb821295e6d",
+  "path": "novel-rewrite",
+  "path_key": "novel-rewrite",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

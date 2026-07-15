@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the initial teaching artifact: a whiteboard with handwritten questions and analysis about fruit/vegetable stores, including key terms like '品种' (variety), '销量' (sales volume), and '利润' (profit). This frame establishes the core topic and provides a complete visual reference for the lesson.",
+      "keywords": [
+        "whiteboard",
+        "diagram",
+        "teaching",
+        "analysis"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析\\20220225-水果店不卖蔬菜，蔬菜摊却卖水果？经典解析_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

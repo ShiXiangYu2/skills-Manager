@@ -1,0 +1,32 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial GitHub repository interface with clear text and structure, including OpenCode and harness sections, which serves as a foundational visual for the demo. It is a complete UI state with key elements visible.",
+      "keywords": [
+        "GitHub",
+        "repository",
+        "OpenCode",
+        "harness",
+        "UI"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a slide with '案例 2: Anthropic' containing structured text and color-coded sections (green and pink boxes), indicating a teaching artifact with key concepts or steps. The content is clear and distinct from adjacent frames.",
+      "keywords": [
+        "slide",
+        "Anthropic",
+        "case study",
+        "teaching artifact",
+        "structured content"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are not present in the contact sheet; only two frames were provided, both of which meet the selection criteria as they contain clear, informative teaching artifacts (UI and slide content) suitable for later distillation.",
+  "sheet": "keyframe_selection\\sheets\\20260602-如何用AI做出超级好看的矢量图（可编辑）\\20260602-如何用AI做出超级好看的矢量图（可编辑）_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20230124-产品经理工作自查表，一张图让你高效工作！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230124-产品经理工作自查表，一张图让你高效工作！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20230124-产品经理工作自查表，一张图让你高效工作！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230124-产品经理工作自查表，一张图让你高效工作！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are identical copies of the same visual with no unique teaching artifacts or state changes, and contain only lecturer-facing content with no slide, document, or UI elements. They are duplicates and do not meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230124-产品经理工作自查表，一张图让你高效工作！\\20230124-产品经理工作自查表，一张图让你高效工作！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

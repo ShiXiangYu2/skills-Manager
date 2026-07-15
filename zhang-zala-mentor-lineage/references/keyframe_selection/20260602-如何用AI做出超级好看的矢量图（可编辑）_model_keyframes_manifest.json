@@ -1,0 +1,73 @@
+{
+  "media": "20260602-如何用AI做出超级好看的矢量图（可编辑）",
+  "video_path": "D:\\视频下载\\张咋啦\\20260602-如何用AI做出超级好看的矢量图（可编辑）.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260602-如何用AI做出超级好看的矢量图（可编辑）",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260602-如何用AI做出超级好看的矢量图（可编辑）",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial GitHub repository interface with clear text and structure, including OpenCode and harness sections, which serves as a foundational visual for the demo. It is a complete UI state with key elements visible.",
+      "keywords": [
+        "GitHub",
+        "repository",
+        "OpenCode",
+        "harness",
+        "UI"
+      ],
+      "candidate_source": "keyframe_candidates\\20260602-如何用AI做出超级好看的矢量图（可编辑）\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260602-如何用AI做出超级好看的矢量图（可编辑）\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a slide with '案例 2: Anthropic' containing structured text and color-coded sections (green and pink boxes), indicating a teaching artifact with key concepts or steps. The content is clear and distinct from adjacent frames.",
+      "keywords": [
+        "slide",
+        "Anthropic",
+        "case study",
+        "teaching artifact",
+        "structured content"
+      ],
+      "candidate_source": "keyframe_candidates\\20260602-如何用AI做出超级好看的矢量图（可编辑）\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260602-如何用AI做出超级好看的矢量图（可编辑）\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows the initial GitHub repository interface with clear text and structure, including OpenCode and harness sections, which serves as a foundational visual for the demo. It is a complete UI state with key elements visible.",
+          "keywords": [
+            "GitHub",
+            "repository",
+            "OpenCode",
+            "harness",
+            "UI"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Displays a slide with '案例 2: Anthropic' containing structured text and color-coded sections (green and pink boxes), indicating a teaching artifact with key concepts or steps. The content is clear and distinct from adjacent frames.",
+          "keywords": [
+            "slide",
+            "Anthropic",
+            "case study",
+            "teaching artifact",
+            "structured content"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames are not present in the contact sheet; only two frames were provided, both of which meet the selection criteria as they contain clear, informative teaching artifacts (UI and slide content) suitable for later distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260602-如何用AI做出超级好看的矢量图（可编辑）\\20260602-如何用AI做出超级好看的矢量图（可编辑）_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

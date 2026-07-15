@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear graph illustrating the relationship between 'Psychological Value' and 'Benefit', which is a key teaching artifact. The graph is complete, legible, and visually explains a core concept.",
+      "keywords": [
+        "graph",
+        "psychological value",
+        "benefit",
+        "diagram"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows a whiteboard with handwritten notes that are relevant to the lecture. It captures a key visual state change on the board as the speaker elaborates on the topic, including points about user experience and product design.",
+      "keywords": [
+        "whiteboard",
+        "handwritten notes",
+        "user experience",
+        "product design",
+        "visual state"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either contain only the lecturer speaking (no teaching artifact), are blurred, or repeat information already captured in the selected frames.",
+  "sheet": "keyframe_selection\\sheets\\20220410-微信红包为何不能撤回？经典产品面试题㊙️\\20220410-微信红包为何不能撤回？经典产品面试题㊙️_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,261 @@
+{
+  "media": "20260428-全程回放（2）Demo Day：我如何与agen",
+  "video_path": "D:\\视频下载\\张咋啦\\20260428-全程回放（2）Demo Day：我如何与agen.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 27,
+  "candidate_dir": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen",
+  "selected_count": 10,
+  "selected_dir": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "First frame showing the course title slide '解决 AI Tool Fatigue' with clear textual content, setting the context for the session.",
+      "keywords": [
+        "title slide",
+        "course intro",
+        "AI Tool Fatigue"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Captures a code editor window with a detailed Python script for processing a file, likely demonstrating a practical example or tool workflow.",
+      "keywords": [
+        "code",
+        "Python",
+        "demo",
+        "script"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Shows a document or markdown interface with structured content and highlighted sections, representing a teaching artifact.",
+      "keywords": [
+        "document",
+        "markdown",
+        "structured text"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0006.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0006.jpg"
+    },
+    {
+      "frame": "frame_0012.jpg",
+      "timestamp": "22:00",
+      "reason": "Displays a split-screen view with a detailed document on the left and a conversation or chat interface on the right, illustrating a workflow or interaction pattern.",
+      "keywords": [
+        "workflow",
+        "split screen",
+        "chat",
+        "document"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0012.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0012.jpg"
+    },
+    {
+      "frame": "frame_0019.jpg",
+      "timestamp": "36:00",
+      "reason": "Highlights a message or action within a chat interface, possibly marking a key step in a demonstration.",
+      "keywords": [
+        "chat",
+        "demo",
+        "interaction"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0019.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0019.jpg"
+    },
+    {
+      "frame": "frame_0023.jpg",
+      "timestamp": "44:00",
+      "reason": "Shows a tool interface (Policlone) with branding and content, indicating a specific software or platform being discussed.",
+      "keywords": [
+        "tool",
+        "Policlone",
+        "UI"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0023.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0023.jpg"
+    },
+    {
+      "frame": "frame_0024.jpg",
+      "timestamp": "46:00",
+      "reason": "Contains a clear diagram with labels, icons, and text in Chinese, illustrating a process or system architecture—valuable for later explanation and review.",
+      "keywords": [
+        "diagram",
+        "architecture",
+        "process",
+        "infographic"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0024.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0024.jpg"
+    },
+    {
+      "frame": "frame_0025.jpg",
+      "timestamp": "48:00",
+      "reason": "Displays a clear UI with highlighted text and a focused code editor, indicating a teaching moment involving specific code or configuration. This frame captures a complete teaching artifact that is distinct from surrounding frames.",
+      "keywords": [
+        "UI",
+        "code editor",
+        "highlighted text",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0025.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0025.jpg"
+    },
+    {
+      "frame": "frame_0026.jpg",
+      "timestamp": "50:00",
+      "reason": "Shows a diagram with numbered steps and arrows, illustrating a conceptual process or workflow. This visual state change is material and provides key pedagogical content not present in adjacent frames.",
+      "keywords": [
+        "diagram",
+        "workflow",
+        "visual explanation",
+        "steps"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0026.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0026.jpg"
+    },
+    {
+      "frame": "frame_0027.jpg",
+      "timestamp": "52:00",
+      "reason": "Presents a clear dialog box or feature panel with structured information, useful for demonstrating a specific UI interaction or configuration. This is a complete, non-blurred visual state ideal for source-backed review.",
+      "keywords": [
+        "UI interaction",
+        "dialog box",
+        "configuration panel",
+        "demonstration"
+      ],
+      "candidate_source": "keyframe_candidates\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0027.jpg",
+      "selected_path": "keyframes_model_selected\\20260428-全程回放（2）Demo Day：我如何与agen\\frame_0027.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "First frame showing the course title slide '解决 AI Tool Fatigue' with clear textual content, setting the context for the session.",
+          "keywords": [
+            "title slide",
+            "course intro",
+            "AI Tool Fatigue"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "04:00",
+          "reason": "Captures a code editor window with a detailed Python script for processing a file, likely demonstrating a practical example or tool workflow.",
+          "keywords": [
+            "code",
+            "Python",
+            "demo",
+            "script"
+          ]
+        },
+        {
+          "frame": "frame_0006.jpg",
+          "timestamp": "10:00",
+          "reason": "Shows a document or markdown interface with structured content and highlighted sections, representing a teaching artifact.",
+          "keywords": [
+            "document",
+            "markdown",
+            "structured text"
+          ]
+        },
+        {
+          "frame": "frame_0012.jpg",
+          "timestamp": "22:00",
+          "reason": "Displays a split-screen view with a detailed document on the left and a conversation or chat interface on the right, illustrating a workflow or interaction pattern.",
+          "keywords": [
+            "workflow",
+            "split screen",
+            "chat",
+            "document"
+          ]
+        },
+        {
+          "frame": "frame_0019.jpg",
+          "timestamp": "36:00",
+          "reason": "Highlights a message or action within a chat interface, possibly marking a key step in a demonstration.",
+          "keywords": [
+            "chat",
+            "demo",
+            "interaction"
+          ]
+        },
+        {
+          "frame": "frame_0023.jpg",
+          "timestamp": "44:00",
+          "reason": "Shows a tool interface (Policlone) with branding and content, indicating a specific software or platform being discussed.",
+          "keywords": [
+            "tool",
+            "Policlone",
+            "UI"
+          ]
+        },
+        {
+          "frame": "frame_0024.jpg",
+          "timestamp": "46:00",
+          "reason": "Contains a clear diagram with labels, icons, and text in Chinese, illustrating a process or system architecture—valuable for later explanation and review.",
+          "keywords": [
+            "diagram",
+            "architecture",
+            "process",
+            "infographic"
+          ]
+        }
+      ],
+      "dropped_summary": "Most frames are redundant, showing minor UI changes or chat logs without significant content evolution.lecturer-only, blurred, or nearly identical frames were dropped. Only frames with meaningful visual artifacts or state changes were retained.",
+      "sheet": "keyframe_selection\\sheets\\20260428-全程回放（2）Demo Day：我如何与agen\\20260428-全程回放（2）Demo Day：我如何与agen_sheet_01.jpg",
+      "success": true,
+      "error": null
+    },
+    {
+      "selected": [
+        {
+          "frame": "frame_0025.jpg",
+          "timestamp": "48:00",
+          "reason": "Displays a clear UI with highlighted text and a focused code editor, indicating a teaching moment involving specific code or configuration. This frame captures a complete teaching artifact that is distinct from surrounding frames.",
+          "keywords": [
+            "UI",
+            "code editor",
+            "highlighted text",
+            "teaching artifact"
+          ]
+        },
+        {
+          "frame": "frame_0026.jpg",
+          "timestamp": "50:00",
+          "reason": "Shows a diagram with numbered steps and arrows, illustrating a conceptual process or workflow. This visual state change is material and provides key pedagogical content not present in adjacent frames.",
+          "keywords": [
+            "diagram",
+            "workflow",
+            "visual explanation",
+            "steps"
+          ]
+        },
+        {
+          "frame": "frame_0027.jpg",
+          "timestamp": "52:00",
+          "reason": "Presents a clear dialog box or feature panel with structured information, useful for demonstrating a specific UI interaction or configuration. This is a complete, non-blurred visual state ideal for source-backed review.",
+          "keywords": [
+            "UI interaction",
+            "dialog box",
+            "configuration panel",
+            "demonstration"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped as they either showed lecturer-only views, partial UI elements, or lacked clear, material visual content for teaching. No duplicate or low-information frames were found, but only 3 frames met the criteria of capturing complete, actionable teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20260428-全程回放（2）Demo Day：我如何与agen\\20260428-全程回放（2）Demo Day：我如何与agen_sheet_02.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

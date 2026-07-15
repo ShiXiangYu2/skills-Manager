@@ -1,0 +1,19 @@
+{
+  "media": "20220329-肯德基大神卡出的bug，给产品经理提了个醒",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220329-肯德基大神卡出的bug，给产品经理提了个醒.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220329-肯德基大神卡出的bug，给产品经理提了个醒",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220329-肯德基大神卡出的bug，给产品经理提了个醒",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "Both frames are lecturer-only with no visual teaching artifacts (slides, boards, UI, diagrams, etc.) and contain only speaker commentary without material visual state changes or key teaching content. They do not meet the criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20220329-肯德基大神卡出的bug，给产品经理提了个醒\\20220329-肯德基大神卡出的bug，给产品经理提了个醒_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0025.jpg",
+      "timestamp": "48:00",
+      "reason": "This frame captures a complete slide with a key conceptual definition: 'VIBE CODING IS A FORM OF SELF-EXPRESSION', accompanied by supporting text and a visual design that emphasizes the message. The slide is visually clear and contains core teaching content that stands out from adjacent frames. It serves as strong evidence for distillation, explanation, or review of the topic.",
+      "keywords": [
+        "vibe coding",
+        "self-expression",
+        "slide",
+        "concept",
+        "definition"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames likely contain lecturer-only views, blank or blurred visuals, or low-information content without visible artifacts such as slides, diagrams, or code. Since only one frame is provided, it is preserved if it meets criteria; no other frames are available for assessment or comparison.",
+  "sheet": "keyframe_selection\\sheets\\20260614-50分钟完整版：我vibe coding的思路和\\20260614-50分钟完整版：我vibe coding的思路和_sheet_02.jpg",
+  "success": true,
+  "error": null
+}

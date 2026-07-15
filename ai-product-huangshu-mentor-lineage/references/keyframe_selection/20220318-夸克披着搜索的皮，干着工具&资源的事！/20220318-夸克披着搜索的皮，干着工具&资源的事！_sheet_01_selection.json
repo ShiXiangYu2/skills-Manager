@@ -1,0 +1,39 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the complete whiteboard content at the start, including the title and initial bullet points, which are essential for understanding the topic. The lecturer is pointing to the first bullet point, indicating the start of a key explanation.",
+      "keywords": [
+        "whiteboard",
+        "slide",
+        "intro",
+        "product intro"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Clear view of the lecturer’s question '有没有什么新的路径可以去偷袭对手呢？' which is a critical teaching artifact that frames the discussion. This frame captures the moment of conceptual shift or challenge.",
+      "keywords": [
+        "question",
+        "teaching moment",
+        "conceptual shift"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Shows the lecturer's concluding statement '帮助用户更高效的获得信息' which summarizes the core objective. It's a key takeaway frame that ties the discussion together.",
+      "keywords": [
+        "summary",
+        "conclusion",
+        "key takeaway"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were dropped as they either duplicated the whiteboard content, showed only the lecturer without critical teaching artifacts, or were low-information frames without visual state changes.",
+  "sheet": "keyframe_selection\\sheets\\20220318-夸克披着搜索的皮，干着工具&资源的事！\\20220318-夸克披着搜索的皮，干着工具&资源的事！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

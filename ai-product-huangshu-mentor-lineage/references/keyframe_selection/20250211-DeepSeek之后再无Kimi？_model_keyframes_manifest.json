@@ -1,0 +1,19 @@
+{
+  "media": "20250211-DeepSeek之后再无Kimi？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250211-DeepSeek之后再无Kimi？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250211-DeepSeek之后再无Kimi？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250211-DeepSeek之后再无Kimi？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts (slides, diagrams, UI, formulas, etc.) that meet the selection criteria. The only frame provided is a lecturer shot with subtitles, which is ineligible under criteria 4 (drop lecturer-only frames).",
+      "sheet": "keyframe_selection\\sheets\\20250211-DeepSeek之后再无Kimi？\\20250211-DeepSeek之后再无Kimi？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

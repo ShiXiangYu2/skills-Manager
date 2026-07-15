@@ -1,0 +1,93 @@
+{
+  "media": "20250526-一个提示词Claude 4出3000行，iOS界 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250526-一个提示词Claude 4出3000行，iOS界 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界 (1)",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界 (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear UI design for a mobile app with distinct screens and layout, useful for explaining UI/UX principles.",
+      "keywords": [
+        "UI",
+        "design",
+        "mobile app",
+        "layout"
+      ],
+      "candidate_source": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界 (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界 (1)\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows detailed product specification with bullet points and structure, capturing key technical content for reference.",
+      "keywords": [
+        "product spec",
+        "technical document",
+        "bullet points",
+        "design principles"
+      ],
+      "candidate_source": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界 (1)\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界 (1)\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a high-quality UI design draft with clear visual hierarchy and annotations, valuable for teaching design process.",
+      "keywords": [
+        "UI design draft",
+        "visual hierarchy",
+        "annotations",
+        "design process"
+      ],
+      "candidate_source": "keyframe_candidates\\20250526-一个提示词Claude 4出3000行，iOS界 (1)\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250526-一个提示词Claude 4出3000行，iOS界 (1)\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear UI design for a mobile app with distinct screens and layout, useful for explaining UI/UX principles.",
+          "keywords": [
+            "UI",
+            "design",
+            "mobile app",
+            "layout"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Shows detailed product specification with bullet points and structure, capturing key technical content for reference.",
+          "keywords": [
+            "product spec",
+            "technical document",
+            "bullet points",
+            "design principles"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Displays a high-quality UI design draft with clear visual hierarchy and annotations, valuable for teaching design process.",
+          "keywords": [
+            "UI design draft",
+            "visual hierarchy",
+            "annotations",
+            "design process"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped as they contained lecturer-only views, blurred content, or insufficient visual information to serve as teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20250526-一个提示词Claude 4出3000行，iOS界 (1)\\20250526-一个提示词Claude 4出3000行，iOS界 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

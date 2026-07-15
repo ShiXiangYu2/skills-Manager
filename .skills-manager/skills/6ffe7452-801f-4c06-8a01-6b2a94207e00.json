@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ffe7452-801f-4c06-8a01-6b2a94207e00",
+  "path": "jupyter-notebook",
+  "path_key": "jupyter-notebook",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

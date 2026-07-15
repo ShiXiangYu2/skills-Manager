@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete teaching artifact with structured chat dialogue, speaker annotations, and key educational content about product development and simplification. The visualization and text are clear and central to the lesson’s content.",
+      "keywords": [
+        "chat interface",
+        "product development",
+        "teaching dialogue",
+        "educational content"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Continues the same structured chat interface with updated content that advances the teaching narrative, including specific technical points about product reasons and simplification. Captures a material visual state change from the previous frame.",
+      "keywords": [
+        "chat interface",
+        "technical discussion",
+        "visual state change",
+        "simplification"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are not visible or not provided; only two frames are available, both of which meet selection criteria as they show informative, clear, and materially changing teaching artifacts with structured content. No lecturer-only, blank, or low-information frames were present in the provided subset.",
+  "sheet": "keyframe_selection\\sheets\\20260424-Tab out的想法是怎么来的？我跟AI的聊天方\\20260424-Tab out的想法是怎么来的？我跟AI的聊天方_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "media": "20251121-教程：如何用Gemini 3搭建AI词典（含提示",
+  "video_path": "D:\\视频下载\\张咋啦\\20251121-教程：如何用Gemini 3搭建AI词典（含提示.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251121-教程：如何用Gemini 3搭建AI词典（含提示",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251121-教程：如何用Gemini 3搭建AI词典（含提示",
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a clear UI of Google AI Studio with a pop-up card showing 'serendipity' and related text, indicating a key step in a demo or tutorial. The visual element is specific, complete, and serves as teaching artifact for the platform's interface or workflow.",
+      "keywords": [
+        "Google AI Studio",
+        "demo",
+        "UI",
+        "serendipity"
+      ],
+      "candidate_source": "keyframe_candidates\\20251121-教程：如何用Gemini 3搭建AI词典（含提示\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20251121-教程：如何用Gemini 3搭建AI词典（含提示\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Displays a clear UI of Google AI Studio with a pop-up card showing 'serendipity' and related text, indicating a key step in a demo or tutorial. The visual element is specific, complete, and serves as teaching artifact for the platform's interface or workflow.",
+          "keywords": [
+            "Google AI Studio",
+            "demo",
+            "UI",
+            "serendipity"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0001.jpg is dropped as it contains only a promotional webpage with text and video thumbnails, lacking a specific teaching artifact or visual state change relevant to course content. It does not meet criteria for preserving educational evidence.",
+      "sheet": "keyframe_selection\\sheets\\20251121-教程：如何用Gemini 3搭建AI词典（含提示\\20251121-教程：如何用Gemini 3搭建AI词典（含提示_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

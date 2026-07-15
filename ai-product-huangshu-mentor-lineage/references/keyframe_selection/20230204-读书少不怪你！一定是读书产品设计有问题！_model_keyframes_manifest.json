@@ -1,0 +1,19 @@
+{
+  "media": "20230204-读书少不怪你！一定是读书产品设计有问题！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230204-读书少不怪你！一定是读书产品设计有问题！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230204-读书少不怪你！一定是读书产品设计有问题！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230204-读书少不怪你！一定是读书产品设计有问题！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "Both frames are introductory or presenter-focused without clear teaching artifacts, visual state changes, or unique information. They lack slides, diagrams, or demonstrative content suitable for source-backed explanation.",
+      "sheet": "keyframe_selection\\sheets\\20230204-读书少不怪你！一定是读书产品设计有问题！\\20230204-读书少不怪你！一定是读书产品设计有问题！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

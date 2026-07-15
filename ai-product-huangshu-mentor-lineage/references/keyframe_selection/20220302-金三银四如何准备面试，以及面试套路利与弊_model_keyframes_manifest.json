@@ -1,0 +1,19 @@
+{
+  "media": "20220302-金三银四如何准备面试，以及面试套路利与弊",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220302-金三银四如何准备面试，以及面试套路利与弊.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220302-金三银四如何准备面试，以及面试套路利与弊",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220302-金三银四如何准备面试，以及面试套路利与弊",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clear teaching artifacts such as slides, boards, diagrams, or formulas. All frames show the lecturer speaking without any visible teaching materials or visual state changes that meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20220302-金三银四如何准备面试，以及面试套路利与弊\\20220302-金三银四如何准备面试，以及面试套路利与弊_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

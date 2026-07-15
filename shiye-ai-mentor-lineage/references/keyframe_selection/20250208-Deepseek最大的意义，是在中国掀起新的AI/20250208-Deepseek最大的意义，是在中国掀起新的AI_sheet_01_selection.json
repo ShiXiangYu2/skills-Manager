@@ -1,0 +1,8 @@
+{
+  "selected": [],
+  "dropped_summary": "model returned non-json content",
+  "raw": "",
+  "sheet": "keyframe_selection\\sheets\\20250208-Deepseek最大的意义，是在中国掀起新的AI\\20250208-Deepseek最大的意义，是在中国掀起新的AI_sheet_01.jpg",
+  "success": false,
+  "error": "403 Client Error: Forbidden for url: https://api.siliconflow.cn/v1/chat/completions"
+}

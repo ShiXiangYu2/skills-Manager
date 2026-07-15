@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a clear slide with key teaching content: bilingual text (Chinese and English) on AI-generated natural speech and creativity. It serves as a foundational concept for the course, enabling source-backed explanation and review. The visual is complete and not duplicated or obstructed.",
+      "keywords": [
+        "AI",
+        "natural speech",
+        "creativity",
+        "bilingual",
+        "slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible or provided for comparison; thus, no additional selections can be made. If this were part of a larger contact sheet, frames showing讲师-only, blank, or duplicate content would be dropped per criteria.",
+  "sheet": "keyframe_selection\\sheets\\20250201-每次听NotebookLM的AI播客都会起鸡皮疙\\20250201-每次听NotebookLM的AI播客都会起鸡皮疙_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20230202-产品人摸鱼聚集地，我们每天都要打开的APP",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230202-产品人摸鱼聚集地，我们每天都要打开的APP.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230202-产品人摸鱼聚集地，我们每天都要打开的APP",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230202-产品人摸鱼聚集地，我们每天都要打开的APP",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts (slides, diagrams, UI, formulas, etc.) that meet the selection criteria. All frames appear to show speaker commentary or text overlays without clear visual teaching materials.",
+      "sheet": "keyframe_selection\\sheets\\20230202-产品人摸鱼聚集地，我们每天都要打开的APP\\20230202-产品人摸鱼聚集地，我们每天都要打开的APP_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

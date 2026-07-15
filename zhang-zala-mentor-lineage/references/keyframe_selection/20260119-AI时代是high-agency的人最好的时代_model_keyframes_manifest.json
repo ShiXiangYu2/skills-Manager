@@ -1,0 +1,19 @@
+{
+  "media": "20260119-AI时代是high-agency的人最好的时代",
+  "video_path": "D:\\视频下载\\张咋啦\\20260119-AI时代是high-agency的人最好的时代.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260119-AI时代是high-agency的人最好的时代",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260119-AI时代是high-agency的人最好的时代",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show a conversational setup with lecturers speaking, no slides, diagrams, documents, or UI elements visible. The scene is primarily person-focused with no teaching artifacts or visual content suitable for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260119-AI时代是high-agency的人最好的时代\\20260119-AI时代是high-agency的人最好的时代_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear UI of a web-based form or dashboard with structured fields and a labelled button, representing a complete teaching artifact for user interface demonstration. It is a stable, non-blurred view with visible text and interactive elements useful for source-backed explanation.",
+      "keywords": [
+        "UI",
+        "dashboard",
+        "form",
+        "web interface"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a complete spreadsheet with structured data in columns and rows, likely demonstrating data processing or analysis. The content is legible and represents a material visual teaching artifact, useful for review or verification of data handling steps.",
+      "keywords": [
+        "spreadsheet",
+        "data",
+        "table",
+        "Excel"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were available in the contact sheet to evaluate beyond the two provided. Both selected frames meet criteria for material visual teaching artifacts with clear, structured content. No duplicates, blanks, or low-information frames were present.",
+  "sheet": "keyframe_selection\\sheets\\20260529-Codex app太好用了，尤其是对于非程序员\\20260529-Codex app太好用了，尤其是对于非程序员_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

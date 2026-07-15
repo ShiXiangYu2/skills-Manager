@@ -1,0 +1,19 @@
+{
+  "media": "BV1PE421P7nA",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1PE421P7nA\\20240717-AI克苏鲁《末日之旅》，但是这可能是最极限的效果.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\BV1PE421P7nA",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1PE421P7nA",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "Both frames appear to be introductory visuals or title cards rather than teaching artifacts. Frame 0001 shows a static landscape with no discernible educational content, and frame 0002 displays a stylized title screen with a Chinese title '末日之旅' (Journey to the End of the World), which is likely an intro or thematic image, not a teaching artifact. No slides, diagrams, formulas, or clear educational material are present, so all frames are dropped per criteria 4.",
+      "sheet": "keyframe_selection\\sheets\\BV1PE421P7nA\\BV1PE421P7nA_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "media": "20260208-跟AI学习很有心理安全感 多问“傻问题”",
+  "video_path": "D:\\视频下载\\张咋啦\\20260208-跟AI学习很有心理安全感 多问“傻问题”.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260208-跟AI学习很有心理安全感 多问“傻问题”",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260208-跟AI学习很有心理安全感 多问“傻问题”",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete introductory slide with key teaching points: title '为什么要把AI变成你的老师' (Why turn AI into your teacher), bullet points on psychological safety, iterative questioning, and project-based learning. It contains structured textual content useful for course distillation and verification.",
+      "keywords": [
+        "introduction",
+        "AI education",
+        "project-based learning",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\20260208-跟AI学习很有心理安全感 多问“傻问题”\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260208-跟AI学习很有心理安全感 多问“傻问题”\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame captures a complete introductory slide with key teaching points: title '为什么要把AI变成你的老师' (Why turn AI into your teacher), bullet points on psychological safety, iterative questioning, and project-based learning. It contains structured textual content useful for course distillation and verification.",
+          "keywords": [
+            "introduction",
+            "AI education",
+            "project-based learning",
+            "slide"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames are omitted as no additional frames were provided for evaluation. This single frame qualifies as a key teaching artifact with clear, structured content relevant to course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260208-跟AI学习很有心理安全感 多问“傻问题”\\20260208-跟AI学习很有心理安全感 多问“傻问题”_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

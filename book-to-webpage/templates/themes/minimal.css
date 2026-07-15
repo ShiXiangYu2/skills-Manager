@@ -1,0 +1,33 @@
+/* ============================================================
+   极简学术（minimal · 瑞士国际主义 / 大气简约）
+   核心：正文换无衬线、底色去渐变改纯白、金红蓝绿收敛为
+        「墨黑 + 单一克制岩蓝」。无需组件覆盖——组件全部
+        引用语义变量，重映射变量即整体换肤。
+   ============================================================ */
+:root {
+  --ink: #111111;
+  --muted: #6b6b6b;
+  --paper: #ffffff;
+  --paper-deep: #f6f6f4;
+  --line: #e4e4e0;
+  --red: #111111;          /* eyebrow/标签 → 墨色（去红）*/
+  --blue: #2f4858;         /* 深岩蓝 = 唯一彩色强调 */
+  --green: #2f4858;        /* 收敛到同一岩蓝 */
+  --gold: #2f4858;         /* 收敛到同一岩蓝 */
+  --white: #ffffff;
+  --shadow: 0 12px 40px rgba(17, 17, 17, .06);
+
+  --font-body: -apple-system, "PingFang SC", "Helvetica Neue", "Microsoft YaHei", sans-serif;
+  --font-display: "PingFang SC", "Helvetica Neue", "Microsoft YaHei", sans-serif;
+  --bg: #ffffff;           /* 纯白、去渐变 */
+  --surface: #fafaf8;
+  --surface-strong: #f2f2ef;
+  --bar-bg: rgba(248, 248, 246, .95);
+  --ink-soft: #2a2a2a;
+  --ink-soft-2: #333333;
+  --tint-accent: rgba(47, 72, 88, .10);
+  --tint-accent-strong: rgba(47, 72, 88, .14);
+}
+
+/* thesis 总论边条去红改墨；quote/timeline/accordion 强调已是岩蓝（--gold 重映射） */
+[data-theme="minimal"] .thesis { border-left-color: var(--ink); }

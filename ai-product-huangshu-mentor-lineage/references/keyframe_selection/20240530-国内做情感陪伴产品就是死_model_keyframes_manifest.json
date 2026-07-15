@@ -1,0 +1,19 @@
+{
+  "media": "20240530-国内做情感陪伴产品就是死",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20240530-国内做情感陪伴产品就是死.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20240530-国内做情感陪伴产品就是死",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20240530-国内做情感陪伴产品就是死",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain significant teaching artifacts (slides, boards, diagrams, formulas, etc.) or visual state changes that meet the selection criteria. All frames show the lecturer speaking, which falls under lecturer-only content and does not qualify for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20240530-国内做情感陪伴产品就是死\\20240530-国内做情感陪伴产品就是死_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

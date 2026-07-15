@@ -1,0 +1,19 @@
+{
+  "media": "20230102-我把11年产品经理经验，总结成8个字！㊙️",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230102-我把11年产品经理经验，总结成8个字！㊙️.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230102-我把11年产品经理经验，总结成8个字！㊙️",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230102-我把11年产品经理经验，总结成8个字！㊙️",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only introductory branding and a partially visible whiteboard with unclear handwriting, not meeting criteria for clear teaching artifacts or visual state changes. No valuable teaching content is captured.",
+      "sheet": "keyframe_selection\\sheets\\20230102-我把11年产品经理经验，总结成8个字！㊙️\\20230102-我把11年产品经理经验，总结成8个字！㊙️_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "22b898d3-1f55-4f77-88ec-93f86c6d1bd9",
+  "path": "bailian-cli",
+  "path_key": "bailian-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

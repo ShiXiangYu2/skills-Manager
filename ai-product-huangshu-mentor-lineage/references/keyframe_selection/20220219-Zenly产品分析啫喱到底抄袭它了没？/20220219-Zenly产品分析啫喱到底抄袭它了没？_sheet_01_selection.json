@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Clear view of the whiteboard with key product definition and user segments written, serving as the core teaching artifact for the topic.",
+      "keywords": [
+        "whiteboard",
+        "product_definition",
+        "user_segments"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Captures a visual state change with the word '但是' (but) appearing, indicating a critical shift in the argument or analysis.",
+      "keywords": [
+        "visual_state_change",
+        "contrast",
+        "analysis_point"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible or provided in this contact sheet for selection.",
+  "sheet": "keyframe_selection\\sheets\\20220219-Zenly产品分析啫喱到底抄袭它了没？\\20220219-Zenly产品分析啫喱到底抄袭它了没？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20251231-用Skills全自动干活7 自动分析热门内容评论",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251231-用Skills全自动干活7 自动分析热门内容评论.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251231-用Skills全自动干活7 自动分析热门内容评论",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251231-用Skills全自动干活7 自动分析热门内容评论",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is a blurred, low-resolution introductory screen with no clear teaching artifact, visual state change, or useful content for course distillation. It does not meet the selection criteria for preserving key instructional moments.",
+      "sheet": "keyframe_selection\\sheets\\20251231-用Skills全自动干活7 自动分析热门内容评论\\20251231-用Skills全自动干活7 自动分析热门内容评论_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e774cc4-182e-49c0-8e1c-97425be44964",
+  "path": "gh-fix-ci",
+  "path_key": "gh-fix-ci",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20260104-用Skills全自动干活 8 一键自动生图发文章",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260104-用Skills全自动干活 8 一键自动生图发文章.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260104-用Skills全自动干活 8 一键自动生图发文章",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260104-用Skills全自动干活 8 一键自动生图发文章",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is blank or contains only low-information content (likely a loading screen or empty UI state) with no teaching artifact, visual state change, or useful source material for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260104-用Skills全自动干活 8 一键自动生图发文章\\20260104-用Skills全自动干活 8 一键自动生图发文章_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

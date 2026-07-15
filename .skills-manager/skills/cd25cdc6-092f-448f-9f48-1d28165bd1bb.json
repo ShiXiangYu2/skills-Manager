@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd25cdc6-092f-448f-9f48-1d28165bd1bb",
+  "path": "cloud-upload-backup",
+  "path_key": "cloud-upload-backup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

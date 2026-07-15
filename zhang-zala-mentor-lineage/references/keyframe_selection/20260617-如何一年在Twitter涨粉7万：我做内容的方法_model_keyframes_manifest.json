@@ -1,0 +1,67 @@
+{
+  "media": "20260617-如何一年在Twitter涨粉7万：我做内容的方法",
+  "video_path": "D:\\视频下载\\张咋啦\\20260617-如何一年在Twitter涨粉7万：我做内容的方法.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20260617-如何一年在Twitter涨粉7万：我做内容的方法",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260617-如何一年在Twitter涨粉7万：我做内容的方法",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear teaching artifact with a numbered list of four content strategies ('4个打法'), which is a core teaching point. The text is legible and contains actionable information not present in other frames.",
+      "keywords": [
+        "content strategy",
+        "4个打法",
+        "teaching list"
+      ],
+      "candidate_source": "keyframe_candidates\\20260617-如何一年在Twitter涨粉7万：我做内容的方法\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260617-如何一年在Twitter涨粉7万：我做内容的方法\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Shows a social media post screenshot from 'Jerry Zhang' that visually illustrates a real-world example of the content strategy being discussed. This serves as a concrete demo and evidence for the course topic, offering higher value than the speaker-only frames.",
+      "keywords": [
+        "demo",
+        "social media example",
+        "Jerry Zhang",
+        "proof of concept"
+      ],
+      "candidate_source": "keyframe_candidates\\20260617-如何一年在Twitter涨粉7万：我做内容的方法\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260617-如何一年在Twitter涨粉7万：我做内容的方法\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear teaching artifact with a numbered list of four content strategies ('4个打法'), which is a core teaching point. The text is legible and contains actionable information not present in other frames.",
+          "keywords": [
+            "content strategy",
+            "4个打法",
+            "teaching list"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:40",
+          "reason": "Shows a social media post screenshot from 'Jerry Zhang' that visually illustrates a real-world example of the content strategy being discussed. This serves as a concrete demo and evidence for the course topic, offering higher value than the speaker-only frames.",
+          "keywords": [
+            "demo",
+            "social media example",
+            "Jerry Zhang",
+            "proof of concept"
+          ]
+        }
+      ],
+      "dropped_summary": "Frames 0002 and the other tiles are lecturer-only or show low-information views (e.g., partial text or speaker without visual artifacts). The content is not stable or complete enough for evidence; the speaker's face alone without instructional content does not meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260617-如何一年在Twitter涨粉7万：我做内容的方法\\20260617-如何一年在Twitter涨粉7万：我做内容的方法_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

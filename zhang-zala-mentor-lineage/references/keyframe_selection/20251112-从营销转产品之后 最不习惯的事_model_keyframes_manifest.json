@@ -1,0 +1,45 @@
+{
+  "media": "20251112-从营销转产品之后 最不习惯的事",
+  "video_path": "D:\\视频下载\\张咋啦\\20251112-从营销转产品之后 最不习惯的事.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251112-从营销转产品之后 最不习惯的事",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251112-从营销转产品之后 最不习惯的事",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a key teaching message presented as a text overlay ('产品不怕负反馈，就怕没有反馈') that encapsulates a core principle of feedback in product development, along with contextual subtitle clarifying its importance as a signal. This frame captures a complete, high-information teaching artifact that is central to the lesson's theme.",
+      "keywords": [
+        "feedback",
+        "product development",
+        "teaching principle",
+        "text overlay"
+      ],
+      "candidate_source": "keyframe_candidates\\20251112-从营销转产品之后 最不习惯的事\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251112-从营销转产品之后 最不习惯的事\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains a key teaching message presented as a text overlay ('产品不怕负反馈，就怕没有反馈') that encapsulates a core principle of feedback in product development, along with contextual subtitle clarifying its importance as a signal. This frame captures a complete, high-information teaching artifact that is central to the lesson's theme.",
+          "keywords": [
+            "feedback",
+            "product development",
+            "teaching principle",
+            "text overlay"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames are visible in the contact sheet; the provided frame is the only candidate. However, since it contains a clear, complete, and central teaching artifact (text overlay with supporting subtitle), it is selected as the sole keyframe. If other frames exist outside this image, they would be evaluated similarly for slide, diagram, formula, or teaching artifact content.",
+      "sheet": "keyframe_selection\\sheets\\20251112-从营销转产品之后 最不习惯的事\\20251112-从营销转产品之后 最不习惯的事_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

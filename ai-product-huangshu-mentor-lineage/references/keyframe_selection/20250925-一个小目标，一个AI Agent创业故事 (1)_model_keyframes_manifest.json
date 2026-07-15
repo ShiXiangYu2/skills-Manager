@@ -1,0 +1,19 @@
+{
+  "media": "20250925-一个小目标，一个AI Agent创业故事 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250925-一个小目标，一个AI Agent创业故事 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250925-一个小目标，一个AI Agent创业故事 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250925-一个小目标，一个AI Agent创业故事 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts such as slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes. All frames show the lecturer speaking, which does not meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20250925-一个小目标，一个AI Agent创业故事 (1)\\20250925-一个小目标，一个AI Agent创业故事 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

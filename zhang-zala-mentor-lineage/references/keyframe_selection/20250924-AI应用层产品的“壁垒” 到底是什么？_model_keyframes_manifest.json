@@ -1,0 +1,47 @@
+{
+  "media": "20250924-AI应用层产品的“壁垒” 到底是什么？",
+  "video_path": "D:\\视频下载\\张咋啦\\20250924-AI应用层产品的“壁垒” 到底是什么？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250924-AI应用层产品的“壁垒” 到底是什么？",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250924-AI应用层产品的“壁垒” 到底是什么？",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a clear slide with a key teaching concept: 'Build in public 跟用户共创' (Build in public, co-create with users). It includes supporting Chinese bullet points about execution, cognition, and strategy derived from practice. Below the slide is a relevant social media example (X/Twitter post) that visually illustrates the concept, making it a strong, artifact-rich teaching moment. The text is legible and complete, providing source-backed material for review or verification.",
+      "keywords": [
+        "Build in public",
+        "co-creation",
+        "user engagement",
+        "strategy",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\20250924-AI应用层产品的“壁垒” 到底是什么？\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250924-AI应用层产品的“壁垒” 到底是什么？\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame captures a clear slide with a key teaching concept: 'Build in public 跟用户共创' (Build in public, co-create with users). It includes supporting Chinese bullet points about execution, cognition, and strategy derived from practice. Below the slide is a relevant social media example (X/Twitter post) that visually illustrates the concept, making it a strong, artifact-rich teaching moment. The text is legible and complete, providing source-backed material for review or verification.",
+          "keywords": [
+            "Build in public",
+            "co-creation",
+            "user engagement",
+            "strategy",
+            "slide"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were available for evaluation in this contact sheet. Only one frame was provided, which was selected for its clear, complete teaching artifact combining slide content and a relevant visual example.",
+      "sheet": "keyframe_selection\\sheets\\20250924-AI应用层产品的“壁垒” 到底是什么？\\20250924-AI应用层产品的“壁垒” 到底是什么？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear comparison of three AI image generation styles (Origin Photo, Comics, Realistic) and includes text explaining the capability to generate both anime and realistic styles, which is a key teaching artifact.",
+      "keywords": [
+        "AI image generation",
+        "style comparison",
+        "anime",
+        "realistic",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20230920-妙鸭相机免费了！\\20230920-妙鸭相机免费了！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "809a3671-174b-428c-a017-2b37312a4cdc",
+  "path": "shiye-ai-mentor-lineage",
+  "path_key": "shiye-ai-mentor-lineage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

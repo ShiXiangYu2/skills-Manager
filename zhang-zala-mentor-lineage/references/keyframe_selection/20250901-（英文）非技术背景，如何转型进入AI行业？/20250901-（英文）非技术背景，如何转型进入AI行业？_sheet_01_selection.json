@@ -1,0 +1,40 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Provides a clear, structured list of key knowledge points for AI professionals, essential for course distillation and review.",
+      "keywords": [
+        "list",
+        "knowledge points",
+        "AI skills"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a clear pyramid diagram illustrating career positioning in AI, with labeled layers and career paths, critical for visual explanation and verification.",
+      "keywords": [
+        "diagram",
+        "career path",
+        "pyramid model",
+        "AI positioning"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Presents a structured flowchart on 'How to get a job' with actionable steps and reasoning, offering a vital teaching artifact for job strategy.",
+      "keywords": [
+        "flowchart",
+        "job strategy",
+        "career advice",
+        "AI career"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were either duplicates of the selected ones, contained only the lecturer without visible teaching artifacts, or showed partial/incomplete visuals with low informational value.",
+  "sheet": "keyframe_selection\\sheets\\20250901-（英文）非技术背景，如何转型进入AI行业？\\20250901-（英文）非技术背景，如何转型进入AI行业？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20230224-产品经理面试题｜高德红绿灯倒计时咋弄的？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230224-产品经理面试题｜高德红绿灯倒计时咋弄的？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230224-产品经理面试题｜高德红绿灯倒计时咋弄的？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230224-产品经理面试题｜高德红绿灯倒计时咋弄的？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts such as slides, boards, UI, diagrams, tables, formulas, demos, or visual state changes. Both frames are lecturer-only with no material visual content for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20230224-产品经理面试题｜高德红绿灯倒计时咋弄的？\\20230224-产品经理面试题｜高德红绿灯倒计时咋弄的？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

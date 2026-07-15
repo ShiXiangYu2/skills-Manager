@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Captures a complete UI of the Huxe X profile page, including branding, follower count, and a post with visible content. It’s a clear, self-contained teaching artifact demonstrating the platform’s interface and personalized content feature, useful for verification and explanation.",
+      "keywords": [
+        "UI",
+        "Huxe",
+        "X profile",
+        "social media",
+        "personalized content"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg shows a hand holding a phone with a news feed, but the content is partially obscured and blurry. It lacks clarity and complete visual information, making it less suitable as a teaching artifact compared to the clear, structured UI in frame_0002.jpg. Also, frame_0001 lacks distinct teaching content beyond a generic feed preview.",
+  "sheet": "keyframe_selection\\sheets\\20250612-演示：NotebookLM团队从谷歌离职创业的产\\20250612-演示：NotebookLM团队从谷歌离职创业的产_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

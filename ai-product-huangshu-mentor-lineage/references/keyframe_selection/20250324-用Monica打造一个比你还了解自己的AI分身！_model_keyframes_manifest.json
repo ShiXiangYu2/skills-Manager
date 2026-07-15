@@ -1,0 +1,19 @@
+{
+  "media": "20250324-用Monica打造一个比你还了解自己的AI分身！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250324-用Monica打造一个比你还了解自己的AI分身！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250324-用Monica打造一个比你还了解自己的AI分身！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250324-用Monica打造一个比你还了解自己的AI分身！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames contain lecturer-only views with no visible teaching artifacts (slides, diagrams, UI, or visual state changes). They show the instructor speaking without any core instructional content, thus failing selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20250324-用Monica打造一个比你还了解自己的AI分身！\\20250324-用Monica打造一个比你还了解自己的AI分身！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

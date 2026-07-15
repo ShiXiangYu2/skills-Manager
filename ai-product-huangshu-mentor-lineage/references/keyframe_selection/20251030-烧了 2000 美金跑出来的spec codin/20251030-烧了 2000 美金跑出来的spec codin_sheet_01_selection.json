@@ -1,0 +1,7 @@
+{
+  "selected": [],
+  "dropped_summary": "All frames are either lecturer-only (showing the speaker with no visible teaching artifact) or low-information (empty UI, blurred, or not capturing a clear teaching moment). No frames meet the criteria of showing a slide, board, document, UI, diagram, table, formula, demo, or visual state change that materially aids course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20251030-烧了 2000 美金跑出来的spec codin\\20251030-烧了 2000 美金跑出来的spec codin_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

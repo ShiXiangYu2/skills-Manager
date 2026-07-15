@@ -1,0 +1,528 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>《置身事内》房地产启示</title>
+  <style>
+    :root {
+      --ink: #171411;
+      --muted: #6d6258;
+      --paper: #f8f2e7;
+      --paper-deep: #ece1cf;
+      --line: #d8c8af;
+      --red: #b9422f;
+      --blue: #245f73;
+      --green: #4d6f48;
+      --gold: #c2872d;
+      --white: #fffaf0;
+      --shadow: 0 18px 50px rgba(55, 38, 19, .14);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 22% 12%, rgba(194, 135, 45, .18), transparent 28rem),
+        linear-gradient(135deg, #fbf6ec 0%, #efe1ca 100%);
+      font-family: "Songti SC", "Noto Serif CJK SC", Georgia, serif;
+      letter-spacing: 0;
+    }
+
+    button {
+      font: inherit;
+      color: inherit;
+    }
+
+    .page {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 44px;
+    }
+
+    .hero {
+      min-height: 52vh;
+      display: grid;
+      grid-template-columns: 1.15fr .85fr;
+      gap: 32px;
+      align-items: end;
+      padding: 48px 0 30px;
+    }
+
+    .eyebrow {
+      margin: 0 0 16px;
+      color: var(--red);
+      font: 700 14px/1.3 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 760px;
+      font-size: clamp(44px, 7vw, 86px);
+      line-height: .98;
+      font-weight: 900;
+    }
+
+    .hero p {
+      margin: 22px 0 0;
+      max-width: 720px;
+      color: #3d332b;
+      font-size: 21px;
+      line-height: 1.7;
+    }
+
+    .thesis {
+      border-left: 7px solid var(--red);
+      background: rgba(255, 250, 240, .72);
+      padding: 22px 24px;
+      box-shadow: var(--shadow);
+    }
+
+    .thesis strong {
+      display: block;
+      margin-bottom: 12px;
+      font: 800 18px/1.2 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .thesis span {
+      display: block;
+      color: #42382e;
+      font-size: 18px;
+      line-height: 1.75;
+    }
+
+    .tabs {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      padding: 10px;
+      margin: 12px 0 28px;
+      border: 1px solid var(--line);
+      background: rgba(248, 242, 231, .88);
+      backdrop-filter: blur(14px);
+    }
+
+    .tab {
+      min-height: 52px;
+      border: 0;
+      border-radius: 4px;
+      background: transparent;
+      cursor: pointer;
+      font: 800 16px/1.2 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .tab[aria-selected="true"] {
+      color: var(--white);
+      background: var(--ink);
+    }
+
+    .panel {
+      display: none;
+      animation: rise .36s ease both;
+    }
+
+    .panel.active { display: block; }
+
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .section-title {
+      margin: 0 0 18px;
+      font: 900 30px/1.15 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    .note {
+      min-height: 220px;
+      padding: 22px;
+      border: 1px solid var(--line);
+      background: rgba(255, 250, 240, .62);
+    }
+
+    .note h3 {
+      margin: 0 0 12px;
+      font: 900 21px/1.2 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .note p {
+      margin: 0;
+      color: #44392f;
+      font-size: 17px;
+      line-height: 1.7;
+    }
+
+    .chain {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 8px;
+      margin: 24px 0 8px;
+    }
+
+    .chain button {
+      min-height: 88px;
+      padding: 12px;
+      border: 1px solid var(--line);
+      background: var(--white);
+      cursor: pointer;
+      text-align: left;
+      font: 800 15px/1.35 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .chain button.active {
+      color: var(--white);
+      background: var(--blue);
+      border-color: var(--blue);
+    }
+
+    .explain {
+      min-height: 118px;
+      margin-top: 10px;
+      padding: 22px;
+      color: #332a22;
+      border: 1px solid var(--line);
+      background: rgba(255, 250, 240, .8);
+      font-size: 18px;
+      line-height: 1.75;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: .9fr 1.1fr;
+      gap: 18px;
+      align-items: start;
+    }
+
+    .city-buttons {
+      display: grid;
+      gap: 10px;
+    }
+
+    .city-buttons button {
+      min-height: 58px;
+      padding: 0 18px;
+      border: 1px solid var(--line);
+      background: var(--white);
+      cursor: pointer;
+      text-align: left;
+      font: 800 17px/1.2 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .city-buttons button.active {
+      color: var(--white);
+      background: var(--green);
+      border-color: var(--green);
+    }
+
+    .result {
+      padding: 28px;
+      min-height: 300px;
+      border: 1px solid var(--line);
+      background: rgba(255, 250, 240, .72);
+      box-shadow: var(--shadow);
+    }
+
+    .result .label {
+      color: var(--red);
+      font: 800 14px/1.2 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .result h3 {
+      margin: 10px 0 12px;
+      font: 900 28px/1.2 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .result p {
+      margin: 0 0 12px;
+      color: #3f352b;
+      font-size: 18px;
+      line-height: 1.75;
+    }
+
+    .questions {
+      display: grid;
+      gap: 12px;
+      counter-reset: q;
+    }
+
+    .question {
+      display: grid;
+      grid-template-columns: 54px 1fr;
+      gap: 14px;
+      align-items: center;
+      padding: 18px;
+      border: 1px solid var(--line);
+      background: rgba(255, 250, 240, .68);
+    }
+
+    .question::before {
+      counter-increment: q;
+      content: counter(q);
+      display: grid;
+      place-items: center;
+      width: 46px;
+      height: 46px;
+      color: var(--white);
+      background: var(--gold);
+      font: 900 22px/1 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .question h3 {
+      margin: 0 0 4px;
+      font: 900 18px/1.25 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .question p {
+      margin: 0;
+      color: var(--muted);
+      font: 15px/1.55 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .footer {
+      margin-top: 34px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font: 14px/1.7 "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    @media (max-width: 880px) {
+      .hero,
+      .split,
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .hero {
+        min-height: auto;
+        padding-top: 28px;
+      }
+
+      .tabs {
+        position: static;
+        grid-template-columns: 1fr;
+      }
+
+      .chain {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 520px) {
+      .page {
+        width: min(100% - 22px, 1180px);
+        padding-top: 18px;
+      }
+
+      h1 { font-size: 42px; }
+      .hero p { font-size: 18px; }
+      .chain { grid-template-columns: 1fr; }
+      .question { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body data-theme="warm-paper">
+  <main class="page">
+    <section class="hero" aria-labelledby="title">
+      <div>
+        <p class="eyebrow">只用《置身事内》的框架理解房地产</p>
+        <h1 id="title">房价不是孤立涨跌，而是一套发展模式的结果。</h1>
+        <p>过去二十年，房价承载了城市化、地方财政、土地金融和居民未来收入。未来二十年，它会越来越回到人口、收入、产业和公共服务。</p>
+      </div>
+      <aside class="thesis">
+        <strong>一句话总论</strong>
+        <span>过去涨的是“土地财政 + 城市化 + 信贷 + 预期”；未来看的是“人口流入 + 收入增长 + 产业机会 + 公共服务”。</span>
+      </aside>
+    </section>
+
+    <nav class="tabs" aria-label="学习模块">
+      <button class="tab" aria-selected="true" data-tab="past">过去20年</button>
+      <button class="tab" aria-selected="false" data-tab="future">未来20年</button>
+      <button class="tab" aria-selected="false" data-tab="judge">判断城市</button>
+    </nav>
+
+    <section class="panel active" id="past">
+      <h2 class="section-title">过去20年：房价为什么涨</h2>
+      <div class="grid">
+        <article class="note">
+          <h3>需求被释放</h3>
+          <p>住房商品化之后，买房成为家庭资产配置的核心。城市机会更多，人口持续流入，住房需求快速扩大。</p>
+        </article>
+        <article class="note">
+          <h3>土地变成财源</h3>
+          <p>地方政府用土地出让和土地抵押支持基建、园区和招商。房价拉动地价，地价支撑财政和融资。</p>
+        </article>
+        <article class="note">
+          <h3>供给跟不上人口</h3>
+          <p>人口流向大城市，但建设用地指标不能充分跟着人口走。越有机会的地方，住房越紧张，价格越容易上去。</p>
+        </article>
+      </div>
+
+      <div class="chain" aria-label="因果链">
+        <button class="chain-step active" data-step="tax">分税制</button>
+        <button class="chain-step" data-step="land">土地财政</button>
+        <button class="chain-step" data-step="finance">土地金融</button>
+        <button class="chain-step" data-step="price">房价地价循环</button>
+        <button class="chain-step" data-step="debt">居民债务</button>
+        <button class="chain-step" data-step="turn">模式转型</button>
+      </div>
+      <div class="explain" id="chainText">分税制之后，地方承担大量事务，但稳定财源不足，开始更依赖土地出让和围绕土地展开的城市开发。</div>
+    </section>
+
+    <section class="panel" id="future">
+      <h2 class="section-title">未来20年：不会简单重复过去</h2>
+      <div class="grid">
+        <article class="note">
+          <h3>全国普涨变难</h3>
+          <p>土地金融不能无限扩张，居民债务也不能无限上升。未来房价更难脱离收入长期上涨。</p>
+        </article>
+        <article class="note">
+          <h3>城市分化加深</h3>
+          <p>有产业、有人口、有公共服务的地方仍有支撑；缺人口、缺产业、靠卖地循环的地方会承压。</p>
+        </article>
+        <article class="note">
+          <h3>从“土地”回到“人”</h3>
+          <p>书里的方向是从生产投资型政府转向服务型政府。住房的核心不再只是卖地融资，而是让人留下。</p>
+        </article>
+      </div>
+
+      <div class="explain">
+        未来判断的关键不是“房价还会不会涨”，而是“一个城市能不能持续提高人的收入、就业机会和生活保障”。房地产会从增长发动机，慢慢变成城市公共生活的一部分。
+      </div>
+    </section>
+
+    <section class="panel" id="judge">
+      <h2 class="section-title">判断城市：点一个类型看看</h2>
+      <div class="split">
+        <div class="city-buttons" aria-label="城市类型">
+          <button class="city-btn active" data-city="core">一线和核心强二线</button>
+          <button class="city-btn" data-city="strong">产业强、人口流入城市</button>
+          <button class="city-btn" data-city="weak">普通三四线城市</button>
+          <button class="city-btn" data-city="outflow">人口流出地区</button>
+        </div>
+        <article class="result" id="cityResult">
+          <div class="label">房价支撑</div>
+          <h3>一线和核心强二线</h3>
+          <p>支撑来自高收入岗位、产业集聚、公共服务和土地供给约束。风险是房价过高会压低消费、抬高年轻人的进入门槛。</p>
+          <p><strong>看点：</strong>人口是否继续净流入，收入是否跟得上房价，公共服务是否扩容。</p>
+        </article>
+      </div>
+
+      <h2 class="section-title" style="margin-top:28px;">看房价的5个问题</h2>
+      <div class="questions">
+        <article class="question">
+          <div>
+            <h3>这个城市还有没有真实人口流入？</h3>
+            <p>不是看户籍口号，而是看工作机会和年轻人是否愿意留下。</p>
+          </div>
+        </article>
+        <article class="question">
+          <div>
+            <h3>居民收入能不能支撑房价？</h3>
+            <p>土地最终靠人的收入定价，收入跟不上，房价就会消耗未来。</p>
+          </div>
+        </article>
+        <article class="question">
+          <div>
+            <h3>产业是创造现金流，还是只讲规划？</h3>
+            <p>产业、就业、税收和服务业密度，才是长期住房需求的根。</p>
+          </div>
+        </article>
+        <article class="question">
+          <div>
+            <h3>土地供给和人口流向是否匹配？</h3>
+            <p>人口流入但供地受限，价格容易硬；供地很多但人不来，价格难撑。</p>
+          </div>
+        </article>
+        <article class="question">
+          <div>
+            <h3>地方财政是否过度依赖房地产？</h3>
+            <p>越依赖卖地，越容易把短期繁荣建立在未来收入和债务之上。</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <footer class="footer">
+      内容依据《置身事内》的内部逻辑整理：地方政府、土地财政、土地金融、城市化、居民债务和政府转型。
+    </footer>
+  </main>
+
+  <script>
+    const tabs = document.querySelectorAll(".tab");
+    const panels = document.querySelectorAll(".panel");
+    const steps = {
+      tax: "分税制之后，地方承担大量事务，但稳定财源不足，开始更依赖土地出让和围绕土地展开的城市开发。",
+      land: "土地财政的实质，是把城市土地价值转化为地方政府收入。住宅和商业用地贡献了主要土地收入。",
+      finance: "土地金融更进一步：用土地和未来收益作抵押，撬动银行信贷和城投融资，推动基建、园区和城市扩张。",
+      price: "房价、地价、财政、基建和银行资产形成循环。一荣俱荣时增长很快，一旦降温也会彼此牵连。",
+      debt: "房价最终由居民按揭承担。土地资本化，本质上是居民未来收入的资本化，债务高了会压低消费。",
+      turn: "书中的改革方向，是从重土地、重投资、重规模，转向重人、重服务、重民生。"
+    };
+    const cities = {
+      core: {
+        title: "一线和核心强二线",
+        body: "支撑来自高收入岗位、产业集聚、公共服务和土地供给约束。风险是房价过高会压低消费、抬高年轻人的进入门槛。",
+        watch: "人口是否继续净流入，收入是否跟得上房价，公共服务是否扩容。"
+      },
+      strong: {
+        title: "产业强、人口流入城市",
+        body: "如果产业能带来稳定就业和收入，房价有基本面支撑。它们的关键是能否把外来人口真正变成市民。",
+        watch: "制造业和服务业是否共同增长，教育医疗住房是否补上。"
+      },
+      weak: {
+        title: "普通三四线城市",
+        body: "如果缺少持续人口流入和高质量产业，房价容易依赖政策、信贷和短期预期，长期弹性较弱。",
+        watch: "是否只靠新区、土地出让和规划故事支撑需求。"
+      },
+      outflow: {
+        title: "人口流出地区",
+        body: "土地和房子并不稀缺，真正稀缺的是工作机会、收入和公共服务吸引力。房价难以长期脱离人口趋势。",
+        watch: "年轻人是否回流，产业是否产生真实现金流。"
+      }
+    };
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        tabs.forEach((item) => item.setAttribute("aria-selected", "false"));
+        panels.forEach((panel) => panel.classList.remove("active"));
+        tab.setAttribute("aria-selected", "true");
+        document.getElementById(tab.dataset.tab).classList.add("active");
+      });
+    });
+
+    document.querySelectorAll(".chain-step").forEach((button) => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll(".chain-step").forEach((item) => item.classList.remove("active"));
+        button.classList.add("active");
+        document.getElementById("chainText").textContent = steps[button.dataset.step];
+      });
+    });
+
+    document.querySelectorAll(".city-btn").forEach((button) => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll(".city-btn").forEach((item) => item.classList.remove("active"));
+        button.classList.add("active");
+        const city = cities[button.dataset.city];
+        document.getElementById("cityResult").innerHTML = `
+          <div class="label">房价支撑</div>
+          <h3>${city.title}</h3>
+          <p>${city.body}</p>
+          <p><strong>看点：</strong>${city.watch}</p>
+        `;
+      });
+    });
+  </script>
+</body>
+</html>

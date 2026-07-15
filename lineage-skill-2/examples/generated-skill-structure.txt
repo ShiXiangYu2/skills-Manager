@@ -1,0 +1,65 @@
+生成后的课程 Skill 建议结构
+===========================
+
+<generated-skill>/
+├── SKILL.md
+├── lineage_manifest.json
+├── agents/
+│   ├── openai.yaml
+│   └── openclaw.yaml
+├── references/
+│   ├── course_package.json
+│   ├── course_digest.md
+│   ├── full_transcript.md
+│   ├── lesson_index.json
+│   ├── concept_glossary.md
+│   ├── evidence_map.json
+│   ├── quote_index.md
+│   ├── study_paths.md
+│   ├── keyframe_selection/          # 可选：模型选帧 manifest 与 summary
+│   ├── keyframes_model_selected/    # 可选：模型精选关键帧图片
+│   ├── transcripts/                 # 可选：打包后的 ASR 证据
+│   ├── analysis/                    # 可选：视频视觉分析
+│   └── documents/                   # 可选：讲义/OCR/文档证据
+└── scripts/
+    └── search_course_notes.py
+
+lineage_manifest.json 是生成产物的轻量溯源水印：
+
+- generated_by.id: lineage-skill
+- generated_by.repository: https://github.com/JuneYaooo/lineage-skill
+- generated_by.script: scripts/build_course_skill.py
+- provenance.watermark: lineage-skill:course-skill-builder:v0.1
+- provenance.watermark_visibility: manifest-only
+
+SKILL.md 应包含：
+
+- skill 触发条件
+- 课程范围
+- 回答原则
+- 溯源规则
+- 安全边界
+- references 使用说明
+
+references 应包含：
+
+- 课程总览
+- 逐课索引
+- 概念索引
+- 证据索引
+- 学习路径
+- 模型精选关键帧 manifest 与图片路径（当课程含视频时）
+
+不同 mode 会增加额外 references：
+
+- mentor: mentor_playbook.md, mentor_sessions.md, learner_progress.json
+- consultant: consulting_playbook.md, scenario_templates.md
+- practitioner: playbooks.md, checklists.md, templates.md, case_index.json
+- custom: custom_role.md, custom_workflows.md
+
+兼容别名：
+
+- study-coach -> mentor，并设置 progress=tracked
+- citation-archive -> expert，并设置 evidence=strict
+- knowledge-base -> expert，并设置 scope=multi-course
+- domain-expert -> expert，并设置 scope=fused

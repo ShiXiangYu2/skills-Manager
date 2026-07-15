@@ -1,0 +1,7 @@
+{
+  "selected": [],
+  "dropped_summary": "Both frames are lecturer-focused or intro segments without visual teaching artifacts. Frame 0000 contains a generated video sample with text overlay, but it's not a course teaching artifact; frame 0001 is a speaker-only shot with no diagrams, slides, or visual content for distillation. No material content change or teachable visual state is captured.",
+  "sheet": "keyframe_selection\\sheets\\BV1utsYecEXe\\BV1utsYecEXe_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

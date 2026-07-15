@@ -1,0 +1,47 @@
+{
+  "media": "20250612-演示：NotebookLM团队从谷歌离职创业的产",
+  "video_path": "D:\\视频下载\\张咋啦\\20250612-演示：NotebookLM团队从谷歌离职创业的产.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250612-演示：NotebookLM团队从谷歌离职创业的产",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250612-演示：NotebookLM团队从谷歌离职创业的产",
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Captures a complete UI of the Huxe X profile page, including branding, follower count, and a post with visible content. It’s a clear, self-contained teaching artifact demonstrating the platform’s interface and personalized content feature, useful for verification and explanation.",
+      "keywords": [
+        "UI",
+        "Huxe",
+        "X profile",
+        "social media",
+        "personalized content"
+      ],
+      "candidate_source": "keyframe_candidates\\20250612-演示：NotebookLM团队从谷歌离职创业的产\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250612-演示：NotebookLM团队从谷歌离职创业的产\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Captures a complete UI of the Huxe X profile page, including branding, follower count, and a post with visible content. It’s a clear, self-contained teaching artifact demonstrating the platform’s interface and personalized content feature, useful for verification and explanation.",
+          "keywords": [
+            "UI",
+            "Huxe",
+            "X profile",
+            "social media",
+            "personalized content"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0001.jpg shows a hand holding a phone with a news feed, but the content is partially obscured and blurry. It lacks clarity and complete visual information, making it less suitable as a teaching artifact compared to the clear, structured UI in frame_0002.jpg. Also, frame_0001 lacks distinct teaching content beyond a generic feed preview.",
+      "sheet": "keyframe_selection\\sheets\\20250612-演示：NotebookLM团队从谷歌离职创业的产\\20250612-演示：NotebookLM团队从谷歌离职创业的产_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

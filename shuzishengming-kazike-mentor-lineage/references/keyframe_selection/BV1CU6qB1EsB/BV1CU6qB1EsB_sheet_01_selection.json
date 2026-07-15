@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a UI screen with a GitHub link and instruction text, which is a key teaching artifact for demonstrating how to integrate skills via GitHub. The content is clear and actionable.",
+      "keywords": [
+        "GitHub",
+        "UI",
+        "instruction",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:20",
+      "reason": "Shows a diagram illustrating a '格式转换工厂' (format conversion factory) with icons representing document formats and processes. It visually encapsulates a core concept with clear labels and structure.",
+      "keywords": [
+        "diagram",
+        "format conversion",
+        "concept",
+        "visual metaphor"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg was dropped as it shows only the lecturer speaking without any visible teaching artifact or visual information; no slides, diagrams, or UI elements are present to support course distillation.",
+  "sheet": "keyframe_selection\\sheets\\BV1CU6qB1EsB\\BV1CU6qB1EsB_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

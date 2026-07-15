@@ -1,0 +1,19 @@
+{
+  "media": "20220409-为何顺风车是一口价，快车不是？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220409-为何顺风车是一口价，快车不是？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220409-为何顺风车是一口价，快车不是？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220409-为何顺风车是一口价，快车不是？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clear teaching artifacts such as slides, diagrams, or formulas. The frames show the lecturer speaking with handwritten notes that are not fully legible or distinct enough to qualify as key teaching evidence under the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20220409-为何顺风车是一口价，快车不是？\\20220409-为何顺风车是一口价，快车不是？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

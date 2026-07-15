@@ -1,0 +1,47 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the core topic with a clear title and the presenter's name, setting context for the video.",
+      "keywords": [
+        "title",
+        "introduction"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a key visual artifact: the whiteboard with handwritten notes and a highlighted question 'OpenAI是最佳手段?' which is central to the discussion.",
+      "keywords": [
+        "whiteboard",
+        "question",
+        "note"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Shows a clear, legible whiteboard with a highlighted question 'ChatGPT目标是取代搜索引擎么?', providing a critical point for discussion.",
+      "keywords": [
+        "whiteboard",
+        "question",
+        "note"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06",
+      "reason": "Features a clear whiteboard with a highlighted question '我们可以做什么?', which encapsulates the concluding or next-step inquiry of the segment.",
+      "keywords": [
+        "whiteboard",
+        "question",
+        "note"
+      ]
+    }
+  ],
+  "dropped_summary": "Intro/outro frames, frames with minimal or identical visual content, and frames showing only the presenter without clear teaching artifacts were dropped to maintain focus on high-information visual material.",
+  "sheet": "keyframe_selection\\sheets\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

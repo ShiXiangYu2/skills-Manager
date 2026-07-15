@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays the main presentation slide with a clear, structured outline of the course content ('AI时代的个人成长') including three key points. It serves as the foundational teaching artifact and is complete, legible, and visually distinct from likely surrounding filler or transitional frames.",
+      "keywords": [
+        "slide",
+        "outline",
+        "course introduction",
+        "AI personal growth"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided in the contact sheet for evaluation. If this is the only frame, it is selected as the sole representative. Otherwise, adjacent frames likely contain lecturer-only views, blank screens, or low-information transitions which would be dropped per criteria.",
+  "sheet": "keyframe_selection\\sheets\\20260525-Coding在从一个职业变成一个技能\\20260525-Coding在从一个职业变成一个技能_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

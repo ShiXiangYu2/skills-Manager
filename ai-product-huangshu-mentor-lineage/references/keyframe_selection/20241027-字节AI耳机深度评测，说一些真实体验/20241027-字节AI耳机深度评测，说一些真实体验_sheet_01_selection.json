@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the phone screen with a clear UI of the '豆包APP', which is a key teaching artifact being discussed. The subtitle confirms the app's function and provides context for the demo.",
+      "keywords": [
+        "UI",
+        "demo",
+        "app",
+        "screen"
+      ]
+    }
+  ],
+  "dropped_summary": "Frames 0002, 0003, and 0004 focus on the lecturer's gestures and facial expressions without showing any new visual teaching artifacts. They lack the critical visual evidence required for source-backed explanation.",
+  "sheet": "keyframe_selection\\sheets\\20241027-字节AI耳机深度评测，说一些真实体验\\20241027-字节AI耳机深度评测，说一些真实体验_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "BV1fm411Q743",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1fm411Q743\\20240208-我们用60个小时，做了一部AI短片 - 《The.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\BV1fm411Q743",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1fm411Q743",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are introductory visuals with no teaching artifacts, slides, diagrams, or instructional content. They include abstract imagery, credits, and non-instructional visuals, failing to meet the criteria for evidence preservation.",
+      "sheet": "keyframe_selection\\sheets\\BV1fm411Q743\\BV1fm411Q743_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

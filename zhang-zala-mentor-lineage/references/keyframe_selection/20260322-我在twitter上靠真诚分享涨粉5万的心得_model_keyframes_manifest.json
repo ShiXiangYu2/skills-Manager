@@ -1,0 +1,19 @@
+{
+  "media": "20260322-我在twitter上靠真诚分享涨粉5万的心得",
+  "video_path": "D:\\视频下载\\张咋啦\\20260322-我在twitter上靠真诚分享涨粉5万的心得.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260322-我在twitter上靠真诚分享涨粉5万的心得",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260322-我在twitter上靠真诚分享涨粉5万的心得",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "Both frames show the lecturer in an outdoor setting with no visible slides, diagrams, UI elements, or teaching artifacts. The frames contain only subtitles discussing content creation and follower growth, but lack visual evidence of educational material. They are effectively lecturer-only and low-information, not meeting the criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20260322-我在twitter上靠真诚分享涨粉5万的心得\\20260322-我在twitter上靠真诚分享涨粉5万的心得_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

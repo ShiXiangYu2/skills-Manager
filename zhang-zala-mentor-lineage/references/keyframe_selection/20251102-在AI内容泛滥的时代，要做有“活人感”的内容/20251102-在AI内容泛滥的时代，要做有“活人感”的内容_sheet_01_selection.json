@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame contains a complete and clear slide presenting key teaching points on creating human-like content in the AI era, including three actionable principles and a supporting visual example. It serves as a foundational artifact for course distillation.",
+      "keywords": [
+        "AI content",
+        "human touch",
+        "writing principles",
+        "slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. This single frame is a complete teaching artifact and was selected as the representative keyframe.",
+  "sheet": "keyframe_selection\\sheets\\20251102-在AI内容泛滥的时代，要做有“活人感”的内容\\20251102-在AI内容泛滥的时代，要做有“活人感”的内容_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

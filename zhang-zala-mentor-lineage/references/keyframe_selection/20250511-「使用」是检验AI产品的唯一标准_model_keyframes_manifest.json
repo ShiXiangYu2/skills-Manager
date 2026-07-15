@@ -1,0 +1,19 @@
+{
+  "media": "20250511-「使用」是检验AI产品的唯一标准",
+  "video_path": "D:\\视频下载\\张咋啦\\20250511-「使用」是检验AI产品的唯一标准.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250511-「使用」是检验AI产品的唯一标准",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250511-「使用」是检验AI产品的唯一标准",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only or low-information, with no visible slides, diagrams, UI, or teaching artifacts suitable for course distillation. The provided frame shows only the instructor with no visual content to preserve as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20250511-「使用」是检验AI产品的唯一标准\\20250511-「使用」是检验AI产品的唯一标准_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a clear, complete teaching slide with structured learning steps and key resources for AI beginners. It includes numbered points, sub-items, and illustrative examples, making it a valuable artifact for distillation and reference.",
+      "keywords": [
+        "AI learning",
+        "study steps",
+        "beginner guide",
+        "slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided in the contact sheet for evaluation. Only one frame is available, and it meets the selection criteria as a complete, informative teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20250530-技术小白0基础学AI，我会这么学\\20250530-技术小白0基础学AI，我会这么学_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

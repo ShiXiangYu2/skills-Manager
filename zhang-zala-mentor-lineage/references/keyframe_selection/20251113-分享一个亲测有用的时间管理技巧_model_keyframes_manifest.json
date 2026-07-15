@@ -1,0 +1,71 @@
+{
+  "media": "20251113-分享一个亲测有用的时间管理技巧",
+  "video_path": "D:\\视频下载\\张咋啦\\20251113-分享一个亲测有用的时间管理技巧.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251113-分享一个亲测有用的时间管理技巧",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20251113-分享一个亲测有用的时间管理技巧",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, structured conceptual diagram comparing content consumption vs. creation using fragmented vs. block time, with direct visual flow and actionable takeaways. The diagram is complete and central to the teaching point.",
+      "keywords": [
+        "diagram",
+        "time management",
+        "content creation",
+        "productivity"
+      ],
+      "candidate_source": "keyframe_candidates\\20251113-分享一个亲测有用的时间管理技巧\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251113-分享一个亲测有用的时间管理技巧\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a detailed textual document with key insights, including a manifesto prompt, quantitative data (1,200 hours), and a list of potential projects. The content is dense, well-organized, and provides source-backed evidence for the lesson’s argument.",
+      "keywords": [
+        "manifesto",
+        "document",
+        "data",
+        "notification addiction",
+        "productivity"
+      ],
+      "candidate_source": "keyframe_candidates\\20251113-分享一个亲测有用的时间管理技巧\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20251113-分享一个亲测有用的时间管理技巧\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear, structured conceptual diagram comparing content consumption vs. creation using fragmented vs. block time, with direct visual flow and actionable takeaways. The diagram is complete and central to the teaching point.",
+          "keywords": [
+            "diagram",
+            "time management",
+            "content creation",
+            "productivity"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "02:00",
+          "reason": "Shows a detailed textual document with key insights, including a manifesto prompt, quantitative data (1,200 hours), and a list of potential projects. The content is dense, well-organized, and provides source-backed evidence for the lesson’s argument.",
+          "keywords": [
+            "manifesto",
+            "document",
+            "data",
+            "notification addiction",
+            "productivity"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames in the contact sheet are either lecturer-only, blurred, or contain overlapping content without adding new information. The provided frames are the only ones with distinct, complete teaching artifacts that support course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20251113-分享一个亲测有用的时间管理技巧\\20251113-分享一个亲测有用的时间管理技巧_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

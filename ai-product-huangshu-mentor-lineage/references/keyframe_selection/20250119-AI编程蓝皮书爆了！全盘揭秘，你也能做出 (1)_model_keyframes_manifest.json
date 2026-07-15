@@ -1,0 +1,19 @@
+{
+  "media": "20250119-AI编程蓝皮书爆了！全盘揭秘，你也能做出 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250119-AI编程蓝皮书爆了！全盘揭秘，你也能做出 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250119-AI编程蓝皮书爆了！全盘揭秘，你也能做出 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250119-AI编程蓝皮书爆了！全盘揭秘，你也能做出 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is an introductory shot with the lecturer speaking and no teaching artifact visible. It does not meet criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20250119-AI编程蓝皮书爆了！全盘揭秘，你也能做出 (1)\\20250119-AI编程蓝皮书爆了！全盘揭秘，你也能做出 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

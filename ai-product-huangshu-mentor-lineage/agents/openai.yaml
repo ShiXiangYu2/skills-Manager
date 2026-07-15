@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI产品黄叔 Course Skill"
+  short_description: "Source-grounded course Q&A, review, and workflows."
+  default_prompt: "Use $ai-product-huangshu-mentor-lineage to answer questions about AI产品黄叔 and cite the course sources."
+
+policy:
+  allow_implicit_invocation: true

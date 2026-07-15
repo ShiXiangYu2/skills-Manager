@@ -1,0 +1,49 @@
+{
+  "media": "20251003-强推：我日常录视频用的白板工具（免费）",
+  "video_path": "D:\\视频下载\\张咋啦\\20251003-强推：我日常录视频用的白板工具（免费）.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251003-强推：我日常录视频用的白板工具（免费）",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251003-强推：我日常录视频用的白板工具（免费）",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures the initial state of a visual demo in Excalidraw, showing two circles labeled '头像' with accompanying Chinese text explaining the scenario. It is a complete teaching artifact representing the starting point of a demonstration, which is useful for source-backed explanation and review.",
+      "keywords": [
+        "Excalidraw",
+        "demo",
+        "visual",
+        "headshot",
+        "initial state",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20251003-强推：我日常录视频用的白板工具（免费）\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251003-强推：我日常录视频用的白板工具（免费）\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame captures the initial state of a visual demo in Excalidraw, showing two circles labeled '头像' with accompanying Chinese text explaining the scenario. It is a complete teaching artifact representing the starting point of a demonstration, which is useful for source-backed explanation and review.",
+          "keywords": [
+            "Excalidraw",
+            "demo",
+            "visual",
+            "headshot",
+            "initial state",
+            "teaching artifact"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided in the contact sheet for evaluation. This single frame is preserved as it represents a clear, complete visual state change relevant to the teaching content.",
+      "sheet": "keyframe_selection\\sheets\\20251003-强推：我日常录视频用的白板工具（免费）\\20251003-强推：我日常录视频用的白板工具（免费）_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

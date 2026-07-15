@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Initial frame showing a comprehensive UI layout with multiple application windows (calendar, notes, document editor) and a lecturer video feed. The visible text overlay '专门用来深度阅读的时间' (Dedicated time for deep reading) provides context for the teaching content. This frame establishes the complete visual state of the demo environment, making it crucial for source-backed explanation and verification.",
+      "keywords": [
+        "UI",
+        "demo",
+        "deep reading",
+        "multi-window",
+        "teaching context"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided in this contact sheet. Since only one frame is available and it meets all selection criteria as a clear, informative teaching artifact with textual context, it is preserved. Additional frames would be assessed similarly for completeness, clarity, and informational value.",
+  "sheet": "keyframe_selection\\sheets\\20260630-如何让收藏夹不再落灰：把它跟日历打通\\20260630-如何让收藏夹不再落灰：把它跟日历打通_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec6bc248-f9b6-4107-9aad-a432cf517844",
+  "path": "stoa-mirror",
+  "path_key": "stoa-mirror",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

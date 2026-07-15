@@ -1,0 +1,16 @@
+{
+  "full_text": "。Yeah。",
+  "segments": [
+    {
+      "start": 0,
+      "end": 61.97,
+      "text": "。Yeah。"
+    }
+  ],
+  "language": "zh",
+  "duration": 61.97,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "BV1pN411s7Ee_20231031-万圣节原创AI短片 - 《南瓜的低语》",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1pN411s7Ee\\20231031-万圣节原创AI短片 - 《南瓜的低语》.mp4",
+  "source_type": "video"
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20220309-多抓鱼披着文艺外衣，算法驱动的科技公司",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220309-多抓鱼披着文艺外衣，算法驱动的科技公司.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\20220309-多抓鱼披着文艺外衣，算法驱动的科技公司",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220309-多抓鱼披着文艺外衣，算法驱动的科技公司",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (showing speaker) or contain low-information UI elements without clear teaching artifacts or visual state changes. No slides, documents, diagrams, or formulas are clearly presented for educational verification.",
+      "sheet": "keyframe_selection\\sheets\\20220309-多抓鱼披着文艺外衣，算法驱动的科技公司\\20220309-多抓鱼披着文艺外衣，算法驱动的科技公司_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

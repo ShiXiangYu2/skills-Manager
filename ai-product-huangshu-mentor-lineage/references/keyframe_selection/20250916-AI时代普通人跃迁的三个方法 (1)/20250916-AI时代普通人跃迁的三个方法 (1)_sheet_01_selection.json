@@ -1,0 +1,41 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the core teaching artifact: a structured slide outlining three key strategies for AI transition, including 'Choose the Right Pond,' 'High Agency,' and 'Build Something.' This is a complete, high-value teaching point with clear structure and actionable advice.",
+      "keywords": [
+        "slide",
+        "strategy",
+        "AI transition",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Captures a detailed slide with expanded bullet points and key takeaways. It includes a motivational phrase in Chinese and English ('I think you must listen to these three points'), making it valuable for explanation and verification. The content is clearer and more complete than the previous frame.",
+      "keywords": [
+        "slide",
+        "expanded content",
+        "motivational note",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Captures the final slide with a summary and a request for viewer engagement ('please leave a comment'). This is a high-value closing frame as it reinforces the core message and encourages interaction, making it useful for review and verification.",
+      "keywords": [
+        "slide",
+        "summary",
+        "call to action",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were present in the contact sheet to evaluate for selection.",
+  "sheet": "keyframe_selection\\sheets\\20250916-AI时代普通人跃迁的三个方法 (1)\\20250916-AI时代普通人跃迁的三个方法 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

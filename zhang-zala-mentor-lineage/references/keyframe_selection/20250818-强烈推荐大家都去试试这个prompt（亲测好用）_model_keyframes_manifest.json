@@ -1,0 +1,19 @@
+{
+  "media": "20250818-强烈推荐大家都去试试这个prompt（亲测好用）",
+  "video_path": "D:\\视频下载\\张咋啦\\20250818-强烈推荐大家都去试试这个prompt（亲测好用）.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250818-强烈推荐大家都去试试这个prompt（亲测好用）",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250818-强烈推荐大家都去试试这个prompt（亲测好用）",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is an intro screen with a title overlay and two presenters, but it lacks a teaching artifact such as a slide, diagram, or visual content. It serves as an opening title and does not contain material suitable for course distillation or source-backed explanation.",
+      "sheet": "keyframe_selection\\sheets\\20250818-强烈推荐大家都去试试这个prompt（亲测好用）\\20250818-强烈推荐大家都去试试这个prompt（亲测好用）_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

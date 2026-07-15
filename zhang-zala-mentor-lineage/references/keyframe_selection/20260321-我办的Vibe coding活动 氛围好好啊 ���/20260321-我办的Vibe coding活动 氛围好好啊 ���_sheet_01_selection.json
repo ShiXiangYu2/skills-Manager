@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete UI interface for scheduling with color-coded sections, interactive buttons, and structured layout, capturing a key teaching artifact for course distillation.",
+      "keywords": [
+        "UI",
+        "scheduling",
+        "interface",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for comparison; only one frame available, and it meets selection criteria as a clear, complete visual artifact.",
+  "sheet": "keyframe_selection\\sheets\\20260321-我办的Vibe coding活动 氛围好好啊 ���\\20260321-我办的Vibe coding活动 氛围好好啊 ���_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

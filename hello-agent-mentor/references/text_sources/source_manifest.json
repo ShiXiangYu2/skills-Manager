@@ -1,0 +1,154 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-06-22T09:32:00",
+  "source_count": 16,
+  "chunk_count": 7093,
+  "max_chars": 6000,
+  "overlap_chars": 500,
+  "sources": [
+    {
+      "source_id": "4dd246a8b2edb3e9ce93e445a17438be",
+      "source_path": "第一章 初识智能体.md",
+      "source_ref": "第一章 初识智能体.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第一章 初识智能体.md",
+      "suffix": ".md",
+      "chars": 26932,
+      "content_sha256": "66db16b14eff23f239ad4063e2938e9cb963c74a0d1a83f00359f5793b602126"
+    },
+    {
+      "source_id": "4ab27dd89a1c8b00320c5b876d79c56e",
+      "source_path": "第七章 构建你的Agent框架.md",
+      "source_ref": "第七章 构建你的Agent框架.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第七章 构建你的Agent框架.md",
+      "suffix": ".md",
+      "chars": 63190,
+      "content_sha256": "cedb947fc50161d835745cf0d1807c441c0c1e1d6fe2e07541cd701b94026660"
+    },
+    {
+      "source_id": "ccf1f5f7b85b8cf6d1a37a656a08c8c7",
+      "source_path": "第三章 大语言模型基础.md",
+      "source_ref": "第三章 大语言模型基础.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第三章 大语言模型基础.md",
+      "suffix": ".md",
+      "chars": 42976,
+      "content_sha256": "f9951631658aa0b7102fe457b273220dd949c56f24faa7ab35d8d6f378c6b1e1"
+    },
+    {
+      "source_id": "771f5b06fb241e8e92ad7181faeb9287",
+      "source_path": "第九章 上下文工程.md",
+      "source_ref": "第九章 上下文工程.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第九章 上下文工程.md",
+      "suffix": ".md",
+      "chars": 74238,
+      "content_sha256": "e19d020341763b796add06562bf17779efa68c79fb6cb30d8281061a3dab1b06"
+    },
+    {
+      "source_id": "98d02cbeec37fbfe955b31e77c120bb7",
+      "source_path": "第二章 智能体发展史.md",
+      "source_ref": "第二章 智能体发展史.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第二章 智能体发展史.md",
+      "suffix": ".md",
+      "chars": 27708,
+      "content_sha256": "20582b9c843c8a5c7968eb8f55abe0fca0a3ea22c61a30aba6f9e48a9b31c625"
+    },
+    {
+      "source_id": "7bda80a13ac03214e5e03d1ebfb89287",
+      "source_path": "第五章 基于低代码平台的智能体搭建.md",
+      "source_ref": "第五章 基于低代码平台的智能体搭建.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第五章 基于低代码平台的智能体搭建.md",
+      "suffix": ".md",
+      "chars": 38617,
+      "content_sha256": "09c7c29d2ef18a06c2f30fcc47f7ecb85b2d7e384569b1ddbfeffe260d287686"
+    },
+    {
+      "source_id": "7d2ed1132f0357603a3f3f35e1cc9c28",
+      "source_path": "第八章 记忆与检索.md",
+      "source_ref": "第八章 记忆与检索.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第八章 记忆与检索.md",
+      "suffix": ".md",
+      "chars": 64343,
+      "content_sha256": "5bffbe2d0c1df53c9b9758515a485e64c6a9a6636a74f5fcd05a3386706eb42d"
+    },
+    {
+      "source_id": "9e75ecf411296c527cb12b18cc60544e",
+      "source_path": "第六章 框架开发实践.md",
+      "source_ref": "第六章 框架开发实践.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第六章 框架开发实践.md",
+      "suffix": ".md",
+      "chars": 44315,
+      "content_sha256": "c64a45f38520d5e1de9896a344a0245e07de72144e60116766bea3b033cc205c"
+    },
+    {
+      "source_id": "5a76094aa6100dfc7d19cd9ef050cbff",
+      "source_path": "第十一章 Agentic-RL.md",
+      "source_ref": "第十一章 Agentic-RL.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第十一章 Agentic-RL.md",
+      "suffix": ".md",
+      "chars": 76508,
+      "content_sha256": "a361e8bc186e539515493ec97ff64d65b4b5f5e65c7f83cee1e9e1075081cee4"
+    },
+    {
+      "source_id": "c80f19370abfa4e08c908d445f04cdd5",
+      "source_path": "第十三章 智能旅行助手.md",
+      "source_ref": "第十三章 智能旅行助手.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第十三章 智能旅行助手.md",
+      "suffix": ".md",
+      "chars": 45919,
+      "content_sha256": "bd5d7b365faabc174616adc2635b9985182f9df168f460ff924c280e95361bc3"
+    },
+    {
+      "source_id": "995087d84cfdd3a72283ec98e1231f77",
+      "source_path": "第十二章 智能体性能评估.md",
+      "source_ref": "第十二章 智能体性能评估.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第十二章 智能体性能评估.md",
+      "suffix": ".md",
+      "chars": 77934,
+      "content_sha256": "88a26bdaf4b441f1dfa077683a03160e13ecfe78ac167e9554b4c6b02def7cf2"
+    },
+    {
+      "source_id": "36fbb3302ade12fb1b58e2c830422487",
+      "source_path": "第十五章 构建赛博小镇.md",
+      "source_ref": "第十五章 构建赛博小镇.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第十五章 构建赛博小镇.md",
+      "suffix": ".md",
+      "chars": 57846,
+      "content_sha256": "569d7e5ea2e08480f98b56cd1ab1db11c3b601cdb4e226422bfe6c0008b27a52"
+    },
+    {
+      "source_id": "bf1e890d8e223ce2cbb5969e2fed892c",
+      "source_path": "第十六章 毕业设计.md",
+      "source_ref": "第十六章 毕业设计.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第十六章 毕业设计.md",
+      "suffix": ".md",
+      "chars": 18825,
+      "content_sha256": "67ab4ffa675c82e84f74e94ecdb49c00e2fdce7ce20cd64962cd0cc5070676d7"
+    },
+    {
+      "source_id": "a1baafec32763e1651a19ac0d4f58ec9",
+      "source_path": "第十四章 自动化深度研究智能体.md",
+      "source_ref": "第十四章 自动化深度研究智能体.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第十四章 自动化深度研究智能体.md",
+      "suffix": ".md",
+      "chars": 52099,
+      "content_sha256": "a6ceef0555715f3870f097fcf812496862a28d4a1ad1ce6cbfa05c2989692bbf"
+    },
+    {
+      "source_id": "c9477778b6c03e3f995aa9c387d31139",
+      "source_path": "第十章 智能体通信协议.md",
+      "source_ref": "第十章 智能体通信协议.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第十章 智能体通信协议.md",
+      "suffix": ".md",
+      "chars": 64153,
+      "content_sha256": "3a7b30a008e0a27c58b18c3039112fae13ae0f8432bb5e8e716082e7776d3902"
+    },
+    {
+      "source_id": "0762d98e88798199975c1ece1569afaf",
+      "source_path": "第四章 智能体经典范式构建.md",
+      "source_ref": "第四章 智能体经典范式构建.md",
+      "absolute_path": "D:\\AI编程\\项目开发\\lineage-skill-main\\hello-agent\\第四章 智能体经典范式构建.md",
+      "suffix": ".md",
+      "chars": 42035,
+      "content_sha256": "b423beb4d31144bc498b4c22a69c3e745815560986344c3ee9a8cf6320367f2c"
+    }
+  ]
+}

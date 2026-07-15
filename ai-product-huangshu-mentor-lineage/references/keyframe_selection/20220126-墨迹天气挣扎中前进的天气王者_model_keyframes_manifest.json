@@ -1,0 +1,19 @@
+{
+  "media": "20220126-墨迹天气挣扎中前进的天气王者",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220126-墨迹天气挣扎中前进的天气王者.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220126-墨迹天气挣扎中前进的天气王者",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220126-墨迹天气挣扎中前进的天气王者",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only, lack clear teaching artifacts, and show no material visual state changes or complete diagrams. The whiteboard content is mostly obscured by the lecturer or lacks clarity for verification.",
+      "sheet": "keyframe_selection\\sheets\\20220126-墨迹天气挣扎中前进的天气王者\\20220126-墨迹天气挣扎中前进的天气王者_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

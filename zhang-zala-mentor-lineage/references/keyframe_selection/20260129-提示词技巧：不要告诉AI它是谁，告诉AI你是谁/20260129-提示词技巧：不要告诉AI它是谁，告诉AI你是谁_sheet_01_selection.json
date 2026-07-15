@@ -1,0 +1,21 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a complete teaching artifact: a clear before-and-after text transformation example demonstrating how AI can rewrite YouTube subtitles into elegant articles. It includes context (the scenario), input text ('Before'), output text ('After'), and a relevant speaker visual with caption, making it ideal for source-backed explanation and verification of the AI rewriting concept.",
+      "keywords": [
+        "AI rewriting",
+        "text transformation",
+        "before-after example",
+        "YouTube subtitles",
+        "ChatGPT",
+        "writing improvement"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible in the provided contact sheet to evaluate. The single frame shown is well-labeled, clearly structured, and contains complete, non-duplicate, high-information visual content directly supporting the teaching point.",
+  "sheet": "keyframe_selection\\sheets\\20260129-提示词技巧：不要告诉AI它是谁，告诉AI你是谁\\20260129-提示词技巧：不要告诉AI它是谁，告诉AI你是谁_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

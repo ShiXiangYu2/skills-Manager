@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, relevant tweet by Guillermo Rauch discussing the distinction between coding and shipping, which is a key teaching point. The text is legible and contextually significant for course content on development skills.",
+      "keywords": [
+        "coding",
+        "shipping",
+        "Guillermo Rauch",
+        "development skills"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a well-structured list of key learnings from launching a product, including specific actionable points like using Claude Code for frontend design and vibecoding. It's a clear, concise teaching artifact with useful technical and strategic insights.",
+      "keywords": [
+        "product launch",
+        "Claude Code",
+        "vibecoding",
+        "frontend design",
+        "learning points"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were visible or provided for evaluation beyond the first two. Since only two frames are present and both contain valuable teaching content, no frames were dropped for being lecturer-only, blank, or low-information. Selection limited to these two as they meet all criteria for preservation.",
+  "sheet": "keyframe_selection\\sheets\\20260209-上线了第一个独立开发的产品 我的4个心得\\20260209-上线了第一个独立开发的产品 我的4个心得_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

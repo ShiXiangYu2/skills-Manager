@@ -1,0 +1,19 @@
+{
+  "media": "20230207-微信没有已读功能？张小龙：为了方便骗人！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230207-微信没有已读功能？张小龙：为了方便骗人！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230207-微信没有已读功能？张小龙：为了方便骗人！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230207-微信没有已读功能？张小龙：为了方便骗人！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is an intro/outro slide with only text and no visual teaching artifact. It doesn't meet the criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20230207-微信没有已读功能？张小龙：为了方便骗人！\\20230207-微信没有已读功能？张小龙：为了方便骗人！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

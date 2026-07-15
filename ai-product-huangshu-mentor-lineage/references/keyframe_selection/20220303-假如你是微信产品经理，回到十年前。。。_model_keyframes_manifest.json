@@ -1,0 +1,19 @@
+{
+  "media": "20220303-假如你是微信产品经理，回到十年前。。。",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220303-假如你是微信产品经理，回到十年前。。。.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220303-假如你是微信产品经理，回到十年前。。。",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220303-假如你是微信产品经理，回到十年前。。。",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (showing speaker without teaching artifact) or display low-information UI elements (app interface) without clear teaching content or visual state changes. No frames meet the criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20220303-假如你是微信产品经理，回到十年前。。。\\20220303-假如你是微信产品经理，回到十年前。。。_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

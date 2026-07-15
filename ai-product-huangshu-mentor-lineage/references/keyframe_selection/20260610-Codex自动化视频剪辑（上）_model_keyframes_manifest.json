@@ -1,0 +1,45 @@
+{
+  "media": "20260610-Codex自动化视频剪辑（上）",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260610-Codex自动化视频剪辑（上）.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260610-Codex自动化视频剪辑（上）",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260610-Codex自动化视频剪辑（上）",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the GitHub repository README with clear Chinese instructions, including setup steps and key features, serving as a complete teaching artifact.",
+      "keywords": [
+        "README",
+        "setup_guide",
+        "UI",
+        "instruction"
+      ],
+      "candidate_source": "keyframe_candidates\\20260610-Codex自动化视频剪辑（上）\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260610-Codex自动化视频剪辑（上）\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures the GitHub repository README with clear Chinese instructions, including setup steps and key features, serving as a complete teaching artifact.",
+          "keywords": [
+            "README",
+            "setup_guide",
+            "UI",
+            "instruction"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were evaluated as valuable; this single frame contains the most informative visual content for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260610-Codex自动化视频剪辑（上）\\20260610-Codex自动化视频剪辑（上）_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

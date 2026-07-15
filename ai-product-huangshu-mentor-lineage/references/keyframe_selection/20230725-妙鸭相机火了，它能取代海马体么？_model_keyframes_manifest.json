@@ -1,0 +1,19 @@
+{
+  "media": "20230725-妙鸭相机火了，它能取代海马体么？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230725-妙鸭相机火了，它能取代海马体么？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230725-妙鸭相机火了，它能取代海马体么？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230725-妙鸭相机火了，它能取代海马体么？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts (slides, boards, diagrams, UI, etc.) or visual state changes. All frames appear to be lecturer-only with no material content for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20230725-妙鸭相机火了，它能取代海马体么？\\20230725-妙鸭相机火了，它能取代海马体么？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

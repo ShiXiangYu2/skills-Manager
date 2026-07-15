@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial visual context with the Liangqiu (链家) company branding and a group photo, setting the scene for the product operation discussion.",
+      "keywords": [
+        "company_brands",
+        "intro",
+        "visual_context"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a clear, handwritten whiteboard diagram with structured content about '产品运营' (product operation), providing a key teaching artifact.",
+      "keywords": [
+        "whiteboard",
+        "diagram",
+        "teaching_artifact"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Captures a distinct visual state change with clear Chinese text that elaborates on the concept being taught, enhancing understanding.",
+      "keywords": [
+        "visual_state_change",
+        "key_message",
+        "textual_content"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames were either duplicate, blurred, or did not contain significant teaching artifacts. Only the three frames selected provided clear, essential visual context or teaching content relevant to the course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20220502-内行才知道  产品必读《做难而正确的事》\\20220502-内行才知道  产品必读《做难而正确的事》_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20250926-一个故事，暴涨3000亿！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250926-一个故事，暴涨3000亿！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250926-一个故事，暴涨3000亿！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250926-一个故事，暴涨3000亿！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only and contain no teaching artifacts, visual states, or diagrams. They are purely focused on the speaker with no educational content to preserve as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20250926-一个故事，暴涨3000亿！\\20250926-一个故事，暴涨3000亿！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear and complete terminal output listing file operations and read lines, which is a key teaching artifact demonstrating the command-line interface usage.",
+      "keywords": [
+        "terminal",
+        "file operations",
+        "command-line"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a detailed scoring table with clear text annotations, including '爆款公式' (blockbuster formula) and decision points, making it a critical visual for explaining the evaluation framework.",
+      "keywords": [
+        "scoring table",
+        "evaluation",
+        "formula",
+        "diagram"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either show lecturer-only visuals, lack clear teaching artifacts, or are redundant with nearby frames.",
+  "sheet": "keyframe_selection\\sheets\\20260108-一句话让Skill产出更爆内容！ (1)\\20260108-一句话让Skill产出更爆内容！ (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

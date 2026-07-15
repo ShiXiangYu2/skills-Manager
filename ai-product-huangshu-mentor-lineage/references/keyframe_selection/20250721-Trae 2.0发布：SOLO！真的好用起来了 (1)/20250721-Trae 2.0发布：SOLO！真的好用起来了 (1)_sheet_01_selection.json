@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear, complete UI of a product specification document with structured data, useful for explaining UI or documentation design.",
+      "keywords": [
+        "UI",
+        "document",
+        "data_table"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a slide with a clear, complete list of steps for '商品详情页' with annotations, valuable for teaching a process.",
+      "keywords": [
+        "slide",
+        "diagram",
+        "process"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were visible or deemed valuable for distillation.",
+  "sheet": "keyframe_selection\\sheets\\20250721-Trae 2.0发布：SOLO！真的好用起来了 (1)\\20250721-Trae 2.0发布：SOLO！真的好用起来了 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

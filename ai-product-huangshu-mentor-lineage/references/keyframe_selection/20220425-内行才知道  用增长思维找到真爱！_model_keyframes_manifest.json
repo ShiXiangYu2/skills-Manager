@@ -1,0 +1,19 @@
+{
+  "media": "20220425-内行才知道  用增长思维找到真爱！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220425-内行才知道  用增长思维找到真爱！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220425-内行才知道  用增长思维找到真爱！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220425-内行才知道  用增长思维找到真爱！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only shots with no visible teaching artifact (e.g., slide, diagram, formula) and contain low-information content such as subtitles or speaker gestures. None meet selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20220425-内行才知道  用增长思维找到真爱！\\20220425-内行才知道  用增长思维找到真爱！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

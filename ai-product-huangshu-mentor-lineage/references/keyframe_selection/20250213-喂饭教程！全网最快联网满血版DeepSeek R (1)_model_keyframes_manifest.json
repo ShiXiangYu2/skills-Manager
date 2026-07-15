@@ -1,0 +1,87 @@
+{
+  "media": "20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear UI of a tool with annotated steps, serving as a complete teaching artifact for user interaction.",
+      "keywords": [
+        "UI",
+        "demo",
+        "instruction"
+      ],
+      "candidate_source": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a complete code diagram with annotated key points, illustrating a technical concept clearly.",
+      "keywords": [
+        "diagram",
+        "formula",
+        "coding"
+      ],
+      "candidate_source": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a detailed UI with annotations explaining features, useful for source-backed explanation.",
+      "keywords": [
+        "UI",
+        "annotation",
+        "tutorial"
+      ],
+      "candidate_source": "keyframe_candidates\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear UI of a tool with annotated steps, serving as a complete teaching artifact for user interaction.",
+          "keywords": [
+            "UI",
+            "demo",
+            "instruction"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Shows a complete code diagram with annotated key points, illustrating a technical concept clearly.",
+          "keywords": [
+            "diagram",
+            "formula",
+            "coding"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Displays a detailed UI with annotations explaining features, useful for source-backed explanation.",
+          "keywords": [
+            "UI",
+            "annotation",
+            "tutorial"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames either show lecturer-only content, are blurred, or contain low-information visuals not useful for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)\\20250213-喂饭教程！全网最快联网满血版DeepSeek R (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

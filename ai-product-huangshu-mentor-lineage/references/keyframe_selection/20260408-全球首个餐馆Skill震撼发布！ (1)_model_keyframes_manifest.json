@@ -1,0 +1,19 @@
+{
+  "media": "20260408-全球首个餐馆Skill震撼发布！ (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260408-全球首个餐馆Skill震撼发布！ (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260408-全球首个餐馆Skill震撼发布！ (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260408-全球首个餐馆Skill震撼发布！ (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain materially significant teaching artifacts like slides, diagrams, or clear visual states. All frames show chat interface or blurred/low-information content, and none meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260408-全球首个餐馆Skill震撼发布！ (1)\\20260408-全球首个餐馆Skill震撼发布！ (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "media": "BV1gT9DBFEz3",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1gT9DBFEz3\\20260429-国内也能用ClaudeCode了？.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\BV1gT9DBFEz3",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\BV1gT9DBFEz3",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear conceptual diagram of 'Agent产品' architecture, showing its components (Agent框架, 模型) and their relationship, which is essential for explaining the product structure.",
+      "keywords": [
+        "Agent产品",
+        "架构",
+        "框架",
+        "模型",
+        "概念图"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1gT9DBFEz3\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV1gT9DBFEz3\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Shows a complete terminal command interface with specific code (brew tap... and brew install...), critical for teaching the installation process on Mac, providing exact commands for replication.",
+      "keywords": [
+        "命令行",
+        "终端",
+        "brew",
+        "安装",
+        "代码"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1gT9DBFEz3\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV1gT9DBFEz3\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Presents a clear visual of a file named 'CLAUDE.md' with accompanying text explaining its purpose in the Agent workflow, serving as a key reference document in the course.",
+      "keywords": [
+        "CLAUDE.md",
+        "文件",
+        "文档",
+        "参考",
+        "工作流"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1gT9DBFEz3\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV1gT9DBFEz3\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear conceptual diagram of 'Agent产品' architecture, showing its components (Agent框架, 模型) and their relationship, which is essential for explaining the product structure.",
+          "keywords": [
+            "Agent产品",
+            "架构",
+            "框架",
+            "模型",
+            "概念图"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a complete terminal command interface with specific code (brew tap... and brew install...), critical for teaching the installation process on Mac, providing exact commands for replication.",
+          "keywords": [
+            "命令行",
+            "终端",
+            "brew",
+            "安装",
+            "代码"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:20",
+          "reason": "Presents a clear visual of a file named 'CLAUDE.md' with accompanying text explaining its purpose in the Agent workflow, serving as a key reference document in the course.",
+          "keywords": [
+            "CLAUDE.md",
+            "文件",
+            "文档",
+            "参考",
+            "工作流"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames not shown in the contact sheet were likely dropped as they may be duplicate, blurred, or low-information frames without key visual teaching content. The provided frames are already the most informative for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\BV1gT9DBFEz3\\BV1gT9DBFEz3_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

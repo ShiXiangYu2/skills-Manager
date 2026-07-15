@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete teaching slide showing a structured breakdown of product idea generation for 'vibe coding' with clear categories (痛点, 技术) and examples. It includes a key visual artifact (table) and intersection of pain points with technologies, making it ideal for course distillation and reference. The slide is clearly legible and represents a material state change.",
+      "keywords": [
+        "slide",
+        "table",
+        "vibe coding",
+        "product idea",
+        "AI chatbot",
+        "文生图",
+        "技术"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation, so no drops to report.",
+  "sheet": "keyframe_selection\\sheets\\20251212-如何想出vibe coding的产品灵感\\20251212-如何想出vibe coding的产品灵感_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

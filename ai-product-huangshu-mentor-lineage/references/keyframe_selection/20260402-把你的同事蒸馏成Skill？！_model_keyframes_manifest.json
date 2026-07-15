@@ -1,0 +1,65 @@
+{
+  "media": "20260402-把你的同事蒸馏成Skill？！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260402-把你的同事蒸馏成Skill？！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260402-把你的同事蒸馏成Skill？！",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260402-把你的同事蒸馏成Skill？！",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear teaching slide with key text '职场里真正值钱的东西从来不在文档里' and a call to action '之前把这些东西都备份一份', which is a core conceptual teaching point.",
+      "keywords": [
+        "slide",
+        "concept",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20260402-把你的同事蒸馏成Skill？！\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260402-把你的同事蒸馏成Skill？！\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a clear teaching slide with key text '那个 skill 里住的到底是谁?' and a follow-up question '那这个AI它冻结的是某一期的你对吧', forming a critical conceptual pivot in the lesson.",
+      "keywords": [
+        "slide",
+        "concept",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20260402-把你的同事蒸馏成Skill？！\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260402-把你的同事蒸馏成Skill？！\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear teaching slide with key text '职场里真正值钱的东西从来不在文档里' and a call to action '之前把这些东西都备份一份', which is a core conceptual teaching point.",
+          "keywords": [
+            "slide",
+            "concept",
+            "teaching artifact"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Displays a clear teaching slide with key text '那个 skill 里住的到底是谁?' and a follow-up question '那这个AI它冻结的是某一期的你对吧', forming a critical conceptual pivot in the lesson.",
+          "keywords": [
+            "slide",
+            "concept",
+            "teaching artifact"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were present for evaluation. The two selected frames are the only ones available and both meet the criteria as they contain clear teaching artifacts that materially advance the lesson's core concepts.",
+      "sheet": "keyframe_selection\\sheets\\20260402-把你的同事蒸馏成Skill？！\\20260402-把你的同事蒸馏成Skill？！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

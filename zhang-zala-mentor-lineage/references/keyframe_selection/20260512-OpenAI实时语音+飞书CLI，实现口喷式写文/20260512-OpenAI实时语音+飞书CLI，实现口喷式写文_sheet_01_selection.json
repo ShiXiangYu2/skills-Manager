@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a clear spreadsheet UI with data table, lecture text on the right, and a highlighted instructional note about flight delays. It captures a complete teaching artifact with structured data and context, useful for reviewing the course’s data analysis demonstration.",
+      "keywords": [
+        "spreadsheet",
+        "data table",
+        "flight delays",
+        "ui",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg was dropped as it shows a loading dialog overlaying a web interface, obscuring content and providing minimal usable information; it is not a clear or complete teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20260512-OpenAI实时语音+飞书CLI，实现口喷式写文\\20260512-OpenAI实时语音+飞书CLI，实现口喷式写文_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

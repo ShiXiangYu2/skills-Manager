@@ -1,0 +1,42 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete summary slide with bullet points on AI application, efficiency optimization, and team structure, which is a key teaching artifact.",
+      "keywords": [
+        "slide",
+        "summary",
+        "AI application",
+        "efficiency",
+        "team structure"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows a detailed note-taking interface with structured content on 'AI应用与效率提升', providing a clear visual aid for the lecture.",
+      "keywords": [
+        "note-taking",
+        "UI",
+        "structured content",
+        "AI application"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Captures a clear, full-screen markdown note with bold headings and detailed strategic points, useful for verifying and explaining key concepts.",
+      "keywords": [
+        "markdown",
+        "diagram",
+        "strategic points",
+        "key concepts"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either show the lecturer speaking without visual artifacts (lecturer-only), are blurry, or contain minimal information not useful for distillation.",
+  "sheet": "keyframe_selection\\sheets\\20250624-AI Native的会议应用：Granola (1)\\20250624-AI Native的会议应用：Granola (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

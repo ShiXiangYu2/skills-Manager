@@ -1,0 +1,7 @@
+interface:
+  display_name: "张咋啦 Course Skill"
+  short_description: "Source-grounded course Q&A, review, and workflows."
+  default_prompt: "Use $zhang-zala-mentor-lineage to answer questions about 张咋啦 and cite the course sources."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0ff44f10-d513-4220-8fe1-f4bdfd850216",
+  "path": "mcporter",
+  "path_key": "mcporter",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

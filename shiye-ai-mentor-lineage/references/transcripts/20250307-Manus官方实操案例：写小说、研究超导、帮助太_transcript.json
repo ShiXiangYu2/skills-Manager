@@ -1,0 +1,16 @@
+{
+  "full_text": "🎼  🎼  🎼  🎼  🎼Yeah. 🎼 The。🎼  🎼  🎼う。 🎼 う。🎼 The。🎼う。The。🎼  🎼 Yeah.🎼Yeah. 🎼Yeah. 🎼Oh. 🎼 Yeah.🎼  🎼  🎼  🎼The。 🎼Yeah. 🎼う。。🎼The。The。🎼 The。🎼う。 🎼  🎼  🎼  🎼  Yeah.Yeah.🎼",
+  "segments": [
+    {
+      "start": 0,
+      "end": 975.15,
+      "text": "🎼  🎼  🎼  🎼  🎼Yeah. 🎼 The。🎼  🎼  🎼う。 🎼 う。🎼 The。🎼う。The。🎼  🎼 Yeah.🎼Yeah. 🎼Yeah. 🎼Oh. 🎼 Yeah.🎼  🎼  🎼  🎼The。 🎼Yeah. 🎼う。。🎼The。The。🎼 The。🎼う。 🎼  🎼  🎼  🎼  Yeah.Yeah.🎼"
+    }
+  ],
+  "language": "zh",
+  "duration": 975.15,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "20250307-Manus官方实操案例：写小说、研究超导、帮助太",
+  "video_path": "D:\\视频下载\\十页AI\\20250307-Manus官方实操案例：写小说、研究超导、帮助太.mp4",
+  "source_type": "video"
+}

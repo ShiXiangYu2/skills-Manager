@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the initial UI state of a task management or learning platform with clear categories, tasks, and a visible tutorial prompt. This frame captures the foundational layout and context for the demo.",
+      "keywords": [
+        "UI",
+        "task management",
+        "tutorial",
+        "initial state"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a clear UI state change with an expanded 'Lint Tasks' panel, demonstrating a specific feature or workflow (e.g., filtering or organizing tasks). This frame provides a clearer, more focused teaching artifact than the previous one.",
+      "keywords": [
+        "UI",
+        "demo",
+        "Lint Tasks",
+        "feature demonstration",
+        "workflow"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are either duplicates, low-information (e.g., only showing the lecturer's face without UI changes), or lack material visual content changes. The frames focus on UI interactions, and only the initial and first UI transition are sufficiently clear and informative for distillation.",
+  "sheet": "keyframe_selection\\sheets\\20260415-做了个插件，让关浏览器tabs变得上瘾\\20260415-做了个插件，让关浏览器tabs变得上瘾_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

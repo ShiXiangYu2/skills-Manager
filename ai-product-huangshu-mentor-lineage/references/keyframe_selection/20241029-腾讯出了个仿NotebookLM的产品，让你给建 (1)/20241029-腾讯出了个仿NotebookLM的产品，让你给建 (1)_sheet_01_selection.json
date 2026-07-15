@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a clear view of the laptop screen displaying a document with text and diagrams, which is a key teaching artifact. The UI layout is legible and provides context for the lecture topic. It is more informative than the lecturer-only frame.",
+      "keywords": [
+        "UI",
+        "document",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0002.jpg is dropped as it only shows the lecturer with no visual teaching artifact or diagram, and it is not a clear, complete state change or key visual.",
+  "sheet": "keyframe_selection\\sheets\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

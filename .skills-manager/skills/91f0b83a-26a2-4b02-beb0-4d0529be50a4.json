@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91f0b83a-26a2-4b02-beb0-4d0529be50a4",
+  "path": "using-coze-cli",
+  "path_key": "using-coze-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

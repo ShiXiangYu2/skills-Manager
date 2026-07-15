@@ -1,0 +1,19 @@
+{
+  "media": "20250930-Claude Code 2.0 + Claude",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250930-Claude Code 2.0 + Claude.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250930-Claude Code 2.0 + Claude",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250930-Claude Code 2.0 + Claude",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain slide, board, document, UI, diagram, table, formula, demo, or visual state changes. All frames show the lecturer speaking without any teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20250930-Claude Code 2.0 + Claude\\20250930-Claude Code 2.0 + Claude_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20220304-产品思维是什么？以及如何培养！必看",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220304-产品思维是什么？以及如何培养！必看.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220304-产品思维是什么？以及如何培养！必看",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220304-产品思维是什么？以及如何培养！必看",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clear, complete teaching artifacts (slides, diagrams, formulas, or visual state changes). Both frames show the lecturer speaking with a whiteboard behind him, but the handwriting is illegible and does not materially convey a key teaching point. The frames are lecturer-only and lack the necessary visual information to be useful for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20220304-产品思维是什么？以及如何培养！必看\\20220304-产品思维是什么？以及如何培养！必看_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

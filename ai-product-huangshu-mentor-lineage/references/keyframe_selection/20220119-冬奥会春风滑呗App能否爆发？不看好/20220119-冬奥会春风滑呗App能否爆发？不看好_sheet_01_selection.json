@@ -1,0 +1,29 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the whiteboard with clear product user journey diagram, including pre-slope, during-slope, and post-slope stages, which is a key teaching artifact.",
+      "keywords": [
+        "whiteboard",
+        "user journey",
+        "product design"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a clear UI example (Adidas app screen) with explicit labeling '第一个是广告, 比如开屏广告' (The first is an ad, such as a splash screen ad), illustrating a specific product feature.",
+      "keywords": [
+        "UI",
+        "demo",
+        "advertising",
+        "product feature"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were selected as they either lacked clear teaching artifacts, were duplicates, or were lecturer-only without visual content.",
+  "sheet": "keyframe_selection\\sheets\\20220119-冬奥会春风滑呗App能否爆发？不看好\\20220119-冬奥会春风滑呗App能否爆发？不看好_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

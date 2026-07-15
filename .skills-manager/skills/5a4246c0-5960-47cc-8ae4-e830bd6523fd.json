@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a4246c0-5960-47cc-8ae4-e830bd6523fd",
+  "path": "bailian-docs-llm-wiki",
+  "path_key": "bailian-docs-llm-wiki",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

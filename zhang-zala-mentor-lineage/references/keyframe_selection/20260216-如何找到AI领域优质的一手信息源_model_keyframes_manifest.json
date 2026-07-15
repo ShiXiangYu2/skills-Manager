@@ -1,0 +1,19 @@
+{
+  "media": "20260216-如何找到AI领域优质的一手信息源",
+  "video_path": "D:\\视频下载\\张咋啦\\20260216-如何找到AI领域优质的一手信息源.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260216-如何找到AI领域优质的一手信息源",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260216-如何找到AI领域优质的一手信息源",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible slides, diagrams, documents, UI, or teaching artifacts. The frames lack material content suitable for course distillation, as they do not capture any visual teaching elements beyond the speaker.",
+      "sheet": "keyframe_selection\\sheets\\20260216-如何找到AI领域优质的一手信息源\\20260216-如何找到AI领域优质的一手信息源_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

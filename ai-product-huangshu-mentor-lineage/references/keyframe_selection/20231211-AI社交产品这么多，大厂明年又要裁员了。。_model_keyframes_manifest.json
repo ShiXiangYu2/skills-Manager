@@ -1,0 +1,19 @@
+{
+  "media": "20231211-AI社交产品这么多，大厂明年又要裁员了。。",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20231211-AI社交产品这么多，大厂明年又要裁员了。。.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20231211-AI社交产品这么多，大厂明年又要裁员了。。",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20231211-AI社交产品这么多，大厂明年又要裁员了。。",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts (slides, boards, UI, diagrams, etc.) or critical visual states; all frames are lecturer-only with no instructional content.",
+      "sheet": "keyframe_selection\\sheets\\20231211-AI社交产品这么多，大厂明年又要裁员了。。\\20231211-AI社交产品这么多，大厂明年又要裁员了。。_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

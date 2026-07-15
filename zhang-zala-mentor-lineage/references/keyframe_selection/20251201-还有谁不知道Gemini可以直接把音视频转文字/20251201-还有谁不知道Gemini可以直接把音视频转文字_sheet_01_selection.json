@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a complete UI state of a Gemini interface with a user query and system response, including a thumbnail of a video call. This frame serves as a clear teaching artifact for demonstrating AI-generated responses and context in a live interaction.",
+      "keywords": [
+        "Gemini",
+        "AI interface",
+        "user query",
+        "system response",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided in the contact sheet for evaluation. The single frame was selected as it contains a complete and clear teaching artifact with relevant UI elements and context.",
+  "sheet": "keyframe_selection\\sheets\\20251201-还有谁不知道Gemini可以直接把音视频转文字\\20251201-还有谁不知道Gemini可以直接把音视频转文字_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

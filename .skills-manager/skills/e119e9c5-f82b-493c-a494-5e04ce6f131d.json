@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e119e9c5-f82b-493c-a494-5e04ce6f131d",
+  "path": "novel-claude-ai",
+  "path_key": "novel-claude-ai",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

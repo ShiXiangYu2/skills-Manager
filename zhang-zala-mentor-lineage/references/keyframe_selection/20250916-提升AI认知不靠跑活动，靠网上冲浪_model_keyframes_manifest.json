@@ -1,0 +1,19 @@
+{
+  "media": "20250916-提升AI认知不靠跑活动，靠网上冲浪",
+  "video_path": "D:\\视频下载\\张咋啦\\20250916-提升AI认知不靠跑活动，靠网上冲浪.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250916-提升AI认知不靠跑活动，靠网上冲浪",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250916-提升AI认知不靠跑活动，靠网上冲浪",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only, lack visual teaching artifacts, or are introductory with minimal content relevant to course distillation. No slides, diagrams, formulas, or demonstrative visuals are present to support source-backed explanation or review.",
+      "sheet": "keyframe_selection\\sheets\\20250916-提升AI认知不靠跑活动，靠网上冲浪\\20250916-提升AI认知不靠跑活动，靠网上冲浪_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

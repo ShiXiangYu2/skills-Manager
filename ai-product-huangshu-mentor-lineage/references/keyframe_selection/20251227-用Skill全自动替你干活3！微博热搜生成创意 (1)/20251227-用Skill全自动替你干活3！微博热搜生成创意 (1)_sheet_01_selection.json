@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear UI with a skills dashboard and relevant annotations, capturing a key teaching artifact about skill analysis.",
+      "keywords": [
+        "UI",
+        "skills dashboard",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20251227-用Skill全自动替你干活3！微博热搜生成创意 (1)\\20251227-用Skill全自动替你干活3！微博热搜生成创意 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

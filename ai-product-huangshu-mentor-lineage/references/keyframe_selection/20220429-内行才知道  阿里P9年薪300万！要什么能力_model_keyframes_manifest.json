@@ -1,0 +1,91 @@
+{
+  "media": "20220429-内行才知道  阿里P9年薪300万！要什么能力",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220429-内行才知道  阿里P9年薪300万！要什么能力.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220429-内行才知道  阿里P9年薪300万！要什么能力",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20220429-内行才知道  阿里P9年薪300万！要什么能力",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear whiteboard with a list of points about Alibaba's P8 level requirements, a key teaching artifact.",
+      "keywords": [
+        "whiteboard",
+        "P8",
+        "Alibaba",
+        "requirements"
+      ],
+      "candidate_source": "keyframe_candidates\\20220429-内行才知道  阿里P9年薪300万！要什么能力\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220429-内行才知道  阿里P9年薪300万！要什么能力\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Clearly displays the whiteboard content with added text 'Super自己有学员就是阿里的P8' (Super's own students are Alibaba P8), providing context and a specific teaching point.",
+      "keywords": [
+        "whiteboard",
+        "P8",
+        "Alibaba",
+        "teaching_point"
+      ],
+      "candidate_source": "keyframe_candidates\\20220429-内行才知道  阿里P9年薪300万！要什么能力\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20220429-内行才知道  阿里P9年薪300万！要什么能力\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Captures the full whiteboard with additional text '关注我！用产品思维看世界' (Follow me! See the world with a product mindset), which is a concluding teaching artifact.",
+      "keywords": [
+        "whiteboard",
+        "product_thinking",
+        "conclusion"
+      ],
+      "candidate_source": "keyframe_candidates\\20220429-内行才知道  阿里P9年薪300万！要什么能力\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20220429-内行才知道  阿里P9年薪300万！要什么能力\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a clear whiteboard with a list of points about Alibaba's P8 level requirements, a key teaching artifact.",
+          "keywords": [
+            "whiteboard",
+            "P8",
+            "Alibaba",
+            "requirements"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Clearly displays the whiteboard content with added text 'Super自己有学员就是阿里的P8' (Super's own students are Alibaba P8), providing context and a specific teaching point.",
+          "keywords": [
+            "whiteboard",
+            "P8",
+            "Alibaba",
+            "teaching_point"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04",
+          "reason": "Captures the full whiteboard with additional text '关注我！用产品思维看世界' (Follow me! See the world with a product mindset), which is a concluding teaching artifact.",
+          "keywords": [
+            "whiteboard",
+            "product_thinking",
+            "conclusion"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were present to evaluate. The three selected frames capture the complete sequence of the whiteboard presentation and its key contextual text elements.",
+      "sheet": "keyframe_selection\\sheets\\20220429-内行才知道  阿里P9年薪300万！要什么能力\\20220429-内行才知道  阿里P9年薪300万！要什么能力_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

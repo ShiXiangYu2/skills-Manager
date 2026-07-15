@@ -1,0 +1,195 @@
+{
+  "media": "20260429-全程回放（3）Demo Day：我如何与agen",
+  "video_path": "D:\\视频下载\\张咋啦\\20260429-全程回放（3）Demo Day：我如何与agen.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 21,
+  "candidate_dir": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen",
+  "selected_count": 8,
+  "selected_dir": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the course title 'HyperFrames' as a teaching artifact, setting context for the video.",
+      "keywords": [
+        "title slide",
+        "course introduction"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Displays a terminal with code output, capturing a key technical demo or debugging state.",
+      "keywords": [
+        "terminal",
+        "code output",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Shows a React component editor with visible state or props, illustrating a UI implementation.",
+      "keywords": [
+        "React",
+        "UI component",
+        "code editor"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0006.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0006.jpg"
+    },
+    {
+      "frame": "frame_0008.jpg",
+      "timestamp": "14:00",
+      "reason": "Captures terminal with distinct command output, useful for verifying a specific step in a demo.",
+      "keywords": [
+        "terminal",
+        "command output",
+        "technical step"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0008.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0008.jpg"
+    },
+    {
+      "frame": "frame_0012.jpg",
+      "timestamp": "22:00",
+      "reason": "Displays a detailed document or article with diagrams and text, likely a key teaching resource.",
+      "keywords": [
+        "document",
+        "diagram",
+        "teaching resource"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0012.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0012.jpg"
+    },
+    {
+      "frame": "frame_0016.jpg",
+      "timestamp": "30:00",
+      "reason": "Shows a code editor with a long explanation or documentation, offering source-backed explanation.",
+      "keywords": [
+        "code editor",
+        "documentation",
+        "explanation"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0016.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0016.jpg"
+    },
+    {
+      "frame": "frame_0018.jpg",
+      "timestamp": "34:00",
+      "reason": "Displays terminal with multiple cla-commands or logs, useful for verifying processing steps.",
+      "keywords": [
+        "terminal",
+        "logs",
+        "workflow"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0018.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0018.jpg"
+    },
+    {
+      "frame": "frame_0020.jpg",
+      "timestamp": "38:00",
+      "reason": "Shows longer text in a code editor or documentation view, likely summarizing a concept or instruction.",
+      "keywords": [
+        "documentation",
+        "text",
+        "instruction"
+      ],
+      "candidate_source": "keyframe_candidates\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0020.jpg",
+      "selected_path": "keyframes_model_selected\\20260429-全程回放（3）Demo Day：我如何与agen\\frame_0020.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Introduces the course title 'HyperFrames' as a teaching artifact, setting context for the video.",
+          "keywords": [
+            "title slide",
+            "course introduction"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "06:00",
+          "reason": "Displays a terminal with code output, capturing a key technical demo or debugging state.",
+          "keywords": [
+            "terminal",
+            "code output",
+            "demo"
+          ]
+        },
+        {
+          "frame": "frame_0006.jpg",
+          "timestamp": "10:00",
+          "reason": "Shows a React component editor with visible state or props, illustrating a UI implementation.",
+          "keywords": [
+            "React",
+            "UI component",
+            "code editor"
+          ]
+        },
+        {
+          "frame": "frame_0008.jpg",
+          "timestamp": "14:00",
+          "reason": "Captures terminal with distinct command output, useful for verifying a specific step in a demo.",
+          "keywords": [
+            "terminal",
+            "command output",
+            "technical step"
+          ]
+        },
+        {
+          "frame": "frame_0012.jpg",
+          "timestamp": "22:00",
+          "reason": "Displays a detailed document or article with diagrams and text, likely a key teaching resource.",
+          "keywords": [
+            "document",
+            "diagram",
+            "teaching resource"
+          ]
+        },
+        {
+          "frame": "frame_0016.jpg",
+          "timestamp": "30:00",
+          "reason": "Shows a code editor with a long explanation or documentation, offering source-backed explanation.",
+          "keywords": [
+            "code editor",
+            "documentation",
+            "explanation"
+          ]
+        },
+        {
+          "frame": "frame_0018.jpg",
+          "timestamp": "34:00",
+          "reason": "Displays terminal with multiple cla-commands or logs, useful for verifying processing steps.",
+          "keywords": [
+            "terminal",
+            "logs",
+            "workflow"
+          ]
+        },
+        {
+          "frame": "frame_0020.jpg",
+          "timestamp": "38:00",
+          "reason": "Shows longer text in a code editor or documentation view, likely summarizing a concept or instruction.",
+          "keywords": [
+            "documentation",
+            "text",
+            "instruction"
+          ]
+        }
+      ],
+      "dropped_summary": "Most frames were dropped as they showed repetitive chat interfaces, blurred UI, lecturer-only views, or low-information states (e.g., blank or duplicated screens). Frames with no visible teaching artifacts or clear changes were excluded per criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260429-全程回放（3）Demo Day：我如何与agen\\20260429-全程回放（3）Demo Day：我如何与agen_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

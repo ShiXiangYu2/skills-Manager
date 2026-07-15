@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear diagram of Claude Code Skills architecture, showing the relationship between Claude Code, Chatlog, and WeChat database. This is a key teaching artifact that visually explains the system's components.",
+      "keywords": [
+        "diagram",
+        "architecture",
+        "Claude Code",
+        "Chatlog",
+        "WeChat database"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20251226-用Skill全自动替你干活2！群聊自动总结原理\\20251226-用Skill全自动替你干活2！群聊自动总结原理_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

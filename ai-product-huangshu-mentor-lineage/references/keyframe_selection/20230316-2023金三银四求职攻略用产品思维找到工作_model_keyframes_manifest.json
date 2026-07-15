@@ -1,0 +1,19 @@
+{
+  "media": "20230316-2023金三银四求职攻略用产品思维找到工作",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230316-2023金三银四求职攻略用产品思维找到工作.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230316-2023金三银四求职攻略用产品思维找到工作",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230316-2023金三银四求职攻略用产品思维找到工作",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts such as slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes. The only visible content is the lecturer and introductory title text, which does not meet the selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20230316-2023金三银四求职攻略用产品思维找到工作\\20230316-2023金三银四求职攻略用产品思维找到工作_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

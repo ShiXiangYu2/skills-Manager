@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-07-08T21:29:09",
+  "source_dir": "D:\\视频下载\\秋芝2046\\秋芝2046",
+  "transcripts": [],
+  "analysis_files": [],
+  "screenshots": [],
+  "model_keyframe_manifests": [],
+  "model_keyframe_summaries": [],
+  "model_selected_keyframes": [],
+  "course_distillations": [
+    "course_distillation_2026-07-08.json",
+    "course_distillation_2026-07-08.md"
+  ],
+  "documents": [],
+  "text_sources": [
+    "text_sources\\chunks.jsonl",
+    "text_sources\\source_manifest.json"
+  ],
+  "text_distillation": [
+    "text_distillation\\evidence_cards.jsonl",
+    "text_distillation\\source_summaries.json",
+    "text_distillation\\text_course_synthesis.md",
+    "text_distillation\\text_distillation_quality.json"
+  ],
+  "notes": [
+    "Evidence entries are file-level by default.",
+    "Add timestamps and topic labels after deeper course distillation."
+  ]
+}

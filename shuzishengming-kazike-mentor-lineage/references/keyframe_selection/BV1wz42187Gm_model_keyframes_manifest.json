@@ -1,0 +1,119 @@
+{
+  "media": "BV1wz42187Gm",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1wz42187Gm\\20240615-AI领域的赛博佛祖，他的名字，叫张吕敏....mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 6,
+  "candidate_dir": "keyframe_candidates\\BV1wz42187Gm",
+  "selected_count": 4,
+  "selected_dir": "keyframes_model_selected\\BV1wz42187Gm",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a slide with detailed prompt text and a code-like interface, providing concrete examples for AI prompting. The visual content is clear and directly relevant to the course topic.",
+      "keywords": [
+        "prompt",
+        "AI",
+        "code",
+        "interface"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1wz42187Gm\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV1wz42187Gm\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Shows a visual demonstration of AI image generation, comparing an input image with multiple generated outputs, illustrating the concept of model variation and control.",
+      "keywords": [
+        "AI",
+        "image generation",
+        "demo",
+        "comparison"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1wz42187Gm\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV1wz42187Gm\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Presents a slide with key AI tools (Control NET, Fooocus, LayerDiffusion) and a specific example image with Chinese text explaining the quality and effect, making it useful for summarizing tools and their use cases.",
+      "keywords": [
+        "Control NET",
+        "Fooocus",
+        "LayerDiffusion",
+        "tool comparison"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1wz42187Gm\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV1wz42187Gm\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Features a clear diagram of Style2Paints functionality with a side-by-side comparison of line art and AI-colored results, demonstrating a specific technique's workflow and effectiveness.",
+      "keywords": [
+        "Style2Paints",
+        "diagram",
+        "line art",
+        "coloring",
+        "AI art"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1wz42187Gm\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\BV1wz42187Gm\\frame_0004.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a slide with detailed prompt text and a code-like interface, providing concrete examples for AI prompting. The visual content is clear and directly relevant to the course topic.",
+          "keywords": [
+            "prompt",
+            "AI",
+            "code",
+            "interface"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "01:00",
+          "reason": "Shows a visual demonstration of AI image generation, comparing an input image with multiple generated outputs, illustrating the concept of model variation and control.",
+          "keywords": [
+            "AI",
+            "image generation",
+            "demo",
+            "comparison"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "02:00",
+          "reason": "Presents a slide with key AI tools (Control NET, Fooocus, LayerDiffusion) and a specific example image with Chinese text explaining the quality and effect, making it useful for summarizing tools and their use cases.",
+          "keywords": [
+            "Control NET",
+            "Fooocus",
+            "LayerDiffusion",
+            "tool comparison"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "03:00",
+          "reason": "Features a clear diagram of Style2Paints functionality with a side-by-side comparison of line art and AI-colored results, demonstrating a specific technique's workflow and effectiveness.",
+          "keywords": [
+            "Style2Paints",
+            "diagram",
+            "line art",
+            "coloring",
+            "AI art"
+          ]
+        }
+      ],
+      "dropped_summary": "Frames 00:05 and 00:06 show the lecturer speaking without any visible visual teaching artifacts, thus failing criterion 1. Other frames are either transitional, blurred, or too low-information (e.g., partial views or non-essential UI).",
+      "sheet": "keyframe_selection\\sheets\\BV1wz42187Gm\\BV1wz42187Gm_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

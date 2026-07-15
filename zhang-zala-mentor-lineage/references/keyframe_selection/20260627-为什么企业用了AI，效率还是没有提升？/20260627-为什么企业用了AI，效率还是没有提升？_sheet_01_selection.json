@@ -1,0 +1,21 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a complete slide with a clear title, two diagrams comparing 'Group Drive' and 'Unit Drive', and explanatory text and bullet points. This visual is central to explaining efficiency improvements, making it ideal for distillation.",
+      "keywords": [
+        "slide",
+        "diagram",
+        "efficiency",
+        "Group Drive",
+        "Unit Drive",
+        "technical comparison"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation; only one frame is available and it meets all selection criteria as a complete, informative teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20260627-为什么企业用了AI，效率还是没有提升？\\20260627-为什么企业用了AI，效率还是没有提升？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

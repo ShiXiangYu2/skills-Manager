@@ -1,0 +1,43 @@
+{
+  "media": "20260111-Skills是普通人的新武器！ (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260111-Skills是普通人的新武器！ (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260111-Skills是普通人的新武器！ (1)",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260111-Skills是普通人的新武器！ (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Clear visual of the teaching slide introducing the topic with key points like '现象' and 'Skills是什么?', providing context for the course.",
+      "keywords": [
+        "slide",
+        "introduction",
+        "key points"
+      ],
+      "candidate_source": "keyframe_candidates\\20260111-Skills是普通人的新武器！ (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260111-Skills是普通人的新武器！ (1)\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Clear visual of the teaching slide introducing the topic with key points like '现象' and 'Skills是什么?', providing context for the course.",
+          "keywords": [
+            "slide",
+            "introduction",
+            "key points"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for evaluation.",
+      "sheet": "keyframe_selection\\sheets\\20260111-Skills是普通人的新武器！ (1)\\20260111-Skills是普通人的新武器！ (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

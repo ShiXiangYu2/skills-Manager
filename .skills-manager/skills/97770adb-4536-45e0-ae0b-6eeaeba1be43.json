@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "97770adb-4536-45e0-ae0b-6eeaeba1be43",
+  "path": "novel-writer-workflow-guide",
+  "path_key": "novel-writer-workflow-guide",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

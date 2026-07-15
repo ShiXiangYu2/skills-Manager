@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Initial state of the diagram showing the foundational concept that 'mobile phones became universal tools'. Captures the start of the visual explanation.",
+      "keywords": [
+        "diagram",
+        "start",
+        "foundation"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows the addition of 'Agent时代' and initial cloud/GPT elements, beginning to transition the concept from mobile tools to AI agents.",
+      "keywords": [
+        "diagram",
+        "evolution",
+        "Agent时代"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Final state of the diagram with full integration of 'Skill' as the core concept, showcasing the full visual argument about AI agent capabilities.",
+      "keywords": [
+        "diagram",
+        "completion",
+        "Skill"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were selected as they either showed intermediate steps that were not distinct enough, or were redundant with the key frames capturing the full evolution of the diagram.",
+  "sheet": "keyframe_selection\\sheets\\20260608-费曼学习法：5分钟理解Skill是Agent的A\\20260608-费曼学习法：5分钟理解Skill是Agent的A_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

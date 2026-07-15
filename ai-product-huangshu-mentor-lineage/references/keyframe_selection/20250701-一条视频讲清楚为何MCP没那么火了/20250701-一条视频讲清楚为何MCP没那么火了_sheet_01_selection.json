@@ -1,0 +1,48 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete UI of an AI content management platform, illustrating a key concept discussed.",
+      "keywords": [
+        "UI",
+        "demo",
+        "platform"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Clear flowchart explaining the MCP client-server interaction process, crucial for understanding the system architecture.",
+      "keywords": [
+        "diagram",
+        "flowchart",
+        "architecture"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Highlights a key technical point about MCP's limitations regarding audio generation, material for explanation and verification.",
+      "keywords": [
+        "formula",
+        "technical point",
+        "limitation"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06:00",
+      "reason": "Shows a clear visual comparison of MCPs with a book and tablet, illustrating conceptual importance.",
+      "keywords": [
+        "visual comparison",
+        "diagram",
+        "conceptual"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are either lecturer-only (showing the speaker), blurred, or contain low-information content not directly related to teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20250701-一条视频讲清楚为何MCP没那么火了\\20250701-一条视频讲清楚为何MCP没那么火了_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

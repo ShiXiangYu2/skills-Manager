@@ -1,0 +1,19 @@
+{
+  "media": "20220101-即刻App的创始人和用户“吵起来”了，咋了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220101-即刻App的创始人和用户“吵起来”了，咋了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220101-即刻App的创始人和用户“吵起来”了，咋了",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220101-即刻App的创始人和用户“吵起来”了，咋了",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (no teaching artifact) or low-information. No slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes are visible to serve as evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20220101-即刻App的创始人和用户“吵起来”了，咋了\\20220101-即刻App的创始人和用户“吵起来”了，咋了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

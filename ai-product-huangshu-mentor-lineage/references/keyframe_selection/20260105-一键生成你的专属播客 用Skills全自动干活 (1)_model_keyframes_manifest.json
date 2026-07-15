@@ -1,0 +1,19 @@
+{
+  "media": "20260105-一键生成你的专属播客 用Skills全自动干活 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260105-一键生成你的专属播客 用Skills全自动干活 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260105-一键生成你的专属播客 用Skills全自动干活 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260105-一键生成你的专属播客 用Skills全自动干活 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is a blank or low-information frame with only a partial UI and no clear teaching artifact. No other frames are provided for evaluation.",
+      "sheet": "keyframe_selection\\sheets\\20260105-一键生成你的专属播客 用Skills全自动干活 (1)\\20260105-一键生成你的专属播客 用Skills全自动干活 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

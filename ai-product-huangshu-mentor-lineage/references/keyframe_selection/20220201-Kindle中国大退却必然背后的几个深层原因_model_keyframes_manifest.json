@@ -1,0 +1,19 @@
+{
+  "media": "20220201-Kindle中国大退却必然背后的几个深层原因",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220201-Kindle中国大退却必然背后的几个深层原因.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220201-Kindle中国大退却必然背后的几个深层原因",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220201-Kindle中国大退却必然背后的几个深层原因",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain significant teaching artifacts such as slides, diagrams, or clear visual states. The frames show the lecturer speaking with a whiteboard in the background, but the content is not clearly visible or materially changes between frames. Both frames are low-information and do not meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20220201-Kindle中国大退却必然背后的几个深层原因\\20220201-Kindle中国大退却必然背后的几个深层原因_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

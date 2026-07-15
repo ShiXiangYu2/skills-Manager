@@ -1,0 +1,19 @@
+{
+  "media": "20221201-自由职业前，没人告诉你的五个真相！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20221201-自由职业前，没人告诉你的五个真相！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\20221201-自由职业前，没人告诉你的五个真相！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20221201-自由职业前，没人告诉你的五个真相！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show only the lecturer speaking with no visual teaching artifacts like slides, diagrams, or UI elements. They contain only spoken text captions which do not satisfy the selection criteria for preserving key teaching visuals.",
+      "sheet": "keyframe_selection\\sheets\\20221201-自由职业前，没人告诉你的五个真相！\\20221201-自由职业前，没人告诉你的五个真相！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

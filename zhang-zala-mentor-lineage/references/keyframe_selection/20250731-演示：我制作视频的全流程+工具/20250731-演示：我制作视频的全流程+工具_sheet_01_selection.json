@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Frame displays a clear UI state of a video editing workflow on a laptop screen, showing a video file being selected or processed, which is a key teaching artifact for demonstration purposes. The caption indicates an instructional step about handling a video, making this frame useful for source-backed explanation and verification.",
+      "keywords": [
+        "UI",
+        "video editing",
+        "workflow",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation; only this single frame was available. It is retained as it captures a clear UI and instructional context.",
+  "sheet": "keyframe_selection\\sheets\\20250731-演示：我制作视频的全流程+工具\\20250731-演示：我制作视频的全流程+工具_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

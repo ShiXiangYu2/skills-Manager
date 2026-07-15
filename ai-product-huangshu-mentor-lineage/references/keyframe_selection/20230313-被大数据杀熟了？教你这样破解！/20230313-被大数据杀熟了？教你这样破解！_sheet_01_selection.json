@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "The frame displays the title and key instructional points ('1. Use Android phone', '2. Don't subscribe to membership', '3. Watch more diverse content') which constitute the core teaching artifact, clearly outlining the video's objective and actionable advice.",
+      "keywords": [
+        "title",
+        "instruction",
+        "key points",
+        "product tip"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20230313-被大数据杀熟了？教你这样破解！\\20230313-被大数据杀熟了？教你这样破解！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

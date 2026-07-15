@@ -1,0 +1,19 @@
+{
+  "media": "20250623-没有事情可以取代长期耕耘，AI行业也是如此",
+  "video_path": "D:\\视频下载\\张咋啦\\20250623-没有事情可以取代长期耕耘，AI行业也是如此.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250623-没有事情可以取代长期耕耘，AI行业也是如此",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250623-没有事情可以取代长期耕耘，AI行业也是如此",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame shows a YouTube video interface with a lecturer and video metadata, but contains no teaching artifact such as slides, diagrams, or visual content relevant to course distillation. The frame is dominated by UI elements and lacks educational content worth preserving.",
+      "sheet": "keyframe_selection\\sheets\\20250623-没有事情可以取代长期耕耘，AI行业也是如此\\20250623-没有事情可以取代长期耕耘，AI行业也是如此_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "0.1",
+  "course_name": "shuzishengming-kazike",
+  "skill_name": "shuzishengming-kazike-mentor-lineage",
+  "roles": [
+    "mentor",
+    "expert",
+    "practitioner"
+  ],
+  "modes": [
+    "mentor",
+    "expert",
+    "practitioner"
+  ],
+  "scope": "single-course",
+  "evidence_strategy": "standard",
+  "progress_strategy": "tracked",
+  "source_dir": "D:\\AI编程\\自研项目\\项目开发\\lineage-skill-main\\lineage-skill-main\\.lineage\\courses\\shuzishengming-kazike",
+  "generated_at": "2026-07-08T19:17:44",
+  "generated_by": {
+    "id": "lineage-skill",
+    "repository": "https://github.com/JuneYaooo/lineage-skill",
+    "script": "scripts/build_course_skill.py"
+  },
+  "provenance": {
+    "watermark": "lineage-skill:course-skill-builder:v0.1",
+    "watermark_visibility": "manifest-only",
+    "source_package": "D:\\AI编程\\自研项目\\项目开发\\lineage-skill-main\\lineage-skill-main\\.lineage\\courses\\shuzishengming-kazike\\course_package.json",
+    "note": "This packaged course Skill was generated from course materials by lineage-skill."
+  },
+  "reference_status": {
+    "course_package.json": "copied",
+    "course_digest.md": "copied",
+    "full_transcript.md": "copied",
+    "concept_glossary.md": "derived",
+    "quote_index.md": "derived",
+    "study_paths.md": "derived",
+    "lesson_index.json": "generated",
+    "evidence_map.json": "generated",
+    "distillation_audit.json": "copied",
+    "distillation_audit.md": "copied",
+    "transcripts/": "copied",
+    "analysis/": "copied",
+    "keyframe_selection/": "copied",
+    "keyframes_model_selected/": "copied",
+    "mentor_playbook.md": "stubbed",
+    "mentor_sessions.md": "stubbed",
+    "learner_progress.json": "stubbed",
+    "playbooks.md": "stubbed",
+    "checklists.md": "stubbed",
+    "templates.md": "stubbed",
+    "case_index.json": "stubbed",
+    "okf/": "generated 8 concepts, 0 evidence chunks",
+    "scripts/search_course_notes.py": "generated",
+    "scripts/fetch_course_evidence.py": "copied"
+  }
+}

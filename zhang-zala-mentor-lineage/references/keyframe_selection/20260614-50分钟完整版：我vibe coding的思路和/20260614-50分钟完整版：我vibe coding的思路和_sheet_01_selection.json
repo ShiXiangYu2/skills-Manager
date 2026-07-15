@@ -1,0 +1,88 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Opening slide with personal narrative and core theme, sets course context and establishes speaker's background.",
+      "keywords": [
+        "personal narrative",
+        "course intro",
+        "motivation"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Clear slide listing three core reasons for using HTML, with distinct visual sections and concise text — key teaching artifact.",
+      "keywords": [
+        "HTML",
+        "teaching artifact",
+        "slide"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Demonstrates design concept with visual metaphor ('Build the Thing First') and code snippet, useful for explaining design-then-code workflow.",
+      "keywords": [
+        "design workflow",
+        "visual metaphor",
+        "code snippet"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Slide with actionable list for preventing design slop, includes bullet points and UI components — practical teaching content.",
+      "keywords": [
+        "design principles",
+        "checklist",
+        "UI components"
+      ]
+    },
+    {
+      "frame": "frame_0011.jpg",
+      "timestamp": "20:00",
+      "reason": "Screenshot of a real web tool (X.Bookmark Resurfacer) with interface elements, demonstrates practical application mentioned in lecture.",
+      "keywords": [
+        "tool demo",
+        "interface",
+        "browser extension"
+      ]
+    },
+    {
+      "frame": "frame_0018.jpg",
+      "timestamp": "34:00",
+      "reason": "Slide with interactive prompt and arrow navigating text — highlights key decision-making in design process, useful for UX explanation.",
+      "keywords": [
+        "interactive design",
+        "decision flow",
+        "visual state"
+      ]
+    },
+    {
+      "frame": "frame_0019.jpg",
+      "timestamp": "36:00",
+      "reason": "Slide with three pillars of 'BUILD SOMETHING SMALL' — clear, structured teaching artifact for project methodology.",
+      "keywords": [
+        "project methodology",
+        "teaching slide",
+        "design principles"
+      ]
+    },
+    {
+      "frame": "frame_0024.jpg",
+      "timestamp": "46:00",
+      "reason": "Important conclusion slide summarizing the evolution of coding as a skill with quote — strong takeaway for course distillation.",
+      "keywords": [
+        "course conclusion",
+        "coding evolution",
+        "quote"
+      ]
+    }
+  ],
+  "dropped_summary": "Dropped frames included lecturer-only shots, blank or low-information frames, slides with minimal text, duplicated content, or UI states without key teaching elements. Many frames showed intermediate states, browser navigation, or introductory material without novel content.",
+  "sheet": "keyframe_selection\\sheets\\20260614-50分钟完整版：我vibe coding的思路和\\20260614-50分钟完整版：我vibe coding的思路和_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

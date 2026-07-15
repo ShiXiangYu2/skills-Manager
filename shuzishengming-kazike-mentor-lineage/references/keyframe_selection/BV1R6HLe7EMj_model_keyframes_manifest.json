@@ -1,0 +1,19 @@
+{
+  "media": "BV1R6HLe7EMj",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1R6HLe7EMj\\20240830-倒反天罡，人类研究起模仿AI了.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\BV1R6HLe7EMj",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1R6HLe7EMj",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts such as slides, diagrams, formulas, or instructional visuals. Frame 0001 shows only the lecturer with no visible material content, and frame 0002 displays an unrelated AI video demo with no educational content. Both are low-information and do not meet the criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\BV1R6HLe7EMj\\BV1R6HLe7EMj_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "media": "20251031-发布了自己的第一个AI产品后，我学到的东西",
+  "video_path": "D:\\视频下载\\张咋啦\\20251031-发布了自己的第一个AI产品后，我学到的东西.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251031-发布了自己的第一个AI产品后，我学到的东西",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20251031-发布了自己的第一个AI产品后，我学到的东西",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a complete slide with key information about the course's core product (TLDW.US), actionable advice for learning AI products via side projects, and a clear call to action for finding a '10x engineer'. This slide sets the context and goals for the course.",
+      "keywords": [
+        "course intro",
+        "TLDW.US",
+        "side project",
+        "AI product",
+        "10x engineer"
+      ],
+      "candidate_source": "keyframe_candidates\\20251031-发布了自己的第一个AI产品后，我学到的东西\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251031-发布了自己的第一个AI产品后，我学到的东西\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Presents a structured, clear breakdown of what makes an 'AI时代的10x engineer' with distinct '重要' (important) and '不重要' (not important) criteria. This is a high-value teaching artifact for defining key skills and mindsets.",
+      "keywords": [
+        "10x engineer",
+        "AI skills",
+        "important vs not important",
+        "career advice",
+        "skills checklist"
+      ],
+      "candidate_source": "keyframe_candidates\\20251031-发布了自己的第一个AI产品后，我学到的东西\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20251031-发布了自己的第一个AI产品后，我学到的东西\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains a complete slide with key information about the course's core product (TLDW.US), actionable advice for learning AI products via side projects, and a clear call to action for finding a '10x engineer'. This slide sets the context and goals for the course.",
+          "keywords": [
+            "course intro",
+            "TLDW.US",
+            "side project",
+            "AI product",
+            "10x engineer"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "02:00",
+          "reason": "Presents a structured, clear breakdown of what makes an 'AI时代的10x engineer' with distinct '重要' (important) and '不重要' (not important) criteria. This is a high-value teaching artifact for defining key skills and mindsets.",
+          "keywords": [
+            "10x engineer",
+            "AI skills",
+            "important vs not important",
+            "career advice",
+            "skills checklist"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames in the contact sheet are either blank, duplicated, or do not contain teaching artifacts. The provided frames are the only ones with slide content; no visual state changes or demos are visible beyond these two key slides.",
+      "sheet": "keyframe_selection\\sheets\\20251031-发布了自己的第一个AI产品后，我学到的东西\\20251031-发布了自己的第一个AI产品后，我学到的东西_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

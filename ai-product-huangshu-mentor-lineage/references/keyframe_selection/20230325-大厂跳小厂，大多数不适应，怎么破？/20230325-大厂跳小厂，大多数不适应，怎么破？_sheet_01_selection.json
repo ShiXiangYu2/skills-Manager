@@ -1,0 +1,7 @@
+{
+  "selected": [],
+  "dropped_summary": "No frames provided for evaluation. The image shows only the first frame with text overlay, but no visual teaching artifacts (slide, diagram, UI, etc.) to qualify as evidence for course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20230325-大厂跳小厂，大多数不适应，怎么破？\\20230325-大厂跳小厂，大多数不适应，怎么破？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

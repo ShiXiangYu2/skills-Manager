@@ -1,0 +1,43 @@
+{
+  "media": "20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a clear view of the laptop screen displaying a document with text and diagrams, which is a key teaching artifact. The UI layout is legible and provides context for the lecture topic. It is more informative than the lecturer-only frame.",
+      "keywords": [
+        "UI",
+        "document",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures a clear view of the laptop screen displaying a document with text and diagrams, which is a key teaching artifact. The UI layout is legible and provides context for the lecture topic. It is more informative than the lecturer-only frame.",
+          "keywords": [
+            "UI",
+            "document",
+            "teaching artifact"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0002.jpg is dropped as it only shows the lecturer with no visual teaching artifact or diagram, and it is not a clear, complete state change or key visual.",
+      "sheet": "keyframe_selection\\sheets\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)\\20241029-腾讯出了个仿NotebookLM的产品，让你给建 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

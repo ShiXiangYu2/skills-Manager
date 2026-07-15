@@ -1,0 +1,87 @@
+{
+  "media": "20260123-国产Claude Cowork来了！ (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260123-国产Claude Cowork来了！ (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20260123-国产Claude Cowork来了！ (1)",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20260123-国产Claude Cowork来了！ (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial UI of creating a single collection with clear buttons and input fields, serving as a complete visual teaching artifact.",
+      "keywords": [
+        "UI",
+        "demo",
+        "instructional"
+      ],
+      "candidate_source": "keyframe_candidates\\20260123-国产Claude Cowork来了！ (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260123-国产Claude Cowork来了！ (1)\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a code editor with a dark theme, showing actual code and a terminal output, which is a critical technical demonstration.",
+      "keywords": [
+        "code",
+        "demo",
+        "technical"
+      ],
+      "candidate_source": "keyframe_candidates\\20260123-国产Claude Cowork来了！ (1)\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260123-国产Claude Cowork来了！ (1)\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Clear view of a document listing key points about '国产Agent' with bullet points, useful for summarizing complex content.",
+      "keywords": [
+        "document",
+        "summary",
+        "key points"
+      ],
+      "candidate_source": "keyframe_candidates\\20260123-国产Claude Cowork来了！ (1)\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260123-国产Claude Cowork来了！ (1)\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows the initial UI of creating a single collection with clear buttons and input fields, serving as a complete visual teaching artifact.",
+          "keywords": [
+            "UI",
+            "demo",
+            "instructional"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Displays a code editor with a dark theme, showing actual code and a terminal output, which is a critical technical demonstration.",
+          "keywords": [
+            "code",
+            "demo",
+            "technical"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Clear view of a document listing key points about '国产Agent' with bullet points, useful for summarizing complex content.",
+          "keywords": [
+            "document",
+            "summary",
+            "key points"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped as they contained only lecturer close-ups (non-visual teaching content), or were less clear, or redundant with selected frames.",
+      "sheet": "keyframe_selection\\sheets\\20260123-国产Claude Cowork来了！ (1)\\20260123-国产Claude Cowork来了！ (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

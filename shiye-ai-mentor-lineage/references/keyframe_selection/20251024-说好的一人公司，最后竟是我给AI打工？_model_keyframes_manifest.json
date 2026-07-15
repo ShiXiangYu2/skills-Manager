@@ -1,0 +1,20 @@
+{
+  "media": "20251024-说好的一人公司，最后竟是我给AI打工？",
+  "video_path": "D:\\视频下载\\十页AI\\20251024-说好的一人公司，最后竟是我给AI打工？.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\20251024-说好的一人公司，最后竟是我给AI打工？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251024-说好的一人公司，最后竟是我给AI打工？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "model returned non-json content",
+      "raw": "",
+      "sheet": "keyframe_selection\\sheets\\20251024-说好的一人公司，最后竟是我给AI打工？\\20251024-说好的一人公司，最后竟是我给AI打工？_sheet_01.jpg",
+      "success": false,
+      "error": "403 Client Error: Forbidden for url: https://api.siliconflow.cn/v1/chat/completions"
+    }
+  ]
+}

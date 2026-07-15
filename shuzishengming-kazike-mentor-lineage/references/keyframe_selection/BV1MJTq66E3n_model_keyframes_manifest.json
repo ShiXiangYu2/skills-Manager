@@ -1,0 +1,93 @@
+{
+  "media": "BV1MJTq66E3n",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1MJTq66E3n\\20260701-Claude帐号被封，一行代码炸翻全球开发者.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\BV1MJTq66E3n",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\BV1MJTq66E3n",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a comprehensive list of code examples and explanations related to Claude Code, with clear text and structured bullet points for source-backed reference.",
+      "keywords": [
+        "code examples",
+        "Claude Code",
+        "text list",
+        "coding"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1MJTq66E3n\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV1MJTq66E3n\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Displays a clear UI mockup of a specific code artifact ('Today's' single quote) with associated ID, useful for visual reference and verification of UI/UX design.",
+      "keywords": [
+        "UI mockup",
+        "single quote",
+        "Today's",
+        "design artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1MJTq66E3n\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV1MJTq66E3n\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a visual metaphor (cardhouse) with accompanying text explaining durability/complexity, serving as a memorable teaching aid for a key conceptual point.",
+      "keywords": [
+        "visual metaphor",
+        "cardhouse",
+        "teaching aid",
+        "concept"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1MJTq66E3n\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV1MJTq66E3n\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains a comprehensive list of code examples and explanations related to Claude Code, with clear text and structured bullet points for source-backed reference.",
+          "keywords": [
+            "code examples",
+            "Claude Code",
+            "text list",
+            "coding"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear UI mockup of a specific code artifact ('Today's' single quote) with associated ID, useful for visual reference and verification of UI/UX design.",
+          "keywords": [
+            "UI mockup",
+            "single quote",
+            "Today's",
+            "design artifact"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a visual metaphor (cardhouse) with accompanying text explaining durability/complexity, serving as a memorable teaching aid for a key conceptual point.",
+          "keywords": [
+            "visual metaphor",
+            "cardhouse",
+            "teaching aid",
+            "concept"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were either not visible, lacked clear textual or visual teaching content, or did not meet criteria for being information-dense or artifact-preserving.",
+      "sheet": "keyframe_selection\\sheets\\BV1MJTq66E3n\\BV1MJTq66E3n_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

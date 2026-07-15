@@ -1,0 +1,43 @@
+{
+  "media": "20250807-如何足不出户 吸收硅谷最前沿的AI认知",
+  "video_path": "D:\\视频下载\\张咋啦\\20250807-如何足不出户 吸收硅谷最前沿的AI认知.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250807-如何足不出户 吸收硅谷最前沿的AI认知",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250807-如何足不出户 吸收硅谷最前沿的AI认知",
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Contains a clear textual teaching artifact introducing 'Andrej Karpathy', which serves as a key topic identifier for course distillation. The frame is stable, legible, and provides contextual reference for subsequent discussion.",
+      "keywords": [
+        "Andrej Karpathy",
+        "person",
+        "introduction"
+      ],
+      "candidate_source": "keyframe_candidates\\20250807-如何足不出户 吸收硅谷最前沿的AI认知\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250807-如何足不出户 吸收硅谷最前沿的AI认知\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains a clear textual teaching artifact introducing 'Andrej Karpathy', which serves as a key topic identifier for course distillation. The frame is stable, legible, and provides contextual reference for subsequent discussion.",
+          "keywords": [
+            "Andrej Karpathy",
+            "person",
+            "introduction"
+          ]
+        }
+      ],
+      "dropped_summary": "Frame 0001 is dropped because it shows a YouTube video interface with two speakers and subtitles in a different context (Cursor AI), which does not represent teaching content from the course; it’s lecturers-only with no visible slides, diagrams, or educational artifacts. Frame 0002 is selected over 0001 as it contains a clear textual artifact relevant to course material.",
+      "sheet": "keyframe_selection\\sheets\\20250807-如何足不出户 吸收硅谷最前沿的AI认知\\20250807-如何足不出户 吸收硅谷最前沿的AI认知_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

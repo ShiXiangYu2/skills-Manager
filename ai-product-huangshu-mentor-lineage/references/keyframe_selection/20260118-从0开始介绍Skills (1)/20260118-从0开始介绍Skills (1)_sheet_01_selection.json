@@ -1,0 +1,60 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a slide introducing 'Why use Saiku' and 'DiFi' with clear text, serving as an introductory teaching artifact.",
+      "keywords": [
+        "slide",
+        "introduction",
+        "Saiku",
+        "DiFi"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a slide with structured course outline (Sections 1-3) and Chinese text explaining the context, a key teaching artifact.",
+      "keywords": [
+        "slide",
+        "course_outline",
+        "teaching_content"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Shows a code editor with clear syntax highlighting and commented code, useful for source-backed explanation.",
+      "keywords": [
+        "code",
+        "demo",
+        "source_code"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06",
+      "reason": "Displays a slide detailing technical specifications for 'Agent virtual machine,' including clear tables and diagrams, important for verification.",
+      "keywords": [
+        "slide",
+        "diagram",
+        "table",
+        "technical_spec"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "00:08",
+      "reason": "Shows a complex UI diagram for 'Agent + Skills + Computer' with labeled components and user interaction points, illustrating a visual state change.",
+      "keywords": [
+        "UI",
+        "diagram",
+        "visual_state_change"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped because they either show the lecturer speaking only (no teaching artifact), are partial or blurred, or contain low-information content like intros/outros.",
+  "sheet": "keyframe_selection\\sheets\\20260118-从0开始介绍Skills (1)\\20260118-从0开始介绍Skills (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

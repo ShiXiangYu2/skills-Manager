@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame contains a clear, visually rich diagram illustrating RAM, PCIe, and other hardware components with labeled parts and a data flow bar, serving as a key teaching artifact for explaining computer architecture or data transfer mechanisms.",
+      "keywords": [
+        "RAM",
+        "PCIe",
+        "diagram",
+        "hardware",
+        "architecture"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg shows only the lecturer with no teaching artifact; frame_0003.jpg is a speaker-only shot with no visual content to preserve. Both lack visual material for distillation.",
+  "sheet": "keyframe_selection\\sheets\\BV1g45F6dEsC\\BV1g45F6dEsC_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

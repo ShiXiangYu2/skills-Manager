@@ -1,0 +1,47 @@
+{
+  "media": "20260514-教程：如何做出好看的HTML slides（0代",
+  "video_path": "D:\\视频下载\\张咋啦\\20260514-教程：如何做出好看的HTML slides（0代.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260514-教程：如何做出好看的HTML slides（0代",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260514-教程：如何做出好看的HTML slides（0代",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete UI demonstration of the Slido platform, showing the interface for creating and sharing a poll. It includes both the instructor's view and a sample of the student interface, which is a key teaching artifact for understanding the tool's functionality. The visual elements (buttons, text, UI layout) are clear and informative for course distillation.",
+      "keywords": [
+        "Slido",
+        "UI demonstration",
+        "poll creation",
+        "interactive tool",
+        "student interface"
+      ],
+      "candidate_source": "keyframe_candidates\\20260514-教程：如何做出好看的HTML slides（0代\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260514-教程：如何做出好看的HTML slides（0代\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame captures a complete UI demonstration of the Slido platform, showing the interface for creating and sharing a poll. It includes both the instructor's view and a sample of the student interface, which is a key teaching artifact for understanding the tool's functionality. The visual elements (buttons, text, UI layout) are clear and informative for course distillation.",
+          "keywords": [
+            "Slido",
+            "UI demonstration",
+            "poll creation",
+            "interactive tool",
+            "student interface"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were available for evaluation. This is the only frame in the contact sheet, and it meets all selection criteria: it contains a clear, complete visual artifact (UI demo), is informative for teaching verification, and is not lecturer-only or blank.",
+      "sheet": "keyframe_selection\\sheets\\20260514-教程：如何做出好看的HTML slides（0代\\20260514-教程：如何做出好看的HTML slides（0代_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

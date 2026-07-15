@@ -1,0 +1,19 @@
+{
+  "media": "20260629-Codex+大三学生，Agent-First思维",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260629-Codex+大三学生，Agent-First思维.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260629-Codex+大三学生，Agent-First思维",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260629-Codex+大三学生，Agent-First思维",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only a lecturer's face and subtitle text, lacking any visual teaching artifact such as slide, diagram, or UI that meets the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260629-Codex+大三学生，Agent-First思维\\20260629-Codex+大三学生，Agent-First思维_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

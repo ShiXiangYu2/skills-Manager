@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial state of the hand-drawn diagram with a red X, indicating a rejected concept or approach. This is a critical visual for understanding the problem space before the solution is proposed.",
+      "keywords": [
+        "diagram",
+        "rejected concept",
+        "visual state change"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Displays a more detailed version of the diagram with added text and a new concept labeled '记账小工具 生日提醒页面'. This frame captures a significant evolution in the visual explanation and introduces a new idea or feature for discussion.",
+      "keywords": [
+        "diagram",
+        "visual state change",
+        "new concept"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Shows a fully developed flowchart with multiple interconnected components, demonstrating the complete thought process or solution. This is the most comprehensive visual artifact in the sequence and is essential for understanding the final proposed structure.",
+      "keywords": [
+        "diagram",
+        "flowchart",
+        "complete concept"
+      ]
+    }
+  ],
+  "dropped_summary": "The frame at 00:04:00 is blank and offers no visual information, thus it was dropped. All other frames were selected because they depict key visual states or changes in the hand-drawn diagram that are critical for understanding the educational content.",
+  "sheet": "keyframe_selection\\sheets\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干 (1)\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

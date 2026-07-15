@@ -1,0 +1,19 @@
+{
+  "media": "20260316-Vibe coding活动作品分享：给老公的生日",
+  "video_path": "D:\\视频下载\\张咋啦\\20260316-Vibe coding活动作品分享：给老公的生日.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260316-Vibe coding活动作品分享：给老公的生日",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260316-Vibe coding活动作品分享：给老公的生日",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either too blurred, show only the lecturer without visible teaching artifacts, or contain non-informative content such as UI elements or background noise. No frames meet the criteria of capturing a clear, complete, or unique teaching artifact like slides, diagrams, or visual changes necessary for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260316-Vibe coding活动作品分享：给老公的生日\\20260316-Vibe coding活动作品分享：给老公的生日_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

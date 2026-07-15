@@ -1,0 +1,16 @@
+{
+  "full_text": "let's talk about how you can make a skill yourself What even is a skill, the way I think about it, a skill is your expertise, your taste, your best practices, your workflow off frozen into something an agent can run anyone can do this, especially if you're not technical whatever you're good at whatever your weird specific workflow is you can turn it into a skill Here's the most important thing to remember you don't start with a skill. you end with a skill Building the skill is the last step, not the first step Here's how I actually doing now.I have an idea I just get C code to build a thing first it's not satisfactory so I tweak it over and over, give it rounds and rounds of feedback until it hits my standard and my taste then I tell C to take the workflow we just did and turn it into a skill and then I figure out what context the skill needs from a user and design the onboarding experience so the agent knows what to ask for Once that's done you can just ask your agent to upload it to GitHub and now everyone can use it.",
+  "segments": [
+    {
+      "start": 0,
+      "end": 56.94,
+      "text": "let's talk about how you can make a skill yourself What even is a skill, the way I think about it, a skill is your expertise, your taste, your best practices, your workflow off frozen into something an agent can run anyone can do this, especially if you're not technical whatever you're good at whatever your weird specific workflow is you can turn it into a skill Here's the most important thing to remember you don't start with a skill. you end with a skill Building the skill is the last step, not the first step Here's how I actually doing now.I have an idea I just get C code to build a thing first it's not satisfactory so I tweak it over and over, give it rounds and rounds of feedback until it hits my standard and my taste then I tell C to take the workflow we just did and turn it into a skill and then I figure out what context the skill needs from a user and design the onboarding experience so the agent knows what to ask for Once that's done you can just ask your agent to upload it to GitHub and now everyone can use it."
+    }
+  ],
+  "language": "zh",
+  "duration": 56.94,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "20260702-做skill是你工作流的最后一步，不是第一步",
+  "video_path": "D:\\视频下载\\张咋啦\\20260702-做skill是你工作流的最后一步，不是第一步.mp4",
+  "source_type": "video"
+}

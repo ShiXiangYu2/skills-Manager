@@ -1,0 +1,39 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the complete whiteboard diagram and on-screen text overlay, providing context for the lecture. The whiteboard content is a key teaching artifact outlining a product development history sequence.",
+      "keywords": [
+        "whiteboard",
+        "diagram",
+        "product development",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Captures a clear visual state change where the speaker gestures while emphasizing key content. The whiteboard remains visible and unchanged, making this frame useful for source-backed explanation.",
+      "keywords": [
+        "visual state change",
+        "gesturing",
+        "whiteboard"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Captures the final point in the sequence with a clear visual state change and text overlay. The whiteboard content is unchanged, but this frame is valuable for showing the conclusion of the point being made.",
+      "keywords": [
+        "visual state change",
+        "conclusion",
+        "text overlay"
+      ]
+    }
+  ],
+  "dropped_summary": "No frames were dropped as all three frames contain valuable teaching artifacts and visual state changes. Each frame captures a unique visual state of the speaker and whiteboard content.",
+  "sheet": "keyframe_selection\\sheets\\20220301-Keep笼罩在流量毒雾下的上市\\20220301-Keep笼罩在流量毒雾下的上市_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

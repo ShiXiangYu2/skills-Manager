@@ -1,0 +1,69 @@
+{
+  "media": "BV1Wm4y1G7UK",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1Wm4y1G7UK\\20231006-我用AI做了一部短片 - 《流浪地球3番外：致遥.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\BV1Wm4y1G7UK",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\BV1Wm4y1G7UK",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a significant visual metaphor (Statue of Liberty) with multilingual text introducing a thematic shift, marking the beginning of a key narrative point.",
+      "keywords": [
+        "metaphor",
+        "introduction",
+        "narrative",
+        "text"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1Wm4y1G7UK\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV1Wm4y1G7UK\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Displays a symbolic visual scene (dawn over mountains) with bilingual text that signals a thematic transition or time shift, serving as an important visual cue.",
+      "keywords": [
+        "symbolism",
+        "transition",
+        "visual metaphor",
+        "text"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1Wm4y1G7UK\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV1Wm4y1G7UK\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains a significant visual metaphor (Statue of Liberty) with multilingual text introducing a thematic shift, marking the beginning of a key narrative point.",
+          "keywords": [
+            "metaphor",
+            "introduction",
+            "narrative",
+            "text"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a symbolic visual scene (dawn over mountains) with bilingual text that signals a thematic transition or time shift, serving as an important visual cue.",
+          "keywords": [
+            "symbolism",
+            "transition",
+            "visual metaphor",
+            "text"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames are available in this contact sheet for evaluation. Both frames are preserved as they contain thematic, visual, and textual content that serves as narrative evidence.",
+      "sheet": "keyframe_selection\\sheets\\BV1Wm4y1G7UK\\BV1Wm4y1G7UK_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

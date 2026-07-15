@@ -1,0 +1,16 @@
+{
+  "full_text": ".🎼Yeah. 🎼  🎼 Yeah.🎼Yeah.",
+  "segments": [
+    {
+      "start": 0,
+      "end": 116.54,
+      "text": ".🎼Yeah. 🎼  🎼 Yeah.🎼Yeah."
+    }
+  ],
+  "language": "zh",
+  "duration": 116.54,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "BV1JP411s7AW_20230816-我用AI做了一部短片，重现了梵高的一生...",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1JP411s7AW\\20230816-我用AI做了一部短片，重现了梵高的一生....mp4",
+  "source_type": "video"
+}

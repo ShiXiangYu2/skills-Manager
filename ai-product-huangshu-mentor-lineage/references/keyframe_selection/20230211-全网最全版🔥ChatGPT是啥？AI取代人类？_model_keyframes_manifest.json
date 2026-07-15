@@ -1,0 +1,107 @@
+{
+  "media": "20230211-全网最全版🔥ChatGPT是啥？AI取代人类？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？",
+  "selected_count": 4,
+  "selected_dir": "keyframes_model_selected\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the core topic with a clear title and the presenter's name, setting context for the video.",
+      "keywords": [
+        "title",
+        "introduction"
+      ],
+      "candidate_source": "keyframe_candidates\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a key visual artifact: the whiteboard with handwritten notes and a highlighted question 'OpenAI是最佳手段?' which is central to the discussion.",
+      "keywords": [
+        "whiteboard",
+        "question",
+        "note"
+      ],
+      "candidate_source": "keyframe_candidates\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Shows a clear, legible whiteboard with a highlighted question 'ChatGPT目标是取代搜索引擎么?', providing a critical point for discussion.",
+      "keywords": [
+        "whiteboard",
+        "question",
+        "note"
+      ],
+      "candidate_source": "keyframe_candidates\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Features a clear whiteboard with a highlighted question '我们可以做什么?', which encapsulates the concluding or next-step inquiry of the segment.",
+      "keywords": [
+        "whiteboard",
+        "question",
+        "note"
+      ],
+      "candidate_source": "keyframe_candidates\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\frame_0004.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Introduces the core topic with a clear title and the presenter's name, setting context for the video.",
+          "keywords": [
+            "title",
+            "introduction"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Displays a key visual artifact: the whiteboard with handwritten notes and a highlighted question 'OpenAI是最佳手段?' which is central to the discussion.",
+          "keywords": [
+            "whiteboard",
+            "question",
+            "note"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04",
+          "reason": "Shows a clear, legible whiteboard with a highlighted question 'ChatGPT目标是取代搜索引擎么?', providing a critical point for discussion.",
+          "keywords": [
+            "whiteboard",
+            "question",
+            "note"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "00:06",
+          "reason": "Features a clear whiteboard with a highlighted question '我们可以做什么?', which encapsulates the concluding or next-step inquiry of the segment.",
+          "keywords": [
+            "whiteboard",
+            "question",
+            "note"
+          ]
+        }
+      ],
+      "dropped_summary": "Intro/outro frames, frames with minimal or identical visual content, and frames showing only the presenter without clear teaching artifacts were dropped to maintain focus on high-information visual material.",
+      "sheet": "keyframe_selection\\sheets\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？\\20230211-全网最全版🔥ChatGPT是啥？AI取代人类？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

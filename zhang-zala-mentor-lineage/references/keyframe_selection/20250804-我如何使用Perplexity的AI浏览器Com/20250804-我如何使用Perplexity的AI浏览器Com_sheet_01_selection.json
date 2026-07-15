@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a complete visual of a YouTube video interface with a Japanese language learning video playing, along with a sidebar showing a detailed AI assistant task prompt. This provides context for the course topic (language learning with AI) and the teaching method (using AI for research and note-taking).",
+      "keywords": [
+        "AI assistant",
+        "YouTube video",
+        "language learning",
+        "teaching context"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a clear screenshot of the Comet AI interface with the tagline 'Browse at the speed of thought'. This is a distinct visual artifact indicating a shift to demonstrating a specific AI tool, differentiating it from the previous YouTube example and providing source-backed evidence for technology comparison.",
+      "keywords": [
+        "Comet AI",
+        "AI tool demo",
+        "interface",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they are not available in the provided contact sheet (no frames beyond 00:02 are shown). The two frames provided are the only ones for evaluation, both of which contain valuable teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20250804-我如何使用Perplexity的AI浏览器Com\\20250804-我如何使用Perplexity的AI浏览器Com_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

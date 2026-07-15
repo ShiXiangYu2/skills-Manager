@@ -1,0 +1,93 @@
+{
+  "media": "20260519-任川分享：我如何用5个agent管理一人公司",
+  "video_path": "D:\\视频下载\\张咋啦\\20260519-任川分享：我如何用5个agent管理一人公司.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 8,
+  "candidate_dir": "keyframe_candidates\\20260519-任川分享：我如何用5个agent管理一人公司",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20260519-任川分享：我如何用5个agent管理一人公司",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the initial slide 'What Does the Team Look Like' with a clear diagram illustrating team roles and structure, serving as a foundational teaching artifact.",
+      "keywords": [
+        "team structure",
+        "slide",
+        "diagram"
+      ],
+      "candidate_source": "keyframe_candidates\\20260519-任川分享：我如何用5个agent管理一人公司\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260519-任川分享：我如何用5个agent管理一人公司\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Presents a concise and informative slide with the core formula 'Agent = Model + Harness' and explanatory text, essential for conceptual understanding and verification.",
+      "keywords": [
+        "formula",
+        "Agent",
+        "Model",
+        "Harness",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\20260519-任川分享：我如何用5个agent管理一人公司\\frame_0006.jpg",
+      "selected_path": "keyframes_model_selected\\20260519-任川分享：我如何用5个agent管理一人公司\\frame_0006.jpg"
+    },
+    {
+      "frame": "frame_0007.jpg",
+      "timestamp": "12:00",
+      "reason": "Captures the same slide as frame_0006 but with a visible red highlight box on the 'Agent' component, indicating a focus shift during explanation — useful for demonstrating visual emphasis in teaching.",
+      "keywords": [
+        "slide",
+        "highlight",
+        "visual emphasis",
+        "Agent"
+      ],
+      "candidate_source": "keyframe_candidates\\20260519-任川分享：我如何用5个agent管理一人公司\\frame_0007.jpg",
+      "selected_path": "keyframes_model_selected\\20260519-任川分享：我如何用5个agent管理一人公司\\frame_0007.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays the initial slide 'What Does the Team Look Like' with a clear diagram illustrating team roles and structure, serving as a foundational teaching artifact.",
+          "keywords": [
+            "team structure",
+            "slide",
+            "diagram"
+          ]
+        },
+        {
+          "frame": "frame_0006.jpg",
+          "timestamp": "10:00",
+          "reason": "Presents a concise and informative slide with the core formula 'Agent = Model + Harness' and explanatory text, essential for conceptual understanding and verification.",
+          "keywords": [
+            "formula",
+            "Agent",
+            "Model",
+            "Harness",
+            "slide"
+          ]
+        },
+        {
+          "frame": "frame_0007.jpg",
+          "timestamp": "12:00",
+          "reason": "Captures the same slide as frame_0006 but with a visible red highlight box on the 'Agent' component, indicating a focus shift during explanation — useful for demonstrating visual emphasis in teaching.",
+          "keywords": [
+            "slide",
+            "highlight",
+            "visual emphasis",
+            "Agent"
+          ]
+        }
+      ],
+      "dropped_summary": "Frames 0002-0005 and 0008 show either the presenter's back, audience, or blurred/unchanged slides without new information or clear teaching artifacts. They are redundant, low-information, or lecturer-only views and thus dropped per selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260519-任川分享：我如何用5个agent管理一人公司\\20260519-任川分享：我如何用5个agent管理一人公司_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

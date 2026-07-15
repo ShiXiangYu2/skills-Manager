@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Initial state of the diagram showing the starting point of the concept: '手机时代' (Mobile Era) with basic app icons. This frame establishes the baseline understanding before the 'Agent时代' (Agent Era) is introduced.",
+      "keywords": [
+        "diagram",
+        "conceptual evolution",
+        "starting point"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "The diagram now includes 'Agent时代' (Agent Era) with 'Cloud/GPT 开源' (Cloud/GPT Open Source) and 'Codex/CC/Harness/Opencad' as foundational elements. This frame represents a critical conceptual shift from mobile apps to agent-based systems.",
+      "keywords": [
+        "conceptual shift",
+        "Agent Era",
+        "important artifact"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "The diagram is fully expanded, showing the complete conceptual flow from mobile era to 'Skill' as an agent capability, including source platforms (GitHub, Reddit) and user habits. This frame captures the final, detailed teaching artifact.",
+      "keywords": [
+        "complete diagram",
+        "final teaching artifact",
+        "visual state change"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were selected as they either showed only intermediate steps, lacked clear visual artifacts, or were not materially different from the selected frames.",
+  "sheet": "keyframe_selection\\sheets\\20260608-费曼学习法：5分钟理解Skill是Agent的A (1)\\20260608-费曼学习法：5分钟理解Skill是Agent的A (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

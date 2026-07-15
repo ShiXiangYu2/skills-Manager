@@ -1,0 +1,19 @@
+{
+  "media": "20250914-我日常了解AI资讯的4个newsletter 每",
+  "video_path": "D:\\视频下载\\张咋啦\\20250914-我日常了解AI资讯的4个newsletter 每.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250914-我日常了解AI资讯的4个newsletter 每",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250914-我日常了解AI资讯的4个newsletter 每",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either introductory content, low-information, or contain only email UI without relevant teaching artifacts or visual material. No slides, diagrams, formulas, demos, or key visual changes are present that meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20250914-我日常了解AI资讯的4个newsletter 每\\20250914-我日常了解AI资讯的4个newsletter 每_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

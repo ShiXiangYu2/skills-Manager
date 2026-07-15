@@ -1,0 +1,90 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "First slide introducing the course topic 'Claude Code 桌面端大改版' with key features listed, essential for course context and distillation.",
+      "keywords": [
+        "introduction",
+        "Claude Code",
+        "features"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Clear slide with title 'Coding Agent in Feishu 用飞书取代 Terminal' and detailed bullet points explaining the concept and benefits, provides key teaching content.",
+      "keywords": [
+        "Coding Agent",
+        "Feishu",
+        "terminal"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Demonstration of a dark-themed IDE with a visible code structure diagram, shows a material visual state change relevant to the coding agent demo.",
+      "keywords": [
+        "IDE",
+        "code diagram",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Captures a diagram with a flowchart and a cloud icon, likely illustrating a process or system architecture, useful for explanation and review.",
+      "keywords": [
+        "diagram",
+        "flowchart",
+        "architecture"
+      ]
+    },
+    {
+      "frame": "frame_0010.jpg",
+      "timestamp": "18:00",
+      "reason": "Screenshots of a document with structured text, likely explaining a concept in detail; valuable as a source-backed teaching artifact.",
+      "keywords": [
+        "document",
+        "text",
+        "explanation"
+      ]
+    },
+    {
+      "frame": "frame_0015.jpg",
+      "timestamp": "28:00",
+      "reason": "Grid of images showing various photo editing or content generation outputs, represents a key demo or results display for a given topic.",
+      "keywords": [
+        "demo",
+        "images",
+        "output"
+      ]
+    },
+    {
+      "frame": "frame_0017.jpg",
+      "timestamp": "32:00",
+      "reason": "IDE interface showing a codebase structure and a mobile preview, indicating a practical demonstration of development workflows.",
+      "keywords": [
+        "IDE",
+        "code",
+        "mobile preview",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0020.jpg",
+      "timestamp": "38:00",
+      "reason": "Dark-themed interface with multiple user аватары and a central image, likely showing a collaborative or generative AI demo; high information content.",
+      "keywords": [
+        "demo",
+        "collaboration",
+        "AI",
+        "interface"
+      ]
+    }
+  ],
+  "dropped_summary": "Most frames were dropped due to showing lecturer-only, low-information UI states, or blurred/blocking elements. Duplicate screenshots and frames with no clear visual teaching artifacts (e.g., plain text without context, zoomed-in chat logs without structure) were excluded. Intro/outro scenes (e.g., frame_0012, frame_0013) and blank/background frames were also omitted.",
+  "sheet": "keyframe_selection\\sheets\\20260427-全程回放（1）Demo Day：我如何与agen\\20260427-全程回放（1）Demo Day：我如何与agen_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

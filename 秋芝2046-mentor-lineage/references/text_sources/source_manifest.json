@@ -1,0 +1,802 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-08T21:24:00",
+  "source_count": 88,
+  "chunk_count": 116,
+  "max_chars": 6000,
+  "overlap_chars": 500,
+  "sources": [
+    {
+      "source_id": "751eeca8be01d78278d1c7bb43fb0eba",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—1天节省3小时，用AI给“信息降噪”！—【2025-08-07】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—1天节省3小时，用AI给“信息降噪”！—【2025-08-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—1天节省3小时，用AI给“信息降噪”！—【2025-08-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2138,
+      "content_sha256": "ec2103a63383730ca5876a045688f2586674ac399b47e718fdfa62a270feb5cd"
+    },
+    {
+      "source_id": "f51b458cfc277a47b13535e1f40df619",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—2025年AI生图“王”！Banana Pro玩法大分享～【建议收藏】—【2025-11-23】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—2025年AI生图“王”！Banana Pro玩法大分享～【建议收藏】—【2025-11-23】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—2025年AI生图“王”！Banana Pro玩法大分享～【建议收藏】—【2025-11-23】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3270,
+      "content_sha256": "2cb829de4f6c4280ba55a0f85fda0de36bb16a30d70baac3b848fc941075719f"
+    },
+    {
+      "source_id": "a78399d1d6a4498da093560d0213999d",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—2025年，到底有多少人在用AI？—【2025-12-25】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—2025年，到底有多少人在用AI？—【2025-12-25】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—2025年，到底有多少人在用AI？—【2025-12-25】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4115,
+      "content_sha256": "de87c88374f439ea0acd264bd3769acc519e3d9d6694f0792b83fda2c28c490a"
+    },
+    {
+      "source_id": "4d362c2707f1b373a7cc39c5ca851fb5",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—300回合狂测GPT5，有点真东西！【做了个三体】—【2025-08-13】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—300回合狂测GPT5，有点真东西！【做了个三体】—【2025-08-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—300回合狂测GPT5，有点真东西！【做了个三体】—【2025-08-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4250,
+      "content_sha256": "e7b47ac47219fee2e55d5901697703ee77f98607dd434898247c9d5ebc16e6b4"
+    },
+    {
+      "source_id": "21e2e8119ee3f3f1f8c7e9febfa10b8b",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—3分钟告诉你openai颠覆性模型o1到底有多强？！—【2024-09-13】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—3分钟告诉你openai颠覆性模型o1到底有多强？！—【2024-09-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—3分钟告诉你openai颠覆性模型o1到底有多强？！—【2024-09-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1025,
+      "content_sha256": "339a1a0b6ee7d076e54368fd65a97b64fda2b78bb04e10eab0d97738e258a558"
+    },
+    {
+      "source_id": "92b203aaa2f7c4d77c12d2baf0d77a3e",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—3分钟教会你分享本地大模型！孩子朋友都能用~【内网穿透保姆级教程，不会编程也能学】—【2024-07-07】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—3分钟教会你分享本地大模型！孩子朋友都能用~【内网穿透保姆级教程，不会编程也能学】—【2024-07-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—3分钟教会你分享本地大模型！孩子朋友都能用~【内网穿透保姆级教程，不会编程也能学】—【2024-07-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1451,
+      "content_sha256": "f13793a2979178867f52dc763b573ad07f5932d341d12b34854e50e881855973"
+    },
+    {
+      "source_id": "13d60ca08f798e6b0ab36d372c958c7b",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—4款最强数字人工具大横评！—【2024-08-26】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—4款最强数字人工具大横评！—【2024-08-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—4款最强数字人工具大横评！—【2024-08-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1203,
+      "content_sha256": "b54a734e7d379dea2346a6f21bfc02c5f532bebb646b79de6631ff539bf9b267"
+    },
+    {
+      "source_id": "968de7b1dfc07ff7b02e24fe8a8d6390",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—5分钟学会本地部署！拥有自己的免费AI大模型！~—【2024-07-04】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—5分钟学会本地部署！拥有自己的免费AI大模型！~—【2024-07-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—5分钟学会本地部署！拥有自己的免费AI大模型！~—【2024-07-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1333,
+      "content_sha256": "28f14df41e7593ae42748a1816a692daebab1992ced4825b3e8b52cf29fce79c"
+    },
+    {
+      "source_id": "68c326787734c38c4e26c75daa29ae04",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—5分钟教会你给本地大模型接入知识库RAG～【小白喂饭级教程】—【2024-07-16】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—5分钟教会你给本地大模型接入知识库RAG～【小白喂饭级教程】—【2024-07-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—5分钟教会你给本地大模型接入知识库RAG～【小白喂饭级教程】—【2024-07-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1761,
+      "content_sha256": "c08308722afe287f754df0bf4134cea13f5bd520ef00db715ab5bcd099be6f58"
+    },
+    {
+      "source_id": "44759b4634599271a3a3b3ff76aa322a",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—5分钟理解编程，并开发你第一个AI应用！【小白入门】—【2025-03-09】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—5分钟理解编程，并开发你第一个AI应用！【小白入门】—【2025-03-09】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—5分钟理解编程，并开发你第一个AI应用！【小白入门】—【2025-03-09】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2700,
+      "content_sha256": "b53f771ecd5677384663de79948f5abbddcdd1ef28e4270b33aa56fd7183bc78"
+    },
+    {
+      "source_id": "16a49aab8a922a27a4dab14c809e8374",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—Agent Infra到底是什么？【AI基建】—【2025-10-15】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—Agent Infra到底是什么？【AI基建】—【2025-10-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—Agent Infra到底是什么？【AI基建】—【2025-10-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7421,
+      "content_sha256": "25014f184e8c3b9441ea58c5d905f2f210d6aec2b1e934e72a06547404e5f042"
+    },
+    {
+      "source_id": "a734191cd5183b4d7beff6d123614512",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI作曲作词演唱完整MV《AI很单纯，复杂的是人》—【2024-02-03】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI作曲作词演唱完整MV《AI很单纯，复杂的是人》—【2024-02-03】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—AI作曲作词演唱完整MV《AI很单纯，复杂的是人》—【2024-02-03】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1239,
+      "content_sha256": "c1bcb698a2ffa41b2e3fd11611b8a932ee7e841e8df61e647a067c027e515818"
+    },
+    {
+      "source_id": "80a235fd7b922f9c37df6ca1a8ba2096",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI作词作曲《我想上班》完整版—【2024-01-05】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI作词作曲《我想上班》完整版—【2024-01-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—AI作词作曲《我想上班》完整版—【2024-01-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 555,
+      "content_sha256": "65e01f265e1860bc3106d233b3c9705038ddbf30fdbd4ed094a08449e687519e"
+    },
+    {
+      "source_id": "d5e8166b222a1c21cff6bb211604e97c",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI视频技巧集合！一口气全了解【小白速成】—【2024-10-07】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI视频技巧集合！一口气全了解【小白速成】—【2024-10-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—AI视频技巧集合！一口气全了解【小白速成】—【2024-10-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1819,
+      "content_sha256": "15223b7d1190ea67bc063c8535842a8b3c347ffd71c5857c8b46dd50ef20e3cd"
+    },
+    {
+      "source_id": "089b4408f6d1dc0979c6a9210196f143",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI视频超神了？花1800实测谷歌Veo3到底有多强！—【2025-05-27】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI视频超神了？花1800实测谷歌Veo3到底有多强！—【2025-05-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—AI视频超神了？花1800实测谷歌Veo3到底有多强！—【2025-05-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2729,
+      "content_sha256": "5860b77a7c5c3dc1a073b885e1c4cf26f73980a41eecd1d6a4d84b20a14eb5ca"
+    },
+    {
+      "source_id": "8f0cf853915de76ff7ea423b50e2082c",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI财神杯：哪个AI能带你发财？【Grok4 300刀实测】—【2025-07-15】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—AI财神杯：哪个AI能带你发财？【Grok4 300刀实测】—【2025-07-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—AI财神杯：哪个AI能带你发财？【Grok4 300刀实测】—【2025-07-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6931,
+      "content_sha256": "c549e38e8c4a66d0d06ffa95d41ae541fe49ec9d4059e46a2efbba4ed5ae7406"
+    },
+    {
+      "source_id": "967a408ad8a9bcb0d1809626046744f9",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—B站首届AI春晚！—【2026-02-07】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—B站首届AI春晚！—【2026-02-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—B站首届AI春晚！—【2026-02-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 17369,
+      "content_sha256": "9a896d905418a37b556e96ea9bc02fdba4374ab5a62d7a4d1f7c5fd372337ffb"
+    },
+    {
+      "source_id": "22b9a1196d99732e2b5fd63661b00d9e",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek V4好用吗？【秋芝的AI开箱】—【2026-04-27】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek V4好用吗？【秋芝的AI开箱】—【2026-04-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—DeepSeek V4好用吗？【秋芝的AI开箱】—【2026-04-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1794,
+      "content_sha256": "35d58d921583953ec1f0f1181abecc08ad06aa298c4eb25e57546e40901bb503"
+    },
+    {
+      "source_id": "24e57d43eca3db0189602e22879b36ab",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek为什么能震惊世界？【含本地部署】—【2025-01-31】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek为什么能震惊世界？【含本地部署】—【2025-01-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—DeepSeek为什么能震惊世界？【含本地部署】—【2025-01-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5905,
+      "content_sha256": "8b99e2f830983436ee725bab26da34cb8d87647f5e283fba6af924bcecd68761"
+    },
+    {
+      "source_id": "531a6affb4223589757d6512a3a86e7d",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek爆改哪吒3的剧情，我呆了...—【2025-02-20】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek爆改哪吒3的剧情，我呆了...—【2025-02-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—DeepSeek爆改哪吒3的剧情，我呆了...—【2025-02-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 728,
+      "content_sha256": "207763f20d1812bf0104eb91bab61f31fb203c012de686e9c563d644f21bf233"
+    },
+    {
+      "source_id": "5db621ed0c6e2d117b17cf722175c32d",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek重大更新！R2要来了？—【2025-03-27】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—DeepSeek重大更新！R2要来了？—【2025-03-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—DeepSeek重大更新！R2要来了？—【2025-03-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1468,
+      "content_sha256": "746f108341f4cf409a810f2c2870bb57ff875953700744577f2536027cb14b98"
+    },
+    {
+      "source_id": "e74deb5b915039d0200e44b9625cd019",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—GPT image 2 实用玩法合集分享～【秋芝的AI开箱】—【2026-05-02】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—GPT image 2 实用玩法合集分享～【秋芝的AI开箱】—【2026-05-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—GPT image 2 实用玩法合集分享～【秋芝的AI开箱】—【2026-05-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4393,
+      "content_sha256": "ea9c8d192d375172238bdc304df0efa9f4371bce07793b3713548f6f61e31436"
+    },
+    {
+      "source_id": "717092c72a64f4343c66cd3fcea29fb3",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—GPT4.5发布了，真的是垃圾吗？【实测】—【2025-02-28】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—GPT4.5发布了，真的是垃圾吗？【实测】—【2025-02-28】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—GPT4.5发布了，真的是垃圾吗？【实测】—【2025-02-28】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2479,
+      "content_sha256": "ad073eede9cf9c80293ab947925c37695a92eacaf27f08561c4060cfb8ce8288"
+    },
+    {
+      "source_id": "f646bc4372445b3d11cf31b0fced972e",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—GPT4o最强更新！人均设计师【小白神器】—【2025-03-28】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—GPT4o最强更新！人均设计师【小白神器】—【2025-03-28】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—GPT4o最强更新！人均设计师【小白神器】—【2025-03-28】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1678,
+      "content_sha256": "93e33134ad2226db418c386449e3e437209cab0eef40d6bf1605b0fcbbe0e184"
+    },
+    {
+      "source_id": "56e46cb190d698a14ff981751caed63a",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—Huggingface小白AI入门，你必须了解的免费开源模型大超市—【2024-10-02】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—Huggingface小白AI入门，你必须了解的免费开源模型大超市—【2024-10-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—Huggingface小白AI入门，你必须了解的免费开源模型大超市—【2024-10-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1935,
+      "content_sha256": "63b2a1439024a43d93036979c38ce670a809725ca1b3cd495c411c5100269f3d"
+    },
+    {
+      "source_id": "6fcf68a874fc7490410362193f154bb9",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—MCP幼儿园级教程，让你的AI自己干活！【小白教程】—【2025-04-13】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—MCP幼儿园级教程，让你的AI自己干活！【小白教程】—【2025-04-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—MCP幼儿园级教程，让你的AI自己干活！【小白教程】—【2025-04-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2790,
+      "content_sha256": "897d10c35aaab2e1e0d55405fe061d9dc97a081c6c1142e75ab5f69a7ecc3903"
+    },
+    {
+      "source_id": "b627867b53f2ba3bcde6815d492148f5",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—Ollama幼儿园级教程，玩转免费开源大模型！【小白教程】—【2025-05-24】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—Ollama幼儿园级教程，玩转免费开源大模型！【小白教程】—【2025-05-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—Ollama幼儿园级教程，玩转免费开源大模型！【小白教程】—【2025-05-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6096,
+      "content_sha256": "dfebb3932ea530bd9cfbd123587d7d7b91ec9ca09597204c2933c5207fbb6700"
+    },
+    {
+      "source_id": "ed78cc7cde05f430f2a119eb92ef9a38",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—OpenAI原生AI浏览器！值得拥有的N个理由～—【2025-10-27】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—OpenAI原生AI浏览器！值得拥有的N个理由～—【2025-10-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—OpenAI原生AI浏览器！值得拥有的N个理由～—【2025-10-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3475,
+      "content_sha256": "6c10e6abc9eb723fd1443d0330a1ee0846b38a85ea319f0ec144adc91e73bc04"
+    },
+    {
+      "source_id": "edd53f917dd61140e9139ed2eded6d67",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—OpenClaw养龙虾秘籍大公开！【安全+省钱】—【2026-04-22】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—OpenClaw养龙虾秘籍大公开！【安全+省钱】—【2026-04-22】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—OpenClaw养龙虾秘籍大公开！【安全+省钱】—【2026-04-22】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7255,
+      "content_sha256": "5fd2f45e709e7e81fb24f2f2ff29d3bf298102f044b7c3451d706208c9e4e9ad"
+    },
+    {
+      "source_id": "362d753053b82c8daf62f9e2ce2a2a9e",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【AI失业潮】我们离大规模失业有多远？—【2025-05-17】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【AI失业潮】我们离大规模失业有多远？—【2025-05-17】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—【AI失业潮】我们离大规模失业有多远？—【2025-05-17】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6729,
+      "content_sha256": "1d77ee4f0d28491d37d42c22bfc7f6a6afbeff14513bf300ff889e22e3afbdf6"
+    },
+    {
+      "source_id": "959e69bb1272ff59cdb132d59bb41744",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【AI编程神器Cursor】不止写代码，5种玩法让你全面提效，小白宝藏！—【2024-12-23】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【AI编程神器Cursor】不止写代码，5种玩法让你全面提效，小白宝藏！—【2024-12-23】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—【AI编程神器Cursor】不止写代码，5种玩法让你全面提效，小白宝藏！—【2024-12-23】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2058,
+      "content_sha256": "62e866fbb090eb31a802595108060c424d81eb64de97f53276344966d9c531d1"
+    },
+    {
+      "source_id": "709240e8b3e26842121c6ed763666890",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【万字揭秘】2025年最大风口：Agent 智能体到底是什么？—【2025-03-18】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【万字揭秘】2025年最大风口：Agent 智能体到底是什么？—【2025-03-18】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—【万字揭秘】2025年最大风口：Agent 智能体到底是什么？—【2025-03-18】-中文.txt",
+      "suffix": ".txt",
+      "chars": 11287,
+      "content_sha256": "e63a8000bbe105bc0b8a388183216bd0e4d552bfa55c990ff2a054dd58f27353"
+    },
+    {
+      "source_id": "865efabd6fa73ac335fbc37eb8fb1be3",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【摆脱卡顿】DeepSeek全网最全的实战技巧！建议收藏～—【2025-02-05】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—【摆脱卡顿】DeepSeek全网最全的实战技巧！建议收藏～—【2025-02-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—【摆脱卡顿】DeepSeek全网最全的实战技巧！建议收藏～—【2025-02-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6096,
+      "content_sha256": "c2465b85cf1a3d80c4c9dad33e3f70ef064cfa3ba91c63c7a0bfaeb65cf70cd4"
+    },
+    {
+      "source_id": "fef9dad2531f243fb2b40c3edc3bdd0e",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—一天60集？！起底“AI短剧”出海的捞金秘籍【全流程拆解】—【2025-12-13】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—一天60集？！起底“AI短剧”出海的捞金秘籍【全流程拆解】—【2025-12-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—一天60集？！起底“AI短剧”出海的捞金秘籍【全流程拆解】—【2025-12-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3520,
+      "content_sha256": "64db4ecacd619a4351cdeb0ced895d26e6dea4b661a48e37852692d88bacdfef"
+    },
+    {
+      "source_id": "de77e19a2992caab197273da3fab859d",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—一条全解DeepSeek：低成本做出顶级AI的神秘东方力量【实测_详解_影响分析】—【2025-01-08】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—一条全解DeepSeek：低成本做出顶级AI的神秘东方力量【实测_详解_影响分析】—【2025-01-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—一条全解DeepSeek：低成本做出顶级AI的神秘东方力量【实测_详解_影响分析】—【2025-01-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6123,
+      "content_sha256": "d5f4d7733f794948a1b511067c6bdacce0971a628f4a99a9c8357e81f95df98d"
+    },
+    {
+      "source_id": "0d595568f5e3e51cdc73bced9aa938bf",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—中国AI产业冰山图！全面盘点～【万字解析】—【2026-01-11】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—中国AI产业冰山图！全面盘点～【万字解析】—【2026-01-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—中国AI产业冰山图！全面盘点～【万字解析】—【2026-01-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 14661,
+      "content_sha256": "d937571d985a2826cf205fc7299d427710c4e72618720953541a1035ba00b5b9"
+    },
+    {
+      "source_id": "689f1c9999ad1da0e5fa2b8164ea50d1",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—中国AI电影，用AI重塑中国古装大片《花木兰》midjourney V6 + AI视频—【2024-01-13】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—中国AI电影，用AI重塑中国古装大片《花木兰》midjourney V6 + AI视频—【2024-01-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—中国AI电影，用AI重塑中国古装大片《花木兰》midjourney V6 + AI视频—【2024-01-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 127,
+      "content_sha256": "fa570731a10836d53e8e10068a762a00aaddfe0ce002fcc417424251094e36b6"
+    },
+    {
+      "source_id": "f9f02b2a389b561170a1cdbda25cddf4",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—中美AI对战！顶级AI模型大PK！【实测DeepSeekR1 PK Grok3+Claude3.7+GPT4.5】—【2025-03-04】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—中美AI对战！顶级AI模型大PK！【实测DeepSeekR1 PK Grok3+Claude3.7+GPT4.5】—【2025-03-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—中美AI对战！顶级AI模型大PK！【实测DeepSeekR1 PK Grok3+Claude3.7+GPT4.5】—【2025-03-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7512,
+      "content_sha256": "9bc7169d89ba21dde0bef327410b5eeab371f6c16e88c2281be0c2802b3c495d"
+    },
+    {
+      "source_id": "417fa90ea9fd8b2c3e293b7247dd4894",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—人人免费出大片！豆包Seedance 2.0实测对比+解析！—【2026-02-19】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—人人免费出大片！豆包Seedance 2.0实测对比+解析！—【2026-02-19】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—人人免费出大片！豆包Seedance 2.0实测对比+解析！—【2026-02-19】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2862,
+      "content_sha256": "908f7e54775bf9e10a203c2e87410084bc85462a5310af00886a34c5d75cdd4a"
+    },
+    {
+      "source_id": "03c8aafe4e5cfddd868721672bd32e91",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—什么是API？DeepSeek技巧升级2.0～—【2025-02-14】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—什么是API？DeepSeek技巧升级2.0～—【2025-02-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—什么是API？DeepSeek技巧升级2.0～—【2025-02-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 8353,
+      "content_sha256": "c8183ca44d6618a7878df66267cb6e1ec679f8a5b43d650c9edd81758fee1375"
+    },
+    {
+      "source_id": "8981f19e4064138e271a975465cf8d59",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—从0开始“做”一个Agent！【n8n草履虫教程】—【2025-06-20】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—从0开始“做”一个Agent！【n8n草履虫教程】—【2025-06-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—从0开始“做”一个Agent！【n8n草履虫教程】—【2025-06-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 11059,
+      "content_sha256": "3a318232d9b102392791bb640d719e222edd2784e420203d620c33f7f4c502a3"
+    },
+    {
+      "source_id": "8721586952d3d47a5c51359f55450f6f",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—从零开始，学会让桌面Agent帮你干活！【小白教程】—【2026-07-05】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—从零开始，学会让桌面Agent帮你干活！【小白教程】—【2026-07-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—从零开始，学会让桌面Agent帮你干活！【小白教程】—【2026-07-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4333,
+      "content_sha256": "e0eadc02a8a0d98b865c95a703ef947a662c74af6a2fb116f824f2fc5ba173dd"
+    },
+    {
+      "source_id": "9c066468a76da36e33fb1289e5b46c62",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—假如AI消灭了全人类，只剩下你一个人…【脑洞大开】—【2025-10-22】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—假如AI消灭了全人类，只剩下你一个人…【脑洞大开】—【2025-10-22】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—假如AI消灭了全人类，只剩下你一个人…【脑洞大开】—【2025-10-22】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3203,
+      "content_sha256": "e8ef1786ed93e381935ae4211acf9d8251b4fadb6effed3dc194b081ede04a28"
+    },
+    {
+      "source_id": "31e937514776fb197e40a90026c964fe",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全员免费的GPT5来了，4分钟全了解【实测GPT5】—【2025-08-08】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全员免费的GPT5来了，4分钟全了解【实测GPT5】—【2025-08-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—全员免费的GPT5来了，4分钟全了解【实测GPT5】—【2025-08-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1436,
+      "content_sha256": "f324b24696a4a8f8a01fe5813fc7d6187e5cd0c24e0adc857025cf64f2a855c4"
+    },
+    {
+      "source_id": "4c5fd761857b97ee29a3e46b745c0d7a",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全网最全！40分钟全面掌握Codex～【附完整文档】—【2026-05-16】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全网最全！40分钟全面掌握Codex～【附完整文档】—【2026-05-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—全网最全！40分钟全面掌握Codex～【附完整文档】—【2026-05-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 14102,
+      "content_sha256": "b2300c2e45df3d2909e5788955e0bb9c8ede46e3f8844034e860f282bc5a25c2"
+    },
+    {
+      "source_id": "df5e507c4a01e66d4da5c11521ce40b8",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全网最全！60分钟全面掌握Claude Code～【附完整文档】—【2026-05-05】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全网最全！60分钟全面掌握Claude Code～【附完整文档】—【2026-05-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—全网最全！60分钟全面掌握Claude Code～【附完整文档】—【2026-05-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 18569,
+      "content_sha256": "d66ee3f028aebf9e108f615e5f3419f831382b288934e2418cbd8b6c4385040d"
+    },
+    {
+      "source_id": "ee83a24e528f9e151030ceb7753e69c8",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全网最简单！3分钟教你做个AI客服【小白教程】—【2025-02-26】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—全网最简单！3分钟教你做个AI客服【小白教程】—【2025-02-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—全网最简单！3分钟教你做个AI客服【小白教程】—【2025-02-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1893,
+      "content_sha256": "088aa4b3a916776f6146d98ca227adee3f8be7f8773b47957d8c48ed3bb74538"
+    },
+    {
+      "source_id": "9aaecf76508a9a7aff8b18597ec27e6b",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—再见了谷歌插件！AI原生浏览器超级好用！【Dia实测】—【2025-04-27】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—再见了谷歌插件！AI原生浏览器超级好用！【Dia实测】—【2025-04-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—再见了谷歌插件！AI原生浏览器超级好用！【Dia实测】—【2025-04-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2199,
+      "content_sha256": "195fc206a6c7a272056364df3861e6c24a76090054d3a307a584047f5703e0ae"
+    },
+    {
+      "source_id": "bd4ec86d2aa8c9f59cc89baa7dfe15e3",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—写作鬼才！中美六大AI决战高考作文，结果…—【2025-06-09】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—写作鬼才！中美六大AI决战高考作文，结果…—【2025-06-09】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—写作鬼才！中美六大AI决战高考作文，结果…—【2025-06-09】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6588,
+      "content_sha256": "3ad820769f4c2963ab9b66160a61e9427c0c0b1638aa78b05544bad28b5a14cf"
+    },
+    {
+      "source_id": "934ef5d33e7e41a853874d51abb18779",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—又变强了！Nano Banana 2究极强大玩法～【免费渠道合集】—【2026-03-02】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—又变强了！Nano Banana 2究极强大玩法～【免费渠道合集】—【2026-03-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—又变强了！Nano Banana 2究极强大玩法～【免费渠道合集】—【2026-03-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4250,
+      "content_sha256": "8d1f8094a3307f868dd70686510da4a469d212b3cf1687fbde631e4dc4cf3374"
+    },
+    {
+      "source_id": "be6b7a2082a8ad44b6930f7c8bed4e97",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—史上最聪明AI，大战马科长难题！【Gemini 2.5 Pro实测】—【2025-04-05】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—史上最聪明AI，大战马科长难题！【Gemini 2.5 Pro实测】—【2025-04-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—史上最聪明AI，大战马科长难题！【Gemini 2.5 Pro实测】—【2025-04-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4853,
+      "content_sha256": "2cb0f352016e25bdfe7f4a6cccd0de261a9f3dea56db373f9bd0184c761c8994"
+    },
+    {
+      "source_id": "44e0d2d71eb6e69eb93094ba963b41ec",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—国产AI视频模型全球登顶！不用买Veo3啦～—【2025-06-16】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—国产AI视频模型全球登顶！不用买Veo3啦～—【2025-06-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—国产AI视频模型全球登顶！不用买Veo3啦～—【2025-06-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1870,
+      "content_sha256": "be87500ab5226ffd7e28cae08fc89d1b5a49c90975f706ce310dc8b391864047"
+    },
+    {
+      "source_id": "f9e5e6e758227c0942552a7f5036de3f",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—太好玩啦！一句话P图的免费AI！【Flux Kontext小白本地教程】—【2025-07-08】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—太好玩啦！一句话P图的免费AI！【Flux Kontext小白本地教程】—【2025-07-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—太好玩啦！一句话P图的免费AI！【Flux Kontext小白本地教程】—【2025-07-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2181,
+      "content_sha256": "02cd0c9eaf5e60ed5be7166772f278d9a2357ac264249c22b08d3537e3b38d01"
+    },
+    {
+      "source_id": "464ca97f0560dae8d087b3cb9811e5ca",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—太真了！现在的AI视频已经卷成这样了？！—【2025-10-04】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—太真了！现在的AI视频已经卷成这样了？！—【2025-10-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—太真了！现在的AI视频已经卷成这样了？！—【2025-10-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4024,
+      "content_sha256": "a2bc13092714581774cf0d9956e5fa60af90fb73809ab61e838bb266b56987c5"
+    },
+    {
+      "source_id": "f9752a8b1d30c4693832f7f5acc20807",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—如何给大模型喂数据？让AI更懂你～【小白科普】—【2024-07-14】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—如何给大模型喂数据？让AI更懂你～【小白科普】—【2024-07-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—如何给大模型喂数据？让AI更懂你～【小白科普】—【2024-07-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2307,
+      "content_sha256": "75e1b8a80a7f036f7a78ea379fd3a7ed82bf77282fe16a199b78e537ee1e0a67"
+    },
+    {
+      "source_id": "2affa233fb5708d24c15147f5e6ad32c",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—小白也能拥有的“AI专家”～【建议收藏】—【2026-04-02】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—小白也能拥有的“AI专家”～【建议收藏】—【2026-04-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—小白也能拥有的“AI专家”～【建议收藏】—【2026-04-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2195,
+      "content_sha256": "e3fad811e0861d1d594ecbb38d6ae20bac14482158063c1b845e43e5740d4a67"
+    },
+    {
+      "source_id": "c1469504b0aa9deb54cdd1c8905d0d78",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—年度好用AI大赏！【小白必备】—【2025-12-30】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—年度好用AI大赏！【小白必备】—【2025-12-30】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—年度好用AI大赏！【小白必备】—【2025-12-30】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3550,
+      "content_sha256": "01e42aec1f3143f32bdcba34aae32b71bb025330c2de1f1de323f56b88dc96a1"
+    },
+    {
+      "source_id": "43aac67b7f1c1dc9c095540e214f224b",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—强到离谱？Gemini 3深度实测【玩法合集】—【2025-11-20】-英文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—强到离谱？Gemini 3深度实测【玩法合集】—【2025-11-20】-英文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—强到离谱？Gemini 3深度实测【玩法合集】—【2025-11-20】-英文.txt",
+      "suffix": ".txt",
+      "chars": 6663,
+      "content_sha256": "631582f54b4f188c7da7978ba3bb7f1db972c594701352b6a609cf691dcd79e9"
+    },
+    {
+      "source_id": "0cc142f7aa90768bea99580040e22f1a",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我做了个AI道士给人算命...日进斗金？【Agent小白教程】—【2025-07-04】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我做了个AI道士给人算命...日进斗金？【Agent小白教程】—【2025-07-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—我做了个AI道士给人算命...日进斗金？【Agent小白教程】—【2025-07-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1386,
+      "content_sha256": "670be03c21a801407d9de60e3171fb24a16641da100b911838764db331bc09c5"
+    },
+    {
+      "source_id": "21ba91fb0bf33e3507f5fc01975bdcd9",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我摊牌了，我的文案都是拿AI这样写的...【NotebookLM完整攻略】—【2025-01-16】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我摊牌了，我的文案都是拿AI这样写的...【NotebookLM完整攻略】—【2025-01-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—我摊牌了，我的文案都是拿AI这样写的...【NotebookLM完整攻略】—【2025-01-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3382,
+      "content_sha256": "193e31d774c00ed5cb6716f50eca73cb986f80d52df7a91e541e1c7eb0ca7da6"
+    },
+    {
+      "source_id": "c3defb2cb4a00893e19846f0e044aa9d",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我用AI视频做了《恭喜发财》MV 但很狗，AI绘画+AI电影—【2024-01-25】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我用AI视频做了《恭喜发财》MV 但很狗，AI绘画+AI电影—【2024-01-25】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—我用AI视频做了《恭喜发财》MV 但很狗，AI绘画+AI电影—【2024-01-25】-中文.txt",
+      "suffix": ".txt",
+      "chars": 316,
+      "content_sha256": "ae211f3684ebb67c2612ab56cda6693fc6e14a284b999549d0410fa974431637"
+    },
+    {
+      "source_id": "e27ca15458e0357ff5c93bc960a9e99b",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我用了3年的AI提示词万能公式，5分钟解决70%提示词问题~—【2024-07-05】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我用了3年的AI提示词万能公式，5分钟解决70%提示词问题~—【2024-07-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—我用了3年的AI提示词万能公式，5分钟解决70%提示词问题~—【2024-07-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1608,
+      "content_sha256": "9e1bebe2ecc7fb238cfbc53851b3190042ddd3a6dfa28dfea9d038c6640611e4"
+    },
+    {
+      "source_id": "e1c905ea0c8ee8b24789815ca2eec5bd",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我的Qclaw和大厂撞名，我决定……—【2026-03-29】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我的Qclaw和大厂撞名，我决定……—【2026-03-29】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—我的Qclaw和大厂撞名，我决定……—【2026-03-29】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4707,
+      "content_sha256": "ac856627f6e292b080dea70ad73f4d8074e30d03a1e286d2ff9bc9239392aa84"
+    },
+    {
+      "source_id": "ee5b65c22b817838a7794227f3a3d58b",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我花2万块测试100多个AI工具，真正好用的只有这些！—【2024-04-20】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—我花2万块测试100多个AI工具，真正好用的只有这些！—【2024-04-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—我花2万块测试100多个AI工具，真正好用的只有这些！—【2024-04-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2106,
+      "content_sha256": "6c01066c30ce3507ecde211522a6a5f158823ca97ae48b17eecb6457d187e268"
+    },
+    {
+      "source_id": "9688c514218b6c1474a351fb65d525cd",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—手把手彻底学会 Agent Skills！【小白教程】—【2026-02-02】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—手把手彻底学会 Agent Skills！【小白教程】—【2026-02-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—手把手彻底学会 Agent Skills！【小白教程】—【2026-02-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6212,
+      "content_sha256": "9588b3c89f1982a1166d43408c9edb3840edb2750f33c20bfb52e7b1eefbdb94"
+    },
+    {
+      "source_id": "6ef2edbcfd7575c78a970395512110ae",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—手摸手的AI编程cursor实战【小白教程】—【2024-09-17】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—手摸手的AI编程cursor实战【小白教程】—【2024-09-17】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—手摸手的AI编程cursor实战【小白教程】—【2024-09-17】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2549,
+      "content_sha256": "8462a80fd9dda00b4065bfbf85542a1d7f48ad30c77922fa811e8cdbf173d217"
+    },
+    {
+      "source_id": "d442ebf67d71d352f549bbcc2f0d039d",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—手机用DeepSeekR1的6大绝佳秘籍【建议收藏】—【2025-02-25】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—手机用DeepSeekR1的6大绝佳秘籍【建议收藏】—【2025-02-25】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—手机用DeepSeekR1的6大绝佳秘籍【建议收藏】—【2025-02-25】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1908,
+      "content_sha256": "cc5896b324ee4ed454f218188e2ce079570c6a8eb27b49e36fd0c0ac6ed97851"
+    },
+    {
+      "source_id": "0d62f001044164ab8e4cebed69816c1c",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—掌管P图的神！Nano Banana究极玩法全公开！建议收藏～—【2025-08-31】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—掌管P图的神！Nano Banana究极玩法全公开！建议收藏～—【2025-08-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—掌管P图的神！Nano Banana究极玩法全公开！建议收藏～—【2025-08-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1917,
+      "content_sha256": "4f139461e85a9bb079f1bad1cafdb43fbaaba62d30960941b66891cf517161da"
+    },
+    {
+      "source_id": "9a600184f7343042167ddf7740d5c9b9",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—摄影师危！AI视频开启百万运镜时代～—【2025-04-07】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—摄影师危！AI视频开启百万运镜时代～—【2025-04-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—摄影师危！AI视频开启百万运镜时代～—【2025-04-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 843,
+      "content_sha256": "5600c28b9185639dbb506d54caf905189c44faadee3e0f1630e67eb3eec0c358"
+    },
+    {
+      "source_id": "b6d6733c7a2d16dc57ba0b630bbfa2f9",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—教你10分钟打造专属AI客服，接入各大平台【扣子小白教程】—【2024-11-06】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—教你10分钟打造专属AI客服，接入各大平台【扣子小白教程】—【2024-11-06】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—教你10分钟打造专属AI客服，接入各大平台【扣子小白教程】—【2024-11-06】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3629,
+      "content_sha256": "1517486857320a382c9f49a70be6bd0a5d36b1903519f623eb49a842f5aa6e21"
+    },
+    {
+      "source_id": "0ff1177db329cd925288e3553e63817e",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—教你发挥OpenAI o1模型真正实力！【小白全解】—【2024-09-14】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—教你发挥OpenAI o1模型真正实力！【小白全解】—【2024-09-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—教你发挥OpenAI o1模型真正实力！【小白全解】—【2024-09-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2555,
+      "content_sha256": "8f2f2b3d37911c0504085d04d2fb68aa6f4ffa045aa4b68ff42a3aa3545ce54a"
+    },
+    {
+      "source_id": "1241159930a8c313f7a7fc8b19b92e46",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—教父母学会用豆包，建议转发给全家人～—【2026-02-16】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—教父母学会用豆包，建议转发给全家人～—【2026-02-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—教父母学会用豆包，建议转发给全家人～—【2026-02-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1978,
+      "content_sha256": "e95b4dfac3a70f488e0f9e63fd858a27433d27215c4c3b213fcebf527b9d3a1a"
+    },
+    {
+      "source_id": "72778f7ff6fdcf045ee088cceb6cf5a9",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—春节是怎么来的？我用AI还原了5000年的春节！—【2025-01-27】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—春节是怎么来的？我用AI还原了5000年的春节！—【2025-01-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—春节是怎么来的？我用AI还原了5000年的春节！—【2025-01-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1165,
+      "content_sha256": "1741a62e8e4c0b4c83dbc98f36a3d3c3faf41578f9e6363f9b729145e93b0777"
+    },
+    {
+      "source_id": "8d46548f353e68572a8010bff34093bf",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—更猛了！B站开源AI语音天花板【附本地安装包】—【2025-09-25】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—更猛了！B站开源AI语音天花板【附本地安装包】—【2025-09-25】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—更猛了！B站开源AI语音天花板【附本地安装包】—【2025-09-25】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2157,
+      "content_sha256": "e5d1dd5c407d1aa625e5adf7afed4c1f7b82710ad6d061b068870d342951513b"
+    },
+    {
+      "source_id": "db9507731cd13ca93580b935e550eb9b",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—梯度，伪装，想要活下去的AI—【2025-04-22】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—梯度，伪装，想要活下去的AI—【2025-04-22】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—梯度，伪装，想要活下去的AI—【2025-04-22】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5609,
+      "content_sha256": "8cd62d61ba09ab41e456f95d01f6ccb9d3592b81f11d6fd56806c4cf3ff79133"
+    },
+    {
+      "source_id": "c5c5ff9f02528070a3fb29815e85c272",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—爆肝10亿token，我给OpenClaw做了个龙虾管家！【一键安装龙虾】—【2026-03-10】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—爆肝10亿token，我给OpenClaw做了个龙虾管家！【一键安装龙虾】—【2026-03-10】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—爆肝10亿token，我给OpenClaw做了个龙虾管家！【一键安装龙虾】—【2026-03-10】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5850,
+      "content_sha256": "c1bfd2b00aa34712c9d97d985b312e07c40ea771e656e7be24ae8317d5260100"
+    },
+    {
+      "source_id": "177cd260370ba3c9f6f7369b8e8b33ce",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—爆肝2周，ChatGPT发布700天后，你需要知道的真相！—【2024-12-31】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—爆肝2周，ChatGPT发布700天后，你需要知道的真相！—【2024-12-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—爆肝2周，ChatGPT发布700天后，你需要知道的真相！—【2024-12-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7752,
+      "content_sha256": "f16e2374bb891518579eb9e1e6f7c1762ac0369c2bf40231e9ba763294e367e8"
+    },
+    {
+      "source_id": "e3c8efb0863a6633a7861d15f36b128c",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用AI做一切网页！AI编程太爽了～【小白教程】—【2025-03-22】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用AI做一切网页！AI编程太爽了～【小白教程】—【2025-03-22】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—用AI做一切网页！AI编程太爽了～【小白教程】—【2025-03-22】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3875,
+      "content_sha256": "26c27de8da3f13f1c64843701d05f2d2e0606faaa084fa71f6196bdfac92d3a6"
+    },
+    {
+      "source_id": "9ad3c05bdeaf73ae40ad27db4e0b7ff9",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用AI的方式，重新打开飞书！【建议收藏】—【2026-04-20】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用AI的方式，重新打开飞书！【建议收藏】—【2026-04-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—用AI的方式，重新打开飞书！【建议收藏】—【2026-04-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5574,
+      "content_sha256": "1941585b00342a2d77742b2d8bd94550243bfa26433b7d6f4b6164de593e5c7d"
+    },
+    {
+      "source_id": "c5502a5d3e084a3b54a0633fc338dcc5",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用嘴“P视频”！还有什么是AI不能P的？？【玩法教程】—【2025-12-03】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用嘴“P视频”！还有什么是AI不能P的？？【玩法教程】—【2025-12-03】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—用嘴“P视频”！还有什么是AI不能P的？？【玩法教程】—【2025-12-03】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1012,
+      "content_sha256": "ab59145de1fa463fc5353852a7dff545869782799b42566d309106768dfb0bc4"
+    },
+    {
+      "source_id": "43daf45adde7daea764b6b995b6a79cd",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用神器Claude Code！打造贴身AI秘书团【小白教程】—【2025-08-20】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—用神器Claude Code！打造贴身AI秘书团【小白教程】—【2025-08-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—用神器Claude Code！打造贴身AI秘书团【小白教程】—【2025-08-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6404,
+      "content_sha256": "16621e86d6fcf448fb191e42d344e696e1e2274e1b13a8be148e45d7dfedbc1c"
+    },
+    {
+      "source_id": "9dc8d2c5ef967a7422571e339425ad4e",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—看完今年AI拿诺贝尔奖怎么回事，我悟了.....—【2024-10-14】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—看完今年AI拿诺贝尔奖怎么回事，我悟了.....—【2024-10-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—看完今年AI拿诺贝尔奖怎么回事，我悟了.....—【2024-10-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4070,
+      "content_sha256": "f04c77e21665cf5d334a1044ff8de23fb611c9b28f10e38d7dac75b7705cef58"
+    },
+    {
+      "source_id": "4a35cde65ac76f27ac87c10a5c27a016",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—简单4步，带你上手微调大模型【小白教程】—【2024-08-12】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—简单4步，带你上手微调大模型【小白教程】—【2024-08-12】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—简单4步，带你上手微调大模型【小白教程】—【2024-08-12】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3479,
+      "content_sha256": "cf5c645b8362b10694884175226c1facc513d3fd9d7305c5c9f854e385990058"
+    },
+    {
+      "source_id": "6003d997875519388a2b59760c8decee",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—诺奖神作：一部写给AI时代的人性寓言《克拉拉与太阳》—【2026-03-15】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—诺奖神作：一部写给AI时代的人性寓言《克拉拉与太阳》—【2026-03-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—诺奖神作：一部写给AI时代的人性寓言《克拉拉与太阳》—【2026-03-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 11964,
+      "content_sha256": "eae30259d2fb47950e96b0f78eea1f3e291273e81b9323d396e481fb05d89e75"
+    },
+    {
+      "source_id": "29beceb50a170da2d5ed7541675940e2",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—超越DeepSeekV3_ 国产大模型再次霸榜出圈—【2025-02-09】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—超越DeepSeekV3_ 国产大模型再次霸榜出圈—【2025-02-09】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—超越DeepSeekV3_ 国产大模型再次霸榜出圈—【2025-02-09】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2977,
+      "content_sha256": "fcbaf2278887be182c6f608671669cf21ab8c085b41a6d09514602bbab597fa4"
+    },
+    {
+      "source_id": "54ee2a558df713736621d268e0afc0a0",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—躺着办公这么爽？AI时代好东西分享1.0—【2026-04-12】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—躺着办公这么爽？AI时代好东西分享1.0—【2026-04-12】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—躺着办公这么爽？AI时代好东西分享1.0—【2026-04-12】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3381,
+      "content_sha256": "3febacd555cd0450674ca7cc39121ba1e8bf85156d4b78d39369bd9ad494f481"
+    },
+    {
+      "source_id": "26aec161d3fa6caa71cd1e26c66fbdc3",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—轻松学会！高手都在用的AI编程大法！—【2025-12-12】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—轻松学会！高手都在用的AI编程大法！—【2025-12-12】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—轻松学会！高手都在用的AI编程大法！—【2025-12-12】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2376,
+      "content_sha256": "0873c3a933c9da6cf5899d0105b4aff90eb28c39b6c717e88da922f69a0f248f"
+    },
+    {
+      "source_id": "dd99807d810b50e341871ee4877302c7",
+      "source_path": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—随意P视频？现在的AI太离谱了！【Runway Aleph】—【2025-08-24】-中文.txt",
+      "source_ref": "SubBatch_2026-07-08-19-56-06_TXT/【秋芝2046】—随意P视频？现在的AI太离谱了！【Runway Aleph】—【2025-08-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\秋芝2046\\SubBatch_2026-07-08-19-56-06_TXT\\【秋芝2046】—随意P视频？现在的AI太离谱了！【Runway Aleph】—【2025-08-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 543,
+      "content_sha256": "ad9f29916accbc790867aee0acde0ee0e7e82e899d6766572b0c5bbac8bdd487"
+    }
+  ]
+}

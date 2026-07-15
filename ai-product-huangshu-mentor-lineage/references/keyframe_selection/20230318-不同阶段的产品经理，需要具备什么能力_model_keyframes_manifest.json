@@ -1,0 +1,19 @@
+{
+  "media": "20230318-不同阶段的产品经理，需要具备什么能力",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230318-不同阶段的产品经理，需要具备什么能力.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230318-不同阶段的产品经理，需要具备什么能力",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230318-不同阶段的产品经理，需要具备什么能力",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain slide, board, document, UI, diagram, table, formula, demo, or visual state changes that materially advance the teaching content. Both frames show the lecturer with minimal visual artifacts and are duplicates in structure with only slight subtitle differences, failing to meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230318-不同阶段的产品经理，需要具备什么能力\\20230318-不同阶段的产品经理，需要具备什么能力_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

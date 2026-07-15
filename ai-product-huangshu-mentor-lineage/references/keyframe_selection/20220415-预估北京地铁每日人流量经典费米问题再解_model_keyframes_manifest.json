@@ -1,0 +1,19 @@
+{
+  "media": "20220415-预估北京地铁每日人流量经典费米问题再解",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220415-预估北京地铁每日人流量经典费米问题再解.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220415-预估北京地铁每日人流量经典费米问题再解",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220415-预估北京地铁每日人流量经典费米问题再解",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "Both frames show the lecturer speaking with a whiteboard in the background containing handwritten notes, but the content is not fully clear or sufficiently distinct to qualify as a key teaching artifact under the selection criteria. No material visual state changes, complete diagrams, or unique formulas are visible. The frames are also not clearer than nearby frames and do not meet the threshold for evidence preservation.",
+      "sheet": "keyframe_selection\\sheets\\20220415-预估北京地铁每日人流量经典费米问题再解\\20220415-预估北京地铁每日人流量经典费米问题再解_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

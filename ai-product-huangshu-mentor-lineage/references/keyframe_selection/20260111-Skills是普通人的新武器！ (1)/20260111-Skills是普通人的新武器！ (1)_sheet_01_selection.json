@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Clear visual of the teaching slide introducing the topic with key points like '现象' and 'Skills是什么?', providing context for the course.",
+      "keywords": [
+        "slide",
+        "introduction",
+        "key points"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20260111-Skills是普通人的新武器！ (1)\\20260111-Skills是普通人的新武器！ (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

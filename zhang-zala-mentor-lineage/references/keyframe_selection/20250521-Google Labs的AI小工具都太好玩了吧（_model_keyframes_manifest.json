@@ -1,0 +1,49 @@
+{
+  "media": "20250521-Google Labs的AI小工具都太好玩了吧（",
+  "video_path": "D:\\视频下载\\张咋啦\\20250521-Google Labs的AI小工具都太好玩了吧（.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250521-Google Labs的AI小工具都太好玩了吧（",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250521-Google Labs的AI小工具都太好玩了吧（",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete UI state of an interactive music learning application, showing a mood-based selection interface with labeled stickers (e.g., 'Kalimba', 'Swing', 'Piano'), a central visual artifact (portrait with 'harp_contemplative_harp' label), and control elements (Score, Miser, play/pause). It represents a teachable moment on mood-based music selection and demonstrates the application's functionality. The visual clarity and completeness make it ideal for distillation.",
+      "keywords": [
+        "UI",
+        "music selection",
+        "interactive demo",
+        "mood-based",
+        "harp",
+        "application"
+      ],
+      "candidate_source": "keyframe_candidates\\20250521-Google Labs的AI小工具都太好玩了吧（\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250521-Google Labs的AI小工具都太好玩了吧（\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame captures a complete UI state of an interactive music learning application, showing a mood-based selection interface with labeled stickers (e.g., 'Kalimba', 'Swing', 'Piano'), a central visual artifact (portrait with 'harp_contemplative_harp' label), and control elements (Score, Miser, play/pause). It represents a teachable moment on mood-based music selection and demonstrates the application's functionality. The visual clarity and completeness make it ideal for distillation.",
+          "keywords": [
+            "UI",
+            "music selection",
+            "interactive demo",
+            "mood-based",
+            "harp",
+            "application"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for evaluation. This contact sheet contains only one frame, which meets the selection criteria as a complete, clear, and information-rich visual state from the course demo.",
+      "sheet": "keyframe_selection\\sheets\\20250521-Google Labs的AI小工具都太好玩了吧（\\20250521-Google Labs的AI小工具都太好玩了吧（_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

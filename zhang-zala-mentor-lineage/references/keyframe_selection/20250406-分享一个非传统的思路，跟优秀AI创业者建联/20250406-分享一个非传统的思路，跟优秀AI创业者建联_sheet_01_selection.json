@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete teaching slide with a clear, structured methodology for networking with AI startups, including numbered steps and a highlighted question prompting deeper engagement. The content is textual, well-organized, and serves as a key conceptual artifact for course distillation.",
+      "keywords": [
+        "networking",
+        "AI startups",
+        "methodology",
+        "teaching slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were available for evaluation. This is the only frame in the contact sheet, and it meets all selection criteria: it contains a clear teaching artifact (slide), is complete and unobstructed, and provides source-backed content for review or verification.",
+  "sheet": "keyframe_selection\\sheets\\20250406-分享一个非传统的思路，跟优秀AI创业者建联\\20250406-分享一个非传统的思路，跟优秀AI创业者建联_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

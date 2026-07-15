@@ -1,0 +1,49 @@
+{
+  "media": "20250927-名校也无法教你AI，学力比学历更重要",
+  "video_path": "D:\\视频下载\\张咋啦\\20250927-名校也无法教你AI，学力比学历更重要.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250927-名校也无法教你AI，学力比学历更重要",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250927-名校也无法教你AI，学力比学历更重要",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a clear teaching slide listing key personal qualities for the AI era, including bulleted points with Chinese text and English terms like 'Agency' and 'Distribution'. The slide is fully visible, legible, and forms a foundational concept being taught. Additionally, the on-screen text and UI elements provide context for the lecture topic.",
+      "keywords": [
+        "slide",
+        "AI era",
+        "personal qualities",
+        "Agency",
+        "Distribution",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20250927-名校也无法教你AI，学力比学历更重要\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250927-名校也无法教你AI，学力比学历更重要\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains a clear teaching slide listing key personal qualities for the AI era, including bulleted points with Chinese text and English terms like 'Agency' and 'Distribution'. The slide is fully visible, legible, and forms a foundational concept being taught. Additionally, the on-screen text and UI elements provide context for the lecture topic.",
+          "keywords": [
+            "slide",
+            "AI era",
+            "personal qualities",
+            "Agency",
+            "Distribution",
+            "teaching artifact"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames provided for evaluation. All frames not shown were assumed to be dropped due to lack of visible content, being duplicate, or lacking material teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20250927-名校也无法教你AI，学力比学历更重要\\20250927-名校也无法教你AI，学力比学历更重要_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

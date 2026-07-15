@@ -1,0 +1,19 @@
+{
+  "media": "20250702-两年积累7万粉丝，就靠这两个字",
+  "video_path": "D:\\视频下载\\张咋啦\\20250702-两年积累7万粉丝，就靠这两个字.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250702-两年积累7万粉丝，就靠这两个字",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250702-两年积累7万粉丝，就靠这两个字",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame shows a social media profile page with a lecturer overlay and no teaching artifact such as slides, diagrams, or code. It contains no educational content relevant to course distillation and is primarily lecturer-only with no visual material for review or verification.",
+      "sheet": "keyframe_selection\\sheets\\20250702-两年积累7万粉丝，就靠这两个字\\20250702-两年积累7万粉丝，就靠这两个字_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

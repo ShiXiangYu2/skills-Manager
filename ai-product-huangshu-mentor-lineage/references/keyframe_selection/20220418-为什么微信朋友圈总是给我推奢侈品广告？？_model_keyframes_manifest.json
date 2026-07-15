@@ -1,0 +1,19 @@
+{
+  "media": "20220418-为什么微信朋友圈总是给我推奢侈品广告？？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220418-为什么微信朋友圈总是给我推奢侈品广告？？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220418-为什么微信朋友圈总是给我推奢侈品广告？？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220418-为什么微信朋友圈总是给我推奢侈品广告？？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain valuable teaching artifacts such as slides, diagrams, or formulas. All frames show the lecturer speaking with no clear visual state changes or teaching content.",
+      "sheet": "keyframe_selection\\sheets\\20220418-为什么微信朋友圈总是给我推奢侈品广告？？\\20220418-为什么微信朋友圈总是给我推奢侈品广告？？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20260211-做产品和做内容的共通点：人类行为预测系统",
+  "video_path": "D:\\视频下载\\张咋啦\\20260211-做产品和做内容的共通点：人类行为预测系统.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260211-做产品和做内容的共通点：人类行为预测系统",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260211-做产品和做内容的共通点：人类行为预测系统",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames depict a conversational setup with no visible slides, diagrams, UI, formulas, or teaching artifacts. The scene is dominated by the lecturers and their environment, without any material changes or visual content relevant for course distillation. No frames meet the criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20260211-做产品和做内容的共通点：人类行为预测系统\\20260211-做产品和做内容的共通点：人类行为预测系统_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

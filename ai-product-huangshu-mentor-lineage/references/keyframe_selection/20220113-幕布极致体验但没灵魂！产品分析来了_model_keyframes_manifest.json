@@ -1,0 +1,19 @@
+{
+  "media": "20220113-幕布极致体验但没灵魂！产品分析来了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220113-幕布极致体验但没灵魂！产品分析来了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220113-幕布极致体验但没灵魂！产品分析来了",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220113-幕布极致体验但没灵魂！产品分析来了",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain materially significant teaching artifacts (slides, diagrams, UI, etc.) that meet the selection criteria. Both frames show the lecturer speaking with a whiteboard and lack clear, complete, or changing visual teaching content useful for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20220113-幕布极致体验但没灵魂！产品分析来了\\20220113-幕布极致体验但没灵魂！产品分析来了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

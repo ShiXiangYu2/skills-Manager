@@ -1,0 +1,19 @@
+{
+  "media": "20240217-OpenAI发布Sora模型后，还有什么是不变的",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20240217-OpenAI发布Sora模型后，还有什么是不变的.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20240217-OpenAI发布Sora模型后，还有什么是不变的",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20240217-OpenAI发布Sora模型后，还有什么是不变的",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain visual teaching artifacts (slides, diagrams, UI, formulas, etc.) or significant visual state changes. Both frames show the lecturer speaking with on-screen text that is not a teaching artifact, and no frame meets the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20240217-OpenAI发布Sora模型后，还有什么是不变的\\20240217-OpenAI发布Sora模型后，还有什么是不变的_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

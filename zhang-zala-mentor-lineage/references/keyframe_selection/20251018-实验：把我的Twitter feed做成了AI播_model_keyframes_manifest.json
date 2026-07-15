@@ -1,0 +1,19 @@
+{
+  "media": "20251018-实验：把我的Twitter feed做成了AI播",
+  "video_path": "D:\\视频下载\\张咋啦\\20251018-实验：把我的Twitter feed做成了AI播.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20251018-实验：把我的Twitter feed做成了AI播",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251018-实验：把我的Twitter feed做成了AI播",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are text-only on black backgrounds without any visual teaching artifacts, diagrams, slides, or demonstrative content. They lack material value for course distillation, source-backed review, or verification as they do not represent slides, UI, formulas, or visual state changes. They appear to be transitional or motivational text overlays without instructional substance.",
+      "sheet": "keyframe_selection\\sheets\\20251018-实验：把我的Twitter feed做成了AI播\\20251018-实验：把我的Twitter feed做成了AI播_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

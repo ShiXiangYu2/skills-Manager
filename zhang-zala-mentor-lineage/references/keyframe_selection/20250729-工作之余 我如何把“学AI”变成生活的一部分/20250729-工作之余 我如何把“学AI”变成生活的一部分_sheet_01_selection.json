@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete teaching diagram with a key question in Chinese about persisting with AI learning, and a mind map branches ('Build something' → 'Build a product', 'Build an audience'). It is a clear, structured visual artifact for course distillation, supporting source-backed explanation and review.",
+      "keywords": [
+        "mind map",
+        "AI learning",
+        "teaching diagram",
+        "build product",
+        "build audience"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. This single frame contains a complete, informative teaching artifact and was selected based on the criteria.",
+  "sheet": "keyframe_selection\\sheets\\20250729-工作之余 我如何把“学AI”变成生活的一部分\\20250729-工作之余 我如何把“学AI”变成生活的一部分_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

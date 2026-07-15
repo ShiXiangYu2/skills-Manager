@@ -1,0 +1,93 @@
+{
+  "media": "20220315-《幕后产品》神书深度解读别再收藏书单了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220315-《幕后产品》神书深度解读别再收藏书单了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220315-《幕后产品》神书深度解读别再收藏书单了",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20220315-《幕后产品》神书深度解读别再收藏书单了",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the initial state of the whiteboard with clear, complete teaching content including the title and key structure points. This frame serves as a reference point for the lesson's framework.",
+      "keywords": [
+        "whiteboard",
+        "slide",
+        "structure",
+        "intro"
+      ],
+      "candidate_source": "keyframe_candidates\\20220315-《幕后产品》神书深度解读别再收藏书单了\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220315-《幕后产品》神书深度解读别再收藏书单了\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a key explanatory point with the speaker gesturing towards the whiteboard. The content is clear, and this frame captures a moment of active teaching and visual emphasis.",
+      "keywords": [
+        "demo",
+        "explanation",
+        "gesturing",
+        "teaching"
+      ],
+      "candidate_source": "keyframe_candidates\\20220315-《幕后产品》神书深度解读别再收藏书单了\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20220315-《幕后产品》神书深度解读别再收藏书单了\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Captures the speaker's expressive gesture with the whiteboard content still visible. This frame maintains the teaching artifact for context and shows a clear visual state change during explanation.",
+      "keywords": [
+        "visual",
+        "state_change",
+        "expression",
+        "teaching"
+      ],
+      "candidate_source": "keyframe_candidates\\20220315-《幕后产品》神书深度解读别再收藏书单了\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20220315-《幕后产品》神书深度解读别再收藏书单了\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures the initial state of the whiteboard with clear, complete teaching content including the title and key structure points. This frame serves as a reference point for the lesson's framework.",
+          "keywords": [
+            "whiteboard",
+            "slide",
+            "structure",
+            "intro"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a key explanatory point with the speaker gesturing towards the whiteboard. The content is clear, and this frame captures a moment of active teaching and visual emphasis.",
+          "keywords": [
+            "demo",
+            "explanation",
+            "gesturing",
+            "teaching"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04",
+          "reason": "Captures the speaker's expressive gesture with the whiteboard content still visible. This frame maintains the teaching artifact for context and shows a clear visual state change during explanation.",
+          "keywords": [
+            "visual",
+            "state_change",
+            "expression",
+            "teaching"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were evaluated as containing significant teaching artifacts. The frames are consecutive and cover the same whiteboard content with minimal change, making them redundant for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20220315-《幕后产品》神书深度解读别再收藏书单了\\20220315-《幕后产品》神书深度解读别再收藏书单了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

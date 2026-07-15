@@ -1,0 +1,87 @@
+{
+  "media": "BV14r421F7Nr",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV14r421F7Nr\\20240617-微信里拥抱AI最成功的，居然是他们的微信输入法.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 6,
+  "candidate_dir": "keyframe_candidates\\BV14r421F7Nr",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\BV14r421F7Nr",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear screen capture of a document related to '微信输入法' (WeChat Input Method) with a visible interface and text, indicating the start of a demonstration. Useful for explaining the context of the feature being discussed.",
+      "keywords": [
+        "WeChat Input Method",
+        "demo",
+        "document"
+      ],
+      "candidate_source": "keyframe_candidates\\BV14r421F7Nr\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV14r421F7Nr\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a split screen with text discussion about Chat GPT and code-like content, indicating a specific example or demonstration. This frame captures a technical point being explained, making it valuable for source-backed review.",
+      "keywords": [
+        "Chat GPT",
+        "demo",
+        "technical explanation"
+      ],
+      "candidate_source": "keyframe_candidates\\BV14r421F7Nr\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV14r421F7Nr\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Shows a document titled '论充足理性原则的四...' with a visible portion of text and the label '直接划线', suggesting a demonstration of a feature (e.g., highlighting or text selection). The artifact is clear and contextually relevant.",
+      "keywords": [
+        "document",
+        "text selection",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\BV14r421F7Nr\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\BV14r421F7Nr\\frame_0004.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a clear screen capture of a document related to '微信输入法' (WeChat Input Method) with a visible interface and text, indicating the start of a demonstration. Useful for explaining the context of the feature being discussed.",
+          "keywords": [
+            "WeChat Input Method",
+            "demo",
+            "document"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "02:00",
+          "reason": "Displays a split screen with text discussion about Chat GPT and code-like content, indicating a specific example or demonstration. This frame captures a technical point being explained, making it valuable for source-backed review.",
+          "keywords": [
+            "Chat GPT",
+            "demo",
+            "technical explanation"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "03:00",
+          "reason": "Shows a document titled '论充足理性原则的四...' with a visible portion of text and the label '直接划线', suggesting a demonstration of a feature (e.g., highlighting or text selection). The artifact is clear and contextually relevant.",
+          "keywords": [
+            "document",
+            "text selection",
+            "demo"
+          ]
+        }
+      ],
+      "dropped_summary": "Frames 0002, 0005, and 0006 show only the lecturer speaking with no visible material, slide, or UI artifact. They are lecturer-only and lack visual information for distillation. Frame 0001 and 0003/0004 are selected as they contain clear, material teaching artifacts (demo screens and documents) that support explanation and verification.",
+      "sheet": "keyframe_selection\\sheets\\BV14r421F7Nr\\BV14r421F7Nr_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

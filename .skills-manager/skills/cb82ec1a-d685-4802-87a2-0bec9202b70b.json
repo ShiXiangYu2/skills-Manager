@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb82ec1a-d685-4802-87a2-0bec9202b70b",
+  "path": "shuzishengming-kazike",
+  "path_key": "shuzishengming-kazike",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a clear teaching artifact: a hierarchical structure (行业 > 公司 > 职能) presented as a slide, which likely introduces a core concept for career or organizational structure. The text is sharp and complete, making it ideal for source-backed explanation and review.",
+      "keywords": [
+        "hierarchy",
+        "career structure",
+        "slide",
+        "organization"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. If this were a contact sheet with multiple frames, frames showing only the lecturer, blank screens, low-information content, or duplicates would be dropped based on criteria.",
+  "sheet": "keyframe_selection\\sheets\\20250720-文科商科背景想转AI行业，应该做什么职能？\\20250720-文科商科背景想转AI行业，应该做什么职能？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

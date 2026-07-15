@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Intro frame with title and speaker introduction, establishes the topic and presenter context.",
+      "keywords": [
+        "intro",
+        "title",
+        "speaker"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames not visible in input were likely lecturer-only or low-information frames, as only one frame is provided.",
+  "sheet": "keyframe_selection\\sheets\\20230329-高德地图像爸爸,百度地图像男朋友,你选哪个\\20230329-高德地图像爸爸,百度地图像男朋友,你选哪个_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

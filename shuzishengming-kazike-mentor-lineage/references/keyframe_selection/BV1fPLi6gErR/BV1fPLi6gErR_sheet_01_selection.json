@@ -1,0 +1,40 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a structured teaching diagram with key AI interaction stages (信息收集, 信息初筛) and flow logic, providing a clear visual framework for the topic.",
+      "keywords": [
+        "diagram",
+        "AI interaction",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a concrete UI example (social media post) used in the AI demo, illustrating the type of content being analyzed, which is essential for source-backed explanation.",
+      "keywords": [
+        "UI",
+        "demo",
+        "example",
+        "social media"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "04:00",
+      "reason": "Presents a UI with highlighted AI features (精确, 高效筛选, 分类清晰, 质量严筛选) and numerical filter result (76), capturing the outcome of a process for verification and review.",
+      "keywords": [
+        "UI",
+        "feature list",
+        "filter result",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "Frame 0000 is lecturer-only with low visual information. Frame 0001 is a duplicate/low-info transition. Frame 0004 shows a generic office scene without teaching artifacts. Frame 0006 is an unrelated bedroom demo with no clear educational content, lacking timecoding relevance to the video's core topic.",
+  "sheet": "keyframe_selection\\sheets\\BV1fPLi6gErR\\BV1fPLi6gErR_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

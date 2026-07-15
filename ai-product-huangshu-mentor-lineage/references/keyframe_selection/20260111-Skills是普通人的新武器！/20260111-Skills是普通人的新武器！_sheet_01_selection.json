@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the core concept of 'Skills: 非技术人员的新武器' and presents the key visual contrast: '30人AI编程聚会, 0程序员' vs '30人AI编程聚会, 0程序员' with '2周' vs '0周' time savings, establishing the central argument.",
+      "keywords": [
+        "concept_intro",
+        "visual_contrast",
+        "key_message"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows the completed slide, highlighting the core conclusion: '本质 = 给AI装技能包' and '你可以非常快的就做出...'. This frame is clearer and contains the final, most impactful teaching artifact for the viewer.",
+      "keywords": [
+        "conclusion",
+        "key_message",
+        "visual_slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20260111-Skills是普通人的新武器！\\20260111-Skills是普通人的新武器！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

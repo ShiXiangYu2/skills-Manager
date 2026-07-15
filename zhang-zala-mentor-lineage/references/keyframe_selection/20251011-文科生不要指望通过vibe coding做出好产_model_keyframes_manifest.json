@@ -1,0 +1,47 @@
+{
+  "media": "20251011-文科生不要指望通过vibe coding做出好产",
+  "video_path": "D:\\视频下载\\张咋啦\\20251011-文科生不要指望通过vibe coding做出好产.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251011-文科生不要指望通过vibe coding做出好产",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251011-文科生不要指望通过vibe coding做出好产",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a complete slide summarizing key points about 'vibe coding' for non-technical individuals, including clear bullet points and a small image for context. It is a core teaching artifact with high information density and serves as a foundational reference for the course topic.",
+      "keywords": [
+        "vibe coding",
+        "non-technical",
+        "product prototype",
+        "learning AI",
+        "teaching slide"
+      ],
+      "candidate_source": "keyframe_candidates\\20251011-文科生不要指望通过vibe coding做出好产\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251011-文科生不要指望通过vibe coding做出好产\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame displays a complete slide summarizing key points about 'vibe coding' for non-technical individuals, including clear bullet points and a small image for context. It is a core teaching artifact with high information density and serves as a foundational reference for the course topic.",
+          "keywords": [
+            "vibe coding",
+            "non-technical",
+            "product prototype",
+            "learning AI",
+            "teaching slide"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided in the contact sheet for evaluation. This single frame meets all selection criteria as it contains a complete, structured teaching artifact with clear, material content suitable for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20251011-文科生不要指望通过vibe coding做出好产\\20251011-文科生不要指望通过vibe coding做出好产_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

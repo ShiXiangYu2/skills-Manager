@@ -1,0 +1,32 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame presents the core concept and purpose of the video essay format, including key characteristics like no lights, no effects, and simple editing. It serves as a complete teaching artifact explaining the video's methodology and is essential for understanding the overall context.",
+      "keywords": [
+        "video essay",
+        "format",
+        "methodology",
+        "no effects",
+        "simple editing"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "This frame shows a clear screenshot of the Excalidraw interface with specific new features listed in Chinese, such as Chinese UI support, content persistence, and export functionality. It captures a complete, structured teaching artifact explaining a tool's capabilities, which is critical for course distillation.",
+      "keywords": [
+        "Excalidraw",
+        "features",
+        "Chinese UI",
+        "export",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were either not visible or could not be assessed due to the image being cut off. Only two frames are fully visible and contain valuable teaching artifacts. The selection adheres to criteria by prioritizing complete, structured visual content with clear educational value over non-visual or low-information content.",
+  "sheet": "keyframe_selection\\sheets\\20260217-我为什么录这种白板视频（含手把手教程）\\20260217-我为什么录这种白板视频（含手把手教程）_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

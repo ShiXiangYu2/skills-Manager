@@ -1,0 +1,19 @@
+{
+  "media": "20230302-高效办公哪家强？ 飞书、钉钉、企微",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230302-高效办公哪家强？ 飞书、钉钉、企微.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230302-高效办公哪家强？ 飞书、钉钉、企微",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230302-高效办公哪家强？ 飞书、钉钉、企微",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is an intro/outro screen with only text overlay and no visual teaching artifact or demonstrative content. It does not meet criteria for preserving as evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20230302-高效办公哪家强？ 飞书、钉钉、企微\\20230302-高效办公哪家强？ 飞书、钉钉、企微_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

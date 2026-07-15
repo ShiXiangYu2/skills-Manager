@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear line chart showing customer acquisition cost trend, which is a core teaching artifact.",
+      "keywords": [
+        "chart",
+        "customer acquisition cost",
+        "trend"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames either show the same chart in different states or lack distinct teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20230216-拼多多大揭㊙️越来越多年轻人离不开它了？\\20230216-拼多多大揭㊙️越来越多年轻人离不开它了？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

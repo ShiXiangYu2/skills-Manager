@@ -1,0 +1,7 @@
+{
+  "selected": [],
+  "dropped_summary": "All frames are either lecturer-only (frame_0001.jpg, frame_0004.jpg) or contain blurred/low-information UI (frame_0002.jpg, frame_0003.jpg) with no clear teaching artifacts or visual state changes. None meet the selection criteria.",
+  "sheet": "keyframe_selection\\sheets\\20221214-产品经理必备大杀器：一招解决产品实践\\20221214-产品经理必备大杀器：一招解决产品实践_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

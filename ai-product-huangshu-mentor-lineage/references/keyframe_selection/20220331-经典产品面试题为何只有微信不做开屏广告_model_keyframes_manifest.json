@@ -1,0 +1,45 @@
+{
+  "media": "20220331-经典产品面试题为何只有微信不做开屏广告",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220331-经典产品面试题为何只有微信不做开屏广告.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20220331-经典产品面试题为何只有微信不做开屏广告",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20220331-经典产品面试题为何只有微信不做开屏广告",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a complete whiteboard with key teaching artifacts including the core question, interview strategy outline, product hierarchy, and the important formula at the bottom. This frame serves as a foundational visual for understanding the entire lesson.",
+      "keywords": [
+        "whiteboard",
+        "formula",
+        "product_hierarch",
+        "interview_strategy"
+      ],
+      "candidate_source": "keyframe_candidates\\20220331-经典产品面试题为何只有微信不做开屏广告\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220331-经典产品面试题为何只有微信不做开屏广告\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures a complete whiteboard with key teaching artifacts including the core question, interview strategy outline, product hierarchy, and the important formula at the bottom. This frame serves as a foundational visual for understanding the entire lesson.",
+          "keywords": [
+            "whiteboard",
+            "formula",
+            "product_hierarch",
+            "interview_strategy"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for evaluation. This frame is the only one available and meets all selection criteria as it contains critical teaching content.",
+      "sheet": "keyframe_selection\\sheets\\20220331-经典产品面试题为何只有微信不做开屏广告\\20220331-经典产品面试题为何只有微信不做开屏广告_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+/* ============================================================
+   夜读深空（dark · 护眼夜读）
+   深墨背景 + 暖白文字 + 柔金点缀。--ink/--white 在深色下
+   反相；因 --white 被 base.html 复用为「卡片底」+「落在 ink
+   上的反相文字」，深色会撞车，故用 [data-theme="dark"] 局部
+   覆盖 selected tab / tooltip / toast / 卡片底等反相处。
+   ============================================================ */
+:root {
+  --ink: #ece1cf;          /* 浅文字 */
+  --muted: #a89a86;
+  --paper: #221d18;        /* 对话框底 */
+  --paper-deep: #2a241e;
+  --line: #3a3128;
+  --red: #e07a66;
+  --blue: #7fb0c4;
+  --green: #9bbf8e;
+  --gold: #d9a441;
+  --white: #fffaf0;        /* 保留近白：用于 accent 上的反相文字 */
+  --shadow: 0 18px 50px rgba(0, 0, 0, .4);
+
+  --font-body: "Songti SC", "Noto Serif CJK SC", Georgia, serif;
+  --font-display: "PingFang SC", "Microsoft YaHei", sans-serif;
+  --bg: radial-gradient(circle at 22% 12%, rgba(194, 135, 45, .08), transparent 28rem),
+        linear-gradient(135deg, #1a1714 0%, #221d18 100%);
+  --surface: rgba(58, 49, 40, .45);
+  --surface-strong: rgba(58, 49, 40, .6);
+  --bar-bg: rgba(34, 29, 24, .95);
+  --ink-soft: #d8ccb8;
+  --ink-soft-2: #c9bca6;
+  --tint-accent: rgba(217, 164, 65, .14);
+  --tint-accent-strong: rgba(217, 164, 65, .18);
+}
+
+/* —— 反相处：原「浅文字落在 ink(浅) 上」会不可读，改为深底浅字 —— */
+[data-theme="dark"] .tab[aria-selected="true"] { background: #0f0d0b; }      /* 深底 + --white 浅字 */
+[data-theme="dark"] .dd-toast { background: #0f0d0b; }                       /* 深底 + --white 浅字 */
+[data-theme="dark"] [data-source]::after { background: #ece1cf; color: #1a1714; } /* 浅底 + 深字 tooltip */
+
+/* —— 卡片底：var(--white) 近白在深底上过亮刺眼，改用深色抬升表面 —— */
+[data-theme="dark"] .chain button,
+[data-theme="dark"] .city-buttons button,
+[data-theme="dark"] .concept-btn,
+[data-theme="dark"] .deep-dive-btn { background: var(--surface-strong); }
+
+/* 输入框保留近白底，深底对话框上更清晰可输入（不覆盖） */

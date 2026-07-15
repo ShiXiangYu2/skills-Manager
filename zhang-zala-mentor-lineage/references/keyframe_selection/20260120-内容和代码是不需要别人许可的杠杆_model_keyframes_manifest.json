@@ -1,0 +1,19 @@
+{
+  "media": "20260120-内容和代码是不需要别人许可的杠杆",
+  "video_path": "D:\\视频下载\\张咋啦\\20260120-内容和代码是不需要别人许可的杠杆.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260120-内容和代码是不需要别人许可的杠杆",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260120-内容和代码是不需要别人许可的杠杆",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible teaching artifacts such as slides, diagrams, or documents. The frames contain no visual content that supports source-backed explanation, review, or verification, and therefore do not meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260120-内容和代码是不需要别人许可的杠杆\\20260120-内容和代码是不需要别人许可的杠杆_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

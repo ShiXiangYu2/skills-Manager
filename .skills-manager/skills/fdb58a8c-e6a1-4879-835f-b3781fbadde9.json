@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fdb58a8c-e6a1-4879-835f-b3781fbadde9",
+  "path": "mcp-builder",
+  "path_key": "mcp-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

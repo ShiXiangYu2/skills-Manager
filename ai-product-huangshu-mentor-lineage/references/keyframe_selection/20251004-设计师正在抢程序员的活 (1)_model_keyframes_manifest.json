@@ -1,0 +1,19 @@
+{
+  "media": "20251004-设计师正在抢程序员的活 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251004-设计师正在抢程序员的活 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251004-设计师正在抢程序员的活 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251004-设计师正在抢程序员的活 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visual teaching artifacts (slides, diagrams, UI, etc.) and contain only subtitles. No frames meet the criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20251004-设计师正在抢程序员的活 (1)\\20251004-设计师正在抢程序员的活 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

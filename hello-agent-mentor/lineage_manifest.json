@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.1",
+  "course_name": "hello-agent",
+  "skill_name": "hello-agent-mentor",
+  "roles": [
+    "mentor",
+    "expert"
+  ],
+  "modes": [
+    "mentor",
+    "expert"
+  ],
+  "scope": "single-course",
+  "evidence_strategy": "standard",
+  "progress_strategy": "tracked",
+  "source_dir": "D:\\AI编程\\项目开发\\lineage-skill-main\\lineage-skill-main\\.lineage\\courses\\hello-agent",
+  "generated_at": "2026-06-22T09:32:03",
+  "generated_by": {
+    "id": "lineage-skill",
+    "repository": "https://github.com/JuneYaooo/lineage-skill",
+    "script": "scripts/build_course_skill.py"
+  },
+  "provenance": {
+    "watermark": "lineage-skill:course-skill-builder:v0.1",
+    "watermark_visibility": "manifest-only",
+    "source_package": "D:\\AI编程\\项目开发\\lineage-skill-main\\lineage-skill-main\\.lineage\\courses\\hello-agent\\course_package.json",
+    "note": "This packaged course Skill was generated from course materials by lineage-skill."
+  },
+  "reference_status": {
+    "course_package.json": "copied",
+    "course_digest.md": "copied",
+    "full_transcript.md": "copied",
+    "concept_glossary.md": "derived",
+    "quote_index.md": "derived",
+    "study_paths.md": "derived",
+    "lesson_index.json": "stubbed",
+    "evidence_map.json": "generated",
+    "text_sources/": "copied",
+    "text_distillation/": "copied",
+    "mentor_playbook.md": "stubbed",
+    "mentor_sessions.md": "stubbed",
+    "learner_progress.json": "stubbed"
+  }
+}

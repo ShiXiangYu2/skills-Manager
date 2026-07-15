@@ -1,0 +1,20 @@
+{
+  "media": "20250307-Manus官方实操案例：写小说、研究超导、帮助太",
+  "video_path": "D:\\视频下载\\十页AI\\20250307-Manus官方实操案例：写小说、研究超导、帮助太.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 16,
+  "candidate_dir": "keyframe_candidates\\20250307-Manus官方实操案例：写小说、研究超导、帮助太",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250307-Manus官方实操案例：写小说、研究超导、帮助太",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "model returned non-json content",
+      "raw": "",
+      "sheet": "keyframe_selection\\sheets\\20250307-Manus官方实操案例：写小说、研究超导、帮助太\\20250307-Manus官方实操案例：写小说、研究超导、帮助太_sheet_01.jpg",
+      "success": false,
+      "error": "403 Client Error: Forbidden for url: https://api.siliconflow.cn/v1/chat/completions"
+    }
+  ]
+}

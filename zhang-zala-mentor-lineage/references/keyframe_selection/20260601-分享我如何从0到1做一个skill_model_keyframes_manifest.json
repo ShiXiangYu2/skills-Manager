@@ -1,0 +1,45 @@
+{
+  "media": "20260601-分享我如何从0到1做一个skill",
+  "video_path": "D:\\视频下载\\张咋啦\\20260601-分享我如何从0到1做一个skill.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260601-分享我如何从0到1做一个skill",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260601-分享我如何从0到1做一个skill",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame shows a complete slide with a structured, multi-step teaching artifact ('如何做一个skill') that outlines a clear process with four distinct boxes. It is visually organized, contains key text, and serves as a foundational reference for the topic. No nearby frames are available for comparison, but this is a complete, high-information visual state.",
+      "keywords": [
+        "slide",
+        "teaching artifact",
+        "structured process",
+        "skill development"
+      ],
+      "candidate_source": "keyframe_candidates\\20260601-分享我如何从0到1做一个skill\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260601-分享我如何从0到1做一个skill\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame shows a complete slide with a structured, multi-step teaching artifact ('如何做一个skill') that outlines a clear process with four distinct boxes. It is visually organized, contains key text, and serves as a foundational reference for the topic. No nearby frames are available for comparison, but this is a complete, high-information visual state.",
+          "keywords": [
+            "slide",
+            "teaching artifact",
+            "structured process",
+            "skill development"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames are provided in this contact sheet for comparison. This single frame is the only candidate and meets all criteria: it contains a clear, complete teaching artifact with structured visual information, useful for distillation, review, and verification.",
+      "sheet": "keyframe_selection\\sheets\\20260601-分享我如何从0到1做一个skill\\20260601-分享我如何从0到1做一个skill_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

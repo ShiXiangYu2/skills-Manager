@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b7ef998-c389-458d-a7db-2714e6e169e8",
+  "path": "sumeru-review",
+  "path_key": "sumeru-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a complete teaching diagram illustrating the concept that 'content and community are two sides of a coin,' with clear labels (内容/社区, 高质量内容, 关键人) and a structured visual flow. It includes a supporting image and text, making it a rich artifact for source-backed explanation and review.",
+      "keywords": [
+        "diagram",
+        "content",
+        "community",
+        "teaching artifact",
+        "concept visualization"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. This frame was selected as it contains a complete, clear, and informative teaching diagram with textual and visual components that are essential for course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20260422-我的粉丝可能是小红书上最好学的26万人\\20260422-我的粉丝可能是小红书上最好学的26万人_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

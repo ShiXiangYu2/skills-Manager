@@ -1,0 +1,45 @@
+{
+  "media": "20251215-Claude Code不止编程工具，Skill是",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251215-Claude Code不止编程工具，Skill是.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251215-Claude Code不止编程工具，Skill是",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251215-Claude Code不止编程工具，Skill是",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete slide with 3 practical case studies, including metrics and outcomes, serving as a key teaching artifact.",
+      "keywords": [
+        "slide",
+        "case study",
+        "diagram",
+        "formula"
+      ],
+      "candidate_source": "keyframe_candidates\\20251215-Claude Code不止编程工具，Skill是\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251215-Claude Code不止编程工具，Skill是\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear, complete slide with 3 practical case studies, including metrics and outcomes, serving as a key teaching artifact.",
+          "keywords": [
+            "slide",
+            "case study",
+            "diagram",
+            "formula"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for selection.",
+      "sheet": "keyframe_selection\\sheets\\20251215-Claude Code不止编程工具，Skill是\\20251215-Claude Code不止编程工具，Skill是_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

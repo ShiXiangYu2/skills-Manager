@@ -1,0 +1,51 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the initial state of the conversational voice demo, showing the first utterance 'my name is Mayan' with its Chinese translation and context. This frame establishes the baseline for the demonstration.",
+      "keywords": [
+        "demo",
+        "initial state",
+        "speech generation",
+        "translation"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a progression in the conversation with the utterance 'as long as you're willing to experiment and you have', indicating a key turning point in the dialogue. The Chinese translation is also visible, providing bilingual evidence.",
+      "keywords": [
+        "dialogue progression",
+        "speech generation",
+        "bilingual"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the utterance 'really getting the highest quality information', which represents a significant semantic shift towards the core goal of the demo. The Chinese translation reinforces the meaning.",
+      "keywords": [
+        "semantic shift",
+        "high quality",
+        "information",
+        "translation"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the culmination of the demo with the final utterance 'excellent so Claude it is for the birthday poem', demonstrating a complete conversational arc. The Chinese translation confirms the final output.",
+      "keywords": [
+        "conversational arc",
+        "completion",
+        "final output",
+        "translation"
+      ]
+    }
+  ],
+  "dropped_summary": "All frames are visually similar UI screenshots from a demo, but only the four selected frames capture distinct, meaningful utterances with clear progression and linguistic content. The others are duplicates or show intermediate states without new information. No lecturer-only, blank, or low-information frames present, but only these four exhibit material state changes relevant to course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20250305-跟AI一起录了一期播客😱\\20250305-跟AI一起录了一期播客😱_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

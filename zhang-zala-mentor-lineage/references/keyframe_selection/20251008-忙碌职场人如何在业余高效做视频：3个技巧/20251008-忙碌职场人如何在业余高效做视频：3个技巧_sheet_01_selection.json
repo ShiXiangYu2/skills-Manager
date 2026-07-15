@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame contains a complete title slide with key teaching points (长剪短, 重复, 降低仪式感) and a quantifiable outcome (35万播放), serving as a clear, source-backed summary of the video's core lesson.",
+      "keywords": [
+        "title slide",
+        "teaching points",
+        "video optimization",
+        "engagement metric"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible in the contact sheet to evaluate. Assuming the provided frame is the only one available, it meets all criteria for preservation as a key teaching artifact. There are no lecturer-only, blank, or low-information frames to drop.",
+  "sheet": "keyframe_selection\\sheets\\20251008-忙碌职场人如何在业余高效做视频：3个技巧\\20251008-忙碌职场人如何在业余高效做视频：3个技巧_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

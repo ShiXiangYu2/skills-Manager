@@ -1,0 +1,71 @@
+{
+  "media": "20220410-微信红包为何不能撤回？经典产品面试题㊙️",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220410-微信红包为何不能撤回？经典产品面试题㊙️.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220410-微信红包为何不能撤回？经典产品面试题㊙️",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20220410-微信红包为何不能撤回？经典产品面试题㊙️",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear graph illustrating the relationship between 'Psychological Value' and 'Benefit', which is a key teaching artifact. The graph is complete, legible, and visually explains a core concept.",
+      "keywords": [
+        "graph",
+        "psychological value",
+        "benefit",
+        "diagram"
+      ],
+      "candidate_source": "keyframe_candidates\\20220410-微信红包为何不能撤回？经典产品面试题㊙️\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220410-微信红包为何不能撤回？经典产品面试题㊙️\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a whiteboard with handwritten notes that are relevant to the lecture. It captures a key visual state change on the board as the speaker elaborates on the topic, including points about user experience and product design.",
+      "keywords": [
+        "whiteboard",
+        "handwritten notes",
+        "user experience",
+        "product design",
+        "visual state"
+      ],
+      "candidate_source": "keyframe_candidates\\20220410-微信红包为何不能撤回？经典产品面试题㊙️\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20220410-微信红包为何不能撤回？经典产品面试题㊙️\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear graph illustrating the relationship between 'Psychological Value' and 'Benefit', which is a key teaching artifact. The graph is complete, legible, and visually explains a core concept.",
+          "keywords": [
+            "graph",
+            "psychological value",
+            "benefit",
+            "diagram"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Shows a whiteboard with handwritten notes that are relevant to the lecture. It captures a key visual state change on the board as the speaker elaborates on the topic, including points about user experience and product design.",
+          "keywords": [
+            "whiteboard",
+            "handwritten notes",
+            "user experience",
+            "product design",
+            "visual state"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped as they either contain only the lecturer speaking (no teaching artifact), are blurred, or repeat information already captured in the selected frames.",
+      "sheet": "keyframe_selection\\sheets\\20220410-微信红包为何不能撤回？经典产品面试题㊙️\\20220410-微信红包为何不能撤回？经典产品面试题㊙️_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

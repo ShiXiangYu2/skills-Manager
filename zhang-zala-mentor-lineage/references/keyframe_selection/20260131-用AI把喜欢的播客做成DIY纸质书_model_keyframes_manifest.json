@@ -1,0 +1,69 @@
+{
+  "media": "20260131-用AI把喜欢的播客做成DIY纸质书",
+  "video_path": "D:\\视频下载\\张咋啦\\20260131-用AI把喜欢的播客做成DIY纸质书.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260131-用AI把喜欢的播客做成DIY纸质书",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260131-用AI把喜欢的播客做成DIY纸质书",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows an open book with a visible page title 'Acquisition Is All You Need' and a clear visual setup of the book 'Acquired', providing context for a teaching example about content repurposing. The text overlay explains the transition to a longer-form content format.",
+      "keywords": [
+        "book",
+        "Acquired",
+        "content repurposing",
+        "teaching example"
+      ],
+      "candidate_source": "keyframe_candidates\\20260131-用AI把喜欢的播客做成DIY纸质书\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260131-用AI把喜欢的播客做成DIY纸质书\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Continues the visual teaching artifact with the same book and text overlay, emphasizing the shift to '长内容' (long-form content). The frame is clearer and more focused on the document than the lecturer, supporting source-backed explanation.",
+      "keywords": [
+        "long-form content",
+        "book",
+        "Acquired",
+        "content strategy"
+      ],
+      "candidate_source": "keyframe_candidates\\20260131-用AI把喜欢的播客做成DIY纸质书\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260131-用AI把喜欢的播客做成DIY纸质书\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows an open book with a visible page title 'Acquisition Is All You Need' and a clear visual setup of the book 'Acquired', providing context for a teaching example about content repurposing. The text overlay explains the transition to a longer-form content format.",
+          "keywords": [
+            "book",
+            "Acquired",
+            "content repurposing",
+            "teaching example"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Continues the visual teaching artifact with the same book and text overlay, emphasizing the shift to '长内容' (long-form content). The frame is clearer and more focused on the document than the lecturer, supporting source-backed explanation.",
+          "keywords": [
+            "long-form content",
+            "book",
+            "Acquired",
+            "content strategy"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames are either duplicates, partially obscured, or contain only the lecturer's face with no visible teaching artifacts such as slides, documents, or diagrams. The visual content remains consistent across frames, and no new material is introduced. Thus, only the first two frames capture the key teaching artifact and are selected for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20260131-用AI把喜欢的播客做成DIY纸质书\\20260131-用AI把喜欢的播客做成DIY纸质书_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

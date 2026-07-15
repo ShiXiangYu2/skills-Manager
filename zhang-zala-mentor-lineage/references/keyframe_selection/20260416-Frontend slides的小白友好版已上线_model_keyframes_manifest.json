@@ -1,0 +1,47 @@
+{
+  "media": "20260416-Frontend slides的小白友好版已上线",
+  "video_path": "D:\\视频下载\\张咋啦\\20260416-Frontend slides的小白友好版已上线.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260416-Frontend slides的小白友好版已上线",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260416-Frontend slides的小白友好版已上线",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame shows the initial presentation slide with the title 'AnyGen 显做 Frontend Slides 的特点' and three key features with accompanying visuals, providing a clear teaching artifact for course distillation.",
+      "keywords": [
+        "slide",
+        "presentation",
+        "features",
+        "AnyGen",
+        "frontend"
+      ],
+      "candidate_source": "keyframe_candidates\\20260416-Frontend slides的小白友好版已上线\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260416-Frontend slides的小白友好版已上线\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame shows the initial presentation slide with the title 'AnyGen 显做 Frontend Slides 的特点' and three key features with accompanying visuals, providing a clear teaching artifact for course distillation.",
+          "keywords": [
+            "slide",
+            "presentation",
+            "features",
+            "AnyGen",
+            "frontend"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames provided for evaluation; only one frame available, which is a clear teaching artifact and thus selected.",
+      "sheet": "keyframe_selection\\sheets\\20260416-Frontend slides的小白友好版已上线\\20260416-Frontend slides的小白友好版已上线_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

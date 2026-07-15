@@ -1,0 +1,39 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a group discussion setup with visible participants, a table, and background posters; the frame contains clear visual teaching artifacts and text overlays explaining key features ('语义响应', '可编辑功能'), which are not present in surrounding frames.",
+      "keywords": [
+        "group discussion",
+        "UI text",
+        "teaching artifact",
+        "editing features"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:03",
+      "reason": "Continuation of the group discussion with updated text overlay '语义响应 可编辑功能', indicating a key feature explanation. The visual state change and clarity make it a useful source-backed frame for feature description.",
+      "keywords": [
+        "feature explanation",
+        "visual state change",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "00:04",
+      "reason": "Highlights a new teaching point with text overlay '很多大场面 多角色的一致性', which is a material concept for course distillation. The frame is clear and contains unique visual information not in earlier frames.",
+      "keywords": [
+        "multi-character consistency",
+        "visual teaching point",
+        "course concept"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg is an intro screen with no teaching content; frame_0002.jpg is lecturer-only with partial text overlay and no visual artifacts; frames beyond 00:05 are redundant or not included. Frames with low information, lecturer-only content, or without clear teaching artifacts were dropped.",
+  "sheet": "keyframe_selection\\sheets\\BV1BPZ7BdET2\\BV1BPZ7BdET2_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,45 @@
+{
+  "media": "20260430-学AI最好的方式：每天动手玩一小时",
+  "video_path": "D:\\视频下载\\张咋啦\\20260430-学AI最好的方式：每天动手玩一小时.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260430-学AI最好的方式：每天动手玩一小时",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20260430-学AI最好的方式：每天动手玩一小时",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame shows a clear teaching slide with a core message about learning AI: contrasting passive approaches (watching lectures, reading papers, following blogs) with active practice ('Get your hands dirty' with daily 1-hour practice). It is a complete, high-information artifact essential for course distillation.",
+      "keywords": [
+        "learning AI",
+        "hands-on practice",
+        "teaching slide",
+        "study method"
+      ],
+      "candidate_source": "keyframe_candidates\\20260430-学AI最好的方式：每天动手玩一小时\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260430-学AI最好的方式：每天动手玩一小时\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame shows a clear teaching slide with a core message about learning AI: contrasting passive approaches (watching lectures, reading papers, following blogs) with active practice ('Get your hands dirty' with daily 1-hour practice). It is a complete, high-information artifact essential for course distillation.",
+          "keywords": [
+            "learning AI",
+            "hands-on practice",
+            "teaching slide",
+            "study method"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames provided for evaluation. The single frame is retained as it contains a complete, high-value teaching artifact with actionable content, directly supporting course distillation and review.",
+      "sheet": "keyframe_selection\\sheets\\20260430-学AI最好的方式：每天动手玩一小时\\20260430-学AI最好的方式：每天动手玩一小时_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "media": "20250330-被一个小哥的找工作思路震撼到了",
+  "video_path": "D:\\视频下载\\张咋啦\\20250330-被一个小哥的找工作思路震撼到了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250330-被一个小哥的找工作思路震撼到了",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250330-被一个小哥的找工作思路震撼到了",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a social media post with key advice on job hunting, including actionable tips like 'show the demo in people's faces' and explaining skills simply. The highlighted text and subtitles provide source-backed content useful for course distillation on securing job opportunities.",
+      "keywords": [
+        "job hunting",
+        "demo",
+        "advice",
+        "social media",
+        "recruitment"
+      ],
+      "candidate_source": "keyframe_candidates\\20250330-被一个小哥的找工作思路震撼到了\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250330-被一个小哥的找工作思路震撼到了\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a social media post with key advice on job hunting, including actionable tips like 'show the demo in people's faces' and explaining skills simply. The highlighted text and subtitles provide source-backed content useful for course distillation on securing job opportunities.",
+          "keywords": [
+            "job hunting",
+            "demo",
+            "advice",
+            "social media",
+            "recruitment"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames were not provided, so no additional frames were evaluated for selection or dropping.",
+      "sheet": "keyframe_selection\\sheets\\20250330-被一个小哥的找工作思路震撼到了\\20250330-被一个小哥的找工作思路震撼到了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

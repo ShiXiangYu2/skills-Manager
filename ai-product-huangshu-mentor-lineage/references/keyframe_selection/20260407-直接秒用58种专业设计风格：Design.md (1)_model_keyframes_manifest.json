@@ -1,0 +1,19 @@
+{
+  "media": "20260407-直接秒用58种专业设计风格：Design.md (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260407-直接秒用58种专业设计风格：Design.md (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260407-直接秒用58种专业设计风格：Design.md (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260407-直接秒用58种专业设计风格：Design.md (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains a low-information presentation slide with only a small text element '就可以' and no clear instructional content, visual state change, or teaching artifact. It does not meet the selection criteria for being a keyframe.",
+      "sheet": "keyframe_selection\\sheets\\20260407-直接秒用58种专业设计风格：Design.md (1)\\20260407-直接秒用58种专业设计风格：Design.md (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

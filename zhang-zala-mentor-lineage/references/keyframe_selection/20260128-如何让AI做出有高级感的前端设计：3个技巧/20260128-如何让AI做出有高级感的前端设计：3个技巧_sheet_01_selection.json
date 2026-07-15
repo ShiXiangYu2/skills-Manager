@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete UI screenshot of a CTA button design tool, showing multiple button styles and Chinese annotations explaining the features. This is a clear, informative teaching artifact for demonstrating design options and their implementation.",
+      "keywords": [
+        "UI design",
+        "CTA buttons",
+        "design tool",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows the course title slide 'Frontend Slides' with a clear quote and Chinese subtitle, serving as an identifiable course introduction artifact. Useful for course verification and context setting.",
+      "keywords": [
+        "course title",
+        "intro slide",
+        "quote",
+        "frontend"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were not included as the provided contact sheet only contains two frames, and both meet the selection criteria. No additional frames are available for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20260128-如何让AI做出有高级感的前端设计：3个技巧\\20260128-如何让AI做出有高级感的前端设计：3个技巧_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

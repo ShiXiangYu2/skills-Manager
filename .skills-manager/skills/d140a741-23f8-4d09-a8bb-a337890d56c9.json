@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d140a741-23f8-4d09-a8bb-a337890d56c9",
+  "path": "sumeru-worldbuilder",
+  "path_key": "sumeru-worldbuilder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

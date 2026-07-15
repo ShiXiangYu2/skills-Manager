@@ -1,0 +1,82 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-08T21:29:09",
+  "course_name": "秋芝2046",
+  "source_dir": "D:\\视频下载\\秋芝2046\\秋芝2046",
+  "audit_mode": "auto",
+  "source_inventory": {
+    "transcripts": {
+      "count": 0,
+      "paths": []
+    },
+    "visual_analyses": {
+      "count": 0,
+      "paths": []
+    },
+    "screenshots": {
+      "count": 0,
+      "paths": []
+    },
+    "keyframe_manifests": {
+      "count": 0,
+      "paths": []
+    },
+    "model_selected_keyframes": {
+      "count": 0,
+      "paths": []
+    },
+    "documents": {
+      "count": 0,
+      "paths": []
+    },
+    "text_sources": {
+      "count": 2,
+      "paths": [
+        "text_sources\\chunks.jsonl",
+        "text_sources\\source_manifest.json"
+      ]
+    },
+    "text_distillation": {
+      "count": 4,
+      "paths": [
+        "text_distillation\\evidence_cards.jsonl",
+        "text_distillation\\source_summaries.json",
+        "text_distillation\\text_course_synthesis.md",
+        "text_distillation\\text_distillation_quality.json"
+      ]
+    },
+    "lesson_summaries": {
+      "count": 0,
+      "paths": []
+    },
+    "packages": {
+      "count": 0,
+      "paths": []
+    }
+  },
+  "coverage_summary": {
+    "expected_lessons": 0,
+    "available_transcripts": 0,
+    "available_visual_analyses": 0,
+    "available_document_groups": 0,
+    "available_text_sources": 116,
+    "available_evidence_cards": 59,
+    "missing_transcripts": 0,
+    "missing_visual_analyses": 0,
+    "unmatched_documents": 0
+  },
+  "cross_validation_summary": {
+    "multi_source_lessons": 0,
+    "transcript_only_lessons": 0,
+    "visual_only_lessons": 0,
+    "document_only_groups": 0,
+    "source_conflicts": 0,
+    "manual_review_required": 0,
+    "terminology_review_lessons": 0
+  },
+  "manual_review": [
+    "人工校对建议：请复核专业术语、专名、同音误识别、OCR 错字，以及转录与课件不一致处。",
+    "本报告为自动审计结果，不能替代对原始课程材料的人工核对。"
+  ],
+  "lessons": []
+}

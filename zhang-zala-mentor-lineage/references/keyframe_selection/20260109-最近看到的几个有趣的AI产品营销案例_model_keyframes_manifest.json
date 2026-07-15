@@ -1,0 +1,19 @@
+{
+  "media": "20260109-最近看到的几个有趣的AI产品营销案例",
+  "video_path": "D:\\视频下载\\张咋啦\\20260109-最近看到的几个有趣的AI产品营销案例.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260109-最近看到的几个有趣的AI产品营销案例",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260109-最近看到的几个有趣的AI产品营销案例",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show a speaker-only setup with no visible slides, documents, UI, diagrams, tables, formulas, or demonstrative visuals. The content is purely conversational with subtitles providing context, but no material teaching artifact is displayed. Frames are low-information and do not meet the criteria for preservation as evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260109-最近看到的几个有趣的AI产品营销案例\\20260109-最近看到的几个有趣的AI产品营销案例_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aadc0bb4-7dc7-4604-9399-08409ec2123d",
+  "path": "zhang-zala-mentor-lineage",
+  "path_key": "zhang-zala-mentor-lineage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

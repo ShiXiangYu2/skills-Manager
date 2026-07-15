@@ -1,0 +1,19 @@
+{
+  "media": "20250212-苹果放弃百度选阿里！背后3大内幕曝光 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250212-苹果放弃百度选阿里！背后3大内幕曝光 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250212-苹果放弃百度选阿里！背后3大内幕曝光 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250212-苹果放弃百度选阿里！背后3大内幕曝光 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (showing speaker) or low-information (blank screen, no teaching artifacts). No slide, board, document, UI, diagram, table, formula, demo, or visual state changes are present to meet selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20250212-苹果放弃百度选阿里！背后3大内幕曝光 (1)\\20250212-苹果放弃百度选阿里！背后3大内幕曝光 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

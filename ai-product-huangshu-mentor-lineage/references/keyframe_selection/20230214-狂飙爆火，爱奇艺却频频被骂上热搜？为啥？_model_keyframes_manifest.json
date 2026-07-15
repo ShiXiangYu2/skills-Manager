@@ -1,0 +1,19 @@
+{
+  "media": "20230214-狂飙爆火，爱奇艺却频频被骂上热搜？为啥？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230214-狂飙爆火，爱奇艺却频频被骂上热搜？为啥？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20230214-狂飙爆火，爱奇艺却频频被骂上热搜？为啥？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230214-狂飙爆火，爱奇艺却频频被骂上热搜？为啥？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain materially significant teaching artifacts like slides, boards, diagrams, or formulas. The content is primarily lecturer-focused with no clear visual state changes or teaching artifacts that meet the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230214-狂飙爆火，爱奇艺却频频被骂上热搜？为啥？\\20230214-狂飙爆火，爱奇艺却频频被骂上热搜？为啥？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd3b86e5-0094-4da2-b7f5-a5bb90ab0f58",
+  "path": "ai-product-huangshu-mentor-lineage",
+  "path_key": "ai-product-huangshu-mentor-lineage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20230127-面试最后一个必答题！这样回答瞬间加分！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230127-面试最后一个必答题！这样回答瞬间加分！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230127-面试最后一个必答题！这样回答瞬间加分！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230127-面试最后一个必答题！这样回答瞬间加分！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only the lecturer and on-screen text without any teaching artifacts (slides, diagrams, UI, etc.) and does not show any visual state changes or material teaching content. It is a speaker-only frame, which is excluded by selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230127-面试最后一个必答题！这样回答瞬间加分！\\20230127-面试最后一个必答题！这样回答瞬间加分！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

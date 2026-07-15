@@ -1,0 +1,65 @@
+{
+  "media": "20220131-蔚来神级产品设计2换电",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220131-蔚来神级产品设计2换电.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220131-蔚来神级产品设计2换电",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20220131-蔚来神级产品设计2换电",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a clear teaching artifact on the whiteboard with key text '神级产品设计(2)' and '产品介绍', plus an on-screen subtitle with quantitative data '已经实现了42%的蔚来车主的覆盖率', which is materially relevant to the course content.",
+      "keywords": [
+        "whiteboard",
+        "product_design",
+        "coverage_metrics"
+      ],
+      "candidate_source": "keyframe_candidates\\20220131-蔚来神级产品设计2换电\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20220131-蔚来神级产品设计2换电\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a clearer and more complete view of the whiteboard content, including the section '② 用户层面' and its bullet points, providing a more complete teaching artifact than the previous frame.",
+      "keywords": [
+        "whiteboard",
+        "user_level",
+        "product_features"
+      ],
+      "candidate_source": "keyframe_candidates\\20220131-蔚来神级产品设计2换电\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20220131-蔚来神级产品设计2换电\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures a clear teaching artifact on the whiteboard with key text '神级产品设计(2)' and '产品介绍', plus an on-screen subtitle with quantitative data '已经实现了42%的蔚来车主的覆盖率', which is materially relevant to the course content.",
+          "keywords": [
+            "whiteboard",
+            "product_design",
+            "coverage_metrics"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a clearer and more complete view of the whiteboard content, including the section '② 用户层面' and its bullet points, providing a more complete teaching artifact than the previous frame.",
+          "keywords": [
+            "whiteboard",
+            "user_level",
+            "product_features"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0003.jpg was dropped as it contains only a speaker overlay with promotional text, which does not meet the selection criteria for teaching artifacts or visual evidence.",
+      "sheet": "keyframe_selection\\sheets\\20220131-蔚来神级产品设计2换电\\20220131-蔚来神级产品设计2换电_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

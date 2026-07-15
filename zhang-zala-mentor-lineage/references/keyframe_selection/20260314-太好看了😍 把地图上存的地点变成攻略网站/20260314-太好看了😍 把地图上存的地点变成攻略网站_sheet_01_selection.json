@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the Google Takeout interface with a clear view of the selection options for data export, including checkboxes and progress indicators. This is a key UI state for explaining the data export process.",
+      "keywords": [
+        "Google Takeout",
+        "data export",
+        "UI",
+        "selection"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows the 'Sweets & Donuts' product page with visible product listings, pricing, and a clear visual state of the e-commerce interface. Useful for demonstrating UI navigation or product display.",
+      "keywords": [
+        "e-commerce",
+        "product page",
+        "UI",
+        "pricing"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible in the contact sheet. The provided frames both capture distinct, useful UI states for course distillation, so no frames were dropped.",
+  "sheet": "keyframe_selection\\sheets\\20260314-太好看了😍 把地图上存的地点变成攻略网站\\20260314-太好看了😍 把地图上存的地点变成攻略网站_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,69 @@
+{
+  "media": "20260213-绝大部分人低估了AI编程的发展速度",
+  "video_path": "D:\\视频下载\\张咋啦\\20260213-绝大部分人低估了AI编程的发展速度.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260213-绝大部分人低估了AI编程的发展速度",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260213-绝大部分人低估了AI编程的发展速度",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a structured timeline of the speaker's AI coding journey, highlighting key milestones and challenges over time, which serves as a foundational teaching artifact for course context.",
+      "keywords": [
+        "timeline",
+        "journey",
+        "AI coding",
+        "progress"
+      ],
+      "candidate_source": "keyframe_candidates\\20260213-绝大部分人低估了AI编程的发展速度\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260213-绝大部分人低估了AI编程的发展速度\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Presents actionable principles for effectively using AI, including advice on model selection, patience, and consistent practice, which are core instructional content.",
+      "keywords": [
+        "AI usage",
+        "principles",
+        "model",
+        "practice"
+      ],
+      "candidate_source": "keyframe_candidates\\20260213-绝大部分人低估了AI编程的发展速度\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260213-绝大部分人低估了AI编程的发展速度\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains a structured timeline of the speaker's AI coding journey, highlighting key milestones and challenges over time, which serves as a foundational teaching artifact for course context.",
+          "keywords": [
+            "timeline",
+            "journey",
+            "AI coding",
+            "progress"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Presents actionable principles for effectively using AI, including advice on model selection, patience, and consistent practice, which are core instructional content.",
+          "keywords": [
+            "AI usage",
+            "principles",
+            "model",
+            "practice"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames provided for evaluation beyond the two shown; both selected frames contain clear, structured, and substantial teaching content aligning with criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20260213-绝大部分人低估了AI编程的发展速度\\20260213-绝大部分人低估了AI编程的发展速度_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

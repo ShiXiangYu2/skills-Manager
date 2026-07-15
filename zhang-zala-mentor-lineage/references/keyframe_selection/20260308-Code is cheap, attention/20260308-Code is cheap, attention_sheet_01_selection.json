@@ -1,0 +1,68 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Introduces the core question of the lesson: how to capture attention without relying on labels or delivery, with clear bilingual text and a focused visual layout.",
+      "keywords": [
+        "attention",
+        "teaching artifact",
+        "question"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "Highlights the core concept '共时' (simultaneity) as the heart of content, with a clear visual hierarchy and concise bilingual text, essential for understanding the content framework.",
+      "keywords": [
+        "共时",
+        "content structure",
+        "key concept"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:00",
+      "reason": "Presents a structured 3-part framework (真实/真诚, 符合时代趋势, 长期耕耘) with distinct numbering and bilingual text, providing a comprehensive teaching artifact for content design.",
+      "keywords": [
+        "framework",
+        "structure",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:00",
+      "reason": "Features a clear Venn diagram illustrating the intersection of '你的定位' (your positioning) with '观众的', '主流媒体的', and '样的内容', with a highlighted overlap, offering a visual model for strategic content alignment.",
+      "keywords": [
+        "Venn diagram",
+        "strategic alignment",
+        "visual model"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a Venn diagram depicting the overlap between '自媒体作者' (self-media creator) and '用户/读者', with a key insight below about audience engagement, providing a core visual for the creator-audience relationship.",
+      "keywords": [
+        "creator-audience",
+        "Venn diagram",
+        "engagement"
+      ]
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a circular flow diagram with 3 stages ('有内容', '有感知的呈现', '形成联系'), illustrating a process model for building audience connection, a key teaching artifact for content strategy.",
+      "keywords": [
+        "flow diagram",
+        "content process",
+        "audience connection"
+      ]
+    }
+  ],
+  "dropped_summary": "Frames with only the lecturer or blank/low-information backgrounds were dropped. The selected frames capture complete, clear, and distinct teaching artifacts (diagrams, structured lists, key questions) essential for course distillation, while duplicates or partial views were excluded for clarity and efficiency.",
+  "sheet": "keyframe_selection\\sheets\\20260308-Code is cheap, attention\\20260308-Code is cheap, attention_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

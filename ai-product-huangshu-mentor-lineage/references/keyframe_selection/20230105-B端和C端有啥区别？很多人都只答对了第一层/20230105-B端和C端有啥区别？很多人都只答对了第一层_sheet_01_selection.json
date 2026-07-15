@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the core question being addressed and the initial whiteboard setup, providing context for the entire lesson.",
+      "keywords": [
+        "question",
+        "whiteboard",
+        "introduction"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for selection.",
+  "sheet": "keyframe_selection\\sheets\\20230105-B端和C端有啥区别？很多人都只答对了第一层\\20230105-B端和C端有啥区别？很多人都只答对了第一层_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

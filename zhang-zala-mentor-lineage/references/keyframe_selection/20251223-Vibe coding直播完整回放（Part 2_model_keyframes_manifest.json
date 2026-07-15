@@ -1,0 +1,19 @@
+{
+  "media": "20251223-Vibe coding直播完整回放（Part 2",
+  "video_path": "D:\\视频下载\\张咋啦\\20251223-Vibe coding直播完整回放（Part 2.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 21,
+  "candidate_dir": "keyframe_candidates\\20251223-Vibe coding直播完整回放（Part 2",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251223-Vibe coding直播完整回放（Part 2",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only shots with no visible slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes. The content appears to be a conversation without any visual teaching artifacts, making them unsuitable for course distillation under the given criteria.",
+      "sheet": "keyframe_selection\\sheets\\20251223-Vibe coding直播完整回放（Part 2\\20251223-Vibe coding直播完整回放（Part 2_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains a clear command instruction 'npx -y lark-channel-bridge@latest start' with context from a chat interface and demonstration of a session setup, essential for procedural guidance.",
+      "keywords": [
+        "command",
+        "setup",
+        "lark-channel-bridge",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a detailed UI state of a task management or collaboration platform with actionable fields and status indicators, providing context for task tracking and workflow.",
+      "keywords": [
+        "UI",
+        "task management",
+        "workflow",
+        "platform"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames not shown were likely low-information, duplicate, or lacked clear teaching artifacts such as commands, interfaces, or diagrams; these frames would not support source-backed explanation or verification.",
+  "sheet": "keyframe_selection\\sheets\\20260522-把Claude Code接入飞书，太爽了！教程+\\20260522-把Claude Code接入飞书，太爽了！教程+_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

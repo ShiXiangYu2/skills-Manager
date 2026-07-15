@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "825da8fb-4ef6-4da0-aa5d-1f8329248219",
+  "path": "sumeru-audit",
+  "path_key": "sumeru-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

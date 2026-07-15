@@ -1,0 +1,45 @@
+{
+  "media": "20250911-想开始做内容，但是担心自己不够专业？",
+  "video_path": "D:\\视频下载\\张咋啦\\20250911-想开始做内容，但是担心自己不够专业？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250911-想开始做内容，但是担心自己不够专业？",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250911-想开始做内容，但是担心自己不够专业？",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame presents a clear, structured list of core teaching principles (e.g., '仰望15度角', '口语化表达', '内容 > 形式') and a direct verbal anchor ('所以这就是我今天想讲的'), making it a foundational artifact for course distillation. It contains unique, high-value content not visible in adjacent frames.",
+      "keywords": [
+        "教学原则",
+        "内容导向",
+        "表达技巧",
+        "课程引言"
+      ],
+      "candidate_source": "keyframe_candidates\\20250911-想开始做内容，但是担心自己不够专业？\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250911-想开始做内容，但是担心自己不够专业？\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame presents a clear, structured list of core teaching principles (e.g., '仰望15度角', '口语化表达', '内容 > 形式') and a direct verbal anchor ('所以这就是我今天想讲的'), making it a foundational artifact for course distillation. It contains unique, high-value content not visible in adjacent frames.",
+          "keywords": [
+            "教学原则",
+            "内容导向",
+            "表达技巧",
+            "课程引言"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames are visible for comparison; however, based on the provided frame, all other frames in the contact sheet are expected to be dropped as they likely contain lecturer-only, blank, or low-information content, or are duplicates/intro/outro frames. This single frame captures the complete teaching artifact at the start of the course.",
+      "sheet": "keyframe_selection\\sheets\\20250911-想开始做内容，但是担心自己不够专业？\\20250911-想开始做内容，但是担心自己不够专业？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

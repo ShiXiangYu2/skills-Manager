@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete slide with structured bullet points and highlighted sections, capturing key teaching content. It's a complete teaching artifact, useful for review and explanation.",
+      "keywords": [
+        "slide",
+        "content",
+        "structured"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Shows a detailed notes interface with clearly organized content and actionable items (e.g., 'Write follow-up email'), capturing a distinct teaching artifact and visual state. It's more informative than surrounding frames.",
+      "keywords": [
+        "UI",
+        "notes",
+        "actionable"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04:00",
+      "reason": "Captures a clear diagram with highlighted text and a red circle annotation, emphasizing a key concept. Material visual change and instructional focus make it valuable for source-backed explanation.",
+      "keywords": [
+        "diagram",
+        "annotation",
+        "concept"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped because they were either lecturer-only (no teaching artifact), blank, blurred, or contained low-information content with no visual state change.",
+  "sheet": "keyframe_selection\\sheets\\20250624-AI Native的会议应用：Granola\\20250624-AI Native的会议应用：Granola_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

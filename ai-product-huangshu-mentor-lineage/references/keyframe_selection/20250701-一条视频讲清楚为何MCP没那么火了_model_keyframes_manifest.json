@@ -1,0 +1,109 @@
+{
+  "media": "20250701-一条视频讲清楚为何MCP没那么火了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250701-一条视频讲清楚为何MCP没那么火了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\20250701-一条视频讲清楚为何MCP没那么火了",
+  "selected_count": 4,
+  "selected_dir": "keyframes_model_selected\\20250701-一条视频讲清楚为何MCP没那么火了",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete UI of an AI content management platform, illustrating a key concept discussed.",
+      "keywords": [
+        "UI",
+        "demo",
+        "platform"
+      ],
+      "candidate_source": "keyframe_candidates\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Clear flowchart explaining the MCP client-server interaction process, crucial for understanding the system architecture.",
+      "keywords": [
+        "diagram",
+        "flowchart",
+        "architecture"
+      ],
+      "candidate_source": "keyframe_candidates\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Highlights a key technical point about MCP's limitations regarding audio generation, material for explanation and verification.",
+      "keywords": [
+        "formula",
+        "technical point",
+        "limitation"
+      ],
+      "candidate_source": "keyframe_candidates\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Shows a clear visual comparison of MCPs with a book and tablet, illustrating conceptual importance.",
+      "keywords": [
+        "visual comparison",
+        "diagram",
+        "conceptual"
+      ],
+      "candidate_source": "keyframe_candidates\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20250701-一条视频讲清楚为何MCP没那么火了\\frame_0004.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a complete UI of an AI content management platform, illustrating a key concept discussed.",
+          "keywords": [
+            "UI",
+            "demo",
+            "platform"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Clear flowchart explaining the MCP client-server interaction process, crucial for understanding the system architecture.",
+          "keywords": [
+            "diagram",
+            "flowchart",
+            "architecture"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Highlights a key technical point about MCP's limitations regarding audio generation, material for explanation and verification.",
+          "keywords": [
+            "formula",
+            "technical point",
+            "limitation"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "00:06:00",
+          "reason": "Shows a clear visual comparison of MCPs with a book and tablet, illustrating conceptual importance.",
+          "keywords": [
+            "visual comparison",
+            "diagram",
+            "conceptual"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames are either lecturer-only (showing the speaker), blurred, or contain low-information content not directly related to teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20250701-一条视频讲清楚为何MCP没那么火了\\20250701-一条视频讲清楚为何MCP没那么火了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

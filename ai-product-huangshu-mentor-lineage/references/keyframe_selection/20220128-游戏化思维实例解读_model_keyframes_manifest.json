@@ -1,0 +1,19 @@
+{
+  "media": "20220128-游戏化思维实例解读",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220128-游戏化思维实例解读.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220128-游戏化思维实例解读",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220128-游戏化思维实例解读",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain key teaching artifacts like slides, diagrams, or clear visual explanations. The only visible content is a UI screenshot and a whiteboard with partially legible writing, both of which are insufficient to meet the selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20220128-游戏化思维实例解读\\20220128-游戏化思维实例解读_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

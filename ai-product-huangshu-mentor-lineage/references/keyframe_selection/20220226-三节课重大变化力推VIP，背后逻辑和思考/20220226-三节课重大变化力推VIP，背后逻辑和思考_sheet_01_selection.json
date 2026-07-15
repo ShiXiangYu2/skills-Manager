@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial whiteboard layout with key course outline points, essential for understanding the structure.",
+      "keywords": [
+        "whiteboard",
+        "outline",
+        "course_structure"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Captures a significant visual state change where the instructor adds critical annotations (e.g., '转化呢? 然阿姨有句话说的很对'), enhancing understanding of the argument.",
+      "keywords": [
+        "annotation",
+        "visual_change",
+        "argument"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:06",
+      "reason": "Shows a clear conclusion or personal endorsement ('当然我作为从三节课获益颇多的学员'), important for reinforcing the teaching message.",
+      "keywords": [
+        "conclusion",
+        "endorsement",
+        "summary"
+      ]
+    }
+  ],
+  "dropped_summary": "Frames 0002 and 0003 (timestamp 00:02) were dropped as they primarily show the instructor speaking with minimal visual state changes or teaching artifacts. The frame at 00:04 was included for its key annotation, which adds crucial context.",
+  "sheet": "keyframe_selection\\sheets\\20220226-三节课重大变化力推VIP，背后逻辑和思考\\20220226-三节课重大变化力推VIP，背后逻辑和思考_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

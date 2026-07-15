@@ -1,0 +1,19 @@
+{
+  "media": "20251003-我42岁了，因为AI依旧乐观！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251003-我42岁了，因为AI依旧乐观！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251003-我42岁了，因为AI依旧乐观！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251003-我42岁了，因为AI依旧乐观！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain teaching artifacts (slides, boards, UI, diagrams, tables, formulas, demos, or visual state changes) that meet the selection criteria. The only frame shows the lecturer speaking, which is excluded per criteria 4 (lecturer-only frames).",
+      "sheet": "keyframe_selection\\sheets\\20251003-我42岁了，因为AI依旧乐观！\\20251003-我42岁了，因为AI依旧乐观！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

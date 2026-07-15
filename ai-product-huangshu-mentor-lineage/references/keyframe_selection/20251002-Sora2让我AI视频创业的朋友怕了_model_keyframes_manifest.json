@@ -1,0 +1,19 @@
+{
+  "media": "20251002-Sora2让我AI视频创业的朋友怕了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251002-Sora2让我AI视频创业的朋友怕了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251002-Sora2让我AI视频创业的朋友怕了",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251002-Sora2让我AI视频创业的朋友怕了",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible teaching artifacts, visual states, or diagrams. They contain only speaker expressions and subtitles, which do not meet selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20251002-Sora2让我AI视频创业的朋友怕了\\20251002-Sora2让我AI视频创业的朋友怕了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

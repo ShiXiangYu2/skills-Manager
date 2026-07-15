@@ -1,0 +1,18 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the main teaching artifact: a UI screenshot demonstrating Codex reading and modifying a canvas with annotations. This is key for explaining the AI product's capability.",
+      "keywords": [
+        "UI",
+        "demo",
+        "teaching artifact"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20260622-Codex+无限画布，改图太爽了 (1)\\20260622-Codex+无限画布，改图太爽了 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20251205-做个有观点、有个性的产品，是一种自我表达",
+  "video_path": "D:\\视频下载\\张咋啦\\20251205-做个有观点、有个性的产品，是一种自我表达.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251205-做个有观点、有个性的产品，是一种自我表达",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251205-做个有观点、有个性的产品，是一种自我表达",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only, blank, or contain insufficient visual content for distillation. No slides, diagrams, or teaching artifacts are visible to preserve as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20251205-做个有观点、有个性的产品，是一种自我表达\\20251205-做个有观点、有个性的产品，是一种自我表达_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

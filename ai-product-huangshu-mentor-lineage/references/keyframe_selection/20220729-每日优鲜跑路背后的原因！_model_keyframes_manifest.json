@@ -1,0 +1,19 @@
+{
+  "media": "20220729-每日优鲜跑路背后的原因！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220729-每日优鲜跑路背后的原因！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220729-每日优鲜跑路背后的原因！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220729-每日优鲜跑路背后的原因！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show the lecturer speaking with minimal visual artifacts or teaching content; no slides, diagrams, or clear visual state changes are present to serve as useful evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20220729-每日优鲜跑路背后的原因！\\20220729-每日优鲜跑路背后的原因！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

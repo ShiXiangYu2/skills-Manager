@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures the opening title slide with the core topic 'Side project 推广产品的最好方式: Build in public', which serves as the main teaching artifact and sets the context for the entire video. The text is clear and complete, making it essential for source-backed explanation and review.",
+      "keywords": [
+        "slide",
+        "title",
+        "build in public",
+        "side project",
+        "promotion"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames in the contact sheet were not visible or provided, so no further selections could be made. The single visible frame was selected as it represents the complete introduction slide, which is the only teaching artifact present.",
+  "sheet": "keyframe_selection\\sheets\\20251110-Side project的产品如何冷启动和推广\\20251110-Side project的产品如何冷启动和推广_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

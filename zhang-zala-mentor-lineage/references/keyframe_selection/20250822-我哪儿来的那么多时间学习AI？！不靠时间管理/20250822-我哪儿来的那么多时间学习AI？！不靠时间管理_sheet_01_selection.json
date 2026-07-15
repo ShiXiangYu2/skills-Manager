@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a clear and complete teaching artifact: a title slide with a key conceptual statement about psychological barriers to learning. The text is sharp, legible, and central to the course's core message. It serves as a strong anchor for future distillation and explanation.",
+      "keywords": [
+        "psychological barrier",
+        "learning motivation",
+        "title slide",
+        "conceptual statement"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were present in the contact sheet for evaluation. The provided frame is the only candidate, and it meets all selection criteria as a clear, informative, and non-duplicated teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20250822-我哪儿来的那么多时间学习AI？！不靠时间管理\\20250822-我哪儿来的那么多时间学习AI？！不靠时间管理_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

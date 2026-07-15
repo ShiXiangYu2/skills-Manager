@@ -1,0 +1,19 @@
+{
+  "media": "20240805-Character.ai被谷歌收购？四点错误 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20240805-Character.ai被谷歌收购？四点错误 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20240805-Character.ai被谷歌收购？四点错误 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20240805-Character.ai被谷歌收购？四点错误 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only and lack any teaching artifacts such as slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes. They also contain no significant visual information beyond the speaker.",
+      "sheet": "keyframe_selection\\sheets\\20240805-Character.ai被谷歌收购？四点错误 (1)\\20240805-Character.ai被谷歌收购？四点错误 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

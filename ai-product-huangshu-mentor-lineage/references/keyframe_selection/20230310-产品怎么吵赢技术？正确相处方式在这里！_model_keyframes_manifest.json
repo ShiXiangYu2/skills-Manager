@@ -1,0 +1,19 @@
+{
+  "media": "20230310-产品怎么吵赢技术？正确相处方式在这里！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230310-产品怎么吵赢技术？正确相处方式在这里！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230310-产品怎么吵赢技术？正确相处方式在这里！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230310-产品怎么吵赢技术？正确相处方式在这里！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is an introductory shot with only lecturer visuals and text overlays without any teaching artifacts (slides, diagrams, UI, etc.), thus not meeting the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230310-产品怎么吵赢技术？正确相处方式在这里！\\20230310-产品怎么吵赢技术？正确相处方式在这里！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

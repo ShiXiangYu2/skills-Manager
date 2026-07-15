@@ -1,0 +1,19 @@
+{
+  "media": "20220516-内行才知道  十年产品经理的若干个emo时刻",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220516-内行才知道  十年产品经理的若干个emo时刻.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220516-内行才知道  十年产品经理的若干个emo时刻",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220516-内行才知道  十年产品经理的若干个emo时刻",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show the lecturer speaking with a whiteboard in the background, but the whiteboard content is either blurred, partially obscured, or not clearly legible. The frames do not capture distinct, clear teaching artifacts like formulas, diagrams, or UIs. The lecturer's expressions and gestures are not visually distinct enough to constitute key teaching moments, and no visual state changes occur between them. They are also not unique enough to serve as source-backed evidence, so they are all dropped.",
+      "sheet": "keyframe_selection\\sheets\\20220516-内行才知道  十年产品经理的若干个emo时刻\\20220516-内行才知道  十年产品经理的若干个emo时刻_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20251231-用Skills全自动干活7 自动分析热门内容评论 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251231-用Skills全自动干活7 自动分析热门内容评论 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251231-用Skills全自动干活7 自动分析热门内容评论 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251231-用Skills全自动干活7 自动分析热门内容评论 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is a blank or low-information screen with no teaching artifact, visual state change, or clear instructional content. It does not meet the selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20251231-用Skills全自动干活7 自动分析热门内容评论 (1)\\20251231-用Skills全自动干活7 自动分析热门内容评论 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

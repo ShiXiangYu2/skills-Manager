@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b62fcc7d-5d71-4375-a92f-1b863202c266",
+  "path": "vercel-cli-with-tokens",
+  "path_key": "vercel-cli-with-tokens",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "media": "20230105-B端和C端有啥区别？很多人都只答对了第一层",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230105-B端和C端有啥区别？很多人都只答对了第一层.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230105-B端和C端有啥区别？很多人都只答对了第一层",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20230105-B端和C端有啥区别？很多人都只答对了第一层",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the core question being addressed and the initial whiteboard setup, providing context for the entire lesson.",
+      "keywords": [
+        "question",
+        "whiteboard",
+        "introduction"
+      ],
+      "candidate_source": "keyframe_candidates\\20230105-B端和C端有啥区别？很多人都只答对了第一层\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20230105-B端和C端有啥区别？很多人都只答对了第一层\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures the core question being addressed and the initial whiteboard setup, providing context for the entire lesson.",
+          "keywords": [
+            "question",
+            "whiteboard",
+            "introduction"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for selection.",
+      "sheet": "keyframe_selection\\sheets\\20230105-B端和C端有啥区别？很多人都只答对了第一层\\20230105-B端和C端有啥区别？很多人都只答对了第一层_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

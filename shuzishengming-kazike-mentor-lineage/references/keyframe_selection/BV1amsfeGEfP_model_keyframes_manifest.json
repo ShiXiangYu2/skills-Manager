@@ -1,0 +1,117 @@
+{
+  "media": "BV1amsfeGEfP",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1amsfeGEfP\\20240927-三只羊卢总 伪造音频AI能做？.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\BV1amsfeGEfP",
+  "selected_count": 4,
+  "selected_dir": "keyframes_model_selected\\BV1amsfeGEfP",
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Shows a clear slide categorizing AI applications (大语言模型, AI绘图) with visual icons and text, serving as a primary teaching artifact for course structure.",
+      "keywords": [
+        "AI",
+        "大语言模型",
+        "AI绘图",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1amsfeGEfP\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV1amsfeGEfP\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a detailed software interface (GitHub repository for So-vits-svc) with project files and technical details, providing source-backed evidence for AI voice cloning tools.",
+      "keywords": [
+        "So-vits-svc",
+        "GitHub",
+        "AI换声",
+        "UI"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1amsfeGEfP\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV1amsfeGEfP\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Captures a full UI of a Voice Changer application with interactive elements (mic, waveform, live mode), demonstrating a practical demo of AI voice technology.",
+      "keywords": [
+        "SVC",
+        "AI换声",
+        "demo",
+        "UI"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1amsfeGEfP\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\BV1amsfeGEfP\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "04:00",
+      "reason": "Presents a clear visual metaphor of '人工+智能' with a brain graphic, reinforcing key course theme about human-AI collaboration.",
+      "keywords": [
+        "人工+智能",
+        "brain",
+        "visual metaphor",
+        "slide"
+      ],
+      "candidate_source": "keyframe_candidates\\BV1amsfeGEfP\\frame_0005.jpg",
+      "selected_path": "keyframes_model_selected\\BV1amsfeGEfP\\frame_0005.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a clear slide categorizing AI applications (大语言模型, AI绘图) with visual icons and text, serving as a primary teaching artifact for course structure.",
+          "keywords": [
+            "AI",
+            "大语言模型",
+            "AI绘图",
+            "slide"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "02:00",
+          "reason": "Displays a detailed software interface (GitHub repository for So-vits-svc) with project files and technical details, providing source-backed evidence for AI voice cloning tools.",
+          "keywords": [
+            "So-vits-svc",
+            "GitHub",
+            "AI换声",
+            "UI"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "03:00",
+          "reason": "Captures a full UI of a Voice Changer application with interactive elements (mic, waveform, live mode), demonstrating a practical demo of AI voice technology.",
+          "keywords": [
+            "SVC",
+            "AI换声",
+            "demo",
+            "UI"
+          ]
+        },
+        {
+          "frame": "frame_0005.jpg",
+          "timestamp": "04:00",
+          "reason": "Presents a clear visual metaphor of '人工+智能' with a brain graphic, reinforcing key course theme about human-AI collaboration.",
+          "keywords": [
+            "人工+智能",
+            "brain",
+            "visual metaphor",
+            "slide"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0001.jpg was dropped as it is a blank/low-information frame with only text overlay. Other frames were either duplicates, lecturer-only shots, or contained less informative content compared to the selected frames.",
+      "sheet": "keyframe_selection\\sheets\\BV1amsfeGEfP\\BV1amsfeGEfP_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

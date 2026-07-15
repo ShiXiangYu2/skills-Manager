@@ -1,0 +1,19 @@
+{
+  "media": "20251009-OpenAI发布Token消耗大户名单！内有彩虹",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251009-OpenAI发布Token消耗大户名单！内有彩虹.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251009-OpenAI发布Token消耗大户名单！内有彩虹",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251009-OpenAI发布Token消耗大户名单！内有彩虹",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either intro/outro (e.g., lecturer-only) or low-information, with no teaching artifacts, visual state changes, or source-backed content meeting the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20251009-OpenAI发布Token消耗大户名单！内有彩虹\\20251009-OpenAI发布Token消耗大户名单！内有彩虹_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

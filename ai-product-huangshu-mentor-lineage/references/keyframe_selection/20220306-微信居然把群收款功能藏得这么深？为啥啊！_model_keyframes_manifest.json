@@ -1,0 +1,19 @@
+{
+  "media": "20220306-微信居然把群收款功能藏得这么深？为啥啊！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220306-微信居然把群收款功能藏得这么深？为啥啊！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220306-微信居然把群收款功能藏得这么深？为啥啊！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220306-微信居然把群收款功能藏得这么深？为啥啊！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clear, material teaching artifacts such as slides, diagrams, or formulas. The visible whiteboard content is too blurry and incomplete to be useful for source-backed explanation or review.",
+      "sheet": "keyframe_selection\\sheets\\20220306-微信居然把群收款功能藏得这么深？为啥啊！\\20220306-微信居然把群收款功能藏得这么深？为啥啊！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

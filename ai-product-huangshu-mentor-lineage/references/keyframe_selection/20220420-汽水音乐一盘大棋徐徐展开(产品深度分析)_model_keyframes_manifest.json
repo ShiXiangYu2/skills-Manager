@@ -1,0 +1,19 @@
+{
+  "media": "20220420-汽水音乐一盘大棋徐徐展开(产品深度分析)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220420-汽水音乐一盘大棋徐徐展开(产品深度分析).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220420-汽水音乐一盘大棋徐徐展开(产品深度分析)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220420-汽水音乐一盘大棋徐徐展开(产品深度分析)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are low-information, featuring only the lecturer with minimal visual teaching artifacts, and no material changes in content or clear teaching artifacts to preserve.",
+      "sheet": "keyframe_selection\\sheets\\20220420-汽水音乐一盘大棋徐徐展开(产品深度分析)\\20220420-汽水音乐一盘大棋徐徐展开(产品深度分析)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

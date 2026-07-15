@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-06-22T09:32:03",
+  "source_dir": "D:\\AI编程\\项目开发\\lineage-skill-main\\lineage-skill-main\\.lineage\\courses\\hello-agent",
+  "transcripts": [],
+  "analysis_files": [],
+  "screenshots": [],
+  "model_keyframe_manifests": [],
+  "model_keyframe_summaries": [],
+  "model_selected_keyframes": [],
+  "course_distillations": [
+    "course_distillation_2026-06-22.json",
+    "course_distillation_2026-06-22.md"
+  ],
+  "documents": [],
+  "text_sources": [
+    "text_sources\\chunks.jsonl",
+    "text_sources\\source_manifest.json"
+  ],
+  "text_distillation": [
+    "text_distillation\\evidence_cards.jsonl",
+    "text_distillation\\source_summaries.json",
+    "text_distillation\\text_course_synthesis.md",
+    "text_distillation\\text_distillation_quality.json"
+  ],
+  "notes": [
+    "Evidence entries are file-level by default.",
+    "Add timestamps and topic labels after deeper course distillation."
+  ]
+}

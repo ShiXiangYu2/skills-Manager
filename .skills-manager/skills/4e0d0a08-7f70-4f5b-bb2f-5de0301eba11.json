@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4e0d0a08-7f70-4f5b-bb2f-5de0301eba11",
+  "path": "wecom-weisheng-scrm",
+  "path_key": "wecom-weisheng-scrm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

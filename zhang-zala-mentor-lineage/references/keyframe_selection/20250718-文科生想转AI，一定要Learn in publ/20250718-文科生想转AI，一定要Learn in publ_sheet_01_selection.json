@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a clear, complete list of actionable sharing behaviors, presented as bullet points, which serves as a teaching artifact. The text is fully legible and provides specific, structured content useful for review or verification. The presence of the lecturer’s face does not diminish the value of the textual content, which is the primary teaching artifact.",
+      "keywords": [
+        "sharing",
+        "actionable list",
+        "teaching artifact",
+        "bullet points"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. This frame was selected as it contains a complete, legible teaching artifact with structured information essential for course distillation.",
+  "sheet": "keyframe_selection\\sheets\\20250718-文科生想转AI，一定要Learn in publ\\20250718-文科生想转AI，一定要Learn in publ_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

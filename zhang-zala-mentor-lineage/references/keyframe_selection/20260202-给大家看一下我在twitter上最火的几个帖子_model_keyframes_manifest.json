@@ -1,0 +1,69 @@
+{
+  "media": "20260202-给大家看一下我在twitter上最火的几个帖子",
+  "video_path": "D:\\视频下载\\张咋啦\\20260202-给大家看一下我在twitter上最火的几个帖子.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260202-给大家看一下我在twitter上最火的几个帖子",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260202-给大家看一下我在twitter上最火的几个帖子",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete view of an article titled 'To learn anything, first unlearn school' with visible content and sidebar, representing a key teaching artifact for the course topic. The frame is clear, focused, and includes relevant text and UI elements.",
+      "keywords": [
+        "article",
+        "teaching artifact",
+        "text content",
+        "UI"
+      ],
+      "candidate_source": "keyframe_candidates\\20260202-给大家看一下我在twitter上最火的几个帖子\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260202-给大家看一下我在twitter上最火的几个帖子\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a detailed analytics dashboard with demographic data (age, gender, country) and a pie chart, providing a visual representation of audience or platform metrics as part of the course demonstration. This is a clear, informative visual state change.",
+      "keywords": [
+        "analytics",
+        "dashboard",
+        "demo",
+        "data visualization"
+      ],
+      "candidate_source": "keyframe_candidates\\20260202-给大家看一下我在twitter上最火的几个帖子\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260202-给大家看一下我在twitter上最火的几个帖子\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a complete view of an article titled 'To learn anything, first unlearn school' with visible content and sidebar, representing a key teaching artifact for the course topic. The frame is clear, focused, and includes relevant text and UI elements.",
+          "keywords": [
+            "article",
+            "teaching artifact",
+            "text content",
+            "UI"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a detailed analytics dashboard with demographic data (age, gender, country) and a pie chart, providing a visual representation of audience or platform metrics as part of the course demonstration. This is a clear, informative visual state change.",
+          "keywords": [
+            "analytics",
+            "dashboard",
+            "demo",
+            "data visualization"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided in the contact sheet. Only two frames were available, both of which are visually informative and meet selection criteria. No lecturer-only, blank, or low-information frames were present.",
+      "sheet": "keyframe_selection\\sheets\\20260202-给大家看一下我在twitter上最火的几个帖子\\20260202-给大家看一下我在twitter上最火的几个帖子_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

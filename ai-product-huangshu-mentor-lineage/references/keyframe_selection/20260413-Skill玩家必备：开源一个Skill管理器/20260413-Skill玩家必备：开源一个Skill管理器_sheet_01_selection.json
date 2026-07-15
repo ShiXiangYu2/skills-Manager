@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear UI example with a text input and button, illustrating a conceptual point about Git. The Chinese subtitle provides context.",
+      "keywords": [
+        "UI",
+        "demo",
+        "Git"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a detailed project management UI with multiple cards, clearly demonstrating a system for organizing tasks – a key teaching artifact.",
+      "keywords": [
+        "UI",
+        "demo",
+        "project management"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible or provide additional valuable teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20260413-Skill玩家必备：开源一个Skill管理器\\20260413-Skill玩家必备：开源一个Skill管理器_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

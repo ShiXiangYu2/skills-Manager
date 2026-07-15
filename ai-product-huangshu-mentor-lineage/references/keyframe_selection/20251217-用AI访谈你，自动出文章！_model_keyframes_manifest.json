@@ -1,0 +1,19 @@
+{
+  "media": "20251217-用AI访谈你，自动出文章！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251217-用AI访谈你，自动出文章！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20251217-用AI访谈你，自动出文章！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251217-用AI访谈你，自动出文章！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clear teaching artifacts like slides, diagrams, or UIs that materially advance the lesson. The frames show a lecturer's screen with text and a webcam view, but lack distinct, high-information visual states or key instructional content.",
+      "sheet": "keyframe_selection\\sheets\\20251217-用AI访谈你，自动出文章！\\20251217-用AI访谈你，自动出文章！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

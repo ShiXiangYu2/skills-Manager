@@ -1,0 +1,34 @@
+# Large binary files
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.avi
+*.mov
+*.webm
+*.mkv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Large data files (keep only web output)
+秋芝2046/
+SubBatch_*/

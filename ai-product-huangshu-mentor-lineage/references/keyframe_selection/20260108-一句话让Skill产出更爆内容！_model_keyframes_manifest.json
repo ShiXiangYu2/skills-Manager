@@ -1,0 +1,67 @@
+{
+  "media": "20260108-一句话让Skill产出更爆内容！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260108-一句话让Skill产出更爆内容！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260108-一句话让Skill产出更爆内容！",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260108-一句话让Skill产出更爆内容！",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a clear view of a code editor with an expanded menu, showing relevant file structure and code context for teaching.",
+      "keywords": [
+        "code_editor",
+        "file_structure",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260108-一句话让Skill产出更爆内容！\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260108-一句话让Skill产出更爆内容！\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a detailed, well-organized table comparing article metrics (read count, verification results) and a formula for '爆款公式', which is a key teaching artifact.",
+      "keywords": [
+        "table",
+        "formula",
+        "diagram",
+        "teaching_artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20260108-一句话让Skill产出更爆内容！\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260108-一句话让Skill产出更爆内容！\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures a clear view of a code editor with an expanded menu, showing relevant file structure and code context for teaching.",
+          "keywords": [
+            "code_editor",
+            "file_structure",
+            "demo"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Displays a detailed, well-organized table comparing article metrics (read count, verification results) and a formula for '爆款公式', which is a key teaching artifact.",
+          "keywords": [
+            "table",
+            "formula",
+            "diagram",
+            "teaching_artifact"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames are either too blurry, non-informative, or redundant with the selected frames. No additional frames meet the selection criteria for preserving key teaching artifacts.",
+      "sheet": "keyframe_selection\\sheets\\20260108-一句话让Skill产出更爆内容！\\20260108-一句话让Skill产出更爆内容！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

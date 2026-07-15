@@ -1,0 +1,19 @@
+{
+  "media": "20260110-用Skills一键生成复刻模版的PPT",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260110-用Skills一键生成复刻模版的PPT.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260110-用Skills一键生成复刻模版的PPT",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260110-用Skills一键生成复刻模版的PPT",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains a blurred lecturer view and a low-resolution, partially obscured document with unclear text. It fails to meet selection criteria for clear teaching artifacts, visual state changes, or useful source-backed evidence.",
+      "sheet": "keyframe_selection\\sheets\\20260110-用Skills一键生成复刻模版的PPT\\20260110-用Skills一键生成复刻模版的PPT_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

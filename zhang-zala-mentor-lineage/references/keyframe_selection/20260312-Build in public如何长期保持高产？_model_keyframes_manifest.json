@@ -1,0 +1,19 @@
+{
+  "media": "20260312-Build in public如何长期保持高产？",
+  "video_path": "D:\\视频下载\\张咋啦\\20260312-Build in public如何长期保持高产？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260312-Build in public如何长期保持高产？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260312-Build in public如何长期保持高产？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames appear to be introductory or low-information content, such as outdoor scenes with speakers and minimal visible teaching artifacts. No slides, diagrams, tables, formulas, or UI elements are present to serve as source-backed evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260312-Build in public如何长期保持高产？\\20260312-Build in public如何长期保持高产？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

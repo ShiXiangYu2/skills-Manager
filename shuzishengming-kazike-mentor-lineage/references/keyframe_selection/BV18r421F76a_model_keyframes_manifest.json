@@ -1,0 +1,115 @@
+{
+  "media": "BV18r421F76a",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV18r421F76a\\20240619-只需一张图片，就能用AI一键跳舞？.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\BV18r421F76a",
+  "selected_count": 4,
+  "selected_dir": "keyframes_model_selected\\BV18r421F76a",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete visual artifact (TIME magazine cover featuring Jensen Huang) used as a teaching example for context or reference.",
+      "keywords": [
+        "TIME magazine",
+        "Jensen Huang",
+        "visual example"
+      ],
+      "candidate_source": "keyframe_candidates\\BV18r421F76a\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\BV18r421F76a\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a complete UI screen of the 'Viggle' video enhancement tool with visible settings ('Enhance quality', 'Remove watermark') and Chinese text, useful for teaching or verifying functionality.",
+      "keywords": [
+        "Viggle",
+        "UI",
+        "video enhancement",
+        "tool interface"
+      ],
+      "candidate_source": "keyframe_candidates\\BV18r421F76a\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV18r421F76a\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Presents a clear demo screen with a video editing interface and a simple geometric background, indicating a before/after state or feature demonstration.",
+      "keywords": [
+        "demo",
+        "video editing",
+        "interface",
+        "background"
+      ],
+      "candidate_source": "keyframe_candidates\\BV18r421F76a\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\BV18r421F76a\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "04:00",
+      "reason": "Captures a full demo of OpenAI Sora output in a gallery setting, a key visual artifact for teaching about AI-generated video content and its capabilities.",
+      "keywords": [
+        "OpenAI Sora",
+        "AI video",
+        "demo",
+        "gallery"
+      ],
+      "candidate_source": "keyframe_candidates\\BV18r421F76a\\frame_0005.jpg",
+      "selected_path": "keyframes_model_selected\\BV18r421F76a\\frame_0005.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear, complete visual artifact (TIME magazine cover featuring Jensen Huang) used as a teaching example for context or reference.",
+          "keywords": [
+            "TIME magazine",
+            "Jensen Huang",
+            "visual example"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "02:00",
+          "reason": "Shows a complete UI screen of the 'Viggle' video enhancement tool with visible settings ('Enhance quality', 'Remove watermark') and Chinese text, useful for teaching or verifying functionality.",
+          "keywords": [
+            "Viggle",
+            "UI",
+            "video enhancement",
+            "tool interface"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "03:00",
+          "reason": "Presents a clear demo screen with a video editing interface and a simple geometric background, indicating a before/after state or feature demonstration.",
+          "keywords": [
+            "demo",
+            "video editing",
+            "interface",
+            "background"
+          ]
+        },
+        {
+          "frame": "frame_0005.jpg",
+          "timestamp": "04:00",
+          "reason": "Captures a full demo of OpenAI Sora output in a gallery setting, a key visual artifact for teaching about AI-generated video content and its capabilities.",
+          "keywords": [
+            "OpenAI Sora",
+            "AI video",
+            "demo",
+            "gallery"
+          ]
+        }
+      ],
+      "dropped_summary": "Frame 00:01 shows only the lecturer without any teaching artifact; frames 00:02 and 00:03 (duplicate of 00:03) are redundant and lack distinct visual content; frames post-00:05 are not visible in the provided contact sheet or lack clear teaching value based on selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\BV18r421F76a\\BV18r421F76a_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

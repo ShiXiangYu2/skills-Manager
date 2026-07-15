@@ -1,0 +1,19 @@
+{
+  "media": "20260409-我的产品灵感都是怎么来的？",
+  "video_path": "D:\\视频下载\\张咋啦\\20260409-我的产品灵感都是怎么来的？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260409-我的产品灵感都是怎么来的？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260409-我的产品灵感都是怎么来的？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible teaching artifacts such as slides, boards, diagrams, or UI elements. The frame contains only the speaker and minimal text overlay, which does not qualify as a material visual teaching artifact under the selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260409-我的产品灵感都是怎么来的？\\20260409-我的产品灵感都是怎么来的？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

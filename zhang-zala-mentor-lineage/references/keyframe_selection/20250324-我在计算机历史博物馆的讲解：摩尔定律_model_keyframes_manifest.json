@@ -1,0 +1,19 @@
+{
+  "media": "20250324-我在计算机历史博物馆的讲解：摩尔定律",
+  "video_path": "D:\\视频下载\\张咋啦\\20250324-我在计算机历史博物馆的讲解：摩尔定律.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250324-我在计算机历史博物馆的讲解：摩尔定律",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250324-我在计算机历史博物馆的讲解：摩尔定律",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame shows a person giving a presentation in front of an exhibit, but the content on the screen and board is not clearly legible or stable enough to serve as a reliable teaching artifact. There is no visible slide, diagram, formula, or document that is complete and distinct. The frame is more of a scene shot rather than a source-backed teaching artifact, and thus does not meet the criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20250324-我在计算机历史博物馆的讲解：摩尔定律\\20250324-我在计算机历史博物馆的讲解：摩尔定律_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

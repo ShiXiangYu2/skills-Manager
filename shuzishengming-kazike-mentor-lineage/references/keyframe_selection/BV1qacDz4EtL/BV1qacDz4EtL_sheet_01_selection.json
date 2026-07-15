@@ -1,0 +1,46 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear UI with key AI models and Chinese text highlighting a core theme (using top models with high cost), serving as a visual anchor for course topic.",
+      "keywords": [
+        "AI models",
+        "Microsoft Copilot",
+        "UI",
+        "cost",
+        "course intro"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "Presents a symbolic diagram comparing AI to a Ph.D. graduate, with clear text and visual metaphor, useful for illustrating the teaching concept of AI intelligence levels.",
+      "keywords": [
+        "AI",
+        "Ph.D. graduate",
+        "metaphor",
+        "diagram",
+        "intelligence"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "00:30",
+      "reason": "Shows a structured visual list (with labels) of production equipment (camera, microphone, LED light, etc.), providing a clear teaching artifact for discussing team production setup.",
+      "keywords": [
+        "team",
+        "production",
+        "equipment",
+        "camera",
+        "microphone",
+        "LED light",
+        "setup"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0003.jpg was dropped as it shows only the lecturer speaking without any distinct visual teaching artifact. Frame 00:00 (frame_0001) and 00:00 (frame_0002) were kept for their clear UI and diagram content. Other frames are either lecturer-only, lack distinct visuals, or are duplicates of earlier content.",
+  "sheet": "keyframe_selection\\sheets\\BV1qacDz4EtL\\BV1qacDz4EtL_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

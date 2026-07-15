@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea369d47-d004-4c70-bdd7-91120f4ff172",
+  "path": "linyuebanzi-image-gen",
+  "path_key": "linyuebanzi-image-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

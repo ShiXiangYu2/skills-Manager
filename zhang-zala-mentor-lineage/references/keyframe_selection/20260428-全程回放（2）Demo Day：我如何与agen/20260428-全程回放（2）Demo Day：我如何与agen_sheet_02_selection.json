@@ -1,0 +1,41 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0025.jpg",
+      "timestamp": "48:00",
+      "reason": "Displays a clear UI with highlighted text and a focused code editor, indicating a teaching moment involving specific code or configuration. This frame captures a complete teaching artifact that is distinct from surrounding frames.",
+      "keywords": [
+        "UI",
+        "code editor",
+        "highlighted text",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0026.jpg",
+      "timestamp": "50:00",
+      "reason": "Shows a diagram with numbered steps and arrows, illustrating a conceptual process or workflow. This visual state change is material and provides key pedagogical content not present in adjacent frames.",
+      "keywords": [
+        "diagram",
+        "workflow",
+        "visual explanation",
+        "steps"
+      ]
+    },
+    {
+      "frame": "frame_0027.jpg",
+      "timestamp": "52:00",
+      "reason": "Presents a clear dialog box or feature panel with structured information, useful for demonstrating a specific UI interaction or configuration. This is a complete, non-blurred visual state ideal for source-backed review.",
+      "keywords": [
+        "UI interaction",
+        "dialog box",
+        "configuration panel",
+        "demonstration"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they either showed lecturer-only views, partial UI elements, or lacked clear, material visual content for teaching. No duplicate or low-information frames were found, but only 3 frames met the criteria of capturing complete, actionable teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20260428-全程回放（2）Demo Day：我如何与agen\\20260428-全程回放（2）Demo Day：我如何与agen_sheet_02.jpg",
+  "success": true,
+  "error": null
+}

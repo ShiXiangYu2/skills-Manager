@@ -1,0 +1,95 @@
+{
+  "media": "20250624-AI Native的会议应用：Granola (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250624-AI Native的会议应用：Granola (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250624-AI Native的会议应用：Granola (1)",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20250624-AI Native的会议应用：Granola (1)",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete summary slide with bullet points on AI application, efficiency optimization, and team structure, which is a key teaching artifact.",
+      "keywords": [
+        "slide",
+        "summary",
+        "AI application",
+        "efficiency",
+        "team structure"
+      ],
+      "candidate_source": "keyframe_candidates\\20250624-AI Native的会议应用：Granola (1)\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250624-AI Native的会议应用：Granola (1)\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a detailed note-taking interface with structured content on 'AI应用与效率提升', providing a clear visual aid for the lecture.",
+      "keywords": [
+        "note-taking",
+        "UI",
+        "structured content",
+        "AI application"
+      ],
+      "candidate_source": "keyframe_candidates\\20250624-AI Native的会议应用：Granola (1)\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250624-AI Native的会议应用：Granola (1)\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Captures a clear, full-screen markdown note with bold headings and detailed strategic points, useful for verifying and explaining key concepts.",
+      "keywords": [
+        "markdown",
+        "diagram",
+        "strategic points",
+        "key concepts"
+      ],
+      "candidate_source": "keyframe_candidates\\20250624-AI Native的会议应用：Granola (1)\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250624-AI Native的会议应用：Granola (1)\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear, complete summary slide with bullet points on AI application, efficiency optimization, and team structure, which is a key teaching artifact.",
+          "keywords": [
+            "slide",
+            "summary",
+            "AI application",
+            "efficiency",
+            "team structure"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Shows a detailed note-taking interface with structured content on 'AI应用与效率提升', providing a clear visual aid for the lecture.",
+          "keywords": [
+            "note-taking",
+            "UI",
+            "structured content",
+            "AI application"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Captures a clear, full-screen markdown note with bold headings and detailed strategic points, useful for verifying and explaining key concepts.",
+          "keywords": [
+            "markdown",
+            "diagram",
+            "strategic points",
+            "key concepts"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped as they either show the lecturer speaking without visual artifacts (lecturer-only), are blurry, or contain minimal information not useful for distillation.",
+      "sheet": "keyframe_selection\\sheets\\20250624-AI Native的会议应用：Granola (1)\\20250624-AI Native的会议应用：Granola (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

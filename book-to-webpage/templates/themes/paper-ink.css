@@ -1,0 +1,53 @@
+/* ============================================================
+   纸墨风（paper-ink · 文学杂志）
+   暖米纸底 + 楷宋正文 + 猩红强调；❝ 引文装饰、
+   ❧ accordion 标记，西式 literary magazine 气质。
+   与 ink-wash 的区别：ink-wash 是中式宣纸/朱砂/「」，
+   paper-ink 是西式奶油纸/猩红/❝❧，正文用楷体。
+   ============================================================ */
+:root {
+  --ink: #1a1a1a;          /* 炭黑 */
+  --muted: #7a7268;        /* 暖灰 */
+  --paper: #faf9f7;        /* 暖米纸 */
+  --paper-deep: #f0ece6;   /* 深米 */
+  --line: #d4cdc2;         /* 暖灰线 */
+  --red: #b53a3a;          /* 猩红 = 唯一彩色强调 */
+  --blue: #3d4f5f;         /* 收敛到深灰蓝（次要强调） */
+  --green: #5a6b56;        /* 收敛到灰绿（before/after 的 after） */
+  --gold: #b53a3a;         /* 收敛到猩红（CTA / quote 标记保持同色系） */
+  --white: #fdfbf7;        /* 米白 */
+  --shadow: 0 12px 38px rgba(30, 25, 20, .06);
+
+  --font-body: "STKaiti", "KaiTi", "Songti SC", "Noto Serif CJK SC", Georgia, serif;
+  --font-display: "Songti SC", "STSong", "Noto Serif CJK SC", Georgia, serif;
+  --bg: #faf9f7;           /* 净米纸、去渐变 */
+  --surface: rgba(253, 251, 247, .5);
+  --surface-strong: rgba(253, 251, 247, .7);
+  --bar-bg: rgba(250, 249, 247, .95);
+  --ink-soft: #2d2a26;
+  --ink-soft-2: #36322d;
+  --tint-accent: rgba(181, 58, 58, .07);
+  --tint-accent-strong: rgba(181, 58, 58, .10);
+}
+
+/* —— thesis 总论边条：猩红 —— */
+[data-theme="paper-ink"] .thesis { border-left-color: var(--red); }
+
+/* —— 引号装饰：直引号 → ❝（西式装饰性开引号） —— */
+[data-theme="paper-ink"] .quote::before {
+  content: "❝";
+  color: var(--red);
+  font-family: Georgia, "Songti SC", serif;
+}
+
+/* —— accordion 标记：+/− → ❧（西式花体标记） —— */
+[data-theme="paper-ink"] .accordion summary::before {
+  content: "❧";
+  width: auto;
+  min-width: 1.5em;
+  color: var(--red);
+}
+[data-theme="paper-ink"] .accordion details[open] summary::before {
+  content: "❧";
+  opacity: .5;
+}

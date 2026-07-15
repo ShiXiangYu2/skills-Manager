@@ -1,0 +1,49 @@
+{
+  "media": "20250404-演示：如何用宝藏AI播客工具 高效学习AI",
+  "video_path": "D:\\视频下载\\张咋啦\\20250404-演示：如何用宝藏AI播客工具 高效学习AI.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250404-演示：如何用宝藏AI播客工具 高效学习AI",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20250404-演示：如何用宝藏AI播客工具 高效学习AI",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete, annotated UI screenshot of a podcast app showing a quote, shownotes, and speaker overlay with Chinese subtitle. It captures a key teaching artifact combining content, metadata, and learner engagement visualization.",
+      "keywords": [
+        "UI",
+        "podcast",
+        "quote",
+        "shownotes",
+        "annotation",
+        "multimodal"
+      ],
+      "candidate_source": "keyframe_candidates\\20250404-演示：如何用宝藏AI播客工具 高效学习AI\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250404-演示：如何用宝藏AI播客工具 高效学习AI\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a complete, annotated UI screenshot of a podcast app showing a quote, shownotes, and speaker overlay with Chinese subtitle. It captures a key teaching artifact combining content, metadata, and learner engagement visualization.",
+          "keywords": [
+            "UI",
+            "podcast",
+            "quote",
+            "shownotes",
+            "annotation",
+            "multimodal"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames provided for evaluation; this initial frame is selected for its rich, complete visual teaching artifact combining text, UI, and subtitle. Since it's the only frame shown, no others were available to drop.",
+      "sheet": "keyframe_selection\\sheets\\20250404-演示：如何用宝藏AI播客工具 高效学习AI\\20250404-演示：如何用宝藏AI播客工具 高效学习AI_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

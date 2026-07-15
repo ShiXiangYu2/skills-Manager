@@ -1,0 +1,19 @@
+{
+  "media": "20230308-微信支付宝只能留一个，这个答案绝了！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230308-微信支付宝只能留一个，这个答案绝了！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230308-微信支付宝只能留一个，这个答案绝了！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230308-微信支付宝只能留一个，这个答案绝了！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames provided for evaluation; unable to select keyframes.",
+      "sheet": "keyframe_selection\\sheets\\20230308-微信支付宝只能留一个，这个答案绝了！\\20230308-微信支付宝只能留一个，这个答案绝了！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

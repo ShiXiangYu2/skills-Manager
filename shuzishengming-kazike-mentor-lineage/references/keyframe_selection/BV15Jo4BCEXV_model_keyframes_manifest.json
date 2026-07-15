@@ -1,0 +1,69 @@
+{
+  "media": "BV15Jo4BCEXV",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV15Jo4BCEXV\\20260422-image 2上线 设计行业真的完蛋了吗.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\BV15Jo4BCEXV",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\BV15Jo4BCEXV",
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Displays a clear title slide with the text '世界知识' (World Knowledge) and a subtitle explaining its purpose, serving as an introduction to the topic and a key teaching artifact.",
+      "keywords": [
+        "title",
+        "slide",
+        "introduction",
+        "world knowledge"
+      ],
+      "candidate_source": "keyframe_candidates\\BV15Jo4BCEXV\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\BV15Jo4BCEXV\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "First frame showing the lecturer with a clear visual state change — the lecturer appears for the first time, and is discuss design and tools, marking the start of content delivery.",
+      "keywords": [
+        "lecturer",
+        "visual state change",
+        "content delivery",
+        "design"
+      ],
+      "candidate_source": "keyframe_candidates\\BV15Jo4BCEXV\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\BV15Jo4BCEXV\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a clear title slide with the text '世界知识' (World Knowledge) and a subtitle explaining its purpose, serving as an introduction to the topic and a key teaching artifact.",
+          "keywords": [
+            "title",
+            "slide",
+            "introduction",
+            "world knowledge"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:00",
+          "reason": "First frame showing the lecturer with a clear visual state change — the lecturer appears for the first time, and is discuss design and tools, marking the start of content delivery.",
+          "keywords": [
+            "lecturer",
+            "visual state change",
+            "content delivery",
+            "design"
+          ]
+        }
+      ],
+      "dropped_summary": "frame_0001.jpg is a collage of unrelated media and not a coherent teaching artifact; frame_0004.jpg is a duplicate of frame_0003.jpg with minor speech change but no visual change, and both subsequent frames lack new teaching content or visual artifacts. Frames with only the lecturer without visible teaching material are dropped per criteria.",
+      "sheet": "keyframe_selection\\sheets\\BV15Jo4BCEXV\\BV15Jo4BCEXV_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

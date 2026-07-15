@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete teaching artifact: a clear slide with a structured list of key learning mindset shifts, including text in both Chinese and English. It provides foundational course content and represents the first meaningful visual state. The content is directly relevant for source-backed explanation and review.",
+      "keywords": [
+        "learning mindset",
+        "active learning",
+        "student vs adult learning",
+        "teaching artifact",
+        "slide"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were available in this contact sheet for evaluation. This frame is selected as it represents the initial and complete visual content of the course, meeting all selection criteria by providing a material, clear, and useful teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20250609-步入职场后，如何坚持学习？摒弃学生思维\\20250609-步入职场后，如何坚持学习？摒弃学生思维_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

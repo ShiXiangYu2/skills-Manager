@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a code snippet with key instructional text and a highlighted line, crucial for explaining the concept. The lecturer's subtitle provides context.",
+      "keywords": [
+        "code",
+        "highlight",
+        "instruction"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a clear, legible code snippet and a descriptive subtitle explaining the purpose of the code, which is essential for understanding the teaching material.",
+      "keywords": [
+        "code",
+        "subtitle",
+        "instruction"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation. Only two frames were available, both meeting the selection criteria for teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20251230-用Skills全自动干活 让AI访谈你自动出文章 (1)\\20251230-用Skills全自动干活 让AI访谈你自动出文章 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

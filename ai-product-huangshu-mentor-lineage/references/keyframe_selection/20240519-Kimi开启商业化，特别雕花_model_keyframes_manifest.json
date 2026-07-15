@@ -1,0 +1,19 @@
+{
+  "media": "20240519-Kimi开启商业化，特别雕花",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20240519-Kimi开启商业化，特别雕花.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20240519-Kimi开启商业化，特别雕花",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20240519-Kimi开启商业化，特别雕花",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is an intro/outro screen with a thank-you message and UI elements, not containing any teaching artifact or visual state change relevant to course content. It does not meet the selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20240519-Kimi开启商业化，特别雕花\\20240519-Kimi开启商业化，特别雕花_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear UI of the 'Create a Live Station' interface with visible options for adding sources (URL, Text, X handle, RSS feed, Subreddit), providing a complete visual state for source selection. This is a key teaching artifact demonstrating how to configure input sources for a live station.",
+      "keywords": [
+        "UI",
+        "Live Station",
+        "Add Sources",
+        "Subreddit",
+        "demo"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are either not visible, blurred, lecturer-only, or duplicate. The provided frame is the only one containing a clear, material visual artifact essential for explaining the course content.",
+  "sheet": "keyframe_selection\\sheets\\20250925-演示：NotebookLM团队创业产品 最新功能\\20250925-演示：NotebookLM团队创业产品 最新功能_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "media": "20251030-烧了 2000 美金跑出来的spec codin",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251030-烧了 2000 美金跑出来的spec codin.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 6,
+  "candidate_dir": "keyframe_candidates\\20251030-烧了 2000 美金跑出来的spec codin",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251030-烧了 2000 美金跑出来的spec codin",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are either lecturer-only (showing the speaker with no visible teaching artifact) or low-information (empty UI, blurred, or not capturing a clear teaching moment). No frames meet the criteria of showing a slide, board, document, UI, diagram, table, formula, demo, or visual state change that materially aids course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20251030-烧了 2000 美金跑出来的spec codin\\20251030-烧了 2000 美金跑出来的spec codin_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

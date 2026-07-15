@@ -1,0 +1,32 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a complete teaching slide with a clear title, example product (Granola.ai), and a structured list of four key principles for AI product development. The slide includes a visual demo of the product interface and concise bullet points with context, making it ideal for source-backed explanation and review.",
+      "keywords": [
+        "AI product design",
+        "Granola.ai",
+        "teaching slide",
+        "principles",
+        "demo"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows the same teaching slide as frame_0001 but with slight cursor movement and altered subtitle text, indicating progression in explanation. While similar, it captures the live teaching moment with updated context, adding value for verification and understanding the flow of explanation.",
+      "keywords": [
+        "AI product design",
+        "Granola.ai",
+        "teaching slide",
+        "live explanation",
+        "subtitles"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames are either blank, blurred, or lower-information variants of the initial slide, containing no new teaching artifacts, visual changes, or useful content for distillation. The lecturer-only and duplicate frames do not meet the criteria for preservation.",
+  "sheet": "keyframe_selection\\sheets\\20250527-这才是AI应用层创新该有的样子：Granola\\20250527-这才是AI应用层创新该有的样子：Granola_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

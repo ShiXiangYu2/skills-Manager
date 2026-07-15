@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a structured list of benefits for a specific learning method, with clear text and bullet points, suitable for source-backed review and explanation.",
+      "keywords": [
+        "learning method",
+        "benefits",
+        "study tips"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:20",
+      "reason": "Provides a clear, step-by-step list of an effective learning strategy with actionable items, including a specific prompt for AI interaction, making it valuable for distillation.",
+      "keywords": [
+        "study strategy",
+        "AI prompt",
+        "learning steps"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:40",
+      "reason": "Shows a UI of a video platform with multiple recommended items and clear metadata, useful for demonstrating content curation or discovery patterns in learning contexts.",
+      "keywords": [
+        "video platform",
+        "recommendations",
+        "content discovery"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped due to being low-information, partially obscured, or redundant with the selected frames. The lecturer-only or intro/outro nature of some frames made them less useful for source-backed distillation.",
+  "sheet": "keyframe_selection\\sheets\\20251217-我如何像读书一样学习长视频\\20251217-我如何像读书一样学习长视频_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

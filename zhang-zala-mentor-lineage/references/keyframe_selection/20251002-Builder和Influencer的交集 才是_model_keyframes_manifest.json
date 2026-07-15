@@ -1,0 +1,47 @@
+{
+  "media": "20251002-Builder和Influencer的交集 才是",
+  "video_path": "D:\\视频下载\\张咋啦\\20251002-Builder和Influencer的交集 才是.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251002-Builder和Influencer的交集 才是",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251002-Builder和Influencer的交集 才是",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame displays a complete teaching slide with key concepts for becoming a better 'builder' and 'influencer', including bilingual text and supporting bullet points. It serves as a foundational summary for course distillation.",
+      "keywords": [
+        "builder",
+        "influencer",
+        "slide",
+        "teaching artifact",
+        "summary"
+      ],
+      "candidate_source": "keyframe_candidates\\20251002-Builder和Influencer的交集 才是\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251002-Builder和Influencer的交集 才是\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame displays a complete teaching slide with key concepts for becoming a better 'builder' and 'influencer', including bilingual text and supporting bullet points. It serves as a foundational summary for course distillation.",
+          "keywords": [
+            "builder",
+            "influencer",
+            "slide",
+            "teaching artifact",
+            "summary"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames provided for evaluation. This single frame is retained as it contains clear, structured, and informative content suitable for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20251002-Builder和Influencer的交集 才是\\20251002-Builder和Influencer的交集 才是_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

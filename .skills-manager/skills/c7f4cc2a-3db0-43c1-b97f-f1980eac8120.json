@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7f4cc2a-3db0-43c1-b97f-f1980eac8120",
+  "path": "linyuebanzi-inline-diagram",
+  "path_key": "linyuebanzi-inline-diagram",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

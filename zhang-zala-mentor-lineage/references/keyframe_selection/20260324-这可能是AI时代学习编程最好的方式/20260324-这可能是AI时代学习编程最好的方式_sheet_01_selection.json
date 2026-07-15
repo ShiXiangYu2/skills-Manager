@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "This frame displays a clear, structured document with distinct design philosophy principles, bullet points, and explanatory text, which serves as a key teaching artifact for understanding the course's core concepts. The headers and body text are legible and convey meaningful content for later distillation.",
+      "keywords": [
+        "design philosophy",
+        "principles",
+        "teaching artifact",
+        "document"
+      ]
+    }
+  ],
+  "dropped_summary": "Frame_0001.jpg was dropped as it shows a quiz interface with placeholder text and low informational value, lacking core course content. The lecturer is visible but does not provide visual teaching material worth preserving. The frame lacks clarity, completeness, or substantial teaching artifacts needed for source-backed explanation or review.",
+  "sheet": "keyframe_selection\\sheets\\20260324-这可能是AI时代学习编程最好的方式\\20260324-这可能是AI时代学习编程最好的方式_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,41 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a complete example of an AI-generated video output with overlaid text and credits, including context about its creation and view count, which is valuable for demonstrating AI video generation results and audience engagement.",
+      "keywords": [
+        "AI video",
+        "example output",
+        "view count",
+        "content creation"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "01:00",
+      "reason": "Captures a clear UI of the Reimagine Video Creation tool with visible interface elements (prompt input, thumbnails, '提示词' label), crucial for understanding the software's functionality and workflow.",
+      "keywords": [
+        "UI",
+        "Reimagine Video Creation",
+        "prompt input",
+        "tool interface"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a generated cinematic scene with a building and warm lighting, representing a clear visual output from the AI tool, useful for demonstrating the aesthetic and technical quality of AI-generated content.",
+      "keywords": [
+        "AI-generated scene",
+        "cinematic",
+        "visual output",
+        "nighttime lighting"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames were dropped as they primarily show transitional or background visuals without distinct teaching artifacts. The frames lack clear text, diagrams, or demonstrative UI elements essential for source-backed explanation or verification.",
+  "sheet": "keyframe_selection\\sheets\\BV1v1mNYeEs1\\BV1v1mNYeEs1_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

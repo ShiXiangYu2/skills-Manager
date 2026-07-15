@@ -1,0 +1,211 @@
+{
+  "media": "20250907-【20分钟完整版】分享我学AI的方法和信息源",
+  "video_path": "D:\\视频下载\\张咋啦\\20250907-【20分钟完整版】分享我学AI的方法和信息源.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 11,
+  "candidate_dir": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源",
+  "selected_count": 8,
+  "selected_dir": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源",
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Illustrates 'AI Information Anxiety' with a clear visual metaphor of a stressed person surrounded by AI tools and news, providing context for the course's motivational foundation.",
+      "keywords": [
+        "AI anxiety",
+        "motivation",
+        "visual metaphor"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a hierarchical pyramid diagram showing the AI stack from Semiconductors to Application, with a parallel flow chart from Research to User, offering a structural overview of AI's ecosystem.",
+      "keywords": [
+        "AI stack",
+        "diagram",
+        "hierarchy",
+        "ecosystem"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0003.jpg"
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Presents a clear list of four key learning pillars: model boundaries, development trajectory, productization, and value communication, essential for course content scaffolding.",
+      "keywords": [
+        "learning pillars",
+        "core concepts",
+        "list",
+        "framework"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0004.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0004.jpg"
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Highlights a key principle: 'Follow builders, not influencers' with a list of influential AI product leaders, serving as a concrete guide for learning sources.",
+      "keywords": [
+        "builders",
+        "influencers",
+        "role models",
+        "learning sources"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0005.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0005.jpg"
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Shows a demo of AI in action within a coding environment, featuring a specific example of AI-assisted problem-solving with text output, illustrating practical application.",
+      "keywords": [
+        "demo",
+        "AI coding",
+        "practical use",
+        "example"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0006.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0006.jpg"
+    },
+    {
+      "frame": "frame_0008.jpg",
+      "timestamp": "14:00",
+      "reason": "Explains the 'output ink input' strategy with a clear branching diagram for 'Build something' (product vs. audience), providing actionable guidance for learners.",
+      "keywords": [
+        "actionable strategy",
+        "output ink input",
+        "build something",
+        "diagram"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0008.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0008.jpg"
+    },
+    {
+      "frame": "frame_0009.jpg",
+      "timestamp": "16:00",
+      "reason": "Introduces the core philosophy 'Context, not control' with a concise explanation, positioning AI as intelligence rather than a tool, crucial for mindset shift.",
+      "keywords": [
+        "context not control",
+        "AI philosophy",
+        "mindset",
+        "principle"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0009.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0009.jpg"
+    },
+    {
+      "frame": "frame_0011.jpg",
+      "timestamp": "20:00",
+      "reason": "Features a Venn diagram illustrating the intersection of Sales, Marketing, Product, and Engineering for a 'Designer' role, offering a visual model for cross-functional collaboration.",
+      "keywords": [
+        "Venn diagram",
+        "cross-functional",
+        "collaboration",
+        "designer role"
+      ],
+      "candidate_source": "keyframe_candidates\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0011.jpg",
+      "selected_path": "keyframes_model_selected\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\frame_0011.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:20",
+          "reason": "Illustrates 'AI Information Anxiety' with a clear visual metaphor of a stressed person surrounded by AI tools and news, providing context for the course's motivational foundation.",
+          "keywords": [
+            "AI anxiety",
+            "motivation",
+            "visual metaphor"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:40",
+          "reason": "Displays a hierarchical pyramid diagram showing the AI stack from Semiconductors to Application, with a parallel flow chart from Research to User, offering a structural overview of AI's ecosystem.",
+          "keywords": [
+            "AI stack",
+            "diagram",
+            "hierarchy",
+            "ecosystem"
+          ]
+        },
+        {
+          "frame": "frame_0004.jpg",
+          "timestamp": "00:60",
+          "reason": "Presents a clear list of four key learning pillars: model boundaries, development trajectory, productization, and value communication, essential for course content scaffolding.",
+          "keywords": [
+            "learning pillars",
+            "core concepts",
+            "list",
+            "framework"
+          ]
+        },
+        {
+          "frame": "frame_0005.jpg",
+          "timestamp": "00:80",
+          "reason": "Highlights a key principle: 'Follow builders, not influencers' with a list of influential AI product leaders, serving as a concrete guide for learning sources.",
+          "keywords": [
+            "builders",
+            "influencers",
+            "role models",
+            "learning sources"
+          ]
+        },
+        {
+          "frame": "frame_0006.jpg",
+          "timestamp": "01:00",
+          "reason": "Shows a demo of AI in action within a coding environment, featuring a specific example of AI-assisted problem-solving with text output, illustrating practical application.",
+          "keywords": [
+            "demo",
+            "AI coding",
+            "practical use",
+            "example"
+          ]
+        },
+        {
+          "frame": "frame_0008.jpg",
+          "timestamp": "01:40",
+          "reason": "Explains the 'output ink input' strategy with a clear branching diagram for 'Build something' (product vs. audience), providing actionable guidance for learners.",
+          "keywords": [
+            "actionable strategy",
+            "output ink input",
+            "build something",
+            "diagram"
+          ]
+        },
+        {
+          "frame": "frame_0009.jpg",
+          "timestamp": "01:60",
+          "reason": "Introduces the core philosophy 'Context, not control' with a concise explanation, positioning AI as intelligence rather than a tool, crucial for mindset shift.",
+          "keywords": [
+            "context not control",
+            "AI philosophy",
+            "mindset",
+            "principle"
+          ]
+        },
+        {
+          "frame": "frame_0011.jpg",
+          "timestamp": "02:00",
+          "reason": "Features a Venn diagram illustrating the intersection of Sales, Marketing, Product, and Engineering for a 'Designer' role, offering a visual model for cross-functional collaboration.",
+          "keywords": [
+            "Venn diagram",
+            "cross-functional",
+            "collaboration",
+            "designer role"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were dropped for being lecturer-only (e.g., frame_0000, frame_0007, frame_0010), too generic or low-information (e.g., frame_0001), or duplicating content already captured in selected frames (e.g., text-heavy frames without diagrams). Blank or blocked frames were also excluded.",
+      "sheet": "keyframe_selection\\sheets\\20250907-【20分钟完整版】分享我学AI的方法和信息源\\20250907-【20分钟完整版】分享我学AI的方法和信息源_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

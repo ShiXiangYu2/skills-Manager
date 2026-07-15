@@ -1,0 +1,32 @@
+{
+  "name": "novel-studio",
+  "version": "1.0.0",
+  "description": "AI 小说写作工作室。技法库驱动写作 → 10维度评分 → 复盘反哺。支持：创建项目、启动流水线、查看技法库、评分、复盘。",
+  "author": {
+    "name": "novel-studio"
+  },
+  "license": "MIT",
+  "pricing": {
+    "tier": "free"
+  },
+  "permissions": [],
+  "dependencies": {},
+  "tags": [
+    "novel",
+    "writing",
+    "creative",
+    "ai",
+    "fiction",
+    "storytelling",
+    "writing-assistant",
+    "multi-agent",
+    "technique-library"
+  ],
+  "category": "creative",
+  "repository": "https://github.com/novel-studio",
+  "files": [
+    "SKILL.md",
+    "skills/",
+    "scripts/"
+  ]
+}

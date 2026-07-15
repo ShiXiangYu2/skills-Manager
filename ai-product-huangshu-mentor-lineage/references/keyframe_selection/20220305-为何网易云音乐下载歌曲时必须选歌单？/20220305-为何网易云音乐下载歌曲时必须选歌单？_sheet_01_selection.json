@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear diagram comparing two synchronization models (cloud-based vs. server-based) with Chinese annotations, which materially explains the core concept being taught.",
+      "keywords": [
+        "diagram",
+        "synchronization",
+        "cloud",
+        "server",
+        "comparison"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20220305-为何网易云音乐下载歌曲时必须选歌单？\\20220305-为何网易云音乐下载歌曲时必须选歌单？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

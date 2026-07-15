@@ -1,0 +1,19 @@
+{
+  "media": "20250227-一个颠覆性的AI开发神器！扣子独家支持",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250227-一个颠覆性的AI开发神器！扣子独家支持.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250227-一个颠覆性的AI开发神器！扣子独家支持",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250227-一个颠覆性的AI开发神器！扣子独家支持",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The only frame provided shows the lecturer speaking with subtitles, which does not meet the criteria for preserving teaching artifacts (e.g., slides, diagrams, code, etc.). It is a lecturer-only frame and lacks visual instructional content.",
+      "sheet": "keyframe_selection\\sheets\\20250227-一个颠覆性的AI开发神器！扣子独家支持\\20250227-一个颠覆性的AI开发神器！扣子独家支持_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

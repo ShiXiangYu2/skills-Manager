@@ -1,0 +1,58 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, structured slide with 3 distinct project ideas and their associated metrics (stars on GitHub), serving as a key teaching artifact introducing concrete examples of small projects.",
+      "keywords": [
+        "project examples",
+        "GitHub stats",
+        "teaching slide"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Shows a complete slide with 4 reasoning points for building small projects, with clear headings and consistent visual design, essential for course distillation.",
+      "keywords": [
+        "reasons to build small",
+        "teaching slide",
+        "learning objectives"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "06:00",
+      "reason": "Same content as frame_0003 but with visible Chinese subtitles at the bottom, providing bilingual context and indicating a key teaching moment.",
+      "keywords": [
+        "bilingual content",
+        "teaching slide",
+        "subtitles"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "08:00",
+      "reason": "Presents a clean, centered diagram explaining the 'How to find product ideas' framework with the User-Product-Technology relationship, a core conceptual model.",
+      "keywords": [
+        "product ideas",
+        "framework",
+        "diagram"
+      ]
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Shows a structured list of 4 actionable tips for 'How to talk to models', with clear numbering and highlighted text, serving as a practical guide.",
+      "keywords": [
+        "AI guidelines",
+        "teaching list",
+        "practical advice"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0002 was dropped as it shows a blurry, low-information browser UI without clear text or structure. Other frames (if any beyond the 6 shown) would be dropped for being duplicates, lecturer-only, or lacking substantive visual teaching artifacts. The selected 5 frames capture distinct, complete teaching artifacts essential for distillation.",
+  "sheet": "keyframe_selection\\sheets\\20260503-我的12分钟分享：如何从0到1做一个小产品\\20260503-我的12分钟分享：如何从0到1做一个小产品_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

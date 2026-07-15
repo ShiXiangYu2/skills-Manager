@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a key teaching concept: '好内容的核心是'共鸣'' (The core of good content is 'resonance'), with supporting text explaining the principle. Provides a clear, complete visual artifact for source-backed explanation.",
+      "keywords": [
+        "content creation",
+        "resonance",
+        "teaching artifact"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Shows a structured list with three key points: '真实、真诚' (Genuine, sincere), '符合时代趋势' (Align with trends), '长期耕耘' (Long-term cultivation). This is a complete, clear teaching diagram useful for review and verification.",
+      "keywords": [
+        "content guidelines",
+        "teaching diagram",
+        "list"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames (if any beyond these two) likely contain duplicates, lecturer-only shots, or partial views without complete teaching content. The provided frames already capture the core concepts visually, and no additional unique teaching artifacts are visible.",
+  "sheet": "keyframe_selection\\sheets\\20260309-分享我做内容的方法论\\20260309-分享我做内容的方法论_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

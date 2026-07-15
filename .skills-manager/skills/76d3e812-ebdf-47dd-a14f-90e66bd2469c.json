@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76d3e812-ebdf-47dd-a14f-90e66bd2469c",
+  "path": "doc-coauthoring",
+  "path_key": "doc-coauthoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

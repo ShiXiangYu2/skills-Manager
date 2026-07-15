@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a2cbb30-5281-4f89-b47d-1af7abec2548",
+  "path": "lark-drive",
+  "path_key": "lark-drive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

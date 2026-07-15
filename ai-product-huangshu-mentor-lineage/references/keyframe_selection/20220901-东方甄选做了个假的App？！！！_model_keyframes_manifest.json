@@ -1,0 +1,19 @@
+{
+  "media": "20220901-东方甄选做了个假的App？！！！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220901-东方甄选做了个假的App？！！！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20220901-东方甄选做了个假的App？！！！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220901-东方甄选做了个假的App？！！！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame is a speaker-only shot with no teaching artifact, visual state change, or instructional content. It does not meet the selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20220901-东方甄选做了个假的App？！！！\\20220901-东方甄选做了个假的App？！！！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

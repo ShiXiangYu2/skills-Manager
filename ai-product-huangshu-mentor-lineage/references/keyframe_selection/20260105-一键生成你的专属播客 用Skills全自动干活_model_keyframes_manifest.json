@@ -1,0 +1,19 @@
+{
+  "media": "20260105-一键生成你的专属播客 用Skills全自动干活",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260105-一键生成你的专属播客 用Skills全自动干活.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260105-一键生成你的专属播客 用Skills全自动干活",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260105-一键生成你的专属播客 用Skills全自动干活",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain materially important teaching artifacts like slides, diagrams, or UI states. The only frame shows a lecturer's interface with no clear educational content or visual state change.",
+      "sheet": "keyframe_selection\\sheets\\20260105-一键生成你的专属播客 用Skills全自动干活\\20260105-一键生成你的专属播客 用Skills全自动干活_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

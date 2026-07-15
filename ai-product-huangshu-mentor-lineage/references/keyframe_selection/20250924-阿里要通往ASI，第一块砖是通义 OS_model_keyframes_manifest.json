@@ -1,0 +1,19 @@
+{
+  "media": "20250924-阿里要通往ASI，第一块砖是通义 OS",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250924-阿里要通往ASI，第一块砖是通义 OS.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20250924-阿里要通往ASI，第一块砖是通义 OS",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20250924-阿里要通往ASI，第一块砖是通义 OS",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only the lecturer speaking with no visible teaching artifact, diagram, or visual state change. It is a lecturer-only frame and does not meet the selection criteria for preserving as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20250924-阿里要通往ASI，第一块砖是通义 OS\\20250924-阿里要通往ASI，第一块砖是通义 OS_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "media": "20250721-Trae 2.0发布：SOLO！真的好用起来了",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250721-Trae 2.0发布：SOLO！真的好用起来了.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250721-Trae 2.0发布：SOLO！真的好用起来了",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20250721-Trae 2.0发布：SOLO！真的好用起来了",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear, complete code editor interface with visible file structure and data display, useful for source-backed explanation of the teaching artifact.",
+      "keywords": [
+        "code",
+        "editor",
+        "UI",
+        "diagram"
+      ],
+      "candidate_source": "keyframe_candidates\\20250721-Trae 2.0发布：SOLO！真的好用起来了\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250721-Trae 2.0发布：SOLO！真的好用起来了\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a detailed document or slide with bullet points and a clear visual hierarchy, capturing a key teaching point about data retrieval.",
+      "keywords": [
+        "document",
+        "slide",
+        "UI",
+        "formula",
+        "visual state"
+      ],
+      "candidate_source": "keyframe_candidates\\20250721-Trae 2.0发布：SOLO！真的好用起来了\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250721-Trae 2.0发布：SOLO！真的好用起来了\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Shows a clear, complete code editor interface with visible file structure and data display, useful for source-backed explanation of the teaching artifact.",
+          "keywords": [
+            "code",
+            "editor",
+            "UI",
+            "diagram"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Displays a detailed document or slide with bullet points and a clear visual hierarchy, capturing a key teaching point about data retrieval.",
+          "keywords": [
+            "document",
+            "slide",
+            "UI",
+            "formula",
+            "visual state"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were provided for evaluation.",
+      "sheet": "keyframe_selection\\sheets\\20250721-Trae 2.0发布：SOLO！真的好用起来了\\20250721-Trae 2.0发布：SOLO！真的好用起来了_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

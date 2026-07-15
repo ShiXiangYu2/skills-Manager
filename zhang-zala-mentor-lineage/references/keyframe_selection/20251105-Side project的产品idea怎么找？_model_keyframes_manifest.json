@@ -1,0 +1,45 @@
+{
+  "media": "20251105-Side project的产品idea怎么找？",
+  "video_path": "D:\\视频下载\\张咋啦\\20251105-Side project的产品idea怎么找？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251105-Side project的产品idea怎么找？",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251105-Side project的产品idea怎么找？",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Contains the video title and initial teaching topic (finding AI side project ideas), with clear text overlay and context-setting statement. It serves as the entrypoint for the course content.",
+      "keywords": [
+        "title",
+        "topic",
+        "AI side project",
+        "idea generation"
+      ],
+      "candidate_source": "keyframe_candidates\\20251105-Side project的产品idea怎么找？\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251105-Side project的产品idea怎么找？\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Contains the video title and initial teaching topic (finding AI side project ideas), with clear text overlay and context-setting statement. It serves as the entrypoint for the course content.",
+          "keywords": [
+            "title",
+            "topic",
+            "AI side project",
+            "idea generation"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames were not provided in the contact sheet. Based on the single frame shown, it is the only potential keyframe as it introduces the main topic. No further visual artifacts, slides, or diagrams were visible to select.",
+      "sheet": "keyframe_selection\\sheets\\20251105-Side project的产品idea怎么找？\\20251105-Side project的产品idea怎么找？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

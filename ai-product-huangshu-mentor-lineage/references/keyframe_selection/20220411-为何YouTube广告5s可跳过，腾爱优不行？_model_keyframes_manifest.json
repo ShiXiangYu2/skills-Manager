@@ -1,0 +1,19 @@
+{
+  "media": "20220411-为何YouTube广告5s可跳过，腾爱优不行？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220411-为何YouTube广告5s可跳过，腾爱优不行？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220411-为何YouTube广告5s可跳过，腾爱优不行？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220411-为何YouTube广告5s可跳过，腾爱优不行？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain slide, board, document, UI, diagram, table, formula, demo, or visual state changes that materially contribute to teaching. All frames appear to be lecturer-only shots with minimal visual artifacts, and no key teaching content is captured.",
+      "sheet": "keyframe_selection\\sheets\\20220411-为何YouTube广告5s可跳过，腾爱优不行？\\20220411-为何YouTube广告5s可跳过，腾爱优不行？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

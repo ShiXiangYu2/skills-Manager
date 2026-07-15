@@ -1,0 +1,69 @@
+{
+  "media": "20250330-演示：我日常学习AI的高质量信息源",
+  "video_path": "D:\\视频下载\\张咋啦\\20250330-演示：我日常学习AI的高质量信息源.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250330-演示：我日常学习AI的高质量信息源",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20250330-演示：我日常学习AI的高质量信息源",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a complete teaching diagram of Model Context Protocol (MCP) with labeled components (LLA, MCP, functions), alongside lecturer commentary, making it a clear, structured visual artifact for course distillation.",
+      "keywords": [
+        "MCP",
+        "LLM",
+        "diagram",
+        "Model Context Protocol"
+      ],
+      "candidate_source": "keyframe_candidates\\20250330-演示：我日常学习AI的高质量信息源\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250330-演示：我日常学习AI的高质量信息源\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a conceptual mind-map with key AI concepts like '大模型基础原理', 'Vibe coding', and 'AI大使访谈', providing context for learning framework and resources, useful for curating course materials.",
+      "keywords": [
+        "AI",
+        "Vibe coding",
+        "learning tips",
+        "mind map"
+      ],
+      "candidate_source": "keyframe_candidates\\20250330-演示：我日常学习AI的高质量信息源\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250330-演示：我日常学习AI的高质量信息源\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a complete teaching diagram of Model Context Protocol (MCP) with labeled components (LLA, MCP, functions), alongside lecturer commentary, making it a clear, structured visual artifact for course distillation.",
+          "keywords": [
+            "MCP",
+            "LLM",
+            "diagram",
+            "Model Context Protocol"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows a conceptual mind-map with key AI concepts like '大模型基础原理', 'Vibe coding', and 'AI大使访谈', providing context for learning framework and resources, useful for curating course materials.",
+          "keywords": [
+            "AI",
+            "Vibe coding",
+            "learning tips",
+            "mind map"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames were either partially visible, lacked clear teaching artifacts, or showed overlapping content without new information. Frames with only lecturer faces, blurred areas, or minimal text/diagrams were excluded per criteria.",
+      "sheet": "keyframe_selection\\sheets\\20250330-演示：我日常学习AI的高质量信息源\\20250330-演示：我日常学习AI的高质量信息源_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

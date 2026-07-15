@@ -1,0 +1,71 @@
+{
+  "media": "20250926-通过8条tweet来看硅谷AI公司如何跟用户共创",
+  "video_path": "D:\\视频下载\\张咋啦\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a detailed Twitter/X thread discussing non-coding uses of Claude Code, including user examples and suggested workflows, providing rich, actionable context for course distillation.",
+      "keywords": [
+        "Claude Code",
+        "non-coding uses",
+        "user examples",
+        "workflows",
+        "AI agents"
+      ],
+      "candidate_source": "keyframe_candidates\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Captures a clear slide with Chinese text introducing 'Build in public' concepts, summarizing core principles for public project development, which is a key teaching artifact.",
+      "keywords": [
+        "Build in public",
+        "public development",
+        "user共创",
+        "project principles"
+      ],
+      "candidate_source": "keyframe_candidates\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays a detailed Twitter/X thread discussing non-coding uses of Claude Code, including user examples and suggested workflows, providing rich, actionable context for course distillation.",
+          "keywords": [
+            "Claude Code",
+            "non-coding uses",
+            "user examples",
+            "workflows",
+            "AI agents"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures a clear slide with Chinese text introducing 'Build in public' concepts, summarizing core principles for public project development, which is a key teaching artifact.",
+          "keywords": [
+            "Build in public",
+            "public development",
+            "user共创",
+            "project principles"
+          ]
+        }
+      ],
+      "dropped_summary": "Other frames are either lecturer-only, heavily blurred, contain minimal visual information, or duplicate content already captured in the selected frames. No additional unique teaching artifacts or visual changes were observed.",
+      "sheet": "keyframe_selection\\sheets\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创\\20250926-通过8条tweet来看硅谷AI公司如何跟用户共创_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

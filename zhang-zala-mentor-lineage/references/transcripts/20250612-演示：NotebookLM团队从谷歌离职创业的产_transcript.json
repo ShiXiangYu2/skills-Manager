@@ -1,0 +1,16 @@
+{
+  "full_text": "去年notebookLM的几个主力成员从google离职去创业了，我一直非常关注他们的创业项目。因为我觉得notebookLM可能是去年最好的AI产品之一。最近他们发布了他们这个项目的最新产品叫hos。它的主要产品理念就是极度个性化的音频内容。我第一时间去用了。我给大家看一下它的主要功能。你进入它的界面之后，会有一个播放按钮，可以播放你自己的daily briefing。welcome back。glad you could tuneday因为我给他连接了我的 gmail，所以他首先会给我总结一下我昨天邮箱里的内容.然后他会开始给我讲新闻，这个新闻他也是个性化推荐的，他应该是越用越懂我。然后你在听的时候，如果你对这个话题感兴趣，你可以点tell me more。如果不感兴趣，点sk this topic，它就会跳过。然后你可以随时按住这个按钮去跟他实时的说话，让他根据你的问题来实时调整他讲的内容。另外如果你点下面这个加号键，它有一个个性化播客的功能，你可以在这输入任何的pro。比如说问一个问题，我问了一个为什么三番夏天这么冷的问题，然后它就会生成1个AI播客，有点类似于nbook OM里那个一男一女对话的形式。然后我们这来放一个我之前生成好的。all right, let's dive in why is San Francisco always so chilly in the summer hear California sunshine, but you out at the airport in July and boom it's just cold foggy that went right was blown away finally understood how it all works。然后你在听的时候可以随时点这个按钮打断他们去提问，或者让他去聊你更关注的话题所以这就是这个产品主要的几个功能，它其实现在还有非常多的 bug因为它刚 launched了一周左右，而且它是每天换。😊邀请码。我昨天是在他的disord里面的蹲到了邀请码。我觉得这产品虽然很早期，但是它指向了未来的一个方向，就是内容的极度个性化。因为这里面的内容我会管它叫做content for one。以前我们认为一个好的内容是看的人越多越好。但是像这个里面的音频内容，包括notebookM米的博客很多都是只给我一个人听的，但是AI基于我个人的contex来给我准备的。所以它对其他人可能价值没有那么大。但是可能对我的价。值就非常大。比如说我可以每天上班路上就把我邮件里的最重要的信息，还有昨天的新闻可以很快的catch up。并且它有一个genrative uI的概念。也就是说它这个上面的界面是会随着音频的内容而变化的。所以我觉得这个产品还是非常值得关注的。如果大家感兴趣的话，可以去关注他们的X呃，或者他们的disord每天都会发一个新的邀请码。",
+  "segments": [
+    {
+      "start": 0,
+      "end": 184.53,
+      "text": "去年notebookLM的几个主力成员从google离职去创业了，我一直非常关注他们的创业项目。因为我觉得notebookLM可能是去年最好的AI产品之一。最近他们发布了他们这个项目的最新产品叫hos。它的主要产品理念就是极度个性化的音频内容。我第一时间去用了。我给大家看一下它的主要功能。你进入它的界面之后，会有一个播放按钮，可以播放你自己的daily briefing。welcome back。glad you could tuneday因为我给他连接了我的 gmail，所以他首先会给我总结一下我昨天邮箱里的内容.然后他会开始给我讲新闻，这个新闻他也是个性化推荐的，他应该是越用越懂我。然后你在听的时候，如果你对这个话题感兴趣，你可以点tell me more。如果不感兴趣，点sk this topic，它就会跳过。然后你可以随时按住这个按钮去跟他实时的说话，让他根据你的问题来实时调整他讲的内容。另外如果你点下面这个加号键，它有一个个性化播客的功能，你可以在这输入任何的pro。比如说问一个问题，我问了一个为什么三番夏天这么冷的问题，然后它就会生成1个AI播客，有点类似于nbook OM里那个一男一女对话的形式。然后我们这来放一个我之前生成好的。all right, let's dive in why is San Francisco always so chilly in the summer hear California sunshine, but you out at the airport in July and boom it's just cold foggy that went right was blown away finally understood how it all works。然后你在听的时候可以随时点这个按钮打断他们去提问，或者让他去聊你更关注的话题所以这就是这个产品主要的几个功能，它其实现在还有非常多的 bug因为它刚 launched了一周左右，而且它是每天换。😊邀请码。我昨天是在他的disord里面的蹲到了邀请码。我觉得这产品虽然很早期，但是它指向了未来的一个方向，就是内容的极度个性化。因为这里面的内容我会管它叫做content for one。以前我们认为一个好的内容是看的人越多越好。但是像这个里面的音频内容，包括notebookM米的博客很多都是只给我一个人听的，但是AI基于我个人的contex来给我准备的。所以它对其他人可能价值没有那么大。但是可能对我的价。值就非常大。比如说我可以每天上班路上就把我邮件里的最重要的信息，还有昨天的新闻可以很快的catch up。并且它有一个genrative uI的概念。也就是说它这个上面的界面是会随着音频的内容而变化的。所以我觉得这个产品还是非常值得关注的。如果大家感兴趣的话，可以去关注他们的X呃，或者他们的disord每天都会发一个新的邀请码。"
+    }
+  ],
+  "language": "zh",
+  "duration": 184.53,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "20250612-演示：NotebookLM团队从谷歌离职创业的产",
+  "video_path": "D:\\视频下载\\张咋啦\\20250612-演示：NotebookLM团队从谷歌离职创业的产.mp4",
+  "source_type": "video"
+}

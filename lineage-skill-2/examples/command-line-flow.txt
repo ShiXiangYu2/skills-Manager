@@ -1,0 +1,94 @@
+师承.skill 命令行流程图
+==========================
+
+输入
+│
+└─ 视频 / 音频课程目录
+    └─ *.mp4 / *.mp3 / *.wav / *.m4a / ...
+    │
+    ▼
+
+┌─────────────────────────────────────────────────────────────────┐
+│ Stage 1：视频 / 音频转录                                         │
+│ scripts/transcribe_video.py                                      │
+├─────────────────────────────────────────────────────────────────┤
+│ python scripts/transcribe_video.py \                            │
+│   --input-dir <视频或音频目录> \                                │
+│   --course-name <课程名称>                                      │
+│                                                                 │
+│ 输出：<course>/transcripts/*.json                               │
+└─────────────────────────────────────────────────────────────────┘
+    │
+    ▼
+
+┌─────────────────────────────────────────────────────────────────┐
+│ Stage 2：画面分析                                                │
+│ scripts/analyze_videos.py                                        │
+├─────────────────────────────────────────────────────────────────┤
+│ python scripts/analyze_videos.py \                              │
+│   --input-dir <视频目录> \                                      │
+│   --course-name <课程名称> \                                    │
+│   --chunk-minutes 8                                             │
+│                                                                 │
+│ 输出：                                                          │
+│ <course>/analysis/*_analysis.md                                 │
+│ <course>/analysis/screenshots/<video>/*.jpg（如果模型给出标记） │
+└─────────────────────────────────────────────────────────────────┘
+    │
+    ▼
+
+┌─────────────────────────────────────────────────────────────────┐
+│ Stage 3：模型精选关键帧                                          │
+│ scripts/select_video_keyframes.py                                │
+├─────────────────────────────────────────────────────────────────┤
+│ python scripts/select_video_keyframes.py \                       │
+│   --input-dir <视频目录> \                                      │
+│   --course-name <课程名称>                                      │
+│                                                                 │
+│ 输出：                                                          │
+│ <course>/keyframe_selection/model_keyframe_summary.md            │
+│ <course>/keyframe_selection/*_model_keyframes_manifest.json      │
+│ <course>/keyframes_model_selected/<video>/*.jpg                  │
+└─────────────────────────────────────────────────────────────────┘
+    │
+    ▼
+
+┌─────────────────────────────────────────────────────────────────┐
+│ Stage 4：课程蒸馏                                                │
+│ scripts/distill_course.py                                        │
+├─────────────────────────────────────────────────────────────────┤
+│ python scripts/distill_course.py \                              │
+│   --course-name <课程名称>                                      │
+│                                                                 │
+│ 输出：                                                          │
+│ lesson_summaries.json                                           │
+│ full_transcript.md                                              │
+│ course_distillation_<date>.md                                   │
+│ course_distillation_<date>.json                                 │
+└─────────────────────────────────────────────────────────────────┘
+    │
+    ▼
+
+┌─────────────────────────────────────────────────────────────────┐
+│ Stage 5：生成专家 Skill                                          │
+│ scripts/build_course_skill.py                                    │
+├─────────────────────────────────────────────────────────────────┤
+│ python scripts/build_course_skill.py \                          │
+│   --course-name <课程名称> \                                    │
+│   --skill-name <skill名称> \                                    │
+│   --source-dir <课程材料目录> \                                  │
+│   --output-dir <skills目录>                                     │
+│                                                                 │
+│ 输出：                                                          │
+│ <generated-skill>/SKILL.md                                      │
+│ <generated-skill>/references/*                                  │
+└─────────────────────────────────────────────────────────────────┘
+
+一键流水线
+==========
+
+python scripts/run_course_pipeline.py \
+  --input-dir <视频或音频目录> \
+  --course-name <课程名称> \
+  --skill-name <skill名称> \
+  --output-dir <skills目录>

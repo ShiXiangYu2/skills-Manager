@@ -1,0 +1,16 @@
+{
+  "full_text": "之前做了一个用HTML做present的 skillki叫front and slides。他现在在get上已经有14000多star了，并且我收到了很多用户的好评，大家都在真心推荐这个skill就是他做出来的PPT是真的是效果非常好。还有一些用户说my favorite skill downloaded，并且我觉得它已经成为了一种现象，至少在我周围我参加的活动或者是我平时朋友做的sdes基本上都已经是HTML。然后今天很高兴给大家分享一下，这个front end slides已经做为一个功能，正式上线到any这个平台里。😊其实你没有一个coingag，你就不习惯用ter，你可以在网页端一个门槛很低的形式去生成一个HTML slides进入any点这个build slides，然后选择front end就可以了。那大家可能会问，在网页端用这个功能，跟你用coding agent去调这个ki有什么区别。首先它的门槛大大降低。很多非技术背景的朋友还没有用过codingag也不习惯ter。所以你在网页端这种自然语言的交互是上手门槛更低的。其次，其实大家做很多HTML slides遇到最多的问题就是不知道怎么分享。因为这些本地文件如果你不部署的话，是比较难分享给其他人的。那么在anygen里面，你可以一键把这个slicdes的链接分享给其他人，不需要部署，其他人打开链接就可以看。另外，大家对1间秒有一个痛点就是不好编辑。那么在anygen里，所有的文字，你只要点一下就可以直接编辑。所见即所得。另外就是HTML不太好归档。那么any这里你可以一键把它下载成1个PDF，然后之后还会支持导出成PPT这是我最近用any阵里的双连slide做出来的一个slides效果，我觉得还是非常美观的。很有设计感，也很有个性。如果大家想开始用的话，进入到any正的网站，然后点buil slides选择front end就可以。",
+  "segments": [
+    {
+      "start": 0,
+      "end": 104.58,
+      "text": "之前做了一个用HTML做present的 skillki叫front and slides。他现在在get上已经有14000多star了，并且我收到了很多用户的好评，大家都在真心推荐这个skill就是他做出来的PPT是真的是效果非常好。还有一些用户说my favorite skill downloaded，并且我觉得它已经成为了一种现象，至少在我周围我参加的活动或者是我平时朋友做的sdes基本上都已经是HTML。然后今天很高兴给大家分享一下，这个front end slides已经做为一个功能，正式上线到any这个平台里。😊其实你没有一个coingag，你就不习惯用ter，你可以在网页端一个门槛很低的形式去生成一个HTML slides进入any点这个build slides，然后选择front end就可以了。那大家可能会问，在网页端用这个功能，跟你用coding agent去调这个ki有什么区别。首先它的门槛大大降低。很多非技术背景的朋友还没有用过codingag也不习惯ter。所以你在网页端这种自然语言的交互是上手门槛更低的。其次，其实大家做很多HTML slides遇到最多的问题就是不知道怎么分享。因为这些本地文件如果你不部署的话，是比较难分享给其他人的。那么在anygen里面，你可以一键把这个slicdes的链接分享给其他人，不需要部署，其他人打开链接就可以看。另外，大家对1间秒有一个痛点就是不好编辑。那么在anygen里，所有的文字，你只要点一下就可以直接编辑。所见即所得。另外就是HTML不太好归档。那么any这里你可以一键把它下载成1个PDF，然后之后还会支持导出成PPT这是我最近用any阵里的双连slide做出来的一个slides效果，我觉得还是非常美观的。很有设计感，也很有个性。如果大家想开始用的话，进入到any正的网站，然后点buil slides选择front end就可以。"
+    }
+  ],
+  "language": "zh",
+  "duration": 104.58,
+  "engine": "FunAudioLLM/SenseVoiceSmall",
+  "video": "20260416-Frontend slides的小白友好版已上线",
+  "video_path": "D:\\视频下载\\张咋啦\\20260416-Frontend slides的小白友好版已上线.mp4",
+  "source_type": "video"
+}

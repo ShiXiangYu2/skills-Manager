@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a5b1f545-5873-4594-aae8-e6cb37ef69d1",
+  "path": "novel-note-workflow",
+  "path_key": "novel-note-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows the initial state of the whiteboard with key topics listed, providing context for the lecture. The text is clear and captures the foundational structure of the presentation.",
+      "keywords": [
+        "whiteboard",
+        "intro",
+        "slide",
+        "context"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Captures a clear visual state change with the lecturer adding a specific point about user research, which is crucial to the teaching artifact. The text is legible and provides a concrete example.",
+      "keywords": [
+        "visual change",
+        "demo",
+        "formula",
+        "user research"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are either lecturer-focused (not showing teaching artifacts) or lack distinct visual states or key information for source-backed explanation.",
+  "sheet": "keyframe_selection\\sheets\\20220301-腾讯10年产品经理干货分享别错过\\20220301-腾讯10年产品经理干货分享别错过_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

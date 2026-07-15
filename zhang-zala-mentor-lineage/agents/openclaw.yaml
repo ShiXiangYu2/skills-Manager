@@ -1,0 +1,10 @@
+interface:
+  display_name: "张咋啦 Course Skill"
+  short_description: "Source-grounded course Q&A, review, and workflows."
+  default_prompt: "Use zhang-zala-mentor-lineage to answer questions about 张咋啦 and cite the course sources."
+
+# Trust surface:
+#   - Reads packaged course reference files under references/.
+#   - Runs local scripts/search_course_notes.py for lightweight keyword lookup.
+#   - Does not call external services unless the host agent chooses to enrich or rebuild materials.
+#   - Active role(s): Mentor.

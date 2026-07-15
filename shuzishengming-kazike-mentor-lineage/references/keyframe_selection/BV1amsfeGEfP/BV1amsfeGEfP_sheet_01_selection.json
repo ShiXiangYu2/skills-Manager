@@ -1,0 +1,52 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear slide categorizing AI applications (大语言模型, AI绘图) with visual icons and text, serving as a primary teaching artifact for course structure.",
+      "keywords": [
+        "AI",
+        "大语言模型",
+        "AI绘图",
+        "slide"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Displays a detailed software interface (GitHub repository for So-vits-svc) with project files and technical details, providing source-backed evidence for AI voice cloning tools.",
+      "keywords": [
+        "So-vits-svc",
+        "GitHub",
+        "AI换声",
+        "UI"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Captures a full UI of a Voice Changer application with interactive elements (mic, waveform, live mode), demonstrating a practical demo of AI voice technology.",
+      "keywords": [
+        "SVC",
+        "AI换声",
+        "demo",
+        "UI"
+      ]
+    },
+    {
+      "frame": "frame_0005.jpg",
+      "timestamp": "04:00",
+      "reason": "Presents a clear visual metaphor of '人工+智能' with a brain graphic, reinforcing key course theme about human-AI collaboration.",
+      "keywords": [
+        "人工+智能",
+        "brain",
+        "visual metaphor",
+        "slide"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg was dropped as it is a blank/low-information frame with only text overlay. Other frames were either duplicates, lecturer-only shots, or contained less informative content compared to the selected frames.",
+  "sheet": "keyframe_selection\\sheets\\BV1amsfeGEfP\\BV1amsfeGEfP_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

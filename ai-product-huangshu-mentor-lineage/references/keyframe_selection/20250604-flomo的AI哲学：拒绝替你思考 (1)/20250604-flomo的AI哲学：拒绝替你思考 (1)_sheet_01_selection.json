@@ -1,0 +1,38 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a smartphone screen with a note-taking app showing a key concept about Flomo's purpose: helping users record and reflect, which is a core teaching artifact.",
+      "keywords": [
+        "Flomo",
+        "note-taking",
+        "user recording"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Clear UI of Flomo note with a highlighted key idea: '用户追求的是“变得更好”，而非新功能本身' (Users pursue 'getting better', not new features), which is a fundamental teaching point.",
+      "keywords": [
+        "Flomo UI",
+        "user needs",
+        "teaching point"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "00:04",
+      "reason": "Displays a key teaching artifact with a clear visual hierarchy, showing the full text and a related image. The text '让技术真正的服务于人的思考和成长' (Let technology truly serve human thinking and growth) summarizes the core value proposition.",
+      "keywords": [
+        "Flomo",
+        "core value",
+        "user growth"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were selected as they either lacked clear teaching artifacts, were duplicates, or contained irrelevant content.",
+  "sheet": "keyframe_selection\\sheets\\20250604-flomo的AI哲学：拒绝替你思考 (1)\\20250604-flomo的AI哲学：拒绝替你思考 (1)_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

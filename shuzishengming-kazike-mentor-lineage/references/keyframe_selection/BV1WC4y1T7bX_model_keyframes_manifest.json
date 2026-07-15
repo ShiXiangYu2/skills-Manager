@@ -1,0 +1,19 @@
+{
+  "media": "BV1WC4y1T7bX",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1WC4y1T7bX\\20231229-我用最顶级的AI画质，重制了我的《流浪地球3》A.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\BV1WC4y1T7bX",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1WC4y1T7bX",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are visual media or introductory content without educational artifacts; none contain slides, diagrams, formulas, or demonstrative content suitable for course distillation. Frame appears to be an intro/outro or unrelated visual.",
+      "sheet": "keyframe_selection\\sheets\\BV1WC4y1T7bX\\BV1WC4y1T7bX_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

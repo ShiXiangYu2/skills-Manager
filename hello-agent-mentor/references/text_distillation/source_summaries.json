@@ -1,0 +1,183 @@
+[
+  {
+    "source_id": "4dd246a8b2edb3e9ce93e445a17438be",
+    "source_path": "第一章 初识智能体.md",
+    "source_ref": "第一章 初识智能体.md",
+    "chunk_count": 213,
+    "card_count": 12,
+    "card_types": {
+      "task": 12
+    }
+  },
+  {
+    "source_id": "4ab27dd89a1c8b00320c5b876d79c56e",
+    "source_path": "第七章 构建你的Agent框架.md",
+    "source_ref": "第七章 构建你的Agent框架.md",
+    "chunk_count": 536,
+    "card_count": 11,
+    "card_types": {
+      "method": 4,
+      "task": 3,
+      "open_question": 4
+    }
+  },
+  {
+    "source_id": "ccf1f5f7b85b8cf6d1a37a656a08c8c7",
+    "source_path": "第三章 大语言模型基础.md",
+    "source_ref": "第三章 大语言模型基础.md",
+    "chunk_count": 323,
+    "card_count": 3,
+    "card_types": {
+      "case": 3
+    }
+  },
+  {
+    "source_id": "771f5b06fb241e8e92ad7181faeb9287",
+    "source_path": "第九章 上下文工程.md",
+    "source_ref": "第九章 上下文工程.md",
+    "chunk_count": 656,
+    "card_count": 50,
+    "card_types": {
+      "concept": 36,
+      "method": 1,
+      "boundary": 8,
+      "task": 1,
+      "open_question": 3,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "98d02cbeec37fbfe955b31e77c120bb7",
+    "source_path": "第二章 智能体发展史.md",
+    "source_ref": "第二章 智能体发展史.md",
+    "chunk_count": 178,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "7bda80a13ac03214e5e03d1ebfb89287",
+    "source_path": "第五章 基于低代码平台的智能体搭建.md",
+    "source_ref": "第五章 基于低代码平台的智能体搭建.md",
+    "chunk_count": 299,
+    "card_count": 9,
+    "card_types": {
+      "open_question": 1,
+      "method": 6,
+      "case": 2
+    }
+  },
+  {
+    "source_id": "7d2ed1132f0357603a3f3f35e1cc9c28",
+    "source_path": "第八章 记忆与检索.md",
+    "source_ref": "第八章 记忆与检索.md",
+    "chunk_count": 448,
+    "card_count": 16,
+    "card_types": {
+      "boundary": 8,
+      "method": 4,
+      "open_question": 2,
+      "concept": 1,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "9e75ecf411296c527cb12b18cc60544e",
+    "source_path": "第六章 框架开发实践.md",
+    "source_ref": "第六章 框架开发实践.md",
+    "chunk_count": 377,
+    "card_count": 12,
+    "card_types": {
+      "concept": 3,
+      "boundary": 1,
+      "task": 5,
+      "method": 2,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "5a76094aa6100dfc7d19cd9ef050cbff",
+    "source_path": "第十一章 Agentic-RL.md",
+    "source_ref": "第十一章 Agentic-RL.md",
+    "chunk_count": 727,
+    "card_count": 11,
+    "card_types": {
+      "open_question": 5,
+      "method": 4,
+      "case": 2
+    }
+  },
+  {
+    "source_id": "c80f19370abfa4e08c908d445f04cdd5",
+    "source_path": "第十三章 智能旅行助手.md",
+    "source_ref": "第十三章 智能旅行助手.md",
+    "chunk_count": 383,
+    "card_count": 10,
+    "card_types": {
+      "boundary": 9,
+      "case": 1
+    }
+  },
+  {
+    "source_id": "995087d84cfdd3a72283ec98e1231f77",
+    "source_path": "第十二章 智能体性能评估.md",
+    "source_ref": "第十二章 智能体性能评估.md",
+    "chunk_count": 714,
+    "card_count": 9,
+    "card_types": {
+      "method": 6,
+      "open_question": 3
+    }
+  },
+  {
+    "source_id": "36fbb3302ade12fb1b58e2c830422487",
+    "source_path": "第十五章 构建赛博小镇.md",
+    "source_ref": "第十五章 构建赛博小镇.md",
+    "chunk_count": 477,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "bf1e890d8e223ce2cbb5969e2fed892c",
+    "source_path": "第十六章 毕业设计.md",
+    "source_ref": "第十六章 毕业设计.md",
+    "chunk_count": 300,
+    "card_count": 0,
+    "card_types": {}
+  },
+  {
+    "source_id": "a1baafec32763e1651a19ac0d4f58ec9",
+    "source_path": "第十四章 自动化深度研究智能体.md",
+    "source_ref": "第十四章 自动化深度研究智能体.md",
+    "chunk_count": 529,
+    "card_count": 33,
+    "card_types": {
+      "task": 24,
+      "case": 7,
+      "boundary": 2
+    }
+  },
+  {
+    "source_id": "c9477778b6c03e3f995aa9c387d31139",
+    "source_path": "第十章 智能体通信协议.md",
+    "source_ref": "第十章 智能体通信协议.md",
+    "chunk_count": 582,
+    "card_count": 4,
+    "card_types": {
+      "boundary": 1,
+      "open_question": 1,
+      "task": 2
+    }
+  },
+  {
+    "source_id": "0762d98e88798199975c1ece1569afaf",
+    "source_path": "第四章 智能体经典范式构建.md",
+    "source_ref": "第四章 智能体经典范式构建.md",
+    "chunk_count": 351,
+    "card_count": 9,
+    "card_types": {
+      "case": 1,
+      "task": 7,
+      "open_question": 1
+    }
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "media": "20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Initial state showing a crossed-out diagram, setting up the contrast for the subsequent explanation.",
+      "keywords": [
+        "diagram",
+        "visual state change",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Introduces the core concept of the 'accounting tool' with clear text and visual elements, serving as a key teaching artifact.",
+      "keywords": [
+        "UI",
+        "demo",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a complete, evolving diagram with a circular flowchart, illustrating a complex concept clearly.",
+      "keywords": [
+        "diagram",
+        "visual state change",
+        "demo"
+      ],
+      "candidate_source": "keyframe_candidates\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Initial state showing a crossed-out diagram, setting up the contrast for the subsequent explanation.",
+          "keywords": [
+            "diagram",
+            "visual state change",
+            "demo"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Introduces the core concept of the 'accounting tool' with clear text and visual elements, serving as a key teaching artifact.",
+          "keywords": [
+            "UI",
+            "demo",
+            "teaching artifact"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Displays a complete, evolving diagram with a circular flowchart, illustrating a complex concept clearly.",
+          "keywords": [
+            "diagram",
+            "visual state change",
+            "demo"
+          ]
+        }
+      ],
+      "dropped_summary": "The rightmost frame is blank and does not contain any teaching artifact or visual information, so it is dropped.",
+      "sheet": "keyframe_selection\\sheets\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干\\20260530-5分钟搞懂：Coding还用学？胡彦斌：直接干_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

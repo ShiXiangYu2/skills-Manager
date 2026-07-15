@@ -1,0 +1,19 @@
+{
+  "media": "20230526-360大战腾讯的时代，经历过没？来看看揭秘！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230526-360大战腾讯的时代，经历过没？来看看揭秘！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 7,
+  "candidate_dir": "keyframe_candidates\\20230526-360大战腾讯的时代，经历过没？来看看揭秘！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230526-360大战腾讯的时代，经历过没？来看看揭秘！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show only the lecturer and another person in conversation with no visible teaching artifacts such as slides, boards, documents, UI, diagrams, tables, formulas, or visual state changes. All frames are lecturer-only and lack material teaching content.",
+      "sheet": "keyframe_selection\\sheets\\20230526-360大战腾讯的时代，经历过没？来看看揭秘！\\20230526-360大战腾讯的时代，经历过没？来看看揭秘！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

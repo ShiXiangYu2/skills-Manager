@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd50b14c-8abc-4b68-8f15-7478ed43b790",
+  "path": "sumeru-topic",
+  "path_key": "sumeru-topic",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

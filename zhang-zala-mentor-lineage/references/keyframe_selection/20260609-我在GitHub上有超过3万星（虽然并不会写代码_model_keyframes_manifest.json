@@ -1,0 +1,71 @@
+{
+  "media": "20260609-我在GitHub上有超过3万星（虽然并不会写代码",
+  "video_path": "D:\\视频下载\\张咋啦\\20260609-我在GitHub上有超过3万星（虽然并不会写代码.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260609-我在GitHub上有超过3万星（虽然并不会写代码",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260609-我在GitHub上有超过3万星（虽然并不会写代码",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays the initial GitHub profile page with key introductory elements including the user bio, featured projects, and a clear teaching artifact (profile and repository overview) that sets the context for the course. The frame is complete and contains structured information useful for course distillation.",
+      "keywords": [
+        "GitHub",
+        "profile",
+        "introduction",
+        "teaching artifact"
+      ],
+      "candidate_source": "keyframe_candidates\\20260609-我在GitHub上有超过3万星（虽然并不会写代码\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260609-我在GitHub上有超过3万星（虽然并不会写代码\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows the GitHub 'Install with a coding agent' section with a clear, actionable UI element (input field and instructions). This is a material visual state change and a key teaching artifact for demonstrating setup instructions. It is a complete and clearer view than adjacent frames.",
+      "keywords": [
+        "GitHub",
+        "coding agent",
+        "setup",
+        "UI",
+        "instruction"
+      ],
+      "candidate_source": "keyframe_candidates\\20260609-我在GitHub上有超过3万星（虽然并不会写代码\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260609-我在GitHub上有超过3万星（虽然并不会写代码\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Displays the initial GitHub profile page with key introductory elements including the user bio, featured projects, and a clear teaching artifact (profile and repository overview) that sets the context for the course. The frame is complete and contains structured information useful for course distillation.",
+          "keywords": [
+            "GitHub",
+            "profile",
+            "introduction",
+            "teaching artifact"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows the GitHub 'Install with a coding agent' section with a clear, actionable UI element (input field and instructions). This is a material visual state change and a key teaching artifact for demonstrating setup instructions. It is a complete and clearer view than adjacent frames.",
+          "keywords": [
+            "GitHub",
+            "coding agent",
+            "setup",
+            "UI",
+            "instruction"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were included as they appear to be duplicates, low-information, or lack material visual teaching artifacts. Frames without clear UI or teaching content were dropped per criteria.",
+      "sheet": "keyframe_selection\\sheets\\20260609-我在GitHub上有超过3万星（虽然并不会写代码\\20260609-我在GitHub上有超过3万星（虽然并不会写代码_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

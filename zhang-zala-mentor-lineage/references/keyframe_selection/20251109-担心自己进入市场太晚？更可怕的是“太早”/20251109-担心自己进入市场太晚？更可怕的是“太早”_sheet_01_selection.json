@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame introduces a key conceptual theme with a strong text overlay: '担心自己‘入局是不是太晚’？更可怕的是‘太早’' (Worrying if entering the game is too late? Scary is entering too early). It also includes contextual text '当时90年代' (back then, 90s), setting the historical context. This is a complete teaching artifact that frames the central idea of the course, making it valuable for source-backed explanation and review.",
+      "keywords": [
+        "conceptual theme",
+        "text overlay",
+        "historical context",
+        "course introduction"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided beyond the first one, so no additional frames were evaluated. If this were a full contact sheet, lecturer-only, blurred, or low-information frames would be dropped based on the criteria.",
+  "sheet": "keyframe_selection\\sheets\\20251109-担心自己进入市场太晚？更可怕的是“太早”\\20251109-担心自己进入市场太晚？更可怕的是“太早”_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

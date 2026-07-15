@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff14355a-a332-4112-8c27-54f80f8b4a22",
+  "path": "sumeru-polish",
+  "path_key": "sumeru-polish",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

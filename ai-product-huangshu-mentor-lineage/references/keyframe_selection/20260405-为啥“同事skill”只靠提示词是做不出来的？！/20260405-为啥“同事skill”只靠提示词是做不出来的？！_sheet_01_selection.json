@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear slide with the title '本质区别' and key teaching points '提示词 → 你喂知识' and 'Skill → AI自己找', which is a core teaching artifact.",
+      "keywords": [
+        "slide",
+        "teaching artifact",
+        "concept"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02:00",
+      "reason": "Displays a clear slide with the title '能力要求' and key teaching points '提示词 → 文字功底' and 'Skill → 系统思维', which is a core teaching artifact.",
+      "keywords": [
+        "slide",
+        "teaching artifact",
+        "concept"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20260405-为啥“同事skill”只靠提示词是做不出来的？！\\20260405-为啥“同事skill”只靠提示词是做不出来的？！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

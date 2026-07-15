@@ -1,0 +1,19 @@
+{
+  "media": "20220727-趣分期深度分析：看懂罗敏意图",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220727-趣分期深度分析：看懂罗敏意图.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\20220727-趣分期深度分析：看懂罗敏意图",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220727-趣分期深度分析：看懂罗敏意图",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show the lecturer speaking, with no clear teaching artifacts like slides, diagrams, or visual state changes. The whiteboard content is either illegible or lacks instructional value, and no unique or clarifying visual information is presented beyond the lecturer's face and minimal on-screen text.",
+      "sheet": "keyframe_selection\\sheets\\20220727-趣分期深度分析：看懂罗敏意图\\20220727-趣分期深度分析：看懂罗敏意图_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

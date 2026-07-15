@@ -1,0 +1,87 @@
+{
+  "media": "20250916-AI时代普通人跃迁的三个方法",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20250916-AI时代普通人跃迁的三个方法.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20250916-AI时代普通人跃迁的三个方法",
+  "selected_count": 3,
+  "selected_dir": "keyframes_model_selected\\20250916-AI时代普通人跃迁的三个方法",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures the core teaching artifact: a structured slide summarizing AI career transition strategies, including key points and actionable methods, which is central to the course content.",
+      "keywords": [
+        "slide",
+        "core concept",
+        "AI career transition"
+      ],
+      "candidate_source": "keyframe_candidates\\20250916-AI时代普通人跃迁的三个方法\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20250916-AI时代普通人跃迁的三个方法\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Contains a key teaching artifact: a detailed slide with bullet points on 'High Agency' strategy, including definitions, methods, and 'Zero Base' action packages. This frame provides a complete visual reference for the core teaching point.",
+      "keywords": [
+        "slide",
+        "High Agency",
+        "action plan"
+      ],
+      "candidate_source": "keyframe_candidates\\20250916-AI时代普通人跃迁的三个方法\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20250916-AI时代普通人跃迁的三个方法\\frame_0002.jpg"
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Displays a clear, complete slide detailing the 'Zero Base' action packages with specific steps and goals. This is a critical teaching artifact for understanding the practical application of the concepts.",
+      "keywords": [
+        "slide",
+        "Zero Base",
+        "action plan"
+      ],
+      "candidate_source": "keyframe_candidates\\20250916-AI时代普通人跃迁的三个方法\\frame_0003.jpg",
+      "selected_path": "keyframes_model_selected\\20250916-AI时代普通人跃迁的三个方法\\frame_0003.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures the core teaching artifact: a structured slide summarizing AI career transition strategies, including key points and actionable methods, which is central to the course content.",
+          "keywords": [
+            "slide",
+            "core concept",
+            "AI career transition"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02:00",
+          "reason": "Contains a key teaching artifact: a detailed slide with bullet points on 'High Agency' strategy, including definitions, methods, and 'Zero Base' action packages. This frame provides a complete visual reference for the core teaching point.",
+          "keywords": [
+            "slide",
+            "High Agency",
+            "action plan"
+          ]
+        },
+        {
+          "frame": "frame_0003.jpg",
+          "timestamp": "00:04:00",
+          "reason": "Displays a clear, complete slide detailing the 'Zero Base' action packages with specific steps and goals. This is a critical teaching artifact for understanding the practical application of the concepts.",
+          "keywords": [
+            "slide",
+            "Zero Base",
+            "action plan"
+          ]
+        }
+      ],
+      "dropped_summary": "No other frames were selected as they either repeat the content already captured in the selected frames, or are redundant, lecturer-focused, or lack clarity. The selected frames cover the core teaching artifacts comprehensively.",
+      "sheet": "keyframe_selection\\sheets\\20250916-AI时代普通人跃迁的三个方法\\20250916-AI时代普通人跃迁的三个方法_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a clear, complete README document with structured sections (Podcasts, AI Builders, Installation) and plain English instructions, providing essential context for the course topic.",
+      "keywords": [
+        "README",
+        "documentation",
+        "instructions",
+        "course content"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows the GitHub repository interface with file structure (main branch, folders like examples, scripts) and recent activity, representing a key visual of the code/project organization being discussed.",
+      "keywords": [
+        "GitHub",
+        "repository",
+        "code structure",
+        "file list"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames are not shown or are likely lecturer-only, duplicated, or low-information, lacking distinct visual artifacts such as slides, diagrams, or UI states that convey material content suitable for distillation.",
+  "sheet": "keyframe_selection\\sheets\\20260319-把我推荐的AI高质量信息源做成了skill！\\20260319-把我推荐的AI高质量信息源做成了skill！_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures the key opening concept of the course: 'High-agency' individuals as '出题人' (problem-setters) who are least likely to be replaced by AI. The text overlay is clear and serves as a foundational teaching artifact, establishing the core theme for the course.",
+      "keywords": [
+        "high-agency",
+        "出题人",
+        "AI replacement",
+        "core concept"
+      ]
+    }
+  ],
+  "dropped_summary": "Other frames in the contact sheet are not visible or provided. Assuming the provided frame is the only one available, no other frames were included for evaluation. If additional frames exist, they would be dropped if they contain only lecturer faces, blank or low-information visuals, duplicates, or lack clear teaching artifacts.",
+  "sheet": "keyframe_selection\\sheets\\20251105-什么样的人 最不容易被AI取代？\\20251105-什么样的人 最不容易被AI取代？_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

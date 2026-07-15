@@ -1,0 +1,69 @@
+{
+  "media": "20260331-做了个飞书CLI skill，让会议todo变成",
+  "video_path": "D:\\视频下载\\张咋啦\\20260331-做了个飞书CLI skill，让会议todo变成.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260331-做了个飞书CLI skill，让会议todo变成",
+  "selected_count": 2,
+  "selected_dir": "keyframes_model_selected\\20260331-做了个飞书CLI skill，让会议todo变成",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Captures a complete instructional document with clear headings, bullet points, and structured content on OAuth2 and related technical concepts. Provides foundational material for course distillation.",
+      "keywords": [
+        "OAuth2",
+        "technical documentation",
+        "instructional text",
+        "course material"
+      ],
+      "candidate_source": "keyframe_candidates\\20260331-做了个飞书CLI skill，让会议todo变成\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20260331-做了个飞书CLI skill，让会议todo变成\\frame_0001.jpg"
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows an updated version of the document with visible changes (e.g., '让它根据我的评论修改一下文档'), indicating an interactive teaching moment. Includes a visible comment interface, representing a live demo or collaborative editing workflow.",
+      "keywords": [
+        "document edit",
+        "live demo",
+        "collaboration",
+        "comment interface"
+      ],
+      "candidate_source": "keyframe_candidates\\20260331-做了个飞书CLI skill，让会议todo变成\\frame_0002.jpg",
+      "selected_path": "keyframes_model_selected\\20260331-做了个飞书CLI skill，让会议todo变成\\frame_0002.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "Captures a complete instructional document with clear headings, bullet points, and structured content on OAuth2 and related technical concepts. Provides foundational material for course distillation.",
+          "keywords": [
+            "OAuth2",
+            "technical documentation",
+            "instructional text",
+            "course material"
+          ]
+        },
+        {
+          "frame": "frame_0002.jpg",
+          "timestamp": "00:02",
+          "reason": "Shows an updated version of the document with visible changes (e.g., '让它根据我的评论修改一下文档'), indicating an interactive teaching moment. Includes a visible comment interface, representing a live demo or collaborative editing workflow.",
+          "keywords": [
+            "document edit",
+            "live demo",
+            "collaboration",
+            "comment interface"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames are outside the provided contact sheet. The two frames shown are the only candidates, and both meet criteria for preservation due to their clear instructional content and visual changes.",
+      "sheet": "keyframe_selection\\sheets\\20260331-做了个飞书CLI skill，让会议todo变成\\20260331-做了个飞书CLI skill，让会议todo变成_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

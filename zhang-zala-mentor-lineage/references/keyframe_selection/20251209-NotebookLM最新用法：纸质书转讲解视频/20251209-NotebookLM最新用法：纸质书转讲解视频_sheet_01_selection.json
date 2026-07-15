@@ -1,0 +1,32 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a slide with a clear visual metaphor contrasting 'SOUL' and 'MACHINE', including explanatory text about piano functionality and a key question in Chinese, serving as a foundational teaching artifact.",
+      "keywords": [
+        "slide",
+        "metaphor",
+        "teaching artifact",
+        "SOUL vs MACHINE",
+        "piano"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "04:00",
+      "reason": "Shows a complex visual diagram of 'Kurt Vonnegut’s Player Piano' alongside a text-based quiz interface with highlighted questions, providing material for analysis and verification, and a clear visual state of the lesson's later content.",
+      "keywords": [
+        "diagram",
+        "quiz",
+        "player piano",
+        "visual state",
+        "course content"
+      ]
+    }
+  ],
+  "dropped_summary": "Frame 00:02 was dropped as it contains a low-information, blurred diagram with no clear text or teaching artifact visible; the rest of the frames are not present in the provided contact sheet.",
+  "sheet": "keyframe_selection\\sheets\\20251209-NotebookLM最新用法：纸质书转讲解视频\\20251209-NotebookLM最新用法：纸质书转讲解视频_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

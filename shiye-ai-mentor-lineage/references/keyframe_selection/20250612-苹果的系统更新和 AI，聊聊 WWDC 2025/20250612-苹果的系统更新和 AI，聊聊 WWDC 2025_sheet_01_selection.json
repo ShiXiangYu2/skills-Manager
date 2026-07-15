@@ -1,0 +1,8 @@
+{
+  "selected": [],
+  "dropped_summary": "model returned non-json content",
+  "raw": "",
+  "sheet": "keyframe_selection\\sheets\\20250612-苹果的系统更新和 AI，聊聊 WWDC 2025\\20250612-苹果的系统更新和 AI，聊聊 WWDC 2025_sheet_01.jpg",
+  "success": false,
+  "error": "('Connection aborted.', TimeoutError('The write operation timed out'))"
+}

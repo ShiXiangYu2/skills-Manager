@@ -1,0 +1,20 @@
+{
+  "media": "20241209-AI社会，像李子柒一样选工作？",
+  "video_path": "D:\\视频下载\\十页AI\\20241209-AI社会，像李子柒一样选工作？.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\20241209-AI社会，像李子柒一样选工作？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20241209-AI社会，像李子柒一样选工作？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "model returned non-json content",
+      "raw": "",
+      "sheet": "keyframe_selection\\sheets\\20241209-AI社会，像李子柒一样选工作？\\20241209-AI社会，像李子柒一样选工作？_sheet_01.jpg",
+      "success": false,
+      "error": "HTTPSConnectionPool(host='api.siliconflow.cn', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))"
+    }
+  ]
+}

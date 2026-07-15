@@ -1,0 +1,47 @@
+{
+  "schema_version": "0.1",
+  "course_name": "秋芝2046",
+  "skill_name": "秋芝2046-mentor-lineage",
+  "roles": [
+    "mentor"
+  ],
+  "modes": [
+    "mentor"
+  ],
+  "scope": "single-course",
+  "evidence_strategy": "standard",
+  "progress_strategy": "tracked",
+  "source_dir": "D:\\视频下载\\秋芝2046\\秋芝2046",
+  "generated_at": "2026-07-08T21:29:10",
+  "generated_by": {
+    "id": "lineage-skill",
+    "repository": "https://github.com/JuneYaooo/lineage-skill",
+    "script": "scripts/build_course_skill.py"
+  },
+  "provenance": {
+    "watermark": "lineage-skill:course-skill-builder:v0.1",
+    "watermark_visibility": "manifest-only",
+    "source_package": "D:\\视频下载\\秋芝2046\\秋芝2046\\course_package.json",
+    "note": "This packaged course Skill was generated from course materials by lineage-skill."
+  },
+  "reference_status": {
+    "course_package.json": "copied",
+    "course_digest.md": "copied",
+    "full_transcript.md": "copied",
+    "concept_glossary.md": "derived",
+    "quote_index.md": "derived",
+    "study_paths.md": "derived",
+    "lesson_index.json": "stubbed",
+    "evidence_map.json": "generated",
+    "distillation_audit.json": "copied",
+    "distillation_audit.md": "copied",
+    "text_sources/": "copied",
+    "text_distillation/": "copied",
+    "mentor_playbook.md": "stubbed",
+    "mentor_sessions.md": "stubbed",
+    "learner_progress.json": "stubbed",
+    "okf/": "generated 76 concepts, 116 evidence chunks",
+    "scripts/search_course_notes.py": "generated",
+    "scripts/fetch_course_evidence.py": "copied"
+  }
+}

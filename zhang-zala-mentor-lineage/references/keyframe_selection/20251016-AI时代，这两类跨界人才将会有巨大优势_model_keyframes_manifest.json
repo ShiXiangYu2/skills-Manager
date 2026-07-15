@@ -1,0 +1,49 @@
+{
+  "media": "20251016-AI时代，这两类跨界人才将会有巨大优势",
+  "video_path": "D:\\视频下载\\张咋啦\\20251016-AI时代，这两类跨界人才将会有巨大优势.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251016-AI时代，这两类跨界人才将会有巨大优势",
+  "selected_count": 1,
+  "selected_dir": "keyframes_model_selected\\20251016-AI时代，这两类跨界人才将会有巨大优势",
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame contains a clear, complete diagram illustrating 'Massive alpha in AI age' with two Venn diagrams showing key interdisciplinary skills (marketing-savvy PM, design-savvy engineer). It captures a core teaching artifact with readable text and visual structure, facilitating source-backed explanation and review.",
+      "keywords": [
+        "diagram",
+        "Venn diagram",
+        "marketing-savvy PM",
+        "design-savvy engineer",
+        "AI age",
+        "interdisciplinary skills"
+      ],
+      "candidate_source": "keyframe_candidates\\20251016-AI时代，这两类跨界人才将会有巨大优势\\frame_0001.jpg",
+      "selected_path": "keyframes_model_selected\\20251016-AI时代，这两类跨界人才将会有巨大优势\\frame_0001.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0001.jpg",
+          "timestamp": "00:00",
+          "reason": "This frame contains a clear, complete diagram illustrating 'Massive alpha in AI age' with two Venn diagrams showing key interdisciplinary skills (marketing-savvy PM, design-savvy engineer). It captures a core teaching artifact with readable text and visual structure, facilitating source-backed explanation and review.",
+          "keywords": [
+            "diagram",
+            "Venn diagram",
+            "marketing-savvy PM",
+            "design-savvy engineer",
+            "AI age",
+            "interdisciplinary skills"
+          ]
+        }
+      ],
+      "dropped_summary": "All other frames were not provided in the contact sheet. Only one frame is visible and it meets all selection criteria as a complete, clear teaching artifact with substantial visual information.",
+      "sheet": "keyframe_selection\\sheets\\20251016-AI时代，这两类跨界人才将会有巨大优势\\20251016-AI时代，这两类跨界人才将会有巨大优势_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

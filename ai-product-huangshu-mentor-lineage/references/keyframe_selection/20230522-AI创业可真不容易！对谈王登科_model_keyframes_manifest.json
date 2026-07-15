@@ -1,0 +1,19 @@
+{
+  "media": "20230522-AI创业可真不容易！对谈王登科",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230522-AI创业可真不容易！对谈王登科.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 8,
+  "candidate_dir": "keyframe_candidates\\20230522-AI创业可真不容易！对谈王登科",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230522-AI创业可真不容易！对谈王登科",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show only the speakers with no visible slides, boards, documents, UI, diagrams, tables, formulas, demos, or visual state changes. All frames are lecturer-only, and contain no teaching artifacts meeting selection criteria.",
+      "sheet": "keyframe_selection\\sheets\\20230522-AI创业可真不容易！对谈王登科\\20230522-AI创业可真不容易！对谈王登科_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

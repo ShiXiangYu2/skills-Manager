@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70ecbe26-5029-4721-a440-4a9d16f95942",
+  "path": "vercel-react-native-skills",
+  "path_key": "vercel-react-native-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

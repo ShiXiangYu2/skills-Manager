@@ -1,0 +1,19 @@
+{
+  "media": "20230831-AI产品经理的春天来了！",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20230831-AI产品经理的春天来了！.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20230831-AI产品经理的春天来了！",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20230831-AI产品经理的春天来了！",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only the lecturer speaking with no visual teaching artifact, and no other frames are provided for evaluation.",
+      "sheet": "keyframe_selection\\sheets\\20230831-AI产品经理的春天来了！\\20230831-AI产品经理的春天来了！_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

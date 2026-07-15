@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame contains key teaching text about user engagement and content consumption behavior, including specific psychological insights (e.g., need to hear a concept 10 times to accept it). The text is clearly legible and provides a complete, self-contained teaching artifact that is essential for course distillation and source-backed explanation.",
+      "keywords": [
+        "user engagement",
+        "content consumption",
+        "psychological insight",
+        "learning curve",
+        "behavioral pattern"
+      ]
+    }
+  ],
+  "dropped_summary": "All other frames were dropped as they were not present in the contact sheet. The provided frame is the only one available and meets all selection criteria as it captures a complete, clear, and informative teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20251029-关于营销、传播、沟通的一些思考\\20251029-关于营销、传播、沟通的一些思考_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

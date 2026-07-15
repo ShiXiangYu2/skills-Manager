@@ -1,0 +1,109 @@
+{
+  "media": "20251103-完整直播回放：AI时代的动手实践（1）",
+  "video_path": "D:\\视频下载\\张咋啦\\20251103-完整直播回放：AI时代的动手实践（1）.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 23,
+  "candidate_dir": "keyframe_candidates\\20251103-完整直播回放：AI时代的动手实践（1）",
+  "selected_count": 4,
+  "selected_dir": "keyframes_model_selected\\20251103-完整直播回放：AI时代的动手实践（1）",
+  "selected": [
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "10:00",
+      "reason": "Shows a clear UI of a live streaming platform with a visible speaker and presentation content, indicating a key demo or discussion moment.",
+      "keywords": [
+        "demo",
+        "UI",
+        "live stream"
+      ],
+      "candidate_source": "keyframe_candidates\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0006.jpg",
+      "selected_path": "keyframes_model_selected\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0006.jpg"
+    },
+    {
+      "frame": "frame_0007.jpg",
+      "timestamp": "12:00",
+      "reason": "Capture of a screen showing a dark-themed interface with a visible code or configuration panel, suggesting a technical demonstration.",
+      "keywords": [
+        "demo",
+        "UI",
+        "technical"
+      ],
+      "candidate_source": "keyframe_candidates\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0007.jpg",
+      "selected_path": "keyframes_model_selected\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0007.jpg"
+    },
+    {
+      "frame": "frame_0021.jpg",
+      "timestamp": "40:00",
+      "reason": "Displays a browser window with the URL 'zara.faces.site/ai', a specific resource or tool being discussed, making it valuable for verification and source backing.",
+      "keywords": [
+        "demo",
+        "URL",
+        "source-backed"
+      ],
+      "candidate_source": "keyframe_candidates\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0021.jpg",
+      "selected_path": "keyframes_model_selected\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0021.jpg"
+    },
+    {
+      "frame": "frame_0022.jpg",
+      "timestamp": "42:00",
+      "reason": "Shows a clear view of a webpage or application interface with the 'zara.faces.site/ai' URL highlighted, providing a complete visual state for documentation.",
+      "keywords": [
+        "demo",
+        "UI",
+        "URL"
+      ],
+      "candidate_source": "keyframe_candidates\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0022.jpg",
+      "selected_path": "keyframes_model_selected\\20251103-完整直播回放：AI时代的动手实践（1）\\frame_0022.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "selected": [
+        {
+          "frame": "frame_0006.jpg",
+          "timestamp": "10:00",
+          "reason": "Shows a clear UI of a live streaming platform with a visible speaker and presentation content, indicating a key demo or discussion moment.",
+          "keywords": [
+            "demo",
+            "UI",
+            "live stream"
+          ]
+        },
+        {
+          "frame": "frame_0007.jpg",
+          "timestamp": "12:00",
+          "reason": "Capture of a screen showing a dark-themed interface with a visible code or configuration panel, suggesting a technical demonstration.",
+          "keywords": [
+            "demo",
+            "UI",
+            "technical"
+          ]
+        },
+        {
+          "frame": "frame_0021.jpg",
+          "timestamp": "40:00",
+          "reason": "Displays a browser window with the URL 'zara.faces.site/ai', a specific resource or tool being discussed, making it valuable for verification and source backing.",
+          "keywords": [
+            "demo",
+            "URL",
+            "source-backed"
+          ]
+        },
+        {
+          "frame": "frame_0022.jpg",
+          "timestamp": "42:00",
+          "reason": "Shows a clear view of a webpage or application interface with the 'zara.faces.site/ai' URL highlighted, providing a complete visual state for documentation.",
+          "keywords": [
+            "demo",
+            "UI",
+            "URL"
+          ]
+        }
+      ],
+      "dropped_summary": "Most frames are lecturer-only, with no visible slides, diagrams, or UI elements. Many are duplicates or low-information shots showing only the speakers without context. Blurred or partially blocked views were also discarded, as they lack material visual content for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20251103-完整直播回放：AI时代的动手实践（1）\\20251103-完整直播回放：AI时代的动手实践（1）_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

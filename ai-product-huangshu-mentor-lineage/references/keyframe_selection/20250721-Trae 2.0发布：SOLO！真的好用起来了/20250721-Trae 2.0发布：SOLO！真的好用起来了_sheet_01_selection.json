@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Shows a clear, complete code editor interface with visible file structure and data display, useful for source-backed explanation of the teaching artifact.",
+      "keywords": [
+        "code",
+        "editor",
+        "UI",
+        "diagram"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Displays a detailed document or slide with bullet points and a clear visual hierarchy, capturing a key teaching point about data retrieval.",
+      "keywords": [
+        "document",
+        "slide",
+        "UI",
+        "formula",
+        "visual state"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames were provided for evaluation.",
+  "sheet": "keyframe_selection\\sheets\\20250721-Trae 2.0发布：SOLO！真的好用起来了\\20250721-Trae 2.0发布：SOLO！真的好用起来了_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

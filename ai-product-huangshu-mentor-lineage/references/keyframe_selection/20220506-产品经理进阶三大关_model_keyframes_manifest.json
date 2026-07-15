@@ -1,0 +1,19 @@
+{
+  "media": "20220506-产品经理进阶三大关",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220506-产品经理进阶三大关.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 3,
+  "candidate_dir": "keyframe_candidates\\20220506-产品经理进阶三大关",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220506-产品经理进阶三大关",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show the same static slide with identical content and no visual state changes, lecturer-only focus, and lack of unique teaching artifacts. No frame meets criteria for preservation.",
+      "sheet": "keyframe_selection\\sheets\\20220506-产品经理进阶三大关\\20220506-产品经理进阶三大关_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea62e9bd-b7b0-4448-96dc-7858c0490bd3",
+  "path": "shuzishengming-kazike-mentor-lineage",
+  "path_key": "shuzishengming-kazike-mentor-lineage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

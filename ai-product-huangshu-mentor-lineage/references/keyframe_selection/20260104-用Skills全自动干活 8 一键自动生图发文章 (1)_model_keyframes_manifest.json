@@ -1,0 +1,19 @@
+{
+  "media": "20260104-用Skills全自动干活 8 一键自动生图发文章 (1)",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20260104-用Skills全自动干活 8 一键自动生图发文章 (1).mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20260104-用Skills全自动干活 8 一键自动生图发文章 (1)",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260104-用Skills全自动干活 8 一键自动生图发文章 (1)",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only a讲师's face and a blurry UI, with no clear teaching artifact or visual state change. It fails to meet selection criteria for preserving key instructional content.",
+      "sheet": "keyframe_selection\\sheets\\20260104-用Skills全自动干活 8 一键自动生图发文章 (1)\\20260104-用Skills全自动干活 8 一键自动生图发文章 (1)_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

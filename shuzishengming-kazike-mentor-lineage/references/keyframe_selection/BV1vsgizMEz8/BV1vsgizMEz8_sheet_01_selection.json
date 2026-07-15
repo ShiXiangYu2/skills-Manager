@@ -1,0 +1,60 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a live news segment with on-screen text and a visible presenter, likely contextualizing the topic; provides a clear visual artifact for source-backed explanation and verification.",
+      "keywords": [
+        "news",
+        "presenter",
+        "on-screen text"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a Minecraft gameplay demonstration with visible FPS and interface elements, indicating a technical or demo moment with usable visual data for later review.",
+      "keywords": [
+        "Minecraft",
+        "gameplay",
+        "demo",
+        "UI"
+      ]
+    },
+    {
+      "frame": "frame_0004.jpg",
+      "timestamp": "03:00",
+      "reason": "Contains a vivid, artistic visual (flamingo against red sky) with overlaid text about fan engagement, potentially illustrating a key example or metaphor in the lesson.",
+      "keywords": [
+        "visual metaphor",
+        "artistic image",
+        "engagement stats"
+      ]
+    },
+    {
+      "frame": "frame_0006.jpg",
+      "timestamp": "05:00",
+      "reason": "Features a cinematic scene with dramatic visuals and overlaid text, possibly an example of high-impact visual content or storytelling technique, useful for analysis.",
+      "keywords": [
+        "cinematic",
+        "storytelling",
+        "visual example"
+      ]
+    },
+    {
+      "frame": "frame_0007.jpg",
+      "timestamp": "06:00",
+      "reason": "Displays a structured document or course material with Chinese text, headings, and bullet points, ideal for content distillation and reference.",
+      "keywords": [
+        "document",
+        "course material",
+        "text content",
+        "structured info"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg is a blank title slide with minimal content; other frames are either brief transitions, low-information, or lack clear teaching artifacts. Only 5 frames were selected to meet the 8-frame limit while prioritizing the most informative and visually distinct content.",
+  "sheet": "keyframe_selection\\sheets\\BV1vsgizMEz8\\BV1vsgizMEz8_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

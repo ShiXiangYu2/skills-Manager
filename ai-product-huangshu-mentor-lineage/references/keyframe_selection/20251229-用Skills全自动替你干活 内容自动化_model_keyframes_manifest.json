@@ -1,0 +1,19 @@
+{
+  "media": "20251229-用Skills全自动替你干活 内容自动化",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20251229-用Skills全自动替你干活 内容自动化.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 4,
+  "candidate_dir": "keyframe_candidates\\20251229-用Skills全自动替你干活 内容自动化",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251229-用Skills全自动替你干活 内容自动化",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames appear to be lecture visuals with minimal teaching artifacts or visual state changes. They contain presenter notes or UI elements, but no distinct slide, diagram, formula, or significant visual change that meets the selection criteria. Also, they are not clear teaching artifacts compared to nearby frames.",
+      "sheet": "keyframe_selection\\sheets\\20251229-用Skills全自动替你干活 内容自动化\\20251229-用Skills全自动替你干活 内容自动化_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

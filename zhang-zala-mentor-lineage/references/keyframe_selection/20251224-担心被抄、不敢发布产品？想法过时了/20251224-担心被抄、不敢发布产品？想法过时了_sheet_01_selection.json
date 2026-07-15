@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame shows a complete conceptual diagram illustrating a feedback loop between '洞察' (insight), '想法' (idea), '产品' (product), and '发布' (release), with clear labeling and arrows indicating relationships. It is a core teaching artifact that materializes a key concept and is uniquely preserved at this timestamp.",
+      "keywords": [
+        "diagram",
+        "feedback loop",
+        "insight",
+        "product",
+        "conceptual model"
+      ]
+    }
+  ],
+  "dropped_summary": "No other frames are visible in the contact sheet. The single frame presented is the only candidate and meets all selection criteria as a complete, clear teaching artifact.",
+  "sheet": "keyframe_selection\\sheets\\20251224-担心被抄、不敢发布产品？想法过时了\\20251224-担心被抄、不敢发布产品？想法过时了_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

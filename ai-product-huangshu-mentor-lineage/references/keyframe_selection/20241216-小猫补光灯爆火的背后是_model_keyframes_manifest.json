@@ -1,0 +1,19 @@
+{
+  "media": "20241216-小猫补光灯爆火的背后是",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20241216-小猫补光灯爆火的背后是.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20241216-小猫补光灯爆火的背后是",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20241216-小猫补光灯爆火的背后是",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame contains only the lecturer and on-screen text with no teaching artifacts, visual states, or diagrams to preserve as evidence.",
+      "sheet": "keyframe_selection\\sheets\\20241216-小猫补光灯爆火的背后是\\20241216-小猫补光灯爆火的背后是_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

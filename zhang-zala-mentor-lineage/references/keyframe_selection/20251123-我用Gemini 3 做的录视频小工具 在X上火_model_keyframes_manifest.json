@@ -1,0 +1,19 @@
+{
+  "media": "20251123-我用Gemini 3 做的录视频小工具 在X上火",
+  "video_path": "D:\\视频下载\\张咋啦\\20251123-我用Gemini 3 做的录视频小工具 在X上火.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 1,
+  "candidate_dir": "keyframe_candidates\\20251123-我用Gemini 3 做的录视频小工具 在X上火",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20251123-我用Gemini 3 做的录视频小工具 在X上火",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "The frame displays a social media post by Zara Zhang about Sparks, a video recording tool with AI features. It contains no course-specific teaching artifacts (e.g., slides, diagrams, formulas, UI elements, or demos). The content is promotional and external, not part of a course video. The frame does not meet criteria for preservation as evidence for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20251123-我用Gemini 3 做的录视频小工具 在X上火\\20251123-我用Gemini 3 做的录视频小工具 在X上火_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

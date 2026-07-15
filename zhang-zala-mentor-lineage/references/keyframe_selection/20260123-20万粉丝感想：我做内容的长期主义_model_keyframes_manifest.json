@@ -1,0 +1,19 @@
+{
+  "media": "20260123-20万粉丝感想：我做内容的长期主义",
+  "video_path": "D:\\视频下载\\张咋啦\\20260123-20万粉丝感想：我做内容的长期主义.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20260123-20万粉丝感想：我做内容的长期主义",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20260123-20万粉丝感想：我做内容的长期主义",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames are lecturer-only with no visible slides, boards, documents, UI, diagrams, tables, formulas, or demos. The frames contain no material teaching artifacts or visual changes worth preserving for course distillation.",
+      "sheet": "keyframe_selection\\sheets\\20260123-20万粉丝感想：我做内容的长期主义\\20260123-20万粉丝感想：我做内容的长期主义_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

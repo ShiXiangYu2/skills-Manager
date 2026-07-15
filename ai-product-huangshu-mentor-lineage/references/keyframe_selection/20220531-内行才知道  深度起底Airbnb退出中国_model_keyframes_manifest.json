@@ -1,0 +1,19 @@
+{
+  "media": "20220531-内行才知道  深度起底Airbnb退出中国",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220531-内行才知道  深度起底Airbnb退出中国.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\20220531-内行才知道  深度起底Airbnb退出中国",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220531-内行才知道  深度起底Airbnb退出中国",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames show the lecturer speaking without any visible slide, board, document, UI, diagram, table, formula, demo, or visual state changes. They are lecturer-only frames with no teaching artifacts to preserve.",
+      "sheet": "keyframe_selection\\sheets\\20220531-内行才知道  深度起底Airbnb退出中国\\20220531-内行才知道  深度起底Airbnb退出中国_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

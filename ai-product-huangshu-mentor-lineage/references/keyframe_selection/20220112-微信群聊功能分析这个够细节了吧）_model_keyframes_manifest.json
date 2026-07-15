@@ -1,0 +1,19 @@
+{
+  "media": "20220112-微信群聊功能分析这个够细节了吧）",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220112-微信群聊功能分析这个够细节了吧）.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220112-微信群聊功能分析这个够细节了吧）",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220112-微信群聊功能分析这个够细节了吧）",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clearly visible teaching artifacts (slides, boards, diagrams, UI, tables, formulas, or visual state changes) that meet the selection criteria. Both frames show the lecturer speaking with overlaid text, but no complete or materially significant teaching content is visible on the whiteboard or screen.",
+      "sheet": "keyframe_selection\\sheets\\20220112-微信群聊功能分析这个够细节了吧）\\20220112-微信群聊功能分析这个够细节了吧）_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

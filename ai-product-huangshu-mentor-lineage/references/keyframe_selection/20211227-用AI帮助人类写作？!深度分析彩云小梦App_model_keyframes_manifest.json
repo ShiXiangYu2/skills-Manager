@@ -1,0 +1,19 @@
+{
+  "media": "20211227-用AI帮助人类写作？!深度分析彩云小梦App",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20211227-用AI帮助人类写作？!深度分析彩云小梦App.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20211227-用AI帮助人类写作？!深度分析彩云小梦App",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20211227-用AI帮助人类写作？!深度分析彩云小梦App",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "No frames contain clear teaching artifacts (slides, diagrams, formulas, etc.) or visual state changes. Both frames show the lecturer speaking in front of a whiteboard with partially obscured content, and no complete or clearer teaching artifact is visible. They are lecturer-only frames without sufficient information for source-backed explanation.",
+      "sheet": "keyframe_selection\\sheets\\20211227-用AI帮助人类写作？!深度分析彩云小梦App\\20211227-用AI帮助人类写作？!深度分析彩云小梦App_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

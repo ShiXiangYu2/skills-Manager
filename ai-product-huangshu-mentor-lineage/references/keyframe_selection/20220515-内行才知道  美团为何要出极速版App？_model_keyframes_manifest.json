@@ -1,0 +1,19 @@
+{
+  "media": "20220515-内行才知道  美团为何要出极速版App？",
+  "video_path": "D:\\视频下载\\AI产品黄叔\\20220515-内行才知道  美团为何要出极速版App？.mp4",
+  "candidate_interval_seconds": 120,
+  "candidate_count": 2,
+  "candidate_dir": "keyframe_candidates\\20220515-内行才知道  美团为何要出极速版App？",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\20220515-内行才知道  美团为何要出极速版App？",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "All frames appear to be identical duplicates of the same introductory or branding slide, lacking unique teaching artifacts or visual state changes. They are not useful for source-backed explanation, review, or verification.",
+      "sheet": "keyframe_selection\\sheets\\20220515-内行才知道  美团为何要出极速版App？\\20220515-内行才知道  美团为何要出极速版App？_sheet_01.jpg",
+      "success": true,
+      "error": null
+    }
+  ]
+}

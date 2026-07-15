@@ -1,0 +1,20 @@
+{
+  "media": "BV1LfBaB2ESB",
+  "video_path": "D:\\视频下载\\数字生命卡兹克\\BV1LfBaB2ESB\\20251226-你跟我说这是家用的？.mp4",
+  "candidate_interval_seconds": 60,
+  "candidate_count": 5,
+  "candidate_dir": "keyframe_candidates\\BV1LfBaB2ESB",
+  "selected_count": 0,
+  "selected_dir": "keyframes_model_selected\\BV1LfBaB2ESB",
+  "selected": [],
+  "sheets": [
+    {
+      "selected": [],
+      "dropped_summary": "model returned non-json content",
+      "raw": "",
+      "sheet": "keyframe_selection\\sheets\\BV1LfBaB2ESB\\BV1LfBaB2ESB_sheet_01.jpg",
+      "success": false,
+      "error": "HTTPSConnectionPool(host='api.siliconflow.cn', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2406)')))"
+    }
+  ]
+}

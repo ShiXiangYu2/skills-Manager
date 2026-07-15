@@ -1,0 +1,31 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "This frame captures a complete slide titled 'How 700M People Use ChatGPT' with clear visual branding and content, serving as a key teaching artifact introducing the core topic. It is the first presented visual material and provides a clear, source-backed basis for explanation.",
+      "keywords": [
+        "slide",
+        "title",
+        "ChatGPT",
+        "data"
+      ]
+    },
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "This frame shows the NotebookLM Studio interface with a clear view of available content types (Audio Overview, Video Overview, Mind Map, etc.) and a list of related sources. It is a crucial visual state for understanding the platform's structure and the materials being discussed, enabling verification of the tools and resources available.",
+      "keywords": [
+        "UI",
+        "NotebookLM",
+        "Studio",
+        "resources",
+        "platform"
+      ]
+    }
+  ],
+  "dropped_summary": "Additional frames were dropped as they are either lecturer-only (e.g., face-only shots), identical or nearly identical to the selected frames, or show no material visual artifact beyond the interface. No additional slides, diagrams, or content changes were observed in the provided tiles.",
+  "sheet": "keyframe_selection\\sheets\\20250921-NotebookLM的5个让我眼前一亮的新功能\\20250921-NotebookLM的5个让我眼前一亮的新功能_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

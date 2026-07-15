@@ -1,0 +1,28 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0001.jpg",
+      "timestamp": "00:00",
+      "reason": "Displays a UI screenshot with Korean text and structured content, likely from a digital platform or app interface relevant to the topic. It's a clear, complete visual artifact suitable for source-backed explanation.",
+      "keywords": [
+        "UI",
+        "screenshot",
+        "digital platform"
+      ]
+    },
+    {
+      "frame": "frame_0003.jpg",
+      "timestamp": "02:00",
+      "reason": "Shows a green screen with multiple overlapping software UIs and text elements, indicating a screen-sharing demo or multitasking environment. This is a material visual state change capturing a teaching artifact.",
+      "keywords": [
+        "demo",
+        "screen share",
+        "UI overlay"
+      ]
+    }
+  ],
+  "dropped_summary": "Frame 00:01 is blurred and obstructed with faint text, offering no clear visual artifact. Frame 00:03 features a lecturer-only shot with no teaching content; frame 00:04 is another lecturer-only shot with a patterned background. All other frames are low-information, duplicate, or obscured by text overlays, failing to meet criteria for preserving evidence.",
+  "sheet": "keyframe_selection\\sheets\\BV1YrHfeiEFo\\BV1YrHfeiEFo_sheet_01.jpg",
+  "success": true,
+  "error": null
+}

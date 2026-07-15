@@ -1,0 +1,20 @@
+{
+  "selected": [
+    {
+      "frame": "frame_0002.jpg",
+      "timestamp": "00:02",
+      "reason": "Captures a clear, complete text-based explanation of KV cache, including definition, function, analogy, and real-world impact. This frame contains a substantive teaching artifact ideal for distillation and verification.",
+      "keywords": [
+        "KV cache",
+        "Key-Value cache",
+        "memory system",
+        "AI models",
+        "text explanation"
+      ]
+    }
+  ],
+  "dropped_summary": "frame_0001.jpg dropped as it shows a lecturer and a chat interface with low-information text ('Granola的特点是') and no visible teaching artifact. No other frames provided for analysis.",
+  "sheet": "keyframe_selection\\sheets\\20250323-演示：我如何用YouTube+AI工具 学习AI\\20250323-演示：我如何用YouTube+AI工具 学习AI_sheet_01.jpg",
+  "success": true,
+  "error": null
+}
